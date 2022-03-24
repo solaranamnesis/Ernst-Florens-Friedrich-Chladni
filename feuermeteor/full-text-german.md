@@ -1,0 +1,18 @@
+# Ueber Feuer-Meteore,
+
+# und über die mit demselben herabgefallenen Massen,
+
+## von Ernst Florens Friedrich Chladni,
+
+### der Philosophie und Rechte Doctor, der kaiserl. Akademie der Wissenschaften zu St. Petersburg, der königl. Akademien zu Berlin, München und Turin, der königl. Soctetäten der Wissenschaften zu Göttingen und zu Haarlem, der Gesellschaft naturforschender Freunde zu Berlin, der philomattschen zu Paris, der Grossherzogl. mineralogischen zu Jena, der Akademie der Künste und Wissenschaften zu Livorno, der Gesellschaft für Naturfunde zu Rotterdam, der Hamburgischen zu Veförderung der Künste und nüglichen Gewerbe, der naturforschenden Gesellschaft zu Halle, der naturhistorischen zu Hannover, und noch einiger andern thiels Mitgliede, thiels Correspondenten.
+
+## Wien 1819.
+
+### Im Verlage den J. G. Heubner.
+
+## Vorrede.
+
+Da das, herabfallen meteorischer Massen, und der kosmische Ursprung derselben, durch mich zuerst im Jahre 1794 unter den Physikern zur Sprache gebracht worden ist, so haben späterhin Mehrere den Wunsch geäussert, dass ich disen Gegenstand mit Benutzung der neuern Beobachtungen und Untersuchungen mehr im Zusammenhange bearbeiten möchte. Einen besondern Werth für mich hatte hierbei die Aussorderung von Seiten des Herrn Doctor Olbers, in der monathlichen Correspondenz des Freiherrn von Zach, Februar 1803, und aus diser in Gilberts Annalen der Physik, B. XIV, S. 45. Recht gern hätte ich früher diesem Wunsche Genüge geleistet, aber thiels war ich mit andern Dingen beschäftigt, die ich doch auch nicht vernachlässigen wollte, oder durste, (z. B. mit alle dem, was zur Ausarbeitung meiner Neuen Benträge zue Akustik nöthig war, mit Vervollkommnung meines Clavicylinders, und mit Untersuchungen über die verschiedenen möglichen Bauarten solcher Instrumente); thiels auch hatte ich hierzu den weiten noch nicht genug Beobachtungen zu sammeln Gelegenheit gehabt. Ich liess es also vor der Hand daben bewenden, von Zeit zu Zeit Beiträge in Gilberts Annalen und in andern wissenschaftlichen Zeitschriften zu liefern. Erst im Mai 1816 fasste ich den festen Entschluss, etwass Ganzes hierüber auszuarbeiten, und dieses bis zur geschehenen Ausführung als mein
+
+...
+
