@@ -28,5 +28,94 @@ Geschrieben im September 1819.
 
 E. F. F. Chladni.
 
-...
+Uebersicht des Inhalts.
 
+Erste Abtheilung. Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.
+
+1\. Die Alten kannten schon diese Art von Naturerscheinungen.
+
+2\. Nachheriger Unglaube, der bis zur Verstockung ging, mit wenigen Ausnahmen.
+
+3\. Der Verfasser war in neuerer Zeit der erste, der diesen Unglauben bekämpfte.
+
+4\. Veranlassung dazu.
+
+5\. Fortdauer des Unglaubens, und Anfechtungen, die der Verfasser sich musste gefallen lassen.
+
+6\. Einige Ausnahmen in Deutschland.
+
+7\. Untersuchungen in England.
+
+8\. Etwas späterer Glaube, und weitere Untersuchungen in Frankreich.
+
+9\. Endliche allgemeine Anerkennung.
+
+Zweite Abtheilung. Allgemeine Bemerkungen über Feuerkugeln, und über de herabgefallenen Massen.
+
+1\. Allgemeiner Vegriff von dieser Art der Naturerscheinungen.
+
+2\. Anfang der Erscheinung eines solchen Meteors.
+
+3\. Beobachtete Höhe der Feuerkugeln.
+
+4\. Beschaffenheit der Bahn. Achsendrehung. Bogensprünge. (Nebst einem spätern Nachtrage zu Ende dieser Abtheilung.)
+
+5\. Geschwindigkeit der Bewegung.
+
+6\. Grösse der Feuerkugeln.
+
+7\. Gestalt dieser Meteore.
+
+8\. Licht und Farben derselben.
+
+9\. Brennen, Rauch und Dampf.
+
+10\. Zerplatzung der Feuerkugeln, mit Erschütterung und Getöse.
+
+11\. Dauer der Erscheinung.
+
+12\. Niederfallen der Massen, welche entweder Meteor-Steine, oder Gediegeneisenmassen, oder auch staubartige, oder weiche Substanzen sind.
+
+13\. Beschaffenheit der Meteor-Steine im Allgemeinen.
+
+14\. Bestandtheile derselben.
+
+15\. Grösse und Quantität der gefallenen Steine.
+
+16\. Gestalt der Meteor-Steine.
+
+17\. Rinde derselben.
+
+18\. Beschaffenheit der Steinart.
+
+19\. Meteorische Gediegeneisen-Massen.
+
+20\. Niederfälle von staubartigen oder weichen Substanzen in trockner oder feuchter Gestalt.
+
+21\. Ueber noch manche andere Dinge, die herabgefallen sein sollen.
+
+22\. Die Feuerkugeln und die Niederfälle meteorischer Massen sind von alle dem, was sich auf unsere Erde bezieht, unabhängig.
+
+23\. Unabhängigkeit von Jahreszeiten.
+
+24\. Unabhängigkeit von Tageszeiten.
+
+25\. Unabhängigkeit von den Weltgegenden.
+
+26\. Unabhängigkeit von der geographischen Lage.
+
+27\. Unabhängigkeit vom Wetter.
+
+28\. Unabhängigkeit von Perioden.
+
+29\. Ueer Schaden, der durch solche Meteore ist verursacht worden.
+
+30\. Vergebliche Bemühungen des Verfassers, verschiedene ältere Meteor-Massen aufzufinden.
+
+31\. Uebereinkunst der Sternschnuppen mit den Feuerkugeln. (Nebst einem spätern Nachtrage zu Ende der siebenten Abtheilung.)
+
+32\. Verzeichniss der Sammlung von Meteor-Sustanzen, welche der Verfasser gegenwärtig besitzt. (Nebst einem spätern Nachtrage zu Ende der sechsten Abtheilung.)
+
+33\. Wahrscheinlichkeit eines häufigen Niederfallens meteorischer Massen auf unsern Welkörper. (Späterer Nachtrag zu 4.)
+
+...
