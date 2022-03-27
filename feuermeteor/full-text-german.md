@@ -118,4 +118,52 @@ Zweite Abtheilung. Allgemeine Bemerkungen über Feuerkugeln, und über de herabg
 
 33\. Wahrscheinlichkeit eines häufigen Niederfallens meteorischer Massen auf unsern Welkörper. (Späterer Nachtrag zu 4.)
 
+Dritte Abtheilung. Nachrichten von beobachteten Feuerkugeln, und zwar sowohl von solchen, deren Massen man habhaft geworden ist, als auch von andern, in chronologischer Ordnung.
+
+1\. Vorerinnerungen.
+
+2\. Niederfälle von Stein- und Eisenmassen, vor unserer Zeitrechnung.
+
+A\. Wo sich die Zeit des Falles mehr oder weniger genau angeben lässt.
+
+? Ungefähr 1478 Jahre vor Christi Geburt, ein Stein in Creta.
+
+((Die Erzählung von herabgefallenen Steinen im Buche Josua scheint von Hagel zu verstehen zu sein.))
+
+? 1403 vor unserer Zeitrechnung, vielleicht eine Eisenmasse auf dem Ida.
+
+1200, Steine bei Orchomenos.
+
+? 705 oder 704, das Ancyle, wahrscheinlich eine Esisenmasse.
+
+654, Steine auf dem Albanischen Berge.
+
+644, in China.
+
+465, ein grosser Stein bei Aegos-Potamos.
+
+Nicht lange vorher oder hachher, ein Stein bei Theben.
+
+((In Piceno, vielleicht nur Hagel.))
+
+211, ein Stein in China.
+
+206 oder 205, Steine, wahrscheinlich in Italien.
+
+192, ein Stein in China.
+
+176, ein Stein in den See des Mars, in agro Crustumino.
+
+90 oder 89, Steine zu Rom.
+
+89, Steine in China.
+
+56 oder 52, Eisen in Lucanien.
+
+((Bei Acilla vielleicht nur Hagel.))
+
+38, 29, 22, 19, 12, 9, 6, 6, Steine in China.
+
+B\. Wo sich die Zeit des Falles nicht bestimmen lässt.
+
 ...
