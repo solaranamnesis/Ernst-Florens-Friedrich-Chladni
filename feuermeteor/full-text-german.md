@@ -334,4 +334,172 @@ Wahrscheinlich in demselben Jahrhunderte ein Stein im Königreiche Valencia in S
 
 1654, grosser Steinfall auf der Insel Fünen.
 
+Ungefähr nach der Mitte dieses Jahrhunderts, ein grosser Stein in Warschau.
+
+Dessgleichen ein kleiner Stein in Mailand.
+
+((Eine unglaubliche Nachricht von gefallenen Steinen in Schiras, 1667, nebst zwei ähnlichen Nachrichten.))
+
+1668, grosser Steinfall bei Verona.
+
+1671, Steine in der Ortenau in Schwaben.
+
+? 1673, bei Dietlingen im Badenschen.
+
+1674, Steine im Canton Glarus.
+
+Zwischen 1675 und 1677, ein Stein auf ein Schiff beider Insel Copinsha.
+
+1677, Steine in Ermendorf bei Grossenhain.
+
+1680, in London.
+
+1697, bei Siena.
+
+1706, einer bei Larissa in Griechenland.
+
+1722, Steine bei dem Kloster Schefftlar im Freisingischen.
+
+1723, bei Plescowitz in Böhmen.
+
+((Ein angeblicher Niederfall bei Lessai ist nur ein Missverständniss.))
+
+1738, Steine in der Grafschaft Avignon.
+
+1740, bei Hasargrad oder Rasgrad an der Donau.
+
+((Ein angeblich in Grönland gefallener Stein war ein herabgerolltes Felsenstück.))
+
+1750, ein Stein bei Coutances.
+
+1751, Eisenmassen bei Agram.
+
+1753, viele Steine bei Tabor in Böhmen.
+
+1753, Steine bei Laponas in Bresse.
+
+1755, ein Stein bei Terranova in Calabrien.
+
+1766, einer bei Alboreto, nicht weit von Modena.
+
+? 1766, einer zu Novellara.
+
+1768, ein Stein bei Luce.
+
+1768, einer bei Maurkirchen im Innviertel.
+
+1773, ein Stein bei Sigena in Aragon.
+
+1775, einer bei Rodach in Koburgischen.
+
+1775 oder 1776, Steine bei Obruteza in Volhynien.
+
+1776 oder 1777, bei Fabbriano.
+
+1779, ei Pettiswood in Irland.
+
+1780, bei Beefton in England.
+
+1782, ein grosser Stein bei Turin.
+
+1785, Steinfall im Eichstädtischen.
+
+1787, im Gouvernement von Charkow.
+
+1790, grosser Steinfall bei Barbotan, u. s. w.
+
+1791, Steine bei Castel-Berardenga in Toscana.
+
+1791, bei Menabilly in Cornwallis.
+
+1794, sehr viele Steine bei Siena.
+
+1795, Steine in Ceylon.
+
+1795, ein Stein in Yorkshire.
+
+1796, bei Belaja Zerkwa im südlichen Russland.
+
+1796, einer in Portugal.
+
+1798, einer bei Sales im Rhone-Departement.
+
+1798, Steine bei Benares in Bengalen.
+
+1801, auf der ile des tonneliers.
+
+1802, in den Schottischen Hochlanden.
+
+1803, grosser Steinfall bei L'Aigle.
+
+1803, Steinfall bei East-Norton in England.
+
+1803, ein Stein bei Apt, im Departement de Vaucluse.
+
+1803, einer bei Eggenfelde im Innviertel.
+
+1804, bei High-Possil in Schottland.
+
+Ein Stein in Dorbrecht.
+
+1805, Steine bei Doroninsk in Sibirien.
+
+1805, zu Constantinopel.
+
+1806, Steine, von andern verschieden, bei Alais, im Departement du Gard.
+
+1806, ein Stein bei Basingstoke in Hantshire.
+
+1807, ein grosser Stein bei Timochin im Gouvernement von Smolensk.
+
+1807, viele Steine bei Weston in Connecticut.
+
+1808, Steine im Parmesanischen.
+
+1808, grosser Steinfall bei Stannern in Mähren.
+
+1808, Steine bei Lissa in Böhmen.
+
+? 1809, bei Nord-Amerika auf ein Schiff und in das Meer.
+
+1810, in Caswell-County in Neu-Connecticut.
+
+1810, bei Shabad in Indien.
+
+1810, in der Grafschaft Tipperary, in Irland.
+
+1810, in der Gegend von Charsonville bei Orleans.
+
+1810, ein Stein im Gouvernement von Poltawa.
+
+1811, Steine bei Berlanguillas in Spanien.
+
+1812, bei Toulouse.
+
+1812, bei Erxleben, zwischen Magdeburg und Helmstädt.
+
+1812, bei Chantonay im Departement de la Vendee.
+
+1813, Steine bei Cutro in Calabrien, mit grossem Staubniederfalle.
+
+? 1813, Steine bei Malpas, nicht weit von Chester.
+
+1813, in der Grafschaft Limerick in Irland.
+
+1814, ein Stein bei Bachmut in Russland.
+
+1814, Steine bei Sawotaipola, nicht weit von Friedrichshamm, in Finnland.
+
+1814, bei Agen, im Departement du Lot et Garonne.
+
+1814, bei Doab in Indien.
+
+1815, bei Chassigny nicht weit von Langres.
+
+1816, bei Glastonbury in Sommersetshire.
+
+1818, einer im Dorfe Slobodka, im Gouvernement von Smolensk.
+
+(Nacherinnerung zu dieser und zu der vorigen Abtheilung, die in China beobachteten Feuer-Meteore und Steinfälle betreffend.)
+
 ...
