@@ -166,4 +166,172 @@ Nicht lange vorher oder hachher, ein Stein bei Theben.
 
 B\. Wo sich die Zeit des Falles nicht bestimmen lässt.
 
+Der Stein aus Pessinus in Phrygien.
+
+Der Elagabal zu Emisa in Syrien.
+
+Ein Stein zu Abydos.
+
+Einer zu Cassandria oder Potidaea.
+
+? Wahrscheinlich das Symbol der Diana zu Ephesus.
+
+? Wahrscheinlich der Stein in der Caaba zu Mekka, und noch einer, der dort aufbewahrt wird.
+
+3\. Niederfälle von Stein- und Eisenmassen, nach dem Anfange unserer Zeitrechnung.
+
+In der ersten Hälfte des ersten Jahrhunderts ein Stein in Vocontiorum agro.
+
+In den Jahren 2, 106, 154, 310 und 333, Steinfälle in China.
+
+((Ein angeblicher Niederfall im Jahre 416 ist ein Missverständniss.))
+
+452, Steine in Thracien.
+
+Späterhin ein Stein bei Emessa in Syrien, und auch einige auf dem Berge Libanus.
+
+? Vielleicht um 570, Steine bei Beder in Arabien.
+
+616, Steine in China.
+
+? 648, ein grosser Stein zu Constantinopel.
+
+(Einige nicht einzuschaltende angebliche Niederfälle.)
+
+? 839, Steine in Japan.
+
+852, ein Stein in Tabaristan.
+
+856, Steine in Egypten.
+
+? 885, Steine in Japan.
+
+897, Steine bei Kufah.
+
+951, ein grosser Stein bei Augsburg.
+
+998, Steine bei Magdeburg.
+
+Bald nach 1009, eine Eisenmasse bei Dschordschan.
+
+((Ein angeblich bei Cordova gefallener Stein scheint eine Verwechselung mit der vorigen Begebenheit zu sein.))
+
+1021, Steine in Afrika.
+
+((Eine fabelhafte Nachricht von einem bei Jerusalem gefallenen Steine.))
+
+1057, Steine in Corea.
+
+1112, Steine oder vielleicht Eisenmassen bei Aquileja.
+
+1135 oder 1136, ein Stein zu Oldisleben in Thüringen.
+
+? 1138, vielleicht ein Steinfall zu Mosul.
+
+1164, Eisen im Meissnischen.
+
+((Einige Ereignisse, die nicht scheinen unter die Steinfälle zu gehören.))
+
+1249, Steine bei Quedlinburg und an andern Orten.
+
+? In demselben Jahrhunderte vielleicht ein Stein in Würzburg.
+
+Zwischen 1251 und 1360, Steine bei Welikoi-Ustiug.
+
+1280, eine Stein- oder Eisenmasse bei Alexandria in Egypten.
+
+1304, viele Steine oder Eisenmasse bei Friedland oder Friedeburg.
+
+? 1328, vielleicht Steine in Mortahiah und Dakhaliah.
+
+? 1339, vielleicht Steine in Schlesien.
+
+? 1368, wahrscheinlich eine Eisenmasse im Oldenburgischen.
+
+1379, Steine zu Minden.
+
+1421, ein Stein auf der Insel Java.
+
+? 1438, viele leichte Steine bei Roa in Spanien.
+
+? Wahrscheinlich in demselben Jahrhunderte ein Stein bei Lucern.
+
+1491, ein Stein bei Rivolta de' bassi, nicht weit von Crema.
+
+1492, ein grosser Stein bei Ensisheim.
+
+1496, Steine bei Cesena und Forli.
+
+? Wahrscheinlich in demselben Jahrhunderte, oder nicht lange darnach, ein Stein bei Brüssel.
+
+((Verschiedene nicht einzuschaltende angeliche Steinfälle.))
+
+1511, grosser Steinfall bei Crema.
+
+1516, Steine in China.
+
+1520, Steine in Aragon, zwischen Oliva und Gandia.
+
+? 1528, Steine bei Augsburg.
+
+? 1540, ein grosser Stein in Limousin.
+
+Ungefähr zwischen 1540 und 1550, eine Eisenmasse im Walde bei Naunhof.
+
+Um die Mitte dieses Jahrhunderts, Eisen an mehrern Orten in Piemont.
+
+1552, viele Steine bei Schleusingen u. s. w.
+
+1559, Steine bei Miskolz in Ungarn.
+
+1561, Steine oder Eisen, bei Torgau und Eilenburg.
+
+((1564, ein angeblicher Steinfall zwischen Mecheln und Brüssel, scheint eine Erdichtung zu sein.))
+
+? 1572, vielleicht Steine bei Thorn.
+
+1580, grosser Steinfall bei Nörten, nicht weit von Göttingen.
+
+1581, ein Stein bei Niederreissen in Thüringen.
+
+1583, ein Stein bei Castrovillari in Abruzzo.
+
+1583, einer in Piemont.
+
+1596, Steine zu Crevalcote.
+
+Wahrscheinlich in demselben Jahrhunderte ein Stein im Königreiche Valencia in Spanien.
+
+1618, grosser Steinfall in Steyermark.
+
+1618, eine metallische Masse in Böhmen.
+
+1621, eine Eisenmasse bei Lahore in Indien.
+
+1622, ein Stein in Devonshire.
+
+1628, ein Stein bei Hatford in Berkshire.
+
+1634, Steine in der Grafschaft Charollois.
+
+? 1635, ein Stein bei Calce im Vicentinischen.
+
+1636, ein grosser Stein zwischen Sagan und Dubrow in Schlesien.
+
+1637, ein Stein auf dem Berge Vaisien in der Provence.
+
+1642, einer in Suffolk.
+
+1643 oder 1644, Steine auf ein Schiff im Ostindischen Meere.
+
+1647, ein Stein bei Zwickau.
+
+1647, ein Stein bei Stolzenau in Westphalen.
+
+? Zwischen 1647 und 1654, ein Stein im Ostindischen Meere.
+
+1650, ein Stein in Dordrecht.
+
+1654, grosser Steinfall auf der Insel Fünen.
+
 ...
