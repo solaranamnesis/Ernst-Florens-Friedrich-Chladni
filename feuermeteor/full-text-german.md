@@ -628,4 +628,120 @@ Um die Mitte des neunten Jahrhunderts blutrother Staub, wahrscheinlich einerlei 
 
 1718, gallertartige Materie, von einer Feuerkugel, auf der Insel Lethi.
 
+1719, Staubniederfall auf dem atlantischen Meere, mit Lichterscheinung.
+
+1721, rother Schlammregen um Stuttgard, mit einem Meteor.
+
+? Ein Stück Schwefel in England.
+
+1744, rother Regen zu Pier d'Arena bei Genova.
+
+1755, Niederfälle von schwarzem und rothem Staube an verschiedenen Orten.
+
+1763, rother Regen im Herzogthume Cleve, und bei Utrecht.
+
+? Eine schwammige Masse von Masse von einer Feuerkugel, bei Cobelnz, ohne Bestimmung der Zeit.
+
+1781, weisslicher Staub in Sicilien.
+
+1796, Niederfall eines bituminösen Stoffes von einer Feuerkugel, in der Ober-Lausitz.
+
+Späterhin eine gallertartige Masse, von einem Klumpen Feuer herabgefallen, bei Crefeld.
+
+1803, grosser Niederfall von rothem Staube und rothem Schnee in Italien.
+
+1809, rother Regen im Venezianischen.
+
+1810, rother Schnee bei Piacenza.
+
+1813, grosser Niederfall vonrothem Staube, nebst Meteor-Steinen, in Italien.
+
+1814, grosser Niederfall von schwarzem Staube, mit Feuererscheinung, bei Canada.
+
+1814, rothe Erde, im Thale von Oneglia.
+
+1814, Staub zugleich mit den in Doab gefallenen Steinen.
+
+? 1815, grosser Staubniederfall im südlichen ostindischen Meere.
+
+1816, rother Schnee im nördlichen Italien.
+
+Rother Schnee an der nördlichen Küste der Baffinsbay.
+
+Rother Schnee auf der Alpe Anceindaz in der Schweiz, am Fusse der Diablerets.
+
+(Späterer Nachtrag zu dem 32. der zweiten und zu der fünften Abtheilung; eine Antike aus Pompeii, die Meteor-Eisen zu sein scheint, betreffend.)
+
+Siebente Abtheilung. Ueber den Ursprung der herabgefallenen Massen.
+
+1\. Vormahlige Meinungen von dem, was Feuerkugeln wären.
+
+2\. Nachherige Meinungen von dem Ursprunge der herabgefallenen Massen.
+
+3\. Die herabfallenden Massen sind kosmisch, das ist, sie kommen aus dem allgemeinen Weltraume zu uns.
+
+4\. Das Dasein solcher im allgemeinen Weltraume sich bewegenden Massen, ist durch sehr viele beobachtungen erwiesen.
+
+5\. Diese Massen können Haufen von Ur-Materie sein, die vor ihrer Ankunst noch keinem grössern Weltkörper zugehört hatte, und scheinen von kometenartiger Beschaffenheit zu sein.
+
+6\. Sie können auch Trümmer eines zerstörten Weltkörpers sein.
+
+7\. Ein Ursprung aus Mond-Vulcanen ist zwar an sich nicht unmöglich, aber doch sehr unwahrscheinlich.
+
+8\. Die niedergefallenen Massen können schlechterdings nicht aus Bestandtheilen der Atmosphäre gebildet sein.
+
+9\. Sie können auch nicht von der Erde durch vulcanicsche Kräfte in die Höhe gehoben sein.
+
+(Späterer Nachtrag zu dem 31. der zweiten Abtheilung, die Beobachtungen der Sternschnuppen betreffend.)
+
+Als Anhang folgt ein Verzeichniss der im k. k. Naturalien-Cabinette zu Wien befindlichen meteorischen Stein- und Eisenmassen, vom Herrn Director von Schreibers.
+
+Berichtigungen und Verbesserungen.
+
+S. 11. Z. 13, anstatt 1812, ist zu lesen 1802.
+
+S. 78. Z. 8, von unten anstatt Grafen v. Schwarzburg, l. Fürsten v. Schwarzburg.
+
+S. 91. Z. 4, von oben, anstatt September, l. December. Auf derselben Seite ist einzuschalten: 1812, den 5. August bei Chantonay, über 1 1/2 Unze. 1813, den 10. Septemer, bei Limerik, ein kleines Stück.
+
+S. 93. Z. 2, anstatt Flusse der Diablerets, l. Fusse der Diablerets.
+
+S. 205. Z. 12, anstatt _tempestata_, l. tempestate.
+
+S. 226. Z. 2, muss das Comma vor dem Worte: scheinbar, stehen.
+
+S. 243. Z. 23, Nicorps wird von Mehreren Niort genannt.
+
+S. 247. Z. 18 und 19, anstatt _matrice virescente_, l. _matrici virescenti_.
+
+-- -- Z. 20, anstatt at l. ad.
+
+-- -- Z. 24, anstatt affirmant l. asserunt.
+
+S. 262. Z. 7 und 12, anstatt Kalkerde l. Talkerde.
+
+S. 276. in der Note Z. 3, anstatt der Merwede l. de Merwede.
+
+S. 278. Z. 17, anstatt herrühren l. herrührten.
+
+-- -- Z. 22, muss vor 1808 den 15. März ein * stehen.
+
+S. 315. Z. 11, anstatt Liniendurchschnitte l. Linein Durchschnitte.
+
+S. 355. in der Note, anstatt Proproduct l. Product.
+
+S. 364. Z. 2, von unten, anstatt _fulgore_ l. _fulgure_.
+
+S. 404. in der Note, Z. 13, anstatt Anmerkung l. Bemerkung.
+
+S. 405. Z. 5, anstatt bei welcher l. bei welchen.
+
+S. 413. Z. 6, von unten, anstatt schiefen l. schiefern.
+
+Die Besitzer oder Leser dieses Buches werden ersucht, besonders die auf S. 11, 91, 93, 262, und 315 bemerkten Fehler in berichtigen.
+
+Erste Abtheilung.
+
+Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.
+
 ...
