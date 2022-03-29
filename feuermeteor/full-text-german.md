@@ -502,4 +502,130 @@ Ein Stein in Dorbrecht.
 
 (Nacherinnerung zu dieser und zu der vorigen Abtheilung, die in China beobachteten Feuer-Meteore und Steinfälle betreffend.)
 
+Fünfte Abtheilung. Ueber Gediegeneisenmassen, die auch als meteorisch können angesehen werden, über deren Niederfallen aber keine eobachtungen vorhanden sind.
+
+I\. Allgemeine Bemerkungen über das Vorkommen des meteorischen Gediegeneisens, und über das Gefüge desselben.
+
+II\. Nickelhaltige Gediegeneisenmassen, von ästigem oder zelligem Gefüge, mit Ausfüllung der Zwischenräume mit Olivin, oder Peridot.
+
+Die in Siberien gefundene und durch Pallas bekannt gewordene Masse.
+
+? Ein Stück Gediegeneisen aus Böhmen.
+
+Ein Stück, welches bei Eibenstock in Sachsen ist gefunden worden.
+
+Ein Stück, angeblich aus Norwegen, im k. k. Naturalien-Cabinette zu Wien.
+
+Eine in Sachsen gefundene Masse, welche sich zu Gotha befindet.
+
+III\. Derbe nickelhaltige Eisenmassen, mit krystallinischem Gefüge.
+
+(Die bei Agram 1751 gefallene, ist die einzige vorhandene, deren Niederfallen ist beobachtet worden.)
+
+Eine zu Elbogen in Böhmen aufbewahrt gewesene Masse.
+
+Eine, die bei Lenarto in Ungarn ist gefunden worden.
+
+Eine Masse vom Vorgebirge der guten Hofnung.
+
+Mehrere grosse Massen am Senegal.
+
+In Mexico an verschiedenen Orten.
+
+? Eine in Honduras.
+
+Eine bei San Jago del Estero in Süd-Amerika, und noch eine nicht weit davon befindliche.
+
+Eine Masse in Brasilien, bei Bahia.
+
+Eine in Nord-Amerika bei Neu-Orleans gefundene Masse.
+
+Zwei Eisenmassen an der nördlichen Küste der Baffinsbay.
+
+IV\. Problematische Gediegeneisen-Massen, die keinen Nickel enthalten, und nicht von dem Gefüge, wie die vorigen sind, oder auch deren Beschaffenheit nicht genug bekannt ist, um über ihren Ursprung urtheilen zu können.
+
+Eine in Achen.
+
+Eine im Mailändischen bei Villa gefundene Masse.
+
+Eine von Grosskamsdorf, nicht weit von Saalfeld.
+
+Eine, so auf einem Berge bei Cilly, in Steyermark ist gefunden worden.
+
+Eine bei Bitburg, nicht weit von Trier, gefundene Masse.
+
+Eine von Florac im Departement de la Loire.
+
+Eine bei Leadhills gefundene Masse.
+
+? Ein grosses Felsenstück im ostlichen Theile von Asien.
+
+Sechste Abtheilung. Nachrichten von herabgefallenen staubartigen oder weichen Materien, in trockner oder feuchter Gestalt, in chronologischer Ordnung.
+
+Ungefähr um 473, grosser Niederfall von schwarzem Staube, um Constantinopel.
+
+642, Staub um Constantinopel, und anderwärts rother Schnee.
+
+743, Staubniederfall an mehreren Orten.
+
+Um die Mitte des neunten Jahrhunderts blutrother Staub, wahrscheinlich einerlei Begebenheit mit dem Falle einer dem Blute ähnlichen Substanz zu Balk, ungefähr um 860.
+
+869, dessgleichen zu Brixen, vielleicht, mit einer Veränderung des Datum, mit dem vorigen einerlei Meteor.
+
+929, zu Bagdad röthlicher Sand mit einer Feuererscheinung.
+
+1056, rother Schnee in Armenien.
+
+1110, Röthung des Sees Van in Armenien, durch eine hineingefallene Feuerkugel.
+
+1416, rother Regen in Böhmen.
+
+? Bei Lucern, wahrscheinlich in demselben Jahrhunderte, herabfall einer dem Blute ähnlichen Substanz, und eines Steines mit einem Feuer-Meteor.
+
+1501, sogenannter Blutregen an mehreren Orten.
+
+1543, rother Regen in Westphalen.
+
+1548, Herabfall einer Flüssigkeit, wie geronnen Blut, nach Erscheinung einer explodirenden Feuerkugel, in Thüringen oder im Mansfeldischen.
+
+1557, zu Schlage in Pommern, Niederfall einer Substanz wie geronnen Blut.
+
+1560 (?), rother Regen zu Löwen und Emden.
+
+1560, rother Regen zu Lillebonne, mit einem Feuer-Meteor, welches ein Pulver-Magazin anzündete.
+
+? 1582, Niederfall einer Substanz, wei Menschenhaare, mit sonderbarem Getöse, zu Rockhausen bei Erfurt.
+
+1586, bei Verden, eine rothe und schwärzliche Substanz, mit einem Feuer-Meteor.
+
+1623, rother Regen zu Strassburg.
+
+1637, schwarzer Staub im Archipelagus und in Syrien.
+
+1638, rother Regen bei Turnhout.
+
+1642, Schwefelklumpen bei Magdeburg, u. s. w.
+
+1643, sogenannter Blutregen zu Vaihingen und zu Weinsberg.
+
+1645, bei Herzogenbusch.
+
+1646, zu Brüssel.
+
+1652, zwischen Siena und Rom, eine schleimige Substanz von einer Sternschnuppe.
+
+? 1665, bei Laucha, Niederfall einer Substanz, wie blaue Seide.
+
+? 1665, schwefelartiger Staub in Norwegen.
+
+1678, rother Schnee bei Genova.
+
+? 1686, eine schwarze papierartige Substanz in Kurland.
+
+? 1689, rother Staub in Venedig, u. s. w.
+
+1711, rother Regen in Schonen.
+
+1718, gallertartige Materie, von einer Feuerkugel, auf der Insel Lethi.
+
 ...
