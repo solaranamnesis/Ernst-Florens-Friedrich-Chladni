@@ -744,4 +744,14 @@ Erste Abtheilung.
 
 Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.
 
+1\. Die Alten kannten schon diese Art von Naturerscheinungen.
+
+Schon in den älteren Zeiten zweifelte man nicht, dass bisweilen Stein- und Eisenmassen mit einem Feuer-Meteor vom Himmel fallen. Da es hier nicht die Absicht ist, diesen Gegenstand in antiquarischer Hinsicht genauer abzuhandeln, berufe ich mich desshalb auf die vierte Abtheilung, wo viele ältere Nachrichten von dergleichen Ereignissen angeführt werden. Bei den Greichen und Römern ward mit dergleichen Steinen mancher Aberglaube getrieben, indem man sie als Symbole der Götter ansah; indessen scheinen doch auch Manche bessere Begriffe davon gehabt zu haben. So scheint es z. B., dass Anaxagoras vor dem Falle eines grossen Steines bei Aegos Potamos schon gesagt habe, dass bisweilen solche Steine vom Himmel fallen; so hat auch Plutarch den Fall dieses Steines so gut beschrieben, als es in der damahligen Zeit zu verlangen war; so sagt auch Damascius (in _Photii bibliotheca graeca_, c. 242) ganz richtig, dass die _baetylia_ (Meteor-Steine) mit einer Feuerkugel herabgefallen sind, u. s. w. Auch die älteren Chinesen haben uns mehrere Nachrichten dieser Art mit historischer Treue, und ohne etwas Thörichtes einzumengen, überliefert. In dem mittleren Zeitalter haben uns besonders arabische Schriftsteller manche Nachrichten von solchen Ereignissen hinterlassen, ohne unrichtige Urtheile einzumengen; auch ist dieses in noch etwas späteren Zeiten von manchen Chroniken-Schreibern und einigen Andern* geschehen.
+
+*) So heisst z. B. in dem Buche _de meteoris_, welches dem Theophrastus Paracelsus zugeschrieben wird, S. III. der Basler-Ausgabe von 1569, 8.: _evidentissime constat, lapides naturales ex coelo decidisse pariter ac metalla, sed non aliud, quam ferrum, nec lapidis quam unica species_. Auch in der Schrift: _de Podagricis, lib. II._, sagt er, dass Steine vom Himmel fallen.
+
+2\. Nachheriger Unglaube, der bis zur Verstockung ging, mit wenigen Ausnahmen.
+
+Num kam aer eine Zeit, wo man mehrere Fortschritte in der Naturkunde machte, und jetzt glaubte man auf einmahl alles, was nicht zu einem selbstgemachten Leisten passte, wegwerfen und für Thorheit erklären zu müssen. Es ist fast unbegreiflich, wie durch die so sehr mit einander übereinstimmenden Nachrichten aus älteren und neueren Zeiten, von den mit einem Feuer-Meteore und mit vielem Getöse herabgefallenen Stein- und Eisenmassen, die Physiker nicht früher veranlasst worden sind, der Sache weiter nachzuforschen, und die vorhandenen Nachrichten gehörig mit einander zu vergleichen, da sie alsdann bei einer unbefangenen Ansicht gar bald sich würden genöthigt gesehen haben, das Niederfallen solcher Massen, die Erklärungsart sei, welche man wolle, doch wenigstens als eine historisch erwiesene Thatsache anzunehmen.
+
 ...
