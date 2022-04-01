@@ -766,7 +766,7 @@ Im 17ten Jahre der Regierung des Kaiser Leo Thrax, in der 10ten Indiction, und u
 
 *) Nicephorus Hieromonachus, der in diesem Werke den Novembermonath ausgearbeitet hat, sagt, vermuthlich ältern Nachrichten zufolge: ἅπας ὁ οὐρανὀς συννεφἠς γεγονὠς, τἠν συνηθητῶν νεφελῶν μελανἱκν εἰς πυρὡθη θἑαν μεταβαλὠν, ἐδὁκει τα πἁντα καταφλἑγειν... Τὀ δε κατερχὁμενον κὁνιςἦν μἑλαινα καἰ σφοδρὁτατα ζἑουσα καἰ παραπλἡσια τῇ καμινιαῖα αἰθἁλη καἰ πλἑιςη, ὧς ἑυρεθἡναι ὑπερἁνω τῆς γῆς καἰ τῶv κερἁμων ἐπιτεθετσα πλἑον ανδρικῆς σπιθαμῆς. Κατἑκαυσε δἐ καἰ κατἑφλεξε τἀ ἐκ τῆς γῆς ἀνἱοντα βοτἁνας τε καἰ φυτἀ.
 
-*) Die Stelle in dem _Menologium Graecorum_, wo gesagt wird, der Staub habe auf den Dächern gelegen   ist sehr ungeschickt übersetzt worden: _in hominis speciem excrevit_, anstatt: _ad hominis spithamam excrevit_.
+*) Die Stelle in dem _Menologium Graecorum_, wo gesagt wird, der Staub habe auf den Dächern gelegen ὧς ἀvδρὀς σπιθἁμη, ist sehr ungeschickt übersetzt worden: _in hominis speciem excrevit_, anstatt: _ad hominis spithamam excrevit_.
 
 Im 11ten Jahre der Regierung des Kaisers Constans II., also nach neuern chronologischen Bestimmungen ungefähr im Jahre 652,* ist wieder in der Gegend von Constantinopel Staub wie Regen gefallen, wodurch viel Schrecken bei allem Volke ist verbreitet worden. Theophanis Chronographia p. 286. Georg. Cedrenus in Hist. p. 431. Pauli Diaconi historia lib. 19, (ed. Basil. 1569. 8. p. 602). Nach Michael Glycas, P. IV. p. 276, soll es unter Heraclius geschehen sein. Wenn in der Armenischen Chronik von Matthäus Eretz (in den _Notices et Extraits de la bibliotheque du Roi_, tome IX) gesagt wird, es sei im 79sten Jahre der Armenischen Zeitrechnung rother Schnee gefallen, so ist es wahrscheinlich von demselben Ereignisse zu verstehen.
 
