@@ -28,7 +28,7 @@ Geschrieben im September 1819.
 
 E. F. F. Chladni.
 
-Uebersicht des Inhalts.
+## Uebersicht des Inhalts.
 
 Erste Abtheilung. Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.
 
@@ -740,7 +740,7 @@ S. 413. Z. 6, von unten, anstatt schiefen l. schiefern.
 
 Die Besitzer oder Leser dieses Buches werden ersucht, besonders die auf S. 11, 91, 93, 262, und 315 bemerkten Fehler in berichtigen.
 
-Erste Abtheilung.
+## Erste Abtheilung.
 
 Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.
 
@@ -756,7 +756,7 @@ Num kam aer eine Zeit, wo man mehrere Fortschritte in der Naturkunde machte, und
 
 ...
 
-Sechste Abtheilung.
+## Sechste Abtheilung.
 
 Nachrichten von herabgefallenen staubartigen oder weichen Materien, in trockner oder feuchter Gestalt, in chronologischer Ordnung.
 
