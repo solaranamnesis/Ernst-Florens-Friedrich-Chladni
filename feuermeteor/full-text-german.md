@@ -1,10 +1,10 @@
-# Ueber Feuer-Meteore,
+# Über Feuer-Meteore,
 
-# und über die mit demselben herabgefallenen Massen,
+# und über die mit denselben herabgefallenen Massen,
 
 ## von Ernst Florens Friedrich Chladni,
 
-### der Philosophie und Rechte Doctor, der kaiserl. Akademie der Wissenschaften zu St. Petersburg, der königl. Akademien zu Berlin, München und Turin, der königl. Soctetäten der Wissenschaften zu Göttingen und zu Haarlem, der Gesellschaft naturforschender Freunde zu Berlin, der philomattschen zu Paris, der Grossherzogl. mineralogischen zu Jena, der Akademie der Künste und Wissenschaften zu Livorno, der Gesellschaft für Naturfunde zu Rotterdam, der Hamburgischen zu Veförderung der Künste und nüglichen Gewerbe, der naturforschenden Gesellschaft zu Halle, der naturhistorischen zu Hannover, und noch einiger andern thiels Mitgliede, thiels Correspondenten.
+### der Philosophie und Rechte Doktor, der kaiserlich Akademie der Wissenschaften zu St. Petersburg, der königlich Akademien zu Berlin, München und Turin, der königlich Sozietäten der Wissenschaften zu Göttingen und zu Haarlem, der Gesellschaft naturforschender Freunde zu Berlin, der philomattschen zu Paris, der Großherzoglich mineralogischen zu Jena, der Akademie der Künste und Wissenschaften zu Livorno, der Gesellschaft für Naturfunde zu Rotterdam, der Hamburgischen zu Beförderung der Künste und nützlichen Gewerbe, der naturforschenden Gesellschaft zu Halle, der naturhistorischen zu Hannover, und noch einiger andern teils Mitgliede, teils Korrespondenten.
 
 ## Wien 1819.
 
@@ -12,23 +12,23 @@
 
 ## Vorrede.
 
-Da das, herabfallen meteorischer Massen, und der kosmische Ursprung derselben, durch mich zuerst im Jahre 1794 unter den Physikern zur Sprache gebracht worden ist, so haben späterhin Mehrere den Wunsch geäussert, dass ich disen Gegenstand mit Benutzung der neuern Beobachtungen und Untersuchungen mehr im Zusammenhange bearbeiten möchte. Einen besondern Werth für mich hatte hierbei die Aussorderung von Seiten des Herrn Doctor Olbers, in der monathlichen Correspondenz des Freiherrn von Zach, Februar 1803, und aus diser in Gilberts Annalen der Physik, B. XIV, S. 45. Recht gern hätte ich früher diesem Wunsche Genüge geleistet, aber thiels war ich mit andern Dingen beschäftigt, die ich doch auch nicht vernachlässigen wollte, oder durste, (z. B. mit alle dem, was zur Ausarbeitung meiner Neuen Benträge zue Akustik nöthig war, mit Vervollkommnung meines Clavicylinders, und mit Untersuchungen über die verschiedenen möglichen Bauarten solcher Instrumente); thiels auch hatte ich hierzu den weiten noch nicht genug Beobachtungen zu sammeln Gelegenheit gehabt. Ich liess es also vor der Hand daben bewenden, von Zeit zu Zeit Beiträge in Gilberts Annalen und in andern wissenschaftlichen Zeitschriften zu liefern. Erst im Mai 1816 fasste ich den festen Entschluss, etwass Ganzes hierüber auszuarbeiten, und dieses bis zur geschehenen Ausführung als mein Hauptbestreben anzusehen, wozu die Reise, welche ich mir vorgenommen hatte, mir sehr behülflich fein konnte und musste. Da nähmlich dieser Gegenstand unter die Dinge gehört, welche sich nicht _a priori_ construiren (wofür mir im Deutschen kein anderer Ausdruck sogleich beifallen will, als: aus den Fingern saugen) lassen, und wo man, so viel als möglich, alle vorhandenen Beobachtungen beisammen haben muss, um nicht einseitig über die Sache zu urtheilen; so habe ich auf dieser Reise weder Mühe noch Kosten geschent, um alle Beobachtungen, deren ich habhaft werden konnte, zu sammeln. In dieser Absicht blieb ich zwei Monathe in Gotha, und drei Monathe in Göttingen, um in den dortigen Bibliotheken alles hierher gehörende nachzusehen; benutzte besonders in Hamburg, Bremen und Wien viele ausländische Zeitschriften; machte im Julius 1818 eine Excursion von Carlsruhe nach Paris, um in den dortigen Bibliotheken und Naturalien-Cabinetten manches nachzusehen u. s. w., so dass ich wissentlich nichts von dem, was zur Sache gehört, vernachlässigt habe. Um dem Buche die gehörige Correctheit zu geben, bin ich bis nach Beendigung des Druckes in Wien geblieben. Uebrigens halte ich für nöthig (weil man mich öfters darum befragt hat) die Bemerkung beizufügen, dass alles, was ich bei dieser Gelegenheit, und auch sonst, für Naturkenntnisse, und bei den akustischen Untersuchungen auch für deren Unwendeung auf Kunst, zu thun mich bestrebt habe, auf meine eigene Rechnung geschehen ist, indem ich von Niemanden irgend einen Gehalt oder andere Vortheile geniesse.
+Da das, herabfallen meteorischer Massen, und der kosmische Ursprung derselben, durch mich zuerst im Jahre 1794 unter den Physikern zur Sprache gebracht worden ist, so haben späterhin Mehrere den Wunsch geäußert, dass ich diesen Gegenstand mit Benutzung der neuern Beobachtungen und Untersuchungen mehr im Zusammenhange bearbeiten möchte. Einen besonderen Wert für mich hatte hierbei die Aufforderung von Seiten des Herrn Doktor Olbers, in der monatlichen Korrespondenz des Freiherrn von Zach, Februar 1803, und aus dieser in Gilberts Annalen der Physik, B. XIV, S. 45. Recht gern hätte ich früher diesem Wunsche Genüge geleistet, aber teils war ich mit andern Dingen beschäftigt, die ich doch auch nicht vernachlässigen wollte, oder durste, (z. B. mit alle dem, was zur Ausarbeitung meiner Neuen Beiträge zu Akustik nötig war, mit Vervollkommnung meines Klavizylinder, und mit Untersuchungen über die verschiedenen möglichen Bauarten solcher Instrumente); teils auch hatte ich hierzu den weiten noch nicht genug Beobachtungen zu sammeln Gelegenheit gehabt. Ich ließ es also vor der Hand dabei bewenden, von Zeit zu Zeit Beiträge in Gilberts Annalen und in anderen wissenschaftlichen Zeitschriften zu liefern. Erst im Mai 1816 fasste ich den festen Entschluss, etwas Ganzes hierüber auszuarbeiten, und dieses bis zur geschehenen Ausführung als mein Hauptbestreben anzusehen, wozu die Reise, welche ich mir vorgenommen hatte, mir sehr behülflich fein konnte und musste. Da nämlich dieser Gegenstand unter die Dinge gehört, welche sich nicht _a priori_ konstruieren (wofür mir im Deutschen kein anderer Ausdruck sogleich beifallen will als: aus den Fingern saugen) lassen, und wo man, so viel als möglich, alle vorhandenen Beobachtungen beisammenhaben muss, um nicht einseitig über die Sache zu urteilen; so habe ich auf dieser Reise weder Mühe noch Kosten gescheut, um alle Beobachtungen, deren ich habhaft werden konnte, zu sammeln. In dieser Absicht blieb ich zwei Monate in Gotha, und drei Monate in Göttingen, um in den dortigen Bibliotheken alles hierher Gehörende nachzusehen; benutzte besonders in Hamburg, Bremen und Wien viele ausländische Zeitschriften; machte im Julius 1818 eine Exkursion von Karlsruhe nach Paris, um in den dortigen Bibliotheken und Naturalien-Kabinetten manches nachzusehen u. s. w., so dass ich wissentlich nichts von dem, was zur Sache gehört, vernachlässigt habe. Um dem Buche die gehörige Korrektheit zu geben, bin ich bis nach Beendigung des Druckes in Wien geblieben. Übrigens halte ich für nötig (weil man mich öfters darum befragt hat) die Bemerkung beizufügen, dass alles, was ich bei dieser Gelegenheit, und auch sonst, für Naturkenntnisse, und bei den akustischen Untersuchungen auch für deren Anwendung auf Kunst, zu tun mich bestrebt habe, auf meine eigene Rechnung geschehen ist, indem ich von Niemanden irgendeinen Gehalt oder andere Vorteile genieße.
 
-Jedem, der sich durch Lieferung brauchbarer Nachrichten, oder sonst auf irgend eine Art um die Sache verdient gemacht hat, habe ich gern am gehörigen Orte Gerechtigkeit wiedersahren lassen. Alle die Schriften, welche Beobachtungen von Thatsachen enthalten, habe ich zu benutzen, und immer aus den ersten Quellen zu schöpfen mich bestrebt; viele Schriften aber, die blass Meinungen und Urtheile enthalten, habe ich nicht angeführt, weil hier nicht die Absicht war, eine vollständige Literatur des Gegenstandes zu liefern, sondern den Gegenstand selbst abzuhandeln. Es liegt auch nicht viel daran, zu wissen, wie dieser oder jener sich die Sache vorstellt, wohl aber zu wissen, was beobachtet worden ist, und was aud den Beobachtungen, mit Zuziehung bekannter Naturgesetze, auf die enfachste und natürlichste Art folgt. Hierbei kommt auch gar nichts darauf an, ob eine Behauptung alt oder neu ist, oder auch, ob sie Manchem, der in seinen einmahl gefassten Vorstellungen nicht gern etwas abändert, und alles auf einen gar zu engen Kreis zu beschränken geneigt ist,* etwa gar zu paradox vorkommen möchte. Jeder Satz, der etwas zur Vermehrung unserer Kenntinisse beigetragen hat, war einmahl zu irgend einer Zeit etwas Ungewöhnliches oder Paradoxes, und musste also Manchem zum Anstoss gereichen; hätte man also immer bei dem Gewöhnlichen wollen stehen bleiben, so wären alle menschlichen Kenntnisse und Einrichtungen noch in dem Zustande der ersten Kindheit oder Rohheit, oder wären wenigstens sehr langsam vorwärts geschritten.
+Jedem, der sich durch Lieferung brauchbarer Nachrichten, oder sonst auf irgendeine Art um die Sache verdient gemacht hat, habe ich gern am gehörigen Orte Gerechtigkeit widerfahren lassen. Alle die Schriften, welche Beobachtungen von Tatsachen enthalten, habe ich zu benutzen, und immer aus den ersten Quellen zu schöpfen mich bestrebt; viele Schriften aber, die blass Meinungen und Urteile enthalten, habe ich nicht angeführt, weil hier nicht die Absicht war, eine vollständige Literatur des Gegenstandes zu liefern, sondern den Gegenstand selbst abzuhandeln. Es liegt auch nicht viel daran, zu wissen, wie dieser oder jener sich die Sache vorstellt, wohl aber zu wissen, was beobachtet worden ist, und was aud den Beobachtungen, mit Zuziehung bekannter Naturgesetze, auf die einfachste und natürlichste Art folgt. Hierbei kommt auch gar nichts darauf an, ob eine Behauptung alt oder neu ist, oder auch, ob sie Manchem, der in seinen einmal gefassten Vorstellungen nicht gern etwas abändert, und alles auf einen gar zu engen Kreis zu beschränken geneigt ist,* etwa gar zu paradox vorkommen möchte. Jeder Satz, der etwas zur Vermehrung unserer Kenntnisse beigetragen hat, war einmal zu irgendeiner Zeit etwas Ungewöhnliches oder Paradoxes, und musste also Manchem zum Anstoß gereichen; hätte man also immer bei dem Gewöhnlichen wollen stehen bleiben, so wären alle menschlichen Kenntnisse und Einrichtungen noch in dem Zustande der ersten Kindheit oder Rohheit, oder wären wenigstens sehr langsam vorwärtsgeschritten.
 
-*) Viele, denen es sonst nicht an Einsichten sehlt, haben eine besondere Scheu dafür, sich so manches im Weltall so gross zu denken, als es wirklich ist, und überhaupt sich die Dinge in ihrer wahren verhältnissmässigen Grösse oder Kleinheit vorzustellen. Viele möchten auch gar gern unsern gegen so viele andere Weltkörper sehr kleinen Erdball (und vielleicht auch auf diesem ihr liebes Ich) als das Wichtigste im Weltall ansehen, um dessentwillen alles Uebrige da ist, und worauf sich Alles bezieht. Solche müssten eigentlich, wenn sie recht consequent fein wollen, Anhänger des ptolomaischen oder des tychonischen Systems fein und bleiben. Wirklich habe ich auch vor vielen Jahren zwei sonst verständige Männer gekannt, die physikalische und mathematische Kenntnisse hatten, oder zu haben glaubten; von denen aber der Eine dem ptolomaischen, der Andere dem tychonischen Welt-Systeme mit sehr vielem Eiser anhing, weil sie, wie vormahls Galileis Gegner, es für äusserst fündlich und verderblich hielten, wenn man annähme, dass die Erde sich bewege. Beide gaben sich alle Mühe, um mich von ihrer Meinung zu überzeugen; ich antwortete ihnen aber, mir käme das, wenn man nur noch einen Schritt weiter in dass Kleine gehen wollte, ungefähr so vor, als ob, wenn ein Hafe gebraten würde, man annehmen wollte, dass nicht etwa der Hafe nebst dem Spiesse sich bewege, sondern dass die Küche nebst dem Feuer, so wie auch das ganze Haus, die Erde, und allenfalls auch das ganze Weltall sich um den Hafen drebe, damit er gebraten werde.
+*) Viele, denen es sonst nicht an Einsichten sehlt, haben eine besondere Scheu dafür, sich so manches im Weltall so groß zu denken, als es wirklich ist, und überhaupt sich die Dinge in ihrer wahren verhältnismäßigen Größe oder Kleinheit vorzustellen. Viele möchten auch gar gern unsern gegen so viele andere Weltkörper sehr kleinen Erdball (und vielleicht auch auf diesem ihr liebes Ich) als das Wichtigste im Weltall ansehen, um dessentwillen alles Übrige da ist, und worauf sich Alles bezieht. Solche müssten eigentlich, wenn sie recht konsequent fein wollen, Anhänger des ptolemäischen oder des tychonischen Systems fein und bleiben. Wirklich habe ich auch vor vielen Jahren zwei sonst verständige Männer gekannt, die physikalische und mathematische Kenntnisse hatten, oder zu haben glaubten; von denen aber der Eine dem ptolemäischen, der Andere dem tychonischen Welt-Systeme mit sehr vielem Eiser anhing, weil sie, wie vormahls Galileis Gegner, es für äußerst fündlich und verderblich hielten, wenn man annähme, dass die Erde sich bewege. Beide gaben sich alle Mühe, um mich von ihrer Meinung zu überzeugen; ich antwortete ihnen aber, mir käme das, wenn man nur noch einen Schritt weiter in dass Kleine gehen wollte, ungefähr so vor, als ob, wenn ein Hafe gebraten würde, man annehmen wollte, dass nicht etwa der Hafe nebst dem Spiesse sich bewege, sondern dass die Küche nebst dem Feuer, so wie auch das ganze Haus, die Erde, und allenfalls auch das ganze Weltall sich um den Hafen drebe, damit er gebraten werde.
 
-Herr v. Schreibers, Director der k. k. Hof-Naturalien-Cabinette in Wien, welcher sich um die Lehre von den Meteor-Massen in mehreren Hinsichten sehr verdient gemacht hat, fand für gut, diesem Buche eine Beilage von 10 Steindruck-Tafeln, nebst deren Erklärung, beizufügen, welche ein besonderes Heft in 4 ^10 ausmacht, und worin verschiedene im k. k. Naturalien-Cabinette befindliche Meteor-Massen und Figuren auf geätzten Flächen einiger Arten des Meteor-Eisens dargestellt werden, so wie auch die Gegend um Stannern, auf welche am 22. Mai 1808 Meteor-Steine fielen. Diese kleine Karte ist ein Gegenstück zu der, welche Biot von der Gegend um L'Aigle geliefert hat, wo die Meteor-Steine am 26. Aprill 1803 ebenfalls auf einen elliptischen Bezirk gefallen sind. Ich zweifle gar nicht, dass es den Lefern angenehm sein werde, wenn sie dadurch einen anschauenden Begriff von machen in diesem Buche beschriebenen Gegenständen erhalten können. Als Anhang zu dem Buche selbst hat er ein Verzeichniss der im k. k. Naturalien-Cabinette zu Wien befindlichen Sammlung von meteorischen Stein- und Eisen-Massen beigefügt, welche ohne Zweifel unter allen in Hinsicht der Mannigfaltigkeit sowohl, als der Prachtstücke, die vorzüglichste ist. Die Bekanntmachung des Verzeichnisses war wohl nothwendig, weil schon manches Unrichtige war darüber gesagt worden.
+Herr v. Schreibers, Direktor der k. k. Hof-Naturalien-Kabinette in Wien, welcher sich um die Lehre von den Meteor-Massen in mehreren Hinsichten sehr verdient gemacht hat, fand für gut, diesem Buche eine Beilage von 10 Steindruck-Tafeln, nebst deren Erklärung, beizufügen, welche ein besonderes Heft in 4 ^10 ausmacht, und worin verschiedene im k. k. Naturalien-Kabinette befindliche Meteor-Massen und Figuren auf geätzten Flächen einiger Arten des Meteor-Eisens dargestellt werden, so wie auch die Gegend um Stannern, auf welche am 22. Mai 1808 Meteor-Steine fielen. Diese kleine Karte ist ein Gegenstück zu der, welche Biot von der Gegend um L'Aigle geliefert hat, wo die Meteor-Steine am 26. April 1803 ebenfalls auf einen elliptischen Bezirk gefallen sind. Ich zweifle gar nicht, dass es den Lefern angenehm sein werde, wenn sie dadurch einen anschauenden Begriff von machen in diesem Buche beschriebenen Gegenständen erhalten können. Als Anhang zu dem Buche selbst hat er ein Verzeichnis der im k. k. Naturalien-Kabinette zu Wien befindlichen Sammlung von meteorischen Stein- und Eisen-Massen beigefügt, welche ohne Zweifel unter allen in Hinsicht der Mannigfaltigkeit sowohl, als der Prachtstücke, die vorzüglichste ist. Die Bekanntmachung des Verzeichnisses war wohl notwendig, weil schon manches Unrichtige war darüber gesagt worden.
 
-Da nun der Zweck, warum ich ungefähr seit drei bis vier Jahren die Bearbeitung der Lehre von den Meteor-Massen als Hauptsache angesehen habe, durch die Herausgabe dieses Buches, so gut es mir möglich war, er füllt ist, so gedenke ich nun wieder manche andere Dinge als Hauptbeschäftigung anzusehen, und auch wieder einmahl weitere Untersuchungen über die Bauarten der beiden von mir erfundenen Instrumente, des Clavicylinders und des Euphons, anzustellen, wovon vorzüglich ersteres seht verschiedener Arten der Einrichtung, und beträchtlicher Vervollkommnungen fähig ist, und einmahl in der Folge, wenn es in mehrerer Vollkommenheit, als jetzt, allgemeiner verbreitet werden sollte, vieles würde dazu beitragen können, Manchem mehreren Geschmack an harmonischen und gebundenen Sätzen beizubringen, als an solchen, wo es bloss auf Fertigkeit ankommt. Was ich darüber, um nichts verloren gehen zu lassen, vor einigen Jahren nebst den nöthigen Zeichnungen schriftlich aufgesetzt habe, ist nach meinen jetzigen Begriffen noch gar zu unreif, und es sind noch weit mehrere Forschungen und Experimente nöthig, um vielleicht auch über diesen Gegenstand einmahl in der Folge etwas Ganzes zu liefern. Auch fehlt es sonst nicht an Stoff zur Beschäftigung, und an Luft dazu wird es mir, so lange ich mich so gefund fühle, wie bisher, hoffentlich auch nicht fehlen. Uebrigens, von welcher Art auch meine Beschäftigungen sein mögen, werde ich doch auch nicht unterlassen, auf alles das aufmerksam zu sein, was die Geschichte und die weitere Kenntniss des hier bearbeiteten Gegenstandes betrifft, um in der Folge Nachträge zu dem, was hier gesagt ist, zu liefern. Sollte etwa ein und anderer Lefer dieses Buches Gelegenheit haben, mir glaubwürdige Nachrichten mitzutheilen, welche weder hier, noch in einer bekannten Zeitschrift erwahnt sind, von merkwürdigen Feuer-Meteoren, von Stein- und Eisen-Niederfällen, von Gediegeneisen-Massen, die auch für meteorisch zu halten sind, von Niederfällen staubartiger, schlammiger oder bituminöser Stoffe,* oder sollte etwa jemand so gefällig sein wollen (wie schon Mancher gewesen ist), meine Sammlung meteorischer Substanzen durch irgend etwas von der Art, das ich noch nicht besitze, zu vermehren, so würde ich es mit allem gebührenden Danke anerkennen, und ich würde in diesem Falle bitten, wenn der Uebersender sich innerhalb der Oesterreichischen Monarchie befindet, durch die J. G. Heubner'sche Buchhandlung in Wien; wenn er sich aber ausserhalb derselben befindet, durch die Breitkopf- und Härtel'sche Buchhandlung in Leipzig, es (mit möglichster Ersparung des Porto, besonders wenn die Sache nicht von vorzüglicher Wichtigkeit ist) an mich gelangen zu lassen.
+Da nun der Zweck, warum ich ungefähr seit drei bis vier Jahren die Bearbeitung der Lehre von den Meteor-Massen als Hauptsache angesehen habe, durch die Herausgabe dieses Buches, so gut es mir möglich war, er füllt ist, so gedenke ich nun wieder manche andere Dinge als Hauptbeschäftigung anzusehen, und auch wieder einmahl weitere Untersuchungen über die Bauarten der beiden von mir erfundenen Instrumente, des Klavizylinders und des Euphons, anzustellen, wovon vorzüglich ersteres seht verschiedener Arten der Einrichtung, und beträchtlicher Vervollkommnungen fähig ist, und einmal in der Folge, wenn es in mehrerer Vollkommenheit, als jetzt, allgemeiner verbreitet werden sollte, vieles würde dazu beitragen können, Manchem mehreren Geschmack an harmonischen und gebundenen Sätzen beizubringen, als an solchen, wo es bloß auf Fertigkeit ankommt. Was ich darüber, um nichts verloren gehen zu lassen, vor einigen Jahren nebst den nötigen Zeichnungen schriftlich aufgesetzt habe, ist nach meinen jetzigen Begriffen noch gar zu unreif, und es sind noch weit mehrere Forschungen und Experimente nötig, um vielleicht auch über diesen Gegenstand einmal in der Folge etwas Ganzes zu liefern. Auch fehlt es sonst nicht an Stoff zur Beschäftigung, und an Luft dazu wird es mir, so lange ich mich so gefund fühle, wie bisher, hoffentlich auch nicht fehlen. Übrigens, von welcher Art auch meine Beschäftigungen sein mögen, werde ich doch auch nicht unterlassen, auf alles das aufmerksam zu sein, was die Geschichte und die weitere Kenntniss des hier bearbeiteten Gegenstandes betrifft, um in der Folge Nachträge zu dem, was hier gesagt ist, zu liefern. Sollte etwa ein und anderer Lefer dieses Buches Gelegenheit haben, mir glaubwürdige Nachrichten mitzuteilen, welche weder hier, noch in einer bekannten Zeitschrift erwahnt sind, von merkwürdigen Feuer-Meteoren, von Stein- und Eisen-Niederfällen, von Gediegeneisen-Massen, die auch für meteorisch zu halten sind, von Niederfällen staubartiger, schlammiger oder bituminöser Stoffe,* oder sollte etwa jemand so gefällig sein wollen (wie schon Mancher gewesen ist), meine Sammlung meteorischer Substanzen durch irgendetwas von der Art, das ich noch nicht besitze, zu vermehren, so würde ich es mit allem gebührenden Danke anerkennen, und ich würde in diesem Falle bitten, wenn der Übersender sich innerhalb der Österreichischen Monarchie befindet, durch die J. G. Heubner'sche Buchhandlung in Wien; wenn er sich aber außerhalb derselben befindet, durch die Breitkopf- und Härtel'sche Buchhandlung in Leipzig, es (mit möglichster Ersparung des Porto, besonders wenn die Sache nicht von vorzüglicher Wichtigkeit ist) an mich gelangen zu lassen.
 
-*) Denjenigen, welche etwa Gelegenheit haben, einen Staubniederfall, oder das Herabfallen einer schleimigen Materie mit einer sternschnuppenartigen Lichterscheinung (wovon mir ausser den in der sechsten Abtheilung erwähnten Beispielen noch viele andere, aber zu unbestimmt, als dass sie hier hätten können mit angeführt werden, von glaubwürdigen Personen erzählt worden sind, und wo in dem einen Falle der zum Theil auf ein Kleidungsstück gefallene schleimige Stoff noch am folgenden Tage phosphorescirt haen soll); ist sehr zu empsehlen, des sie so viel als möglich von dem herabgefallenen Stoffe, oder wenn es rother Regen oder Schnee ist, von dem Bodensatze desselben sammeln, und irgend jemanden, der physikalische und chemische Untersuchungen darüber anstellen kann, zukommen lassen, indem diese Stoffe is jetzt weit weniger untersucht worden sind, als die herabgefallenen Stein- und Eisenmassen. Wenn der Beobachter auch sein Physiker, aber doch sonst verständig und gebildet ist, so wird er doch wohl, sobald er einmahl auf die Sache aufmerksam gemacht worden ist, für billig erachten, aus Liebe für die Wissenschaft sich einer so geringen Bemühung zu unterziehen.
+*) Denjenigen, welche etwa Gelegenheit haben, einen Staubniederfall, oder das Herabfallen einer schleimigen Materie mit einer sternschnuppenartigen Lichterscheinung (wovon mir außer den in der sechsten Abtheilung erwähnten Beispielen noch viele andere, aber zu unbestimmt, als dass sie hier hätten können mit angeführt werden, von glaubwürdigen Personen erzählt worden sind, und wo in dem einen Falle der zum Theil auf ein Kleidungsstück gefallene schleimige Stoff noch am folgenden Tage phosphoresziert haen soll); ist sehr zu empsehlen, des sie so viel als möglich von dem herabgefallenen Stoffe, oder wenn es roter Regen oder Schnee ist, von dem Bodensatze desselben sammeln, und irgend jemanden, der physikalische und chemische Untersuchungen darüber anstellen kann, zukommen lassen, indem diese Stoffe is jetzt weit weniger untersucht worden sind, als die herabgefallenen Stein- und Eisenmassen. Wenn der Beobachter auch sein Physiker, aber doch sonst verständig und gebildet ist, so wird er doch wohl, sobald er einmal auf die Sache aufmerksam gemacht worden ist, für billig erachten, aus Liebe für die Wissenschaft sich einer so geringen Bemühung zu unterziehen.
 
 Geschrieben im September 1819.
 
 E. F. F. Chladni.
 
-## Uebersicht des Inhalts.
+## Übersicht des Inhalts.
 
 Erste Abtheilung. Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.
 
@@ -52,17 +52,17 @@ Erste Abtheilung. Geschichte der ersten Untersuchungen des Niederfallens meteori
 
 Zweite Abtheilung. Allgemeine Bemerkungen über Feuerkugeln, und über de herabgefallenen Massen.
 
-1\. Allgemeiner Vegriff von dieser Art der Naturerscheinungen.
+1\. Allgemeiner Begriff von dieser Art der Naturerscheinungen.
 
 2\. Anfang der Erscheinung eines solchen Meteors.
 
 3\. Beobachtete Höhe der Feuerkugeln.
 
-4\. Beschaffenheit der Bahn. Achsendrehung. Bogensprünge. (Nebst einem spätern Nachtrage zu Ende dieser Abtheilung.)
+4\. Beschaffenheit der Bahn. Achsendrehung. Bogensprünge. (Nebst einem späteren Nachtrage zu Ende dieser Abtheilung.)
 
 5\. Geschwindigkeit der Bewegung.
 
-6\. Grösse der Feuerkugeln.
+6\. Größe der Feuerkugeln.
 
 7\. Gestalt dieser Meteore.
 
@@ -78,9 +78,9 @@ Zweite Abtheilung. Allgemeine Bemerkungen über Feuerkugeln, und über de herabg
 
 13\. Beschaffenheit der Meteor-Steine im Allgemeinen.
 
-14\. Bestandtheile derselben.
+14\. Bestandteile derselben.
 
-15\. Grösse und Quantität der gefallenen Steine.
+15\. Größe und Quantität der gefallenen Steine.
 
 16\. Gestalt der Meteor-Steine.
 
@@ -92,7 +92,7 @@ Zweite Abtheilung. Allgemeine Bemerkungen über Feuerkugeln, und über de herabg
 
 20\. Niederfälle von staubartigen oder weichen Substanzen in trockner oder feuchter Gestalt.
 
-21\. Ueber noch manche andere Dinge, die herabgefallen sein sollen.
+21\. Über noch manche anderen Dinge, die herabgefallen sein sollen.
 
 22\. Die Feuerkugeln und die Niederfälle meteorischer Massen sind von alle dem, was sich auf unsere Erde bezieht, unabhängig.
 
@@ -112,11 +112,11 @@ Zweite Abtheilung. Allgemeine Bemerkungen über Feuerkugeln, und über de herabg
 
 30\. Vergebliche Bemühungen des Verfassers, verschiedene ältere Meteor-Massen aufzufinden.
 
-31\. Uebereinkunst der Sternschnuppen mit den Feuerkugeln. (Nebst einem spätern Nachtrage zu Ende der siebenten Abtheilung.)
+31\. Übereinkunft der Sternschnuppen mit den Feuerkugeln. (Nebst einem späteren Nachtrage zu Ende der siebenten Abtheilung.)
 
-32\. Verzeichniss der Sammlung von Meteor-Sustanzen, welche der Verfasser gegenwärtig besitzt. (Nebst einem spätern Nachtrage zu Ende der sechsten Abtheilung.)
+32\. Verzeichnis der Sammlung von Meteor-Substanzen, welche der Verfasser gegenwärtig besitzt. (Nebst einem späteren Nachtrage zu Ende der sechsten Abtheilung.)
 
-33\. Wahrscheinlichkeit eines häufigen Niederfallens meteorischer Massen auf unsern Welkörper. (Späterer Nachtrag zu 4.)
+33\. Wahrscheinlichkeit eines häufigen Niederfallens meteorischer Massen auf unsern Weltkörper. (Späterer Nachtrag zu 4.)
 
 Dritte Abtheilung. Nachrichten von beobachteten Feuerkugeln, und zwar sowohl von solchen, deren Massen man habhaft geworden ist, als auch von andern, in chronologischer Ordnung.
 
@@ -126,7 +126,7 @@ Dritte Abtheilung. Nachrichten von beobachteten Feuerkugeln, und zwar sowohl von
 
 A\. Wo sich die Zeit des Falles mehr oder weniger genau angeben lässt.
 
-? Ungefähr 1478 Jahre vor Christi Geburt, ein Stein in Creta.
+? Ungefähr 1478 Jahre vor Christi Geburt, ein Stein in Kreta.
 
 ((Die Erzählung von herabgefallenen Steinen im Buche Josua scheint von Hagel zu verstehen zu sein.))
 
@@ -134,13 +134,13 @@ A\. Wo sich die Zeit des Falles mehr oder weniger genau angeben lässt.
 
 1200, Steine bei Orchomenos.
 
-? 705 oder 704, das Ancyle, wahrscheinlich eine Esisenmasse.
+? 705 oder 704, das Ancyle, wahrscheinlich eine Eisenmasse.
 
-654, Steine auf dem Albanischen Berge.
+654, Steine auf dem albanischen Berge.
 
 644, in China.
 
-465, ein grosser Stein bei Aegos-Potamos.
+465, ein großer Stein bei Aegos-Potamos.
 
 Nicht lange vorher oder hachher, ein Stein bei Theben.
 
@@ -176,7 +176,7 @@ Einer zu Cassandria oder Potidaea.
 
 ? Wahrscheinlich das Symbol der Diana zu Ephesus.
 
-? Wahrscheinlich der Stein in der Caaba zu Mekka, und noch einer, der dort aufbewahrt wird.
+? Wahrscheinlich der Stein in der Kaaba zu Mekka, und noch einer, der dort aufbewahrt wird.
 
 3\. Niederfälle von Stein- und Eisenmassen, nach dem Anfange unserer Zeitrechnung.
 
@@ -184,9 +184,9 @@ In der ersten Hälfte des ersten Jahrhunderts ein Stein in Vocontiorum agro.
 
 In den Jahren 2, 106, 154, 310 und 333, Steinfälle in China.
 
-((Ein angeblicher Niederfall im Jahre 416 ist ein Missverständniss.))
+((Ein angeblicher Niederfall im Jahre 416 ist ein Missverständnis.))
 
-452, Steine in Thracien.
+452, Steine in Thrakien.
 
 Späterhin ein Stein bei Emessa in Syrien, und auch einige auf dem Berge Libanus.
 
@@ -194,7 +194,7 @@ Späterhin ein Stein bei Emessa in Syrien, und auch einige auf dem Berge Libanus
 
 616, Steine in China.
 
-? 648, ein grosser Stein zu Constantinopel.
+? 648, ein großer Stein zu Konstantinopel.
 
 (Einige nicht einzuschaltende angebliche Niederfälle.)
 
@@ -202,13 +202,13 @@ Späterhin ein Stein bei Emessa in Syrien, und auch einige auf dem Berge Libanus
 
 852, ein Stein in Tabaristan.
 
-856, Steine in Egypten.
+856, Steine in Ägypten.
 
 ? 885, Steine in Japan.
 
 897, Steine bei Kufah.
 
-951, ein grosser Stein bei Augsburg.
+951, ein großer Stein bei Augsburg.
 
 998, Steine bei Magdeburg.
 
@@ -232,13 +232,13 @@ Bald nach 1009, eine Eisenmasse bei Dschordschan.
 
 ((Einige Ereignisse, die nicht scheinen unter die Steinfälle zu gehören.))
 
-1249, Steine bei Quedlinburg und an andern Orten.
+1249, Steine bei Quedlinburg und an anderen Orten.
 
-? In demselben Jahrhunderte vielleicht ein Stein in Würzburg.
+? In dieselben Jahrhunderte vielleicht ein Stein in Würzburg.
 
 Zwischen 1251 und 1360, Steine bei Welikoi-Ustiug.
 
-1280, eine Stein- oder Eisenmasse bei Alexandria in Egypten.
+1280, eine Stein- oder Eisenmasse bei Alexandria in Ägypten.
 
 1304, viele Steine oder Eisenmasse bei Friedland oder Friedeburg.
 
@@ -254,19 +254,19 @@ Zwischen 1251 und 1360, Steine bei Welikoi-Ustiug.
 
 ? 1438, viele leichte Steine bei Roa in Spanien.
 
-? Wahrscheinlich in demselben Jahrhunderte ein Stein bei Lucern.
+? Wahrscheinlich in dieselben Jahrhunderte ein Stein bei Lucern.
 
 1491, ein Stein bei Rivolta de' bassi, nicht weit von Crema.
 
-1492, ein grosser Stein bei Ensisheim.
+1492, ein großer Stein bei Ensisheim.
 
 1496, Steine bei Cesena und Forli.
 
-? Wahrscheinlich in demselben Jahrhunderte, oder nicht lange darnach, ein Stein bei Brüssel.
+? Wahrscheinlich in dieselben Jahrhunderte, oder nicht lange darnach, ein Stein bei Brüssel.
 
 ((Verschiedene nicht einzuschaltende angeliche Steinfälle.))
 
-1511, grosser Steinfall bei Crema.
+1511, großer Steinfall bei Crema.
 
 1516, Steine in China.
 
@@ -274,11 +274,11 @@ Zwischen 1251 und 1360, Steine bei Welikoi-Ustiug.
 
 ? 1528, Steine bei Augsburg.
 
-? 1540, ein grosser Stein in Limousin.
+? 1540, ein großer Stein in Limousin.
 
 Ungefähr zwischen 1540 und 1550, eine Eisenmasse im Walde bei Naunhof.
 
-Um die Mitte dieses Jahrhunderts, Eisen an mehrern Orten in Piemont.
+Um die Mitte dieses Jahrhunderts, Eisen an mehreren Orten in Piemont.
 
 1552, viele Steine bei Schleusingen u. s. w.
 
@@ -290,7 +290,7 @@ Um die Mitte dieses Jahrhunderts, Eisen an mehrern Orten in Piemont.
 
 ? 1572, vielleicht Steine bei Thorn.
 
-1580, grosser Steinfall bei Nörten, nicht weit von Göttingen.
+1580, großer Steinfall bei Nörten, nicht weit von Göttingen.
 
 1581, ein Stein bei Niederreissen in Thüringen.
 
@@ -300,9 +300,9 @@ Um die Mitte dieses Jahrhunderts, Eisen an mehrern Orten in Piemont.
 
 1596, Steine zu Crevalcote.
 
-Wahrscheinlich in demselben Jahrhunderte ein Stein im Königreiche Valencia in Spanien.
+Wahrscheinlich in dieselben Jahrhunderte ein Stein im Königreiche Valencia in Spanien.
 
-1618, grosser Steinfall in Steyermark.
+1618, großer Steinfall in Steiermark.
 
 1618, eine metallische Masse in Böhmen.
 
@@ -316,7 +316,7 @@ Wahrscheinlich in demselben Jahrhunderte ein Stein im Königreiche Valencia in S
 
 ? 1635, ein Stein bei Calce im Vicentinischen.
 
-1636, ein grosser Stein zwischen Sagan und Dubrow in Schlesien.
+1636, ein großer Stein zwischen Sagan und Dubrow in Schlesien.
 
 1637, ein Stein auf dem Berge Vaisien in der Provence.
 
@@ -332,15 +332,15 @@ Wahrscheinlich in demselben Jahrhunderte ein Stein im Königreiche Valencia in S
 
 1650, ein Stein in Dordrecht.
 
-1654, grosser Steinfall auf der Insel Fünen.
+1654, großer Steinfall auf der Insel Fünen.
 
-Ungefähr nach der Mitte dieses Jahrhunderts, ein grosser Stein in Warschau.
+Ungefähr nach der Mitte dieses Jahrhunderts, ein großer Stein in Warschau.
 
 Dessgleichen ein kleiner Stein in Mailand.
 
 ((Eine unglaubliche Nachricht von gefallenen Steinen in Schiras, 1667, nebst zwei ähnlichen Nachrichten.))
 
-1668, grosser Steinfall bei Verona.
+1668, großer Steinfall bei Verona.
 
 1671, Steine in der Ortenau in Schwaben.
 
@@ -362,7 +362,7 @@ Zwischen 1675 und 1677, ein Stein auf ein Schiff beider Insel Copinsha.
 
 1723, bei Plescowitz in Böhmen.
 
-((Ein angeblicher Niederfall bei Lessai ist nur ein Missverständniss.))
+((Ein angeblicher Niederfall bei Lessai ist nur ein Missverständnis.))
 
 1738, Steine in der Grafschaft Avignon.
 
@@ -400,13 +400,13 @@ Zwischen 1675 und 1677, ein Stein auf ein Schiff beider Insel Copinsha.
 
 1780, bei Beefton in England.
 
-1782, ein grosser Stein bei Turin.
+1782, ein großer Stein bei Turin.
 
 1785, Steinfall im Eichstädtischen.
 
 1787, im Gouvernement von Charkow.
 
-1790, grosser Steinfall bei Barbotan, u. s. w.
+1790, großer Steinfall bei Barbotan, u. s. w.
 
 1791, Steine bei Castel-Berardenga in Toscana.
 
@@ -430,7 +430,7 @@ Zwischen 1675 und 1677, ein Stein auf ein Schiff beider Insel Copinsha.
 
 1802, in den Schottischen Hochlanden.
 
-1803, grosser Steinfall bei L'Aigle.
+1803, großer Steinfall bei L'Aigle.
 
 1803, Steinfall bei East-Norton in England.
 
@@ -444,19 +444,19 @@ Ein Stein in Dorbrecht.
 
 1805, Steine bei Doroninsk in Sibirien.
 
-1805, zu Constantinopel.
+1805, zu Konstantinopel.
 
 1806, Steine, von andern verschieden, bei Alais, im Departement du Gard.
 
 1806, ein Stein bei Basingstoke in Hantshire.
 
-1807, ein grosser Stein bei Timochin im Gouvernement von Smolensk.
+1807, ein großer Stein bei Timochin im Gouvernement von Smolensk.
 
 1807, viele Steine bei Weston in Connecticut.
 
 1808, Steine im Parmesanischen.
 
-1808, grosser Steinfall bei Stannern in Mähren.
+1808, großer Steinfall bei Stannern in Mähren.
 
 1808, Steine bei Lissa in Böhmen.
 
@@ -478,9 +478,9 @@ Ein Stein in Dorbrecht.
 
 1812, bei Erxleben, zwischen Magdeburg und Helmstädt.
 
-1812, bei Chantonay im Departement de la Vendee.
+1812, bei Chantonnay im Departement de la Vendee.
 
-1813, Steine bei Cutro in Calabrien, mit grossem Staubniederfalle.
+1813, Steine bei Cutro in Kalabrien, mit großem Staubniederfalle.
 
 ? 1813, Steine bei Malpas, nicht weit von Chester.
 
@@ -502,23 +502,23 @@ Ein Stein in Dorbrecht.
 
 (Nacherinnerung zu dieser und zu der vorigen Abtheilung, die in China beobachteten Feuer-Meteore und Steinfälle betreffend.)
 
-Fünfte Abtheilung. Ueber Gediegeneisenmassen, die auch als meteorisch können angesehen werden, über deren Niederfallen aber keine eobachtungen vorhanden sind.
+Fünfte Abtheilung. Über Gediegeneisenmassen, die auch als meteorisch können angesehen werden, über deren Niederfallen aber keine Beobachtungen vorhanden sind.
 
 I\. Allgemeine Bemerkungen über das Vorkommen des meteorischen Gediegeneisens, und über das Gefüge desselben.
 
 II\. Nickelhaltige Gediegeneisenmassen, von ästigem oder zelligem Gefüge, mit Ausfüllung der Zwischenräume mit Olivin, oder Peridot.
 
-Die in Siberien gefundene und durch Pallas bekannt gewordene Masse.
+Die in Sibirien gefundene und durch Pallas bekannt gewordene Masse.
 
 ? Ein Stück Gediegeneisen aus Böhmen.
 
 Ein Stück, welches bei Eibenstock in Sachsen ist gefunden worden.
 
-Ein Stück, angeblich aus Norwegen, im k. k. Naturalien-Cabinette zu Wien.
+Ein Stück, angeblich aus Norwegen, im k. k. Naturalien-Kabinette zu Wien.
 
 Eine in Sachsen gefundene Masse, welche sich zu Gotha befindet.
 
-III\. Derbe nickelhaltige Eisenmassen, mit krystallinischem Gefüge.
+III\. Derbe nickelhaltige Eisenmassen, mit kristallinischem Gefüge.
 
 (Die bei Agram 1751 gefallene, ist die einzige vorhandene, deren Niederfallen ist beobachtet worden.)
 
@@ -528,7 +528,7 @@ Eine, die bei Lenarto in Ungarn ist gefunden worden.
 
 Eine Masse vom Vorgebirge der guten Hofnung.
 
-Mehrere grosse Massen am Senegal.
+Mehrere große Massen am Senegal.
 
 In Mexico an verschiedenen Orten.
 
@@ -540,17 +540,17 @@ Eine Masse in Brasilien, bei Bahia.
 
 Eine in Nord-Amerika bei Neu-Orleans gefundene Masse.
 
-Zwei Eisenmassen an der nördlichen Küste der Baffinsbay.
+Zwei Eisenmassen an der nördlichen Küste der Baffinbai.
 
-IV\. Problematische Gediegeneisen-Massen, die keinen Nickel enthalten, und nicht von dem Gefüge, wie die vorigen sind, oder auch deren Beschaffenheit nicht genug bekannt ist, um über ihren Ursprung urtheilen zu können.
+IV\. Problematische Gediegeneisen-Massen, die keinen Nickel enthalten, und nicht von dem Gefüge, wie die vorigen sind, oder auch deren Beschaffenheit nicht genug bekannt ist, um über ihren Ursprung urteilen zu können.
 
 Eine in Achen.
 
 Eine im Mailändischen bei Villa gefundene Masse.
 
-Eine von Grosskamsdorf, nicht weit von Saalfeld.
+Eine von Großkamsdorf, nicht weit von Saalfeld.
 
-Eine, so auf einem Berge bei Cilly, in Steyermark ist gefunden worden.
+Eine, so auf einem Berge bei Cilly, in Steiermark ist gefunden worden.
 
 Eine bei Bitburg, nicht weit von Trier, gefundene Masse.
 
@@ -558,51 +558,51 @@ Eine von Florac im Departement de la Loire.
 
 Eine bei Leadhills gefundene Masse.
 
-? Ein grosses Felsenstück im ostlichen Theile von Asien.
+? Ein großes Felsenstück im östlichen Theile von Asien.
 
 Sechste Abtheilung. Nachrichten von herabgefallenen staubartigen oder weichen Materien, in trockner oder feuchter Gestalt, in chronologischer Ordnung.
 
-Ungefähr um 473, grosser Niederfall von schwarzem Staube, um Constantinopel.
+Ungefähr um 473, großer Niederfall von schwarzem Staube, um Konstantinopel.
 
-642, Staub um Constantinopel, und anderwärts rother Schnee.
+642, Staub um Konstantinopel, und anderwärts roter Schnee.
 
 743, Staubniederfall an mehreren Orten.
 
-Um die Mitte des neunten Jahrhunderts blutrother Staub, wahrscheinlich einerlei Begebenheit mit dem Falle einer dem Blute ähnlichen Substanz zu Balk, ungefähr um 860.
+Um die Mitte des neunten Jahrhunderts blutroter Staub, wahrscheinlich einerlei Begebenheit mit dem Falle einer dem Blute ähnlichen Substanz zu Balk, ungefähr um 860.
 
-869, dessgleichen zu Brixen, vielleicht, mit einer Veränderung des Datum, mit dem vorigen einerlei Meteor.
+869, desgleichen zu Brixen, vielleicht, mit einer Veränderung des Datum, mit dem vorigen einerlei Meteor.
 
-929, zu Bagdad röthlicher Sand mit einer Feuererscheinung.
+929, zu Bagdad rötlicher Sand mit einer Feuererscheinung.
 
-1056, rother Schnee in Armenien.
+1056, roter Schnee in Armenien.
 
-1110, Röthung des Sees Van in Armenien, durch eine hineingefallene Feuerkugel.
+1110, Rötung des Sees Van in Armenien, durch eine hineingefallene Feuerkugel.
 
-1416, rother Regen in Böhmen.
+1416, roter Regen in Böhmen.
 
-? Bei Lucern, wahrscheinlich in demselben Jahrhunderte, herabfall einer dem Blute ähnlichen Substanz, und eines Steines mit einem Feuer-Meteor.
+? Bei Lucern, wahrscheinlich in dieselben Jahrhunderte, herabfall einer dem Blute ähnlichen Substanz, und eines Steines mit einem Feuer-Meteor.
 
 1501, sogenannter Blutregen an mehreren Orten.
 
-1543, rother Regen in Westphalen.
+1543, roter Regen in Westphalen.
 
-1548, Herabfall einer Flüssigkeit, wie geronnen Blut, nach Erscheinung einer explodirenden Feuerkugel, in Thüringen oder im Mansfeldischen.
+1548, Herabfall einer Flüssigkeit, wie geronnen Blut, nach Erscheinung einer explodierenden Feuerkugel, in Thüringen oder im Mansfeldischen.
 
 1557, zu Schlage in Pommern, Niederfall einer Substanz wie geronnen Blut.
 
-1560 (?), rother Regen zu Löwen und Emden.
+1560 (?), roter Regen zu Löwen und Emden.
 
-1560, rother Regen zu Lillebonne, mit einem Feuer-Meteor, welches ein Pulver-Magazin anzündete.
+1560, roter Regen zu Lillebonne, mit einem Feuer-Meteor, welches ein Pulver-Magazin anzündete.
 
-? 1582, Niederfall einer Substanz, wei Menschenhaare, mit sonderbarem Getöse, zu Rockhausen bei Erfurt.
+? 1582, Niederfall einer Substanz, bei Menschenhaare, mit sonderbarem Getöse, zu Rockhausen bei Erfurt.
 
-1586, bei Verden, eine rothe und schwärzliche Substanz, mit einem Feuer-Meteor.
+1586, bei Verden, eine Rothe und schwärzliche Substanz, mit einem Feuer-Meteor.
 
-1623, rother Regen zu Strassburg.
+1623, roter Regen zu Straßburg.
 
 1637, schwarzer Staub im Archipelagus und in Syrien.
 
-1638, rother Regen bei Turnhout.
+1638, roter Regen bei Turnhout.
 
 1642, Schwefelklumpen bei Magdeburg, u. s. w.
 
@@ -612,89 +612,89 @@ Um die Mitte des neunten Jahrhunderts blutrother Staub, wahrscheinlich einerlei 
 
 1646, zu Brüssel.
 
-1652, zwischen Siena und Rom, eine schleimige Substanz von einer Sternschnuppe.
+1652, zwischen Siena und Rom, eine schleimige Substanz einer Sternschnuppe.
 
 ? 1665, bei Laucha, Niederfall einer Substanz, wie blaue Seide.
 
 ? 1665, schwefelartiger Staub in Norwegen.
 
-1678, rother Schnee bei Genova.
+1678, roter Schnee bei Genova.
 
 ? 1686, eine schwarze papierartige Substanz in Kurland.
 
-? 1689, rother Staub in Venedig, u. s. w.
+? 1689, roter Staub in Venedig, u. s. w.
 
-1711, rother Regen in Schonen.
+1711, roter Regen in Schonen.
 
 1718, gallertartige Materie, von einer Feuerkugel, auf der Insel Lethi.
 
-1719, Staubniederfall auf dem atlantischen Meere, mit Lichterscheinung.
+1719, Staubniederfall auf die atlantischen Meere, mit Lichterscheinung.
 
-1721, rother Schlammregen um Stuttgard, mit einem Meteor.
+1721, roter Schlammregen um Stuttgart, mit einem Meteor.
 
 ? Ein Stück Schwefel in England.
 
-1744, rother Regen zu Pier d'Arena bei Genova.
+1744, roter Regen zu Pier d'Arena bei Genova.
 
-1755, Niederfälle von schwarzem und rothem Staube an verschiedenen Orten.
+1755, Niederfälle von schwarzem und rotem Staube an verschiedenen Orten.
 
-1763, rother Regen im Herzogthume Cleve, und bei Utrecht.
+1763, roter Regen im Herzogtume Cleve, und bei Utrecht.
 
 ? Eine schwammige Masse von Masse von einer Feuerkugel, bei Cobelnz, ohne Bestimmung der Zeit.
 
-1781, weisslicher Staub in Sicilien.
+1781, weißlicher Staub in Sizilien.
 
 1796, Niederfall eines bituminösen Stoffes von einer Feuerkugel, in der Ober-Lausitz.
 
-Späterhin eine gallertartige Masse, von einem Klumpen Feuer herabgefallen, bei Crefeld.
+Späterhin eine gallertartige Masse, von einem Klumpen Feuer herabgefallen, bei Krefeld.
 
-1803, grosser Niederfall von rothem Staube und rothem Schnee in Italien.
+1803, großer Niederfall von rotem Staube und rotem Schnee in Italien.
 
-1809, rother Regen im Venezianischen.
+1809, roter Regen im Venezianischen.
 
-1810, rother Schnee bei Piacenza.
+1810, roter Schnee bei Piacenza.
 
-1813, grosser Niederfall vonrothem Staube, nebst Meteor-Steinen, in Italien.
+1813, großer Niederfall von rotem Staube, nebst Meteor-Steinen, in Italien.
 
-1814, grosser Niederfall von schwarzem Staube, mit Feuererscheinung, bei Canada.
+1814, großer Niederfall von schwarzem Staube, mit Feuererscheinung, bei Canada.
 
-1814, rothe Erde, im Thale von Oneglia.
+1814, rote Erde, im Thale von Oneglia.
 
 1814, Staub zugleich mit den in Doab gefallenen Steinen.
 
-? 1815, grosser Staubniederfall im südlichen ostindischen Meere.
+? 1815, großer Staubniederfall in den südlichen ostindischen Meeren.
 
-1816, rother Schnee im nördlichen Italien.
+1816, roter Schnee im nördlichen Italien.
 
-Rother Schnee an der nördlichen Küste der Baffinsbay.
+Rother Schnee an der nördlichen Küste der Baffinbai.
 
-Rother Schnee auf der Alpe Anceindaz in der Schweiz, am Fusse der Diablerets.
+Rother Schnee auf der Alpe Anceindaz in der Schweiz, am Fuße der Diablerets.
 
-(Späterer Nachtrag zu dem 32. der zweiten und zu der fünften Abtheilung; eine Antike aus Pompeii, die Meteor-Eisen zu sein scheint, betreffend.)
+(Späterer Nachtrag zu dem 32. der zweiten und zu der fünften Abtheilung; eine Antike aus Pompei, die Meteor-Eisen zu sein scheint, betreffend.)
 
-Siebente Abtheilung. Ueber den Ursprung der herabgefallenen Massen.
+Siebente Abtheilung. Über den Ursprung der herabgefallenen Massen.
 
-1\. Vormahlige Meinungen von dem, was Feuerkugeln wären.
+1\. Vormalige Meinungen von dem, was Feuerkugeln wären.
 
 2\. Nachherige Meinungen von dem Ursprunge der herabgefallenen Massen.
 
 3\. Die herabfallenden Massen sind kosmisch, das ist, sie kommen aus dem allgemeinen Weltraume zu uns.
 
-4\. Das Dasein solcher im allgemeinen Weltraume sich bewegenden Massen, ist durch sehr viele beobachtungen erwiesen.
+4\. Das Dasein solcher im allgemeinen Weltraume sich bewegenden Massen, ist durch sehr viele Beobachtungen erwiesen.
 
-5\. Diese Massen können Haufen von Ur-Materie sein, die vor ihrer Ankunst noch keinem grössern Weltkörper zugehört hatte, und scheinen von kometenartiger Beschaffenheit zu sein.
+5\. Diese Massen können Haufen von Ur-Materie sein, die vor ihrer Ankunft noch keinem größeren Weltkörper zugehört hatte, und scheinen von kometenartiger Beschaffenheit zu sein.
 
 6\. Sie können auch Trümmer eines zerstörten Weltkörpers sein.
 
-7\. Ein Ursprung aus Mond-Vulcanen ist zwar an sich nicht unmöglich, aber doch sehr unwahrscheinlich.
+7\. Ein Ursprung aus Mond-Vulkanen ist zwar an sich nicht unmöglich, aber doch sehr unwahrscheinlich.
 
-8\. Die niedergefallenen Massen können schlechterdings nicht aus Bestandtheilen der Atmosphäre gebildet sein.
+8\. Die niedergefallenen Massen können schlechterdings nicht aus Bestandteilen der Atmosphäre gebildet sein.
 
-9\. Sie können auch nicht von der Erde durch vulcanicsche Kräfte in die Höhe gehoben sein.
+9\. Sie können auch nicht von der Erde durch vulkanische Kräfte in die Höhe gehoben sein.
 
 (Späterer Nachtrag zu dem 31. der zweiten Abtheilung, die Beobachtungen der Sternschnuppen betreffend.)
 
-Als Anhang folgt ein Verzeichniss der im k. k. Naturalien-Cabinette zu Wien befindlichen meteorischen Stein- und Eisenmassen, vom Herrn Director von Schreibers.
+Als Anhang folgt ein Verzeichnis der im k. k. Naturalien-Kabinette zu Wien befindlichen meteorischen Stein- und Eisenmassen, vom Herrn Direktor von Schreibers.
 
 Berichtigungen und Verbesserungen.
 
@@ -702,9 +702,9 @@ S. 11. Z. 13, anstatt 1812, ist zu lesen 1802.
 
 S. 78. Z. 8, von unten anstatt Grafen v. Schwarzburg, l. Fürsten v. Schwarzburg.
 
-S. 91. Z. 4, von oben, anstatt September, l. December. Auf derselben Seite ist einzuschalten: 1812, den 5. August bei Chantonay, über 1 1/2 Unze. 1813, den 10. Septemer, bei Limerik, ein kleines Stück.
+S. 91. Z. 4, von oben, anstatt September, l. Dezember. Auf derselben Seite ist einzuschalten: 1812, den 5. August bei Chantonnay, über 1 1/2 Unze. 1813, den 10. September, bei Limerick, ein kleines Stück.
 
-S. 93. Z. 2, anstatt Flusse der Diablerets, l. Fusse der Diablerets.
+S. 93. Z. 2, anstatt Flüsse der Diablerets, l. Fuße der Diablerets.
 
 S. 205. Z. 12, anstatt _tempestata_, l. tempestate.
 
@@ -728,7 +728,7 @@ S. 278. Z. 17, anstatt herrühren l. herrührten.
 
 S. 315. Z. 11, anstatt Liniendurchschnitte l. Linein Durchschnitte.
 
-S. 355. in der Note, anstatt Proproduct l. Product.
+S. 355. in der Note, anstatt Proprodukt l. Produkt.
 
 S. 364. Z. 2, von unten, anstatt _fulgore_ l. _fulgure_.
 
@@ -738,7 +738,7 @@ S. 405. Z. 5, anstatt bei welcher l. bei welchen.
 
 S. 413. Z. 6, von unten, anstatt schiefen l. schiefern.
 
-Die Besitzer oder Leser dieses Buches werden ersucht, besonders die auf S. 11, 91, 93, 262, und 315 bemerkten Fehler in berichtigen.
+Die Besitzer oder Leser dieses Buches werden ersucht, besonders die auf S. 11, 91, 93, 262, und 315 bemerkten Fehler in Berichtigen.
 
 ## Erste Abtheilung.
 
@@ -746,13 +746,13 @@ Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.
 
 1\. Die Alten kannten schon diese Art von Naturerscheinungen.
 
-Schon in den älteren Zeiten zweifelte man nicht, dass bisweilen Stein- und Eisenmassen mit einem Feuer-Meteor vom Himmel fallen. Da es hier nicht die Absicht ist, diesen Gegenstand in antiquarischer Hinsicht genauer abzuhandeln, berufe ich mich desshalb auf die vierte Abtheilung, wo viele ältere Nachrichten von dergleichen Ereignissen angeführt werden. Bei den Greichen und Römern ward mit dergleichen Steinen mancher Aberglaube getrieben, indem man sie als Symbole der Götter ansah; indessen scheinen doch auch Manche bessere Begriffe davon gehabt zu haben. So scheint es z. B., dass Anaxagoras vor dem Falle eines grossen Steines bei Aegos Potamos schon gesagt habe, dass bisweilen solche Steine vom Himmel fallen; so hat auch Plutarch den Fall dieses Steines so gut beschrieben, als es in der damahligen Zeit zu verlangen war; so sagt auch Damascius (in _Photii bibliotheca graeca_, c. 242) ganz richtig, dass die _baetylia_ (Meteor-Steine) mit einer Feuerkugel herabgefallen sind, u. s. w. Auch die älteren Chinesen haben uns mehrere Nachrichten dieser Art mit historischer Treue, und ohne etwas Thörichtes einzumengen, überliefert. In dem mittleren Zeitalter haben uns besonders arabische Schriftsteller manche Nachrichten von solchen Ereignissen hinterlassen, ohne unrichtige Urtheile einzumengen; auch ist dieses in noch etwas späteren Zeiten von manchen Chroniken-Schreibern und einigen Andern* geschehen.
+Schon in den älteren Zeiten zweifelte man nicht, dass bisweilen Stein- und Eisenmassen mit einem Feuer-Meteor vom Himmel fallen. Da es hier nicht die Absicht ist, diesen Gegenstand in antiquarischer Hinsicht genauer abzuhandeln, berufe ich mich deshalb auf die vierte Abtheilung, wo viele ältere Nachrichten von dergleichen Ereignissen angeführt werden. Bei den Greichen und Römern ward mit dergleichen Steinen mancher Aberglaube getrieben, indem man sie als Symbole der Götter ansah; indessen scheinen doch auch Manche bessere Begriffe davon gehabt zu haben. So scheint es z. B., dass Anaxagoras vor dem Falle eines großen Steines bei Aegos Potamos schon gesagt habe, dass bisweilen solche Steine vom Himmel fallen; so hat auch Plutarch den Fall dieses Steines so gut beschrieben, als es in der damaligen Zeit zu verlangen war; so sagt auch Damaskus (in _Photii bibliotheca graeca_, c. 242) ganz richtig, dass die _baetylia_ (Meteor-Steine) mit einer Feuerkugel herabgefallen sind, u. s. w. Auch die älteren Chinesen haben uns mehrere Nachrichten dieser Art mit historischer Treue, und ohne etwas Törichtes einzumengen, überliefert. In dem mittleren Zeitalter haben uns besonders arabische Schriftsteller manche Nachrichten von solchen Ereignissen hinterlassen, ohne unrichtige Urteile einzumengen; auch ist dieses in noch etwas späteren Zeiten von manchen Chroniken-Schreibern und einigen Andern* geschehen.
 
-*) So heisst z. B. in dem Buche _de meteoris_, welches dem Theophrastus Paracelsus zugeschrieben wird, S. III. der Basler-Ausgabe von 1569, 8.: _evidentissime constat, lapides naturales ex coelo decidisse pariter ac metalla, sed non aliud, quam ferrum, nec lapidis quam unica species_. Auch in der Schrift: _de Podagricis, lib. II._, sagt er, dass Steine vom Himmel fallen.
+*) So heißt z. B. in dem Buche _de meteoris_, welches dem Theophrastus Paracelsus zugeschrieben wird, S. III. der Basler-Ausgabe von 1569, 8.: _evidentissime constat, lapides naturales ex coelo decidisse pariter ac metalla, sed non aliud, quam ferrum, nec lapidis quam unica species_. Auch in der Schrift: _de Podagricis, lib. II._, sagt er, dass Steine vom Himmel fallen.
 
 2\. Nachheriger Unglaube, der bis zur Verstockung ging, mit wenigen Ausnahmen.
 
-Num kam aer eine Zeit, wo man mehrere Fortschritte in der Naturkunde machte, und jetzt glaubte man auf einmahl alles, was nicht zu einem selbstgemachten Leisten passte, wegwerfen und für Thorheit erklären zu müssen. Es ist fast unbegreiflich, wie durch die so sehr mit einander übereinstimmenden Nachrichten aus älteren und neueren Zeiten, von den mit einem Feuer-Meteore und mit vielem Getöse herabgefallenen Stein- und Eisenmassen, die Physiker nicht früher veranlasst worden sind, der Sache weiter nachzuforschen, und die vorhandenen Nachrichten gehörig mit einander zu vergleichen, da sie alsdann bei einer unbefangenen Ansicht gar bald sich würden genöthigt gesehen haben, das Niederfallen solcher Massen, die Erklärungsart sei, welche man wolle, doch wenigstens als eine historisch erwiesene Thatsache anzunehmen.
+Num kam aer eine Zeit, wo man mehrere Fortschritte in der Naturkunde machte, und jetzt glaubte man auf einmal alles, was nicht zu einem selbstgemachten Leisten passte, wegwerfen und für Torheit erklären zu müssen. Es ist fast unbegreiflich, wie durch die so sehr mit einander übereinstimmenden Nachrichten aus älteren und neueren Zeiten, von den mit einem Feuer-Meteore und mit vielem Getöse herabgefallenen Stein- und Eisenmassen, die Physiker nicht früher veranlasst worden sind, der Sache weiter nachzuforschen, und die vorhandenen Nachrichten gehörig mit einander zu vergleichen, da sie alsdann bei einer unbefangenen Ansicht gar bald sich würden genötigt gesehen haben, das Niederfallen solcher Massen, die Erklärungsart sei, welche man wolle, doch wenigstens als eine historisch erwiesene Tatsache anzunehmen.
 
 ...
 
@@ -760,9 +760,9 @@ Num kam aer eine Zeit, wo man mehrere Fortschritte in der Naturkunde machte, und
 
 Nachrichten von herabgefallenen staubartigen oder weichen Materien, in trockner oder feuchter Gestalt, in chronologischer Ordnung.
 
-Ueber die Beschaffenheit der Niederfälle staubartiger oder weicher Materien im Allgemeinen, und über das, wofür sie zu halten sind, ist schon in der zweiten Abtheilung, S. 20., das Nöthige gesagt worden; es ist also hier nur die Absicht, mehrere Beispiele, besonders manche der auffallendsten und lehrreichsten als Belege hierzu anzuführen. Es versteht sich von selbst, dass alle Ereignisse abzusondern sind, wo eine staubartige Substanz durch den Wind herbeigeführt, oder von einem Vulkan ausgeworfen sein kann, oder wo gefärbte herabgefallene Tropfen von Insectenauswürfen herrühren können. Viele in ältern Schriftstellern gar zu unvollkommen erwähnten Ereignisse, bei denen man nicht wissen kann, was sich etwa Fabelhaftes könnte eingemengt haben, z. B. wenn Julius Obsequens, der unter die leichtgläubigsten Schriftsteller gehört, sagt: _terra_, _creta_, _luto_, _sanguine pluit_, lasse ich absichtlich weg, weil genug neuere und besser beobachtete Ereignisse dieser Art vorhanden sind; ich fange also das hier zu gebende Verzeichniss lieber mit einer recht auffallenden Begebenheit an, deren Erzählung wegen der Uebereinkunft mit ganz neuern Ereignissen derselben Art Glauben verdient.
+Über die Beschaffenheit der Niederfälle staubartiger oder weicher Materien im Allgemeinen, und über das, wofür sie zu halten sind, ist schon in der zweiten Abtheilung, S. 20., das Nötige gesagt worden; es ist also hier nur die Absicht, mehrere Beispiele, besonders manche der auffallendsten und lehrreichsten als Belege hierzu anzuführen. Es versteht sich von selbst, dass alle Ereignisse abzusondern sind, wo eine staubartige Substanz durch den Wind herbeigeführt, oder von einem Vulkan ausgeworfen sein kann, oder wo gefärbte herabgefallene Tropfen von Insektenauswürfen herrühren können. Viele in älteren Schriftstellern gar zu unvollkommen erwähnten Ereignisse, bei denen man nicht wissen kann, was sich etwa Fabelhaftes könnte eingemengt haben, z. B. wenn Julius Obsequens, der unter die leichtgläubigsten Schriftsteller gehört, sagt: _terra_, _creta_, _luto_, _sanguine pluit_, lasse ich absichtlich weg, weil genug neuere und besser beobachtete Ereignisse dieser Art vorhanden sind; ich fange also das hier zu gebende Verzeichnis lieber mit einer recht auffallenden Begebenheit an, deren Erzählung wegen der Übereinkunft mit ganz neuern Ereignissen derselben Art Glauben verdient.
 
-Im 17ten Jahre der Regierung des Kaiser Leo Thrax, in der 10ten Indiction, und unter dem Consulate von Marcianus und Festus, also nach Playfair, Sethus Calvisius und andern Chronologen, ungefähr im Jahre 472 (und nicht in einem von den Jahren unserer Zeitrechnung, welche von den in Hinsicht auf Chronologie von einander sehr abweichenden und sehr unordentlich zu Werke gehenden byzantinischen Geschichtschreibern angegeben worden sind), den 6. November (nach Andern den 5. oder 11. November) erschien um die Mittagszeit ein schwarzes Gewölk, welches hernach eine brennende Gestalt annahm, so dass man glaubte, es werde alles verbrennen. Hierauf fiel bis um die Mitternachtszeit schwarzer Staub, welcher dem Kaminruss ähnlich war, und übel roch, in grosser Menge nieder, so dass er hernach auf den Dächern und auf der Erde, nach Einigen eine Hand hoch, nach Andern eine Spanne hoch lag. Dieser Staub war so heiss, dass viele Gewächse dadurch verbrannt und versengt wurden. Man stellte desswegen Bussgebethe und Processionen an, weil man glaute, es regne Feuer, welches aer durch göttliches Erbarmen in Asche verwandelt werde; man hat auch noch lange nachher diesen Tag in den griechischen Kirchen als einen Busstag gefeiert. Die Gegend, in welcher sich dieses ereignet hat, wird nicht genau angegeben, wahrscheinlich aber mag es in einem beträchtlichen Bezirke um Constantinopel geschehen sein. Am ausführlichsten ist diese Begebenheit in dem griechischen Menologium, gewöhnlich Menaea genannt, welches zu Venedig von 1612 bis 1628 bei Antonio Pinelli gedruckt ist, unter dem 5. November erzählt*), nächstdem in dem auf Befehl des Kaisers Basilius abgefassten _Menologium Graecorum_, welches zu Urbino 1727 nebst einer lateinischen Uebersetzung* in Folio erschienen ist, wo daraus, dass die gefallene Substanz ςακτἠ gennant wird, zu schliessen ist, dass sie müsse pechig oder klebrig gewesen sein. Auch reden verschiedene byzantinische Schriftsteller von dieser Begebenheit, z. B. Zonaras in Annal. p. 50; Georgius Cedrenus in Hist. p. 350; Michael Glycas in Annal. P. IV, p. 264; Theophanis Chronographia p. 103. (Die Seitenzahlen führe ich hier und auch hernach nach der Pariser Ausgabe an, weil diese auch in der Venezianischen am Rande bemerkt sind, und zum Aufsuchen dienen.) _Procopius de bello Gallico_, lib. II., cap. 4, und Marcellinus Comes, haben es dem Vesuv zugeschrieben, welcher doch seine Asche, die auch von ganz anderer Beschaffenheit ist, eben so wenig noch heiss nach Constantinopel geschickt haben kann, als er von dem ihm ebenfalls von Einigen zugeschriebenen Staubniederfalle im Archipelagus und in Syrien am 6. December kann die Ursache gewesen sein. Das auffallendste Gegenstück zu dieser Begebenheit ist unstreitig der auch mit einer Feuererscheinung verbunden gewesene Niederschlag von schwarzen Staube bei der Mündung des Lorenzflusses am 3. und 4. Julius 1814, von welchem hernach weiter die Rede sein wird, und man sieht aus dieser Uebereinkunft, dass in die Erzählungen nichts Fabelhaftes eingemengt ist.
+Im 17ten Jahre der Regierung des Kaiser Leo Thrax, in der 10ten Indiktion, und unter dem Konsulate von Marcianus und Festus, also nach Playfair, Sethus Calvisius und andern Chronologen, ungefähr im Jahre 472 (und nicht in einem von den Jahren unserer Zeitrechnung, welche von den in Hinsicht auf Chronologie voneinander sehr abweichenden und sehr unordentlich zu Werke gehenden byzantinischen Geschichtsschreibern angegeben worden sind), den 6. November (nach Andern den 5. oder 11. November) erschien um die Mittagszeit ein schwarzes Gewölk, welches hernach eine brennende Gestalt annahm, so dass man glaubte, es werde alles verbrennen. Hierauf fiel bis um die Mitternachtszeit schwarzer Staub, welcher dem Kaminruss ähnlich war, und übel roch, in großer Menge nieder, so dass er hernach auf den Dächern und auf der Erde, nach Einigen eine Hand hoch, nach Andern eine Spanne hoch lag. Dieser Staub war so heiß, dass viele Gewächse dadurch verbrannt und versengt wurden. Man stellte deswegen Bußgebete und Prozessionen an, weil man glaute, es regne Feuer, welches aer durch göttliches Erbarmen in Asche verwandelt werde; man hat auch noch lange nachher diesen Tag in den griechischen Kirchen als einen Bußtag gefeiert. Die Gegend, in welcher sich dieses ereignet hat, wird nicht genau angegeben, wahrscheinlich aber mag es in einem beträchtlichen Bezirke um Konstantinopel geschehen sein. Am ausführlichsten ist diese Begebenheit in dem griechischen Menologium, gewöhnlich Menaea genannt, welches zu Venedig von 1612 bis 1628 bei Antonio Pinelli gedruckt ist, unter dem 5. November erzählt*), nächstdem in dem auf Befehl des Kaisers Basilius abgefassten _Menologium Graecorum_, welches zu Urbino 1727 nebst einer lateinischen Uebersetzung* in Folio erschienen ist, wo daraus, dass die gefallene Substanz ςακτἠ gennant wird, zu schliessen ist, dass sie müsse pechig oder klebrig gewesen sein. Auch reden verschiedene byzantinische Schriftsteller von dieser Begebenheit, z. B. Zonaras in Annal. p. 50; Georgius Cedrenus in Hist. p. 350; Michael Glycas in Annal. P. IV, p. 264; Theophanis Chronographia p. 103. (Die Seitenzahlen führe ich hier und auch hernach nach der Pariser Ausgabe an, weil diese auch in der Venezianischen am Rande bemerkt sind, und zum Aufsuchen dienen.) _Procopius de bello Gallico_, lib. II., cap. 4, und Marcellinus Comes, haben es dem Vesuv zugeschrieben, welcher doch seine Asche, die auch von ganz anderer Beschaffenheit ist, eben so wenig noch heiss nach Constantinopel geschickt haben kann, als er von dem ihm ebenfalls von Einigen zugeschriebenen Staubniederfalle im Archipelagus und in Syrien am 6. December kann die Ursache gewesen sein. Das auffallendste Gegenstück zu dieser Begebenheit ist unstreitig der auch mit einer Feuererscheinung verbunden gewesene Niederschlag von schwarzen Staube bei der Mündung des Lorenzflusses am 3. und 4. Julius 1814, von welchem hernach weiter die Rede sein wird, und man sieht aus dieser Uebereinkunft, dass in die Erzählungen nichts Fabelhaftes eingemengt ist.
 
 *) Nicephorus Hieromonachus, der in diesem Werke den Novembermonath ausgearbeitet hat, sagt, vermuthlich ältern Nachrichten zufolge: ἅπας ὁ οὐρανὀς συννεφἠς γεγονὠς, τἠν συνηθητῶν νεφελῶν μελανἱκν εἰς πυρὡθη θἑαν μεταβαλὠν, ἐδὁκει τα πἁντα καταφλἑγειν... Τὀ δε κατερχὁμενον κὁνιςἦν μἑλαινα καἰ σφοδρὁτατα ζἑουσα καἰ παραπλἡσια τῇ καμινιαῖα αἰθἁλη καἰ πλἑιςη, ὧς ἑυρεθἡναι ὑπερἁνω τῆς γῆς καἰ τῶv κερἁμων ἐπιτεθετσα πλἑον ανδρικῆς σπιθαμῆς. Κατἑκαυσε δἐ καἰ κατἑφλεξε τἀ ἐκ τῆς γῆς ἀνἱοντα βοτἁνας τε καἰ φυτἀ.
 
