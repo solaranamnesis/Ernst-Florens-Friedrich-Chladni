@@ -846,6 +846,86 @@ Die grosse Höhe, in welcher solche Körper gesehen worden sind, würde, wenn ni
 
 4\. Beschaffenheit der Bahn, Achsendrehung, Bogensprünge.
 
+Gewöhnlich kommen Feuerkugeln in einer mehr oder weniger schiefen, bisweilen dem Horizonte fast parallelen, Richtung an, gehen über sehr beträchtliche Strecken Landes (wie z. B. die am 31. März 1676, von der Seite von Dalmatien, wo sie wohl auch schon viel weiter her mochte gekommen sein, quer über das adriatische Meer, über Italien, und nach Corsika zu weiter; die am 18. August 1783 über Schottland, England, Frankreich und Italien weiter vorwärts), und senken sich in einer krummen, allem Ansehen nach parabolischen, Linie. Hierauf fallen entweder die dichteren Bestandtheile nachdem Zerplatzen der Feuerkugel als Stein- oder Eisenmassen nieder, oder die Masse prallt (wie oft ist beobachtet worden), als ein lockerer, zu einem grossen Volumen (nach S. 6.) ausgedehnter, Körper von der Atmosphäre ab, und geht in Bogensprüngen weiter fort, und manche, wie schon Pringle vermuthet hat, fallen wahrscheinlich nicht nieder, sondern gehen (wenn ihre ursprüngliche Tangential-Bewegung zu schnell ist, als dass sie von der Anziehung der Erde bis zum Niederfallen könnte überwältigt werden) wieder von der Erde abwärts, um ihren Lauf im allgemeinen Weltraume fortzusetzen. Aus dieser Beschaffenheit der Bewegung, welche ganz so ist, wie sie einem aus dem Weltraume anlangenden Projectil zukommt, und so auch aus den bisweilen mehrere Mahle wiederhohlten Abprallen von der Atmosphäre sieht man ganz offenbar, bass ein solcher Körper schlechterdings nicht in der Atmosphäre gebildet sein kann, wo keine Kraft denkbar ist, die ihm eine solche tangentiale Richtung geben könnte, sondern dass die Bewegung aus Wirkungen einer Wurfkraft und des Falles zusammen gesetzt ist, und dass also ein solcher Körper vor seiner Ankunft eine ihm eigenthümliche Bewegung im Weltraume müsse gehabt haben, welche hernach bei der Annäherung an unsern Weltkörper durch die Schwerkraft abgeändert worden ist.
+
+Einige Mahle hat man bemerkt, dass Feuerkugeln sich um ihre Achse gedreht haben, wie z. B. den 29. Julius 1762, den 15. August 1808, den 5. September 1814, den 9. November 1814, und den 18. December 1818. Hieraus ist zu schliessen, dass ein solcher Körper, bei aller Lockerheit, doch vielen Zusammenhang der Theile haben müsse.
+
+Dass Feuerkugeln öfter Bogensprünge machen, ist schon den Alten, z. B. Aristoteles, bekannt gewesen; sie haben dergleichen Erscheinung _capra saltans_ genannt. In neuerer Zeit habe ich zuerst Nachrichten davon, mit Anführung vieler Beispiele, gegeben, in Gilberts Annalen der Physik, B. 55, S. 91, welcher Aufsatz auch in die _Annales de Chimie et de Physique_, Tom. IX. p. 389, eingerückt ist, und B. 56, S. 386. Diese springende Bewegung, deren Grund in nichts anderem, als in einem Abprallen oder Ricochettiren von der einer so schnellen Bewegung widerstehenden Atmosphäre liegen kann, ist so oft und vielfältig beobachtet worden, dass an der Richtigkeit der Sache gar nicht zu zweifeln ist. Bei mehreren Feuerkugeln ist diese Art der Bewegung unmittelbar beoachtet worden; bei einigen andern ist sie aus den schlangenförmigen oder zickzackförmigen Krümmungen des zurückgelassenen, und den von der Feuerkugel genommenen Weg bezeichnenden Schweifes zu schliessen gewesen.
+
+Unter den mir bekannt gewordenen Feuerkugeln ist eine sprungweise gehende Bewegung an folgenden unmittelbar beobachtet worden:
+
+1353, den 11. August, ward das Meteor einer feurigen Schlange ähnlich gefunden.
+
+1618 im August, ein kreuzförmiges (oder zickzackartig gehendes) Meteor.
+
+1649, den 1. September, bewegte sich auf und niederwärts in Sprüngen.
+
+1682 im December, ging in einem Bogen.
+
+1719, den 22. Februar, war es aus der angegebenen veränderlichen Richtung zu schliessen.
+
+1728, den 29. März, ward eine Feuerkugel wegen ihrer in Sprüngen auf- und niederwärts gehenden Bewegung, für eine _capra saltans_ erklärt.
+
+1738, den 13. Julius, bewegte sich in Sprüngen auf und nieder, aber immer nach und nach etwas weniger hoch und etwas niedriger; es dauerte wohl eine halbe Stunde, bis das Meteor sich endlich am Horizonte verlor.
+
+1740, den 24. Februar, hatte sich eine Feuerkugel nach und nach erhoben, senkte sich, und erhob sich wieder zurückspringend, worauf sie denn in einer grösseren Höhe platzte, und die Stücke niederfielen.
+
+1741, den 11. December, veränderte ihre Richtung.
+
+1742, den 16. December, bewegte sich schlangenförmig.
+
+1758, den 26. November, hob sich nach einer Senkung mit neuem Glanze. Ueber diese Feuerkugeln sind die Aufsätze von Pringle in der _Philos. transact._ Vol. 51, P. I. nachzulesen; sie enthalten viel Merkwürdiges, so wohl über diese Art der Bewegung, als auch überhaupt über Feuerkugeln.
+
+1763, den 15. Januar, bewegte sich schlangenförmig.
+
+1771, den 17. Julius, stieg nach einer Senkung, wo sie fast zu verlöschen schien, wieder aufwärts mit neuem Glanze.
+
+1778 im Februar, muss eine Feuerkugel zickzackartig gegangen sein, weil sie abwechselnd rückweise fortzugehen und still zu stehen schien.
+
+1778, den 26. August, machte Sprünge, und bei jeder Senkung eine Explosion.
+
+1787, den 11. Sept., hob sich nach einer Senkung, fiel wieder, und hob sich wieder, aber weder so hoch noch so tief, als vorher.
+
+1805, den 21. October, erschien wie ein zackiger Blitz.
+
+1806, den 11. Februar, scheint eine fast senkrecht gegen die Atmosphäre gefallene Feuerkugel gewesen zu sein, die sich zwei Mahl gesenkt, und wieder erhoben hat.
+
+1806, den 28. September, machte einen Bogensprung.
+
+1807, den 14. Dec., machte die Feuerkugel, welche den Steinfall bei Weston in Nord-Amerika gegeben hat, 3 Sprünge.
+
+1808, den 29. Julius, veränderte ihre Richtung, und bewegte sich schlangenförmig.
+
+1810, in der Nacht vom 2. bis 3. Januar, hatte eine veränderliche Richtung, und schien mehr nach oben zu gehen, (so wie manche Sternschnuppen auch gehen).
+
+1811, den 15. Mai, ging zickzackförmig.
+
+1812, den 23. August, schoss wieder aufwärts.
+
+1815, den 16. September, scheint, wegen der so verschiedenen Angabe, in sehr veränderten Richtungen gegangen zu sein.
+
+1817, den 1. September, erhob sich plötzlich, nach einer vorher (scheinbar) langsamen Bewegung.
+
+1817, den 17. October, änderte die Richtung.
+
+1818, den 18. Januar, ging schlangenförmig.
+
+1818, den 15. Februar, ging zickzackförmig.
+
+1818, den 17. Julius, änderte die Richtung.
+
+Hierher gehört allem Ansehen nach auch die von Bode (nach dem astronomischen Jahrbuche auf 1816, S. 149) beobachtete Erscheinung, wo am 3. Junius 1812, Nachmittags um 2 Uhr, im Fernrohr des Mauer-Quadranten plötzlich ein sehr heller Punct erschien, wie ein Stern, nur wenig vom östlichen Rande, etwas nördlich vom Horizontal-Faden, entfernt, welcher 2 bis 3 Secunden lang nach Westen rückte, doch ohne den ersten Faden zu erreichen, sich dann in einem Bogen südwärts sekte, hernach umkehrte, und während etwa 2 Secunden, südlich vom Horizontal-Faden, wieder aus dem Felde weg ging. Dieses ist wahrscheinlich nichts anders gewesen, als eine sehr entfernte meteorische Masse, die nach einer Senkung, durch Abprallen von der Atmosphäre, wieder aufwärts ging. Eine der von Benzenberg beobachteten Sternschnuppen ging auch in einer so gekrümmten Bahn, und am 18. September 1817, Abends um 9 Uhr, sah ich selbst zu Düsseldorf nach O. S. O. zu, ganz deutlich eine Sternschnuppe nach einer Senkung in einer hufeisenförmig nach unten gekrümmten Bahn, wieder aufwärts gehen. So hat auch Herr v. Schreibers 1819, gegen die Mitte des Februar, am südlichen Himmel eine helle Sternschnuppe aus einer ziemlichen Höhe, von der linken Seite schief niederwärts bis zu einer geringen Höhe über den Horizont, und sodann wider aufwärts gehen sehen, weiter nach der rechten Seite zu, und zwar scheinbar mehr unter einem spitzigen Winkel, als in einem Bogen. Dasselbe Meteor hat nach einer, von Herrn Doctor Schmiedel in Wien, mir mitgetheilten Nachricht ein glaubwürdiger Freund desselben, nebst noch einem Andern, ganz auf dieselbe Art gesehen, mit gelbröthlichem Lichte, ungefähr am 15. Februar.
+
+An folgenden Feuerkugeln ist diese Art der Bewegung aus der schlangenförmigen oder zickzackförmigen Gestalt des nachgelassenen, die Bahn des Meteors bezeichnenden, Schweifes zu schliessen gewesen: 1688, den 17. Aprill; 1719, den 19 März; 1730, den 17. Julius; 1757, den 18. Februar; 1762, den 29. Julius; 1779, den 31. October; 1798, den 28. Julius; 1805, den 23. October.
+
+Dass ein solches Abprallen von der einer so schnellen Bewegung (von etlichen Meilen in einer Secunde, S. 5.) sehr widerstehenden Atmosphäre, schon in einer Höhe von etlichen Meilen, wo die Luft sehr dünne ist, Statt finden könne, wird dadurch begreiflicher, weil ein solcher Körper nicht etwa sehr dicht, sondern vielmehr, bei nicht gar vieler Masse (S. 15.) zu einem sehr grossen Volumen (S. 6.) ausgedehnt, und also eher im Stande ist, von der Atmosphäre abzuprallen, als wenn er bei gleicher Masse kleiner und dichter wäre.
+
+5\. Geschwindigkeit der Bewegung.
+
+Aus vielen vorhandenen Beobachtungen und Berechnungen, und auch schon daraus, dass ein solches Meteor öfters in wenigen Secunden, einige Mahl sogar fast mit der Schnelligkeit eines Blitzes, quer über den ganzen Himmel gegangen ist, ergibt sich, dass die Geschwindigkeit anfangs die einer abgeschossenen Geschützkugel, welche nicht viel über 2000 Fuss in einer Secunde betragen kann, wohl 100 und mehrere Mahle übertroffen hat, und nicht geringer gewesen ist, als die der Weltkörper in ihrem Laufe. Diese Geschwindigkeit, welche viel zu gross ist, als dass man sie einem Auswurfe aus Mond-Vulcanen zuschreiben könnte, zeigt schon allein ganz offenbar, dass es Massen sind, die vor ihrer Ankunft, eben so wie grössere Weltkörper, eine eigenthümliche Bewegung im Weltraume hatten. Sie kann keine Folge des Falles sein, da sie hierzu viel zu gross ist, da auch die Richtung von der senkrechten gewöhnlich gar zu verschieden ist. In der Atmosphäre ist auch keine Kraft denkbar, die einer solchen Masse einen Stoss in einer Seitenrichtung geben könnte, wie zu einer so schnellen und fast horizontalen Bewegung erfordert würde.
+
+Späterhin wird die anfängliche ungeheure Geschwindigkeit durch den Widerstand der Luft sehr vermindert, und dieses um desto mehr, da Feuerkugeln, wie alle beobachteten Umstände lehren, sehr lockere, weit ausgedehnte Massen sind, und gewöhnlich nicht etwa senkrecht fallen, sondern in fast horizontaler Richtung sich über grosse Strecken Landes bewegen. Die niederfallenden Massen können also nicht tief in die Erde einschlagen, noch dazu, wenn sie in einem weichem Zustande, und in sehr schiefer Richtung niederfallen, so dass man sich wundern möchte, wie die eine am 26. Mai 1751 niedergefallene Eisenmasse hat drei Klafter tief in die Erde eindringen können. Benzenberg bemerkt wohl ganz richtig (in seinen Briefen, geschrieben auf einer Reise durch die Schweiz, B. 1., S. 33 und 34), die Luft sei der Körper, welcher vielleicht den grössten Widerstand bei schnellen Bewegungen ausübe; sie verdichte sich dann vor dem bewegten Körper, und hinter ihm entstehe ein leerer Raum, weil die Luft nicht schnell genug nachfliessen könne. Es werde also ziemlich einerlei sein, mit welcher Geschwindigkeit ein Körper in die Atmosphäre trete; ehe er 10 Meilen durchlaufen, werde sie nahe dieselbe sein, er möge mit einer einfachen, oder mit einer dreifachen Geschwindigkeit angefangen haben, gegen die Erde zu fallen; sie werde also endlich kaum wie die einer Kanonkugel sein. Untersuchungen dieses Gegenstandes von Bessel finden sich im Königsberger Archiv für Naturwissenschaft und Mathematik, 1811, 1. St., S. 36 bis 40. Er bemerkt, die Auflösung hänge von den Integrallogarithmen ab. Die Geschwindigkeit würde meistens nicht so gar beträchtlich sein. In dem von ihm gegebenen Falle würde die Geschwindigkeit eines Körpers, welche ohne den Widerstand der Luft, bei seiner Ankunft auf der Oberfläche
+
 ...
 
 ## Sechste Abteilung.
