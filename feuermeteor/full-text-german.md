@@ -1242,6 +1242,36 @@ Zwischen 1251 und 1360 wurden in Russland, bei Welikoi-Ustiug, durch herabgefall
 
 1596, den 1. März, haben zu Crevalcore Meteor-Steine Schaden angerichtet.
 
+1618, den 7. März, ist allem Ansehen nach nicht durch einen Blitz, sondern durch eine herabgefallene brennende Masse im Pallaste zu Paris ein Brand erregt worden, der ein und einen halben Tag gedauert hat.
+
+? Zwischen 1646 und 1654 soll eine 8 Pfund schwere Meteor-Masse auf einem Schiffe im Ost-Indischen Meere zwei Menschen getödtet haben.
+
+1650, den 6. August, hat ein Meteor-Stein zu Dordrecht ein Fenster eingeschlagen, und den Fussboden versengt.
+
+Nicht lange nach der Mitte desselben Jahrhunderts hat zu Warschau ein grosser Stein den Thurm eines Gefängnisses zerstört.
+
+Ungefähr um diese Zeit hat zu Mailand ein kleiner Stein einen Franciskaner getödtet.
+
+? 1721, scheint zu Riga der Brand der Peterskirche nicht durch einen Blitz, sondern durch eine Meteor-Masse verursacht worden zu sein, weil das Feuer nicht zerstreut, sondern körperlich in der Grösse eines Kindes herabgekommen sein soll.
+
+1749, den 4. November, hat im Atlantischen Meere ein Stück einer Feuerkugel an einem Schiffe den mittleren Topmast zerschlagen, und 5 Menschen niedergeworfen, von denen einer sehr verbrannt war.
+
+1756, sind zu Aix durch die Erschütterung bei der Explosion Schornsteine eingestürzt.
+
+? 1759, den 13. Junius, ist es ungewiss, ob zu Bazas durch einen Blitz, oder durch Stücke einer Feuerkugel, Häuser sind angezündet, und 4 Pferde getödtet worden.
+
+1761, den 12. November, hat ein Stück eines grossen Feuer-Meteors zu Chamblan, nicht weit von Dijon, ein Haus angezündet. Zwanzig Jahre früher soll bei Saint-le-sage, einem Dorfe bei St. Jean de Lone, ein Haus auf dieselbe Art, durch eine Sternschnuppe, angezündet worden sein.
+
+1779 hat zu Pettiswood ein Meteor-Stein an einem Pferde den hölzernen Theil des Joches zerschlagen, so dass es zu Boden fiel.
+
+1801, den 23. October, ward in England bei Bourg St. Edmont, durch ein Stück einer Feuerkugel das Haus eines Müllers angezündet.
+
+1803, den 4. Julius, ward zu East-Norton durch einen Meteor-Steinfall, im Gasthofe zum weissen Ochsen, viele Zerstörung angerichtet.
+
+1810, in der Mitte des Julius, hat bei Shabad in Ost-Indien eine Feuerkugel, mit der ein grosser Stein gefallen war, 5 Dörfer angezündet, und dadurch die Ernte vernichtet, und hat auch Manns- und Frauenspersonen beschädigt.
+
+30\. Vergebliche Bemühungen des Verfassers, einige ältere Meteor-Steine und Gediegeneisenmassen aufzufinden.
+
 ...
 
 ## Sechste Abteilung.
