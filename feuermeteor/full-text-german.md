@@ -1202,7 +1202,45 @@ Man hat auch mit Unrecht behauptet, es habe sich kein Meteor-Steinfall bei wolki
 
 28\. Unabhängigkeit von Perioden.
 
-Ritter und Andere haben behauptet, die Meteor-Steinfälle, und die Erscheinungen der Feuerkugeln hielten bestimmte Perioden, aber auch dieses bestätigt sich nicht in der Erfahrung. Nur alsdann würde man überhaupt befugt sein, auf ein Dasein von Perioden zu schliessen, wenn man Beobachtungen der auf der ganzen Oberfläche der Erde, oder wenigstens auf dem grössten Theile derselben, mehrere Jahre hindurch sich ereignenden Begebenheiten dieser Art hätte, und es sich daraus ergabe. 
+Ritter und Andere haben behauptet, die Meteor-Steinfälle, und die Erscheinungen der Feuerkugeln hielten bestimmte Perioden, aber auch dieses bestätigt sich nicht in der Erfahrung. Nur alsdann würde man überhaupt befugt sein, auf ein Dasein von Perioden zu schliessen, wenn man Beobachtungen der auf der ganzen Oberfläche der Erde, oder wenigstens auf dem grössten Theile derselben, mehrere Jahre hindurch sich ereignenden Begebenheiten dieser Art hätte, und es sich daraus ergabe. Die vorhandenen Nachrichten betreffen aber nur den sehr kleinen Theil der Erdoberfläche, wo die Menschen hinreichende Bildung haben, um einander ihre Naturbeobachtungen mitzutheilen; man kann also daraus gar nicht auf das Ganze schliessen. Ueberdiess, um mit einiger Wahrscheinlichkeit nur einiger Massen die jährliche Zahl der Meteor-Steinfälle beurtheilen zu können, von denen wir bei dem gegenwärtigen Zustande der wissenschaftlichen Mittheilung Nachricht erwarten dürfen, lässt sich alles das, was vor dem Jahre 1803 beobachtet ist, gar nicht in Anschlag bringen, weil erst von diesem Jahre an das schon 9 Jahre früher von mir für jeden Unbefangenen deutlich genug erwiesene Niederfallen meteorischer Massen als historisch und physikalisch nicht weiter abzuläugnende Thatsache allgemein ist anerkannt worden, und Mancher vorher würde geglaubt haben, sich durch Bekanntmachung solcher Ereignisse lächerlich zu machen, wie aus der ersten Abtheilung zu ersehen ist. Ich gebe hier die in jedem Jahre beobachtete Zahl der Meteor-Steinfälle, und anderer Feuerkugeln, so weit sie mir bekannt geworden sind, von dem Jahre 1803 an:
+
+Jahr|1803|1804|1805|1806|1807|1808|1809|1810|1811|1812|1813|1814|1815|1816|1817|1818|  
+Meteor-Steinfälle:|4|1|2|2|2|3|1|3|2|3|2|4|1|1|...|1|  
+Andere Feuerkugeln:|6|5|5|5|3|7|5|1|2|5|4|8|3|6|8|13|
+
+Für eines der Jahre 1804 bis 1806 kann noch ein Meteor-Steinfall in Dordrecht gerechnet werden. Das Maximum der beobachteten Meteor-Steinfälle war im Jahre 1803, vermuthlich weil man wegen der Neuheit der Sache, die kurz vorher allgemeiner zur Sprache kam, am aufmerksamsten darauf war, und im Jahre 1814. Nächstdem sind die meisten, nähmlich 3, in den Jahren 1808, 1810, 1812 beobachtet worden, in andern Jahren aber 1 oder 2, und im Jahre 1817 gar keiner, ausser wenn man das in Anschlag bringen will, dass im März wahrscheinlich in die Ostsee mögen Meteor-Steine gefallen sein. Vielleicht erhalten wir aus diesen Jahren noch eine und andere Nachricht aus entfernteren Gegenden. Die Zahl der zu beobachtenden Feuerkugeln scheint etwas ganz unbestimmtes zu sein, und wenn hier im Jahre 1817 8 Feuerkugeln, und im Jahre 1818 13 bemerkt sind, so ist nicht etwa daraus zu schlissen, dass deren Anzahl im Ganzen grösser gewesen sei, sondern der Grund liegt darin, weil ich alle Nachrichten von solchen Ereignissen auf meiner jetzigen Reise in Zeitschriften aller Art eifriger, als vorher, aufgesucht habe.
+
+29\. Ueber Schaden, der durch solche Meteore ist angerichtet worden.
+
+Da man mich öfters um dieses befragt hat, und wirklich durch solche Ereignisse Menschen sind getödtet worden, und manches in Brand gesteckt, oder sonst verwüstet worden ist, so stelle ich hier die mir bekannt gewordenen Beispiele zusammen. Bei alle dem hat niemand Ursache, sich vor einer solchen Naturbegebenheit sehr zu fürchten, da die Fälle sehr selten, und gegen den Schaden, der öfters durch den Blitz verursacht wird, fast für nichts zu rechnen sind.
+
+? Als zweifelhafte Beispiele, die sich nicht weiter historisch erweisen lassen, könnte man den Stein anführen, welcher nach Plinius, _hist. nat. II_, 58, zu Cassandria gefallen ist, welche Stadt desshalb Potidäa (die Angebrannte) genannt worden ist, vermuthlich weil ein Brand dadurch mag erregt worden sein, und die mit mancherlei Fabeln verbrämte Nachricht im Koran VIII, v. 16, und CV, v. 3 und 4, und in dessen Auslegern, wo Feinde durch Steine von gebrannter Erde sollen getödtet worden sein.
+
+Im Jahre 472, im November, wurden in den morgenländischen Gegenden, durch den in grosser Menge niedergefallenen heissen Staub, viele Gewächse verbrannt und versengt.
+
+1021, sollen in Afrika a Menschen durch herabgefallene Steine getödtet worden sein.
+
+? 1388, den 8. März, sollen zu Mosul durch herabgefallene feurige Kohlen (wahrscheinlich glühende Meteor-Massen) Häuser und Geräthe angezündet worden sein.
+
+Zwischen 1251 und 1360 wurden in Russland, bei Welikoi-Ustiug, durch herabgefallene Meteor-Steine Bäume zerstört.
+
+1304, den 1. October, ward bei Friedland oder Friedburg durch glühende Steine vieles verbrannt.
+
+(Eine 1368 im Oldenburgischen, angeblich in der Luft erschienene eiserne Keule, 200 Pfund schwer, welche Feinde soll getödtet haben, könnte vielleicht eine meteorische Eisenmasse gewesen sein. Indessen lässt es sich eben so wenig mit einiger Bestimmtheit in Anschlag bringen, wie die Volkssage, dass ein tyrannischer Burggraf, in Elbogen, durch eine herabgefallene Eisenmasse soll getödtet worden sein.)
+
+(1328, den 9. Januar, ist es zweifelhaft, ob in Mortahiah und Dakhaliah durch Meteor-Steine oder durch Hagel Ortschaften zerstört, und Rindvieh und Schafe getödtet worden sind).
+
+1379, den 26. Mai, soll bei Minden durch Steine Schaden angerichtet worden sein.
+
+1511, den 4. September, sollen durch den grossen Meteor-Steinfall bei Crema Vögel in der Luft, Schafe auf den Feldern, und Fische im Wasser getödtet worden sein.
+
+1552, den 19. Mai, ward bei Schleusingen viel Schaden durch Steine angerichtet, der Leibhengst des Grafen von Schwarzburg getödtet, und sein Leibarzt am Fusse etwas verletzt, u. s. w.
+
+? 1560, den 24. December, scheint das Ereigniss, wodurch zu Lillebonne ein Pulver-Magazin angezündet worden ist, kein Blitz, sondern eine Feuerkugel gewesen zu sein.
+
+1580, den 27. Mai, hat bei Nörten ein grosser Meteor-Steinfall an Häusern und an Vieh vielen Schaden gethan.
+
+1596, den 1. März, haben zu Crevalcore Meteor-Steine Schaden angerichtet.
 
 ...
 
