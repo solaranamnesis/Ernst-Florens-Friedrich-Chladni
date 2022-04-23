@@ -1272,6 +1272,36 @@ Ungefähr um diese Zeit hat zu Mailand ein kleiner Stein einen Franciskaner get�
 
 30\. Vergebliche Bemühungen des Verfassers, einige ältere Meteor-Steine und Gediegeneisenmassen aufzufinden.
 
+Mit aller Wahrscheinlichkeit konnte ich hoffen, auf meinen Reisen einige ältere Meteor-Steine an den Orten anzutreffen, wo sie zu Folge der vorhandenen Nachrichten sollten aufbewahrt sein. In der Absicht, theils sie selbst zu untersuchen, theils chemische Untersuchungen derselben zu befördern, und auch zugleich meine Sammlung meteorischer Substanzen zu bereichern, habe ich es an Nachforschungen nicht fehlen lassen; sie waren aber alle fruchtlos. Manche dergleichen Massen sind durch Unglücksfälle verloren gegangen; die meisten sind wahrscheinlich aus übelverstandenem Aufklärungseifer weggeworfen worden, weil man die gemeldeten Thatsachen für unmöglich, und die ganze Sache für abgeschmackt hielt; einige mögen auch in neuerer Zeit gestohlen worden sein. Der älteste noch vorhandene Meteor-Stein, welcher 1492 zu Ensisheim gefallen ist, würde gewiss auch nicht mehr vorhanden sein, wenn man ihn nicht, einem Decrete des Kaisers Sigismund gemäss, in der dortigen Kirche als ein Heiligthum aufbewahrt hätte.
+
+Die Meteor-Massen, nach welchen ich auf meinen Reisen vergeblich geforscht habe, werde ich hier in chronologischer Ordnung angeben.
+
+Der angeblich zu Würzburg im dreizehnten Jahrhundert gefallene Stein, welcher in dem dortigen Schottenkloster zu St. Jacob aufbewahrt ward, und sich jetzt im Naturalien-Cabinette der dortigen Universität befindet, ist nichts weiter, als eine alte Streitart von einer harten Steinart, die mit Meteor-Steinen keine Aehnlichkeit hat.
+
+Nach der 1368 im Oldenburgischen angeblich herabgekommenen ehernen Keule, die vielleicht eine meteorische Eisenmasse mag gewesen sein, habe ich mich, als ich dort war, erkundigt, aber das Schloss zu Oevelgönne, wohin sie war geliefert worden, ist, nebst noch andern dort befindlich gewesenen Merkwürdigkeiten, nicht mehr vorhanden.
+
+Zu Brüssel erkundigte ich mich nach dem Steine, welcher, wahrscheinlich im fünfzehnten Jahrhunderte, oder zu Anfange des sechzehnten nach Albrecht Dürer, der ihn gesehen hatte, neben dem Grafen von Nassau niedergefallen war, und im Nassauischen Hause aufbewahrt ward. In der dortigen Bibliothek fand ich eine Zeichnung des Nassauischen Hauses, nebst genauer Angabe des Ortes, wo der Stein im ersten Stocke neben dem vorletzten Fenster nach der Westseite, auswendig in einer Vertiefung der Mauer neben dem Altan linker Hand aufbewahrt worden ist. Das Nassauische Haus war aber etwa 50 Jahre vorher abgebrannt, und alles in der Gegend der Stadt anders, und weit schöner aufgebaut, aber der Stein war verloren gegangen.
+
+Von den 1559 in Ungarn bei Miskolz gefallenen 5 grossen Steinen sind 4 in die kaiserl. Schatzkammer nach Wien gebracht, und einer ist in dem Schlosse zu Diosgiör aufbewahrt worden. Auf meine Veranlassung hat der vorige Director des k. k. Naturalien-Cabinettes, Abbe Stütz, sich alle Mühe gegeben, sie zu finden; er hat sich auch in Diosgiör nach dem dort aufbewahrt gewesenen erkundigt, aber alles vergeblich.
+
+In und um Göttingen haben sich einige achtungswerthe Männer auf meine Veranlassung bemüht, die gedruckte Schrift von Joachim Kettler über den schrecklichen Steinfall 1580 bei Nörten, oder vielleicht noch irgend einen, etwa an einem benachbarten Orte aufbewahrten, Stein aufzufinden, aber ganz vergeblich.
+
+Der 1581 am 26. Julius in Thüringen gefallene Stein, 39 Pfund schwer, ist damahls nach Dresden an den Churfürsten geschickt worden, ich konnte also wohl erwarten, ihn dort im königlichen Naturalien-Cabinette zu finden; er ist aber nicht mehr vorhanden, wiewohl die gerichtlichen Acten über diese Begebenheit, nebst einer Zeichnung des Steines, sich noch in dem dortigen Archive befinden.
+
+Eben so ist auch der 1647 den 18. Februar in der Gegend von Zwickau gefallene Stein, einen halben Centner schwer, welcher auch dorthin geschickt worden ist, nicht mehr vorhanden.
+
+Der zu Dordrecht in das Haus des Syndicus, Doctor Berk, gefallene Stein befand sich späterhin in der Naturalien-Sammlung des Doctor Bennet zu Leiden, und ist durch die bekannte Pulver-Explosion verloren gegangen.
+
+In Mailand suchte ich in der Ambrosianischen Bibliothek, zugleich mit dem verdienstvollen und gefälligen Director derselben, dem Abbate Amoretti, sehr nach dem Steine, noch nicht 1 Unze schwer, welcher in _Convento di S. Maria della Pace_ einen Franziskaner getödtet hatte, es war aber nichts einem Meteor-Steine Aehnliches anzutreffen.
+
+Von den vielen mitunter grossen Steinen, welche 1668 am 19. oder 21. Junius im Veronesischen gefallen sind, und von deren einer, nach Valisnieri und Andern, in einer Kirche aufbewahrt ward, und einer von 300 Pfund, ingleichen einer von 200 Pfund, an die damahls dort befindliche Akademie der Wissenschaften waren geschickt worden, und wovon diese auch andern wissenschaftlichen Gesellschaften einiges mitgetheilt hatte, konnte ich doch wohl vernünftiger Weise erwarten, etwas in Verona anzutreffen. Ich habe mich dort genau darnach erkundigt, es war aber gar nichts, und auch nicht einmahl mehr eine Erinnerung daran, oder eine Sammlung einer damahligen Akademie der Wissenschaften vorhanden, es ward auch in keiner Kirche ein solcher Stein mehr aufbewahrt, und das einzige Stückchen, etwa 3 Quentchen schwer, welches sich im Museo Moscardi (dem Naturalien-Cabinette der gräflichen Familie Moscardi) befand, war nicht lange vorher von Paris aus in Requisition gesetzt worden, wo Laugier es analysirt hat.
+
+In Bern forschte ich nach dem grossen Steine, welcher 1694 in der Gemeinde Waltring gefallen, und in der dortigen Bibliothek nebst der Nachricht aufbewahrt worden ist, er war aber nicht mehr vorhanden.
+
+Der 1766 im Julius nicht weit von Moden, bei Alboreto gefallene Stein soll, wie man mir dort sagte, auch verloren gegangen sein.
+
+Der im Coburgischen bei Rodach 1775 den 19. September gefallene Stein, welcher nach den Nachrichten des Pfarrers Büttner, in Gilberts Annalen B. 29, S. 93, im herzoglichen Naturalien-Cabinette, welches hernach dem Gymnasium übergeben worden ist, niedergelegt war, und noch im Jahre 1804 or 1805 vorhanden gewesen sein muss, ist nicht mehr dor aufzufinden; er muss also entweder weggeworfen, oder gestohlen worden sein. Ich habe mich möglichst genau darnach erkundigt.
+
 ...
 
 ## Sechste Abteilung.
