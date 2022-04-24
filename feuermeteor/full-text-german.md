@@ -1368,6 +1368,86 @@ Als meine erste Abhandlung über diesen Gegenstand im Jahre 1794 erschien, hatte
 
 1803, den 13. December, ei Eggenfelde, über 3/4 Unze, bemerkenswerth wegen der Mannigfaltigkeit der Gemengtheile, und wegen der Krystallisationsflächen an einem Stücke der dunkelgrauern Substanz.
 
+1806, den 15. März, bei Alais, mehrere kleine Brocken von dieser von selbst zerfallenden, mehr einem schwarzen Mulme, als andern Meteor-Steinen, ähnlichen Substanz.
+
+1807, den 13. März, bei Timochin, im Gouvernement von Smolensk, über eine Unze.
+
+1807, den 14. December, bei Weston in Connecticut, 2 Stücke, eines fast 3/4 Unze, das andere etwa 1 Unze schwer.
+
+1808, den 19. Aprill, im Parmesanischen, etwas über 1/2 Unze.
+
+1808, den 22. Mai, bei Stannern, ein ganzer Stein, über 5 Unzen schwer, und noch ein Paar Stücke.
+
+1808, den 3. September, bei Lissa in Böhmen, 2 Stücke.
+
+1810, den 23. November, bei Charsonville, nicht weit von Orleans, 1 1/4 Unze.
+
+1810, im August, in der Grafschaft Tipperary in Irland, über 1 Unze.
+
+1811, den 8. Julius, bei Berlanguillas, 2 Stücke, das eine mit, das andere ohne Flecke von Eisenoxyd, zusammen ungefähr 1 1/2 Unze.
+
+1812, den 10. Aprill, bei Toulouse, über 1 Unze.
+
+1812, den 15. Aprill, bie Erxleben, fast 1 Unze.
+
+1814, den 5. Sept. bei Agen, 2 Stück, zusammen 1 Unze.
+
+1815, den 3. October, bei Chassigny, nicht weit von Langres, 1/2 Unze.
+
+2\. Gediegeneisen.
+
+Von nickelhaltigem Gediegeneisen von ästigem Gefüge, mit inliegendem Olivin, besitze ich folgendes:
+
+Ein Stück von der Pallas'schen, in Sibirien gefundenen, Eisenmasse, in welchem sich besonders ein Olivin auszeichnet, der ziemlich durchsichtig ist, und 3 regelmässige 5 seitige Krystallisationsflächen zeigt, so dass er ein Dodekaeder zu sein scheint. Ueber 7 Unzen schwer, nebst noch einem kleineren.
+
+Etwas von einer in Sachsen auf dem Felde gefundenen Masse, welche sich in Gotha befindet, etwas über 1/2 Uze.
+
+Von nickelhaltigem Gediegeneisen, derb, und von krystallinischem Gefüge, folgendes:
+
+Von der im Agramer Comitat 1751, den 26. Mai gefallenen Masse ein kleines, aber lehrreiches Stück.
+
+Von der Elbogner Eisenmasse ein sehr gutes Stück, etwas über 7 Unzen schwer.
+
+Von der in Ungarn bei Lenarto gefundenen Masse, über 6 Unzen. Die Art des krystallinischen Gefüges gibt sich im Bruche sehr deutlich zu erkennen, an einer geätzten Fläche aber besonders schön, und in grossen Verhältnissen.
+
+Von der am Vorgebirge der guten Hoffnung gefundenen Masse, etwas über 2 1/2 Unzen.
+
+Ein kleines Stück von mexikanischem Gediegeneisen.
+
+Eines dergleichen von San Iago del Estero in Süd-Amerika.
+
+Von problematischem Gediegeneisen besitze ich:
+
+Von der Achener Masse, etwas über 1 Unze, nebst einem Stücke von der Rinde.
+
+Von der mailändischen Masse, einige Stücke.
+
+Von dem in Steiermark gefundenen durchaus damascirten Eisen, etwa 2 Unzen.
+
+Von dem bei Florac gefundenen, etwas von dem dichteren und etwas von dem schwammigen Eisen, und auch etwas von der Rinde.
+
+3\. Herabgefallene weiche oder staubartige Substanzen.
+
+Etwas von dem harzigen Stosse, welcher 1796 den 8. März in der Ober-Lausitz mit einer Feuerkugel herabgefallen ist.
+
+Rückstand von rothem Schnee von der Alpe Anceindaz am Flusse der Diablerets.
+
+33\. Wahrscheinlichkeit eines häufigen Niederfallens meteorischer Massen auf unseren Weltkörper.
+
+Die Niederfälle meteorischer Massen scheinen nach den von Hrn. von Schreibers mir mitgetheilten Bemerkungen sich weit häufiger zu ereignen, als man sich gewöhnlich vorstellt. In Frankreich hat man von 1790 bis 1815, also in einem Zeitraume von 26 Jahren, deren 10 beobachtet, nähmlich: 1. im Julius 1790, bei Barbotan u. s. w.; 2. im März 1796, Sales; 3. Aprill 1803, L'Aigle; 4. October 1803, Apt; 5. März 1806, Alais; 6. November 1810, Charsonville; 7. Aprill 1812, Toulouse; 8. August 1812, Chantonnay; 9. September 1814, Agen; 10. October 1815, Chassigny. Nun ist doch wohl kein vernünftiger Grund vorhanden, um anzunehmen, dass dieses Land vorzugsweise mit dieser Himmelsgabe beschenkt werde; es kann vielmehr die Ursache in nichts anderem liegen, als dass man dort in neuerer Zeit aufmerksamer auf dergleichen Naturerscheinungen gewesen ist, als in andern Ländern England ausgenommen, wie aus der dritten und vierten Abteilung zu ersehen ist. Der Flächenraum, auf welchem sich diese Niederfälle ereignet haben, kann etwa gegen 6000 Quadrat-Meilen betragen haben, da L'Aigle, N. von Toulouse, S. ungefähr 80 Meilen, und Barbotan, W. von Apt, O. ungefähr 70 Meilen entfernt ist. Da dieser Flächenraum sich zur Erdoberfläche (welche, die Unebenheiten ungerechnet, = 9,282060 geogr. Quadrat-Meilen ist) fast wie 1:2000 verhält, so könnte man wohl, nach Hrn. von Schreibers, mit aller Wahrscheinlichkeit annehmen, dass in diesem Zeitraume von 26 Jahren auf der ganzen Erdoberfläche fast 2000 Mahl mehr, also fast 18000 Niederfälle sich ereignet haben möchten, so dass also, wenn es gleichförmig geschähe, auf jedes Jahr mehr als 700, oder ungefähr auf jeden Tag 2 gerechnet werden könnten.
+
+In England, Schottland und Irland sind in ebenfalls 26 Jahren, nähmlich von 1791 bis 1816, 9 bis 10 Niederfälle beobachtet worden, nähmlich 1. October 1791, zu Menabilly; 2. December 1795, Yorkshire; 3. September 1802, in den schottischen Hochlanden; 4. Julius 1803, East-Norton; 5. Aprill 1804, High-Possil; 6. Mai 1806, Hantshire; 7. August 1810, Tipperary; 8. ? 1813, Malpas; 9. September 1813, Limerick; 10. 1816, Sommersetshire. Wenn man die Fläche, auf welcher sich diese Niederfälle ereignet haben, mit der ganzen Erdoberfläche vergleicht, so wird das Resultat auch nicht viel geringer ausfallen, als das vorher angegebene.
+
+Wenn auch, nach S. 4., viele bei ihrer Annäherung an unsern Planeten sich als Feuerkugeln oder Sternschnuppen zeigende Massen nicht niederfallen, sondern wieder hinaus in das Weite gehen mögen, so müsste doch wohl alles seit der letzten Umbildung unserer Erdoberfläche Niedergefallene, wenn es beisammen wäre, hinreichend sein, um ein ziemlich beträchtliches Gebirge zu bilden, besonders, wenn man das in Anschlag bringt, dass die Ereignisse, wo in irgend einer früheren Zeit so viele grosse Eisenmassen in Afrika und in Amerika, wahrscheinlich auch in das Meer, gefallen sind, weit grösser müssen gewesen sein, als alle in neuerer Zeit beobachteten. Das, was seit dem Julius 1790 bei den bekannt gewordenen, und in der vierten Abteilung erwähnten Niederfällen herabgekommen ist, so dass man es wirklich hat können habhaft werden, muss nach einer ungefähren, wohl zu geringen, Schätzung, doch wenigstens über 6000 Pfund betragen haben, die Staub- und Schlammniederfälle nicht einmahl mitgerechnet.
+
+Späterer Nachtrag zum 4. S. dieser Abteilung.
+
+Zu den Meteoren, bei denen eine sprungweise gehende Bewegung ist beobachtet worden, gehört auch das am 8. oder 9. Januar 1816; dessgleichen auch unter den, nach Abel-Remusat im _Journal de Physique_, Mai 1819, im China beobachteten Feuer-Meteoren, das 32 Jahre vor unserer Zeitrechnung, und das im Jahre 577 nach Christi Gebrut, welche schlangenförmig gegangen sind, und das im Jahre 905, dessen Schweif schlangenförmig war. Wenn manches solcher Meteore von den Chinesen ein himmlischer Hund genennt wird, so ist dieses wahrscheinlich eben so wohl, wie der Ausdruck: _capra saltans_, von einem sprungweise gehenden Meteore zu verstehen.
+
+## Dritte Abteilung.
+
+Nachrichten von beobachteten Feuerkugeln in chronologischer Ordnung, und zwar sowohl von solchen, deren Massen man habhaft geworden ist, als auch von andern.
+
 ...
 
 ## Sechste Abteilung.
