@@ -1448,6 +1448,46 @@ Zu den Meteoren, bei denen eine sprungweise gehende Bewegung ist beobachtet word
 
 Nachrichten von beobachteten Feuerkugeln in chronologischer Ordnung, und zwar sowohl von solchen, deren Massen man habhaft geworden ist, als auch von andern.
 
+Hier war die Absicht, hauptsächlich solche Nachrichten von Feuerkugeln zu sammeln, wo man entweder aus der von mehreren Standpuncten aus beobachteten scheinbaren Bahn die wahre Bahn, oder die Höhe u. s. w. einiger Massen bestimmt hat, oder aus welchen sonst etwas in physikalischer Hinsicht Bemerkenswerthes sich ergibt. Andere sind nur gelegentlich und ganz kurz hier erwähnt. Wollte man noch mehrere, besonders ältere und gar zu unbestimmte Nachrichten aufsuchen und zusammenstellen, so würde sich das Verzeichniss sehr vermehren lassen. Alles, was damit verwechselt worden ist, aber, so weit es sich aus den Nachrichten beurtheilen lässt, nichts weiter, als eine nordlichtartige Erscheinung, oder ein Blitz gewesen ist (der sich auch bisweilen, wie mancher elektrische Funke im Kleinen, als eine abgesonderte Feuermasse zeigen kann), oder eine Art von Wirbelwind oder Landhose (wo bisweilen auch ein elektrisches oder durch Compression der Luft hervorgebrachtes Licht sich soll gezeigt haben), lasse ich weg, weil es nicht hierher gehört. In meiner ersten Schrift habe ich das nicht sehr zahlreiche Verzeichniss mit der Feuerkugel 1676, den 31. März (nicht 21. Mai) angefangen, und das war auch hier meine Absicht, weil das die erste ist, welche man gut beobachtet hat; da sich aber von einigen früheren gelegentlich auch einige bemerkenswerthe Nachrichten fanden, so theile ich diese auch mit.
+
+Die Feuer-Meteore, bei welchen das Niederfallen der Massen beobachtet worden ist, habe ich dadurch bezeichnet, dass ich die Nachricht in Klammern () eingeschlossen habe; es ist alsdann das Weitere bei Niederfällen von Stein- und Eisenmassen in der vierten Abteilung, und bei Niederfällen von staubartigen oder schlammigen Substanzen in der sechsten Abteilung nachzusehen.
+
+1325, den 22. Mai, zu Florenz eine grosse Feuerkugel.
+
+1352, den 22. October, nach Sonnenuntergange, in Italien ein grosses Feuer-Meteor mit Detonation.
+
+1353, den 11. August, in der ersten Stunde der Nacht, in Italien ein Meteor, wie eine grosse feurige Schlange.
+
+1354, den 1. März, in der sechsten Stunde der Nacht, also nicht lange nach Mitternacht, in Italien ein fliegendes Feuer. Diese Nachrichten sind aus dem _Journal des Savans_ 1676, p. 66.
+
+1465, den 22. September, bei Paris eine Feuerkugel, welche, als der Herzog von Burgund die Stadt belagerte, für eine Rakete gehalten ward, und die Belagerten beunruhigte. _Henry Sauval, Histoire et antiquites da la ville de Paris, Tome II_, p. 553.
+
+1465, den 18. November, früh um 6 Uhr, wieder ein solches Meteor in Paris, welches viel Erstaunen erregte. Ebendaselbst.
+
+(1548, den 6. November, des Nachts zwischen 1 und 2 Uhr, in Thüringen ein von Weston nach Osten ziehendes Feuer-Meteor, mit vielem Getöse, und mit Niederfall einer dem geronnenen Blute ähnlichen Substanz.) S. die sechste Abteilung.
+
+1557, den 25. November, in Italien ein grosses Feuer-Meteor mit vielem Getöse. _Journal des Savans_ 1676, p. 66.
+
+(1560, den 24. December, um Mittag, ist das Ereigniss, wodurch zu Lillebonne ein Pulver-Magazin angezündet ward, und wobei auch rother Schlamm niedergefallen ist, kein Blitz, sondern ein hierher gehörendes Feuer-Meteor gewesen, weil es sich im Winter bei heiterem Himmel zugetragen hat, und geraume Zeit hindurch viel Feuer in der Luft gesehen worden ist.) S. die sechste Abteilung.
+
+1566, den 17. Julius, zwischen 11 und 12 Uhr, eine Feuerkugel zu Paris, nach _Henry Sauval_, am angef. Orte.
+
+1577, den 11. October, Abends zwischen 7 und 8 Uhr, in der Schweiz eine Feuerkugel, die mit einem Knalle zersprang. Scheuchzers Naturgeschichte der Schweiz, 1. T. S. 286.
+
+(1583, den 2. März, in Piemont ein nach Osten ziehendes Feuer-Meteor, woraus mit Krachen und dickem Dampfe ein Stein feil.) S. die vierte Abteilung.
+
+1584, den 19. Februar, nach 6 Uhr Abends, eine Feuerkugel zu Zürich. Scheuchzers Naturgeschichte der Schweiz, I. Teil, S. 286.
+
+1603, den 10. September, Abends um 10 Uhr, in der Schweiz eine von N. nach S. ziehende Feuerkugel. Ebendaselbst, S. 287.
+
+1618, den 7. März, um 1 Uhr nach Mitternacht, soll nach _Henry Sauval_, im vorher angeführten Werke, _Tome III_, p. 14, ein vom Himmel gekommenes Feuer, wie ein flammender Stern, eine Elle lang, und einen Fuss breit (also wahrscheinlich eine glühende Meteor-Masse), in einem Saale des Pallastes zu Paris einen Brand erregt haben, der anderthalb Tage gedauert hat.
+
+(1618, in der zweiten Hälfte des August, ein Feuer-Meteor, mit Steinniederfalle und sogenanntem Blutregen, in Steiermark, an der Gränze von Ungarn.) S. die vierte und sechste Abteilung.
+
+1623, den 10. März, früh um 4 Uhr, zu Zürich eine Feuerkugel, mit einem wie eine lange feurige Stange gestalteten Schweife. Scheuchzer im angef. Buche S. 288.
+
+1623, den 17. November, oder den 7. November alten Styls, um 5 Uhr Nachmittags, ward eine Feuerkugel in ganz Deutschland gesehen, die von W. nach O. zog. _Philos. trans._ Nr. 360. Gilberts Annalen der Physik, B. 30, S. 106. _Kepleri Ephemer._ In Oesterreich ward das donnerartige Getöse gehört. Sie veränderte ihre Farbe, und zeigte sich nach einander weiss, gelb, dunkelblau, und endlich vor dem Verlöschen rot. Es ist darüber ein zu Strassburg 1623 gedruckter Bericht von Isaak Habrecht, und auch einer von Wilhelm Schickhardt erschienen, welche ich in der königl. Bibliothek zu Stuttgart angetroffen habe.
+
 ...
 
 ## Sechste Abteilung.
