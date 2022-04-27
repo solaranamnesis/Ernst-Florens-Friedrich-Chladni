@@ -1488,6 +1488,76 @@ Die Feuer-Meteore, bei welchen das Niederfallen der Massen beobachtet worden ist
 
 1623, den 17. November, oder den 7. November alten Styls, um 5 Uhr Nachmittags, ward eine Feuerkugel in ganz Deutschland gesehen, die von W. nach O. zog. _Philos. trans._ Nr. 360. Gilberts Annalen der Physik, B. 30, S. 106. _Kepleri Ephemer._ In Oesterreich ward das donnerartige Getöse gehört. Sie veränderte ihre Farbe, und zeigte sich nach einander weiss, gelb, dunkelblau, und endlich vor dem Verlöschen rot. Es ist darüber ein zu Strassburg 1623 gedruckter Bericht von Isaak Habrecht, und auch einer von Wilhelm Schickhardt erschienen, welche ich in der königl. Bibliothek zu Stuttgart angetroffen habe.
 
+(1634, den 27. October, des Morgens um 8 Uhr, in der Grafschaft Charollois, im ehemaligen Herzogthume Burgund, ein Feuer-Meteor, wie eine rothe flammende Wolke, woraus mit grossem Getöse Steine fielen.) S. die vierte Abteilung.
+
+(1637, den 29. November, Vormittags um 10 Uhr, im südöslichen Frankreich eine vielfarbige Feuerkugel, mit vielem Geräusch, Schwefelgeruch, und Niederfallen eines 38 Pfund schweren Steines.) S. die vierte Abteilung.
+
+1641, den 25. September, nach 4 Uhr Nachmittags, in der Lausitz bei heiterem Himmel eine Feuerkugel, welche mit schrecklichem Knalle zersprang, und eine grosse Erschütterung gab. Breslauer Sammlungen, 19. versuch, S. 279. In dem Morgenblatte 1816, Nr. 214, wird, aus welcher Quelle, weiss ich nicht, gemeldet, die Erscheinung dieser Feuerkugel habe den schwedischen Oersten Wanken, welcher die Stadt Görlitz hartnäckig vertheidigt hatte, so erschreckt, dass er sich sogleich entschlossen habe, eine Capitulation anzutragen, in der Meinung, dass, wenn Gott selbst mit ihm zu kriegen anfange, er zu schwach zum Widerstande sei.
+
+(1642, einige Tage nach dem 30. November, nach einer andern Nachricht den 12. December, sollen in Ungarn zwischen Gran und Ofen 5 Feuerkugeln, vermuthlich Stücke einer vorher zersprungenen, schreckliche Explosionen gemacht haben, worauf Blei und Zinn, vermuthlich weiches Eisen, das man dafür gehalten, soll niedergefallen sein.) S. die vierte Abteilung.
+
+1643, den 6. Februar, des Morgens um 5 Uhr, bei Glarus ein Feuer-Meteor, das zwei Explosionen machte. _Theatr. europ. Tom. IV_, p. 903.
+
+(1647, den 18. Februar, in der Nacht, ein Feuer-Meteor bei Zwickau, welches Flammen und Funken warf, und woraus mit grossen Krachen ein Stein, einen halben Centner schwer, fiel.) S. die vierte Abteilung.
+
+1648, den 8. Januar, Abends um 4 Uhr (ob nach der gewöhnlichen oder nach der italienischen Zeitrechnung, ist wohl ungewiss) eine Feuerkugel im Neapolitanischen. In den _Memoires du Duc de Guise_, p. 322 (2. _edit. Paris_ 1668. 8) wird gesagt: _Revenant de Capo de Chino_ (zwischen Neapel und Aversa) _il m'arriva une chose assez extraordinaire et que plus de trois mille personnes virent avec moy. Ce fut sur les quatre heures du soir qu'il parut une estoile sur ma gauche, de la grandeur qu'est le corps des plus prodigieuses cometes, qui ne paroissoit pas plus elevee qu'elles ont coutume de l'estre. Elle demeura un quart d'heure_ (vielleicht wohl etwas kürzere Zeit) _sans mouvement_ (ohne Zweifel nur scheinbar, weil die Beobachter sich in der Richtung der Bewegung des Meteors befunden haben) _et tombant du ciel avec une vitesse extraordinaire, traversant pour venir sur ma droite, s'arreta a moitie chemin au dessus de la teste de mon cheval_ (scheinbar, so wie man öfters solche Meteore für näher gehalten hat, als sie gewesen sind) _et se separant en trois assez grand feux, se reunit environ a trente pieds de terre et puis en achevant d'y tomber, disparut_. Hätte man dergleichen Naturerscheinungen besser gekannt, so würde man an der Stelle die herabgefallene Masse aufgesucht haben. Die Nachricht hat Herr Baron von Moll mir mitzutheilen die Güte gehabt.
+
+1648, den 10. Januar, um 10 Uhr Abends, bei Glückstadt eine grosse Feuerkugel mit Knalle. _Theatr. europ. Tom. VI_, p. 631.
+
+1649, den 11. Mai, Nachmittags, hörte man im Elsass ein grosses Getöse und ein Sausen, wie von einer Kugel, sah aber, weil der Himmel mit Wolken bedeckt war, kein Feuer-Meteor. _Theatr. europ. Tom. VI_, p. 1016. Gilberts Annalen, B. 29, S. 216.
+
+1649, den 1. September, des Morgens um 3 Uhr, zu Hamburg eine Feuerkugel, nach N. O. zu, die sich auf- und niederwärts in Sprüngen bewegte. Aus dem _Theatr. europ._ in Gilberts Annalen B. 30, S. 112.
+
+1651, den 7. Januar, nach Mitternacht, zwischen 1 und 2 Uhr, in der Schweiz eine Feuerkugel mit anhaltendem Getöse wie Kanonenschüsse. Scheuchzers Naturgeschichte der Schweiz, I. B., S. 288.
+
+1661, den 20. Januar, Abends um 7 Uhr, in der Schweiz eine Feuerkugel. Ebendaselbst.
+
+1662, den 26. Aprill, Abends zwischen 8 und 8 1/2 Uhr, zu Königsberg in Preussen eine grosse Feuerkugel. _Theatr. europ. Tom. IX_, p. 507.
+
+1663, den 13. März, zwischen 2 und 3 Uhr des Nachts, bei Malmöe in Schonen eine Feuerkugel, kam von S. W., zersprang mit Knalle. _Theatr. europ. Tom. IX_, p. 1075.
+
+1664, den 8. Aprill, in Sachsen eine Feuerkugel mit Getöse. Breslauer Sammlungen, 1. Versuch, S. 164.
+
+(1668, den 19. oder 21. Junius, in der fünften Stunde der Nacht (nach italienischer Zeitrechnung), zog ein grosses Feuer-Meteor im nördlichen Italien von W. nach O., woraus mit Krachen und Erschütterung sehr grosse Steine im Veronesischen fielen). S. die vierte Abteilung.
+
+(1671, den 27. Februar, um die Mittagszeit, eine Feuerkugel in Schwaben mit vielem Getöse und einem Steinfalle). S. die vierte Abteilung.
+
+1676, den 24. Januar, Abends um 7 Uhr, in der Schweiz ein Feuer-Meteor, zersprang mit Knalle. Scheuchzers Naturgeschichte der Schweiz, I. Band, S. 289.
+
+1676, den 21. Februar, um 10 Uhr Abends, ebenfalls. Ebendaselbst.
+
+1676, den 31. März (nicht den 21. Mai, wie in meiner ersten Schrift steht, wo wo die unrichtige Zahl 21 von Halley entlehnt, und Mai anstatt März ein Druckfehler ist), etwa anderthalb Stunden nach Sonnenuntergange, ward eine Feuerkugel in ganz Italien, und in einem grossen Theile von Deutschland gesehen, die von der Seite Dalmatiens kam, von Ost-Nord-Ost anch West-Süd-West über das adriatische Meer senkrecht über Rimini und Savigniano zog, mit einem zischenden Geräusch, wie bei einem Feuerwerke, hernach jenseits Livorno in der Richtung von Corsika sich weiter fortbewegte, und mit Krachen und Erschütterung zersprang, worauf man ein Getöse hörte, wie bei einem über Steine rollenden Wagen. Nachrichten davon finden sich in einem Aufsatze von Halley, in den _Philos. transact. Vol. XXII. Nr. 341_, p. 159, und in einem von P. M. Kavina, in den _Miscell. Acad. Nat. Curios. anno 1677, append._ p. 195, ingleichen im _Journal des Savans_ 1676, p. 66, wo das Meteor auch so abgebildet ist, wie es als eine brennende, sich schnell durch die Luft bewegende, Masse füglich kann ausgesehen haben. Montanari, Professor der Mathematik zu Bologna, hat eine eigene Abhandlung darüber herausgegeben, unter dem Titel: _La fiamma volante, gran meteora veduta sopra l'Italia la sera di 31. marzo 1676, speculazioni fisiche ed astronomiche espresse dal Dott. Geminiano Montanari in una lettera al Marchese Gonzaga._ Bologna, 1676. 4. Es ward alles erleuchtet, wie am hellen Tage. Die Gestalt war elliptisch und etwas veränderlich; die Farbe des Schweifes, welcher drei Mahl länger und am Ende zugespitzt war, zeigte sich erst roth und hernach blau; die scheinbare Grösse war wie der Vollmond. Aus Berechnungen der Parallaxe schätzte man die beobachtete Höhe wenigstens auf 38 ital. Meilen, oder 120,000 Schritte, den Durchmesser nach der einen Richtung ungefähr eine, nach der andern anderthalb italienische Meilen, und die Geschwindigkeit nicht weniger, als 160 italienische Meilen in einer Minute. Nach der angeführten Nachricht im _Journal des Savans_ scheint es, dass man zu Florenz die Ankunft der Masse und den Anfang der Entzündung beobachtet habe; man sah nähmlich erst eine kleine weisse Flamme, wie ein kleines Wölkchen, die aber bald viel grösser und glänzender ward. Auf den Schweif folgten schwarze Wolken (aus dem Rauche der brennenden Masse bestehend), man verspürte auch einen Schwefelgeruch. Dass die Höhe des Meteors müsse sehr beträchtlich gewesen sein (grösser, als die vorher angegebene), folgt schon daraus, weil man es in ganz Italien das Sternbild des Orions passiren gesehen hat. Die Dauer wird auf 1 bis 2 Minuten geschätzt. Halley bemerkt, dass die Richtung, in welcher sich das Meteor bewegt hat, der Richtung der Erde in ihrem Laufe, wie sie zu der Zeit gewesen ist, gerade entgegen gesetzt war.
+
+? 1676 den 8. Aprill, wenn es nicht etwa einerlei mit dem vorher erwähnten Meteor, und ein unrichtiges Datum ist, hat man um 1 Uhr des Nachts, nach italienischer Zeitrechnung, zu Montepulciano u. s. w. eine Feuerkugel gesehen, die aus einer dicken und dunkeln Wolke (von Rauch) hervorkam, erst braun war, und dann sehr hell leuchtete, und mit vielem Getöse und mit Erschütterung, wie bei einem Erdbeben, platzte, nach einem Schreiben des Dr. Montecchi aus Montepulciano an Athanasius Kircher in Rom, in den _Miscell. Acad. Nat. Curios. pro ann._ 1677, p. 199. Man will den Schwefelgeruch drei Tage lang gespürt haben.
+
+1676, den 20. September, zwischen 7 und 8 Uhr Abends, eine Feuerkugel, die in ganz England gesehen ward. _Philos. transact._ 1677, p. 863; Wallis, der davon Nachricht gibt, war geneigt, solche Massen für kleine terrestrische Kometen zu halten.
+
+1678, den 6. Februar, hat man zu Frankfurt am Main einen so genannten fliegenden Drachen, oder ein Feuer-Meteor gesehen, wobei am Affenthore (in Sachsenhausen, dem südlichen am linken Mainufer liegenden Theile der Stadt) Feuer vom Himmel gefallen sein, und noch eine Viertelstunde lang auf der Erde geglimmt und gedampft haben soll. Lersners Chronik von Frankfurt, II. Theil, S. 763. Es ist Schade, dass man die niedergefallene Masse nicht besser untersucht hat, da man dann unstreitig eine Stein- oder Eisenmasse würde gefunden haben, indem Feuer nicht auf der Erde liegen und dampfen kann, ohne dass etwas da ist, was brennt und dampft.
+
+1680, den 22. Mai, des Morgens um 3 Uhr, hat man zu Leipzig, Stralsund, Hamburg, Lübeck, u. s. w. eine Feuerkugel gesehen, die nach N. ging, allem Ansehen nach in einer beträchtlichen Höhe. _Philosoph. transact. Nr. 341_, p. 164.
+
+1680, den 17. December, Nachmittags um 3 Uhr, in Kurland eine Feuerkugel, die von O. nach W. ging. Bresslauer Sammlungen, _Suppl. III._ p. 29.
+
+1682 im December, zu Rochlitz und Annaberg in Sachsen, eine Feuerkugel, die in einem Bogen ging; die Flammen sollen schlangenaritg in die Höhe gegangen sein. Bresslauer Sammlungen, I. Versuch, S. 164.
+
+1683 im August, ist entweder eine Feuerkugel in Deutschland gesehen worden, die von Manchem unter einem unrichtigen Datum erwähnt worden ist, oder es können auch drei verschiedene gewesen sein. In den Bresslauer Sammlungen, I. Versuch, S. 164 wird gesagt: den 12. August, 4 Minuten vor 9 Uhr (Vormittags ober Abends?), sein eine zu Leipzig und überhaupt in Sachsen gesehen worden. Ferner ist ebendaselbst von einer die Rede, welche man am 15. August, ohne Angabe der Stunde, zwischen Naumburg und Rittmerswalde gesehen haben will. Nach den _Miscell. Nat. Curios. 1685, Dec. 2. Nr. 4_, p. 12, ist den 22. August um 9 Uhr eine Feuerkugel in ganz Deutschland gesehen worden.
+
+1684, den 19 Mai, um 4 Uhr (des Morgens oder des Nachmittags?), eine Feuerkugel bei Annaberg in Sachsen. Bresslauer Sammlungen, I. Versuch, S. 164.
+
+1684, den 13. November, Nachmittags um 4 Uhr, ward zwischen Joachimsthal und Gottesgabe eine grosse Feuerkugel mit einem langen Schweife gesehen. Ebendaselbst.
+
+1684, den 17. November, Vormittags um 10 Uhr, in Bretagne eine Feuerkugel, 7 bis 8 Secunden lang sichtbar, ging in der Gegend des Himmels, welche der Sonne gegen über war, gegen den Horizont. _Hist. de l'Acad. de Paris, T. I._ p. 419.
+
+1686, den 19. Julius, oder den 9. alten Styls, des Nachts um 1 1/2 Uhr, sah man zu Leipzig und zu Schleitz eine Feuerkugel, so gross wie der Mond. Nach Kirch, in _Ephem. Nat. Curios._ 1686 schien sie still zu stehen, unstreitig, weil der Ort der Beobachtung in der Richtung der zu derselben Zeit schief niederwärts gehenden Bewegung war. Halley, in den _Phil. transact. Nr. 341_, p. 163, schätzt die senkrechte Höhe der Beobachtung auf 30 engl. Meilen.
+
+1687, den 22. Mai, zu Paris eine Feuerkugel, ungefähr 4 Secunden lang sichtbar, ging nach S. O., zerstreute sich am Horizonte. _Hist. de l'Acad. de Paris, T. II._, p. 32.
+
+1688, den 17. Aprill, früh um 2 1/2 Uhr, eine Feuerkugel zu Heilbronn. Die Erscheinung dauerte wohl eine Viertelstunde. Der Schweif war wohl 40 Grad lang, und wellenförmig. (Hieraus, und aus der langen Dauer ist zu schliessen, dass sie auch so sprungweise mag gegangen sein, wie die am 13. Julius 1738.) Ebendaselbst p. 74.
+
+1692, den 9. Aprill Nachmittags, zu Temeswar ein Feuer-Meteor mit schrecklichem Knalle. Bresslauer Sammlungen, 33. Versuch, S. 96.
+
+1700, den 7. Januar, in der niedern Normandie, ein grosses Feuer-Meteor, ging von W. N. W. nach O. S. O., machte eine schreckliche Explosion mit Erschütterung. _Hist. de l'Acad. de Paris 1700_, p. 10.
+
 ...
 
 ## Sechste Abteilung.
