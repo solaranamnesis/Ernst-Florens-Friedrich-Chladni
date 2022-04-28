@@ -1558,6 +1558,26 @@ Die Feuer-Meteore, bei welchen das Niederfallen der Massen beobachtet worden ist
 
 1700, den 7. Januar, in der niedern Normandie, ein grosses Feuer-Meteor, ging von W. N. W. nach O. S. O., machte eine schreckliche Explosion mit Erschütterung. _Hist. de l'Acad. de Paris 1700_, p. 10.
 
+1700, an einem Morgen, ist auf der Insel Jamaika eine Feuerkugel niedergefallen, und die Stücke haben tiefe Löcher in die Erde geschlagen, wo das Gras umher verbrannt gewesen ist, nach dem Berichte von Barham in den _Philos. transact. vol. 30, Nr. 157_, p. 837. Man hat einen Schwefelgeruch verspürt. Es ist zu bedauren, dass man nicht nachgegraben hat, um die niedergefallenen Massen zu finden.
+
+1706, den 20. März ist, nach den _Philos. transact. vol. 25_, p. 2220, ein Feuer-Meteor in England gesehen worden, das aber nichts weiter, als der nachgelassene Lichtstreifen von einer in derselben Richtung gegangenen Feuerkugel gewesen zu sein scheint.
+
+1708, den 31. Julius, in England eine Feuerkugel, deren Höhe auf 40 bis 50 engl. Meilen geschätzt ward, nach Halley in den _Philos. transact. Nr. 341_.
+
+1709, den 4. März, um 9 Uhr Abends, zu Lima eine Feuerkugel, welche zersprang, nach Feuillee in seiner Reise.
+
+1710, den 17. Mai, um 10 1/2 Uhr Abends, in mehreren Gegenden Englands eine Feuerkugel mit zugespitztem Schweife, ging von S. nach N. _Philos. transact. vol. 27_, p. 322.
+
+1711, den 11. März, früh um 3 Uhr, in der Schweiz eine Feuerkugel mit Getöse. Bresslauer Sammlungen, 19. Versuch, S. 162.
+
+1717, den 4. Januar, soll zu Quesnoy bei trübem Himmel eine Feuerkugel mit einem Getöse wie ein Kanonenschuss, gegen dem Kirchthurm gefahren sein, und ein Feuerregen sich über den ganzen Platz verbreitet haben. Bald darauf soll dasselbe noch ein Mahl geschehen sein, zum grossen Schrecken der Einwohner. _Hist. de l'Acad. de Paris 1717_, p. 8. (Wahrscheinlich sind es, wenn die Erzählung richtig ist, zwei Stücke einer vorher zersprungenen Feuerkugel gewesen, die sich, wie es mehrere Mahle geschehen, wieder zu kleinen Feuerkugeln ausgebildet hatten. Da hätte man doch nachsehen sollen, ob sich nicht zersplitterte Stücke von Meteor-Steinen auf dem Platze gefunden haben. Sind sie vorhanden gewesen, so wird man sie wohl aus Unkunde für losgerissene Stücke des Kalkes oder der Mauersteine gehalten, und nicht weiter darauf geachtet haben.)
+
+1717, den 10. August, Abends um 8 1/2 Uhr, in Schlesien, Pohlen, Preussen, Ungarn, in der Lausitz, u. s. w. eine Feuerkugel, nach O. gehend, zersprang, liess einen Lichtstreifen, und an mehreren Orten einen Schwefelgeruch nach. Bresslauer Sammlungen, 1. Versuch, S. 157.
+
+(1718, den 24. März, Abends: ist eine Feuerkugel auf der Insel Lethi mit Getöse gefallen, wo man hernach eine gallertartige, wie Silberschaum glänzende, Masse gefunden hat). S. die 6te Abteilung.
+
+1719, den 22. Februar, in der zweiten Stunde nach Sonnenuntergang, also etwa zwischen 7 und 8 Uhr Abends, ging eine Feuerkugel über das nördliche Italien, von welcher Balbi in den _Comment. Bononiens. Tom. I._ p. 285 Nachricht gibt. Sie kam von der Ost-Seite her, ging nach W. senkrecht über Venedig und Vicenza, mit veränderlicher (wahrscheinlich sprungweise gehender) Richtung, und zersprang mit Krachen, worauf sie verlöschte und vielen Schwefelgeruch hinterliess. Der scheinbare Durchmesser war wie der Vollmond, das Licht wird mit der aufgehenden Sonne verglichen. Man sah in der Feuerkugel vier Spalten oder Schlünde, aus denen Rauch strömte; es wurden auch viele Funken umher geworfen. Der Schweif war ungefähr sieben Mahl länger. Aus vielen gesammelten Nachrichten hat Balbi gefunden, dass die senkrechte Höhe über Vicenza nicht unter 16,000 und nicht über 20,000 Schritte war, der Durchmesser ungefähr 356 Ruthen, die Geschwindigkeit in einer Secunde 153 Ruthen, und noch 1000 Schritte darüber. Man hat sie, nach den Bresslauer Sammlungen, 7. Versuch, S. 165, auch in Augsburg, Nürnberg, und andern Gegenden Deutschlands gesehen; nach Camerarius in den _Ephem. Nat. Curios. Centur._ 9-10, p. 66, auch in Tübingen, und nach Scheuchzers Naturgeschichte des Schweizerlandes, II. Thl., S. 334, auch in der Schweiz, wo man auch bemerkt hat, dass sie Funken und Feuerstreifen von sich gab, und kleinere Kugeln fallen liess.
+
 ...
 
 ## Sechste Abteilung.
