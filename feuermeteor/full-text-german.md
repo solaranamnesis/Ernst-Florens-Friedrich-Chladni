@@ -1578,6 +1578,38 @@ Die Feuer-Meteore, bei welchen das Niederfallen der Massen beobachtet worden ist
 
 1719, den 22. Februar, in der zweiten Stunde nach Sonnenuntergang, also etwa zwischen 7 und 8 Uhr Abends, ging eine Feuerkugel über das nördliche Italien, von welcher Balbi in den _Comment. Bononiens. Tom. I._ p. 285 Nachricht gibt. Sie kam von der Ost-Seite her, ging nach W. senkrecht über Venedig und Vicenza, mit veränderlicher (wahrscheinlich sprungweise gehender) Richtung, und zersprang mit Krachen, worauf sie verlöschte und vielen Schwefelgeruch hinterliess. Der scheinbare Durchmesser war wie der Vollmond, das Licht wird mit der aufgehenden Sonne verglichen. Man sah in der Feuerkugel vier Spalten oder Schlünde, aus denen Rauch strömte; es wurden auch viele Funken umher geworfen. Der Schweif war ungefähr sieben Mahl länger. Aus vielen gesammelten Nachrichten hat Balbi gefunden, dass die senkrechte Höhe über Vicenza nicht unter 16,000 und nicht über 20,000 Schritte war, der Durchmesser ungefähr 356 Ruthen, die Geschwindigkeit in einer Secunde 153 Ruthen, und noch 1000 Schritte darüber. Man hat sie, nach den Bresslauer Sammlungen, 7. Versuch, S. 165, auch in Augsburg, Nürnberg, und andern Gegenden Deutschlands gesehen; nach Camerarius in den _Ephem. Nat. Curios. Centur._ 9-10, p. 66, auch in Tübingen, und nach Scheuchzers Naturgeschichte des Schweizerlandes, II. Thl., S. 334, auch in der Schweiz, wo man auch bemerkt hat, dass sie Funken und Feuerstreifen von sich gab, und kleinere Kugeln fallen liess.
 
+1719, den 19. März (nicht den 17. Mai, wie es in meiner ersten Schrift durch einen Schreib- oder Druckfehler heisst), Abends um 8 Uhr, sah man in England eine Feuerkugel, von welcher Halley Nachrichten gesammelt, und in den _Philos. transact. Vol. XXX. Nr. 360_, p. 978, mitgetheilt hat. Das Licht war nicht viel geringer, als das Sonnenlicht, und sehr weiss, der Schweif mehr röthlich gelb. Sie machte zwei Explosionen mit grossem Getöse und starker Erschütterung, verlöschte bei der letztern, und liess ein weisses oder röthlich graues Wölkchen zurück, nebst einem schlangenförmigen Lichtstreifen (sie muss also auch in einer schlangenförmigen Richtung gegangen sein). Halley findet aus Vergleichung der Beobachtungen die senkrechte Höhe über Worcester 64 geographische Meilen (wovon 20 gleich 23 englischen Statuten-Meilen sind), und 60 solche Meilen über Tiverton. Die Geschwindigkeit der Bewegung, ungefähr von N. g. O. nach S. g. W. war ungefähr 300 geographische Meilen in einer Minute. Den Durchmesser schätzt er auf 1 1/2 englische Meilen. Nachrichten von Whiston finden sich in den _Act. Erudit. Maj. 1720_, p. 210.
+
+1719, den 30. März, ward in den Niederlanden Abends zwischen 8 und 9 Uhr ein grosses Feuer-Meteor gesehen, welches eine Explosion machte. Bresslauer Sammlungen, 7. und 8. Versuch, S. 317.
+
+1721, den 26. Januar, früh zwischen 1 und 2 Uhr, in der Schweiz eine Feuerkugel; man will auch bald darauf noch eine gesehen haben. Scheuchzers Naturgeschichte der Schweiz, I. Theil, S. 337.
+
+? 1721 scheint, nach De Fischer in _Nov. Act. Natur. Curios. Vol. 3, obs. 51_, der Brand der Peterskirche zu Riga nicht durch einen Blitz, sondern durch eine brennende oder glühende Meteor-Masse verursacht worden zu sein, weil, nach der Aussage der wachhabenden Soldaten, das Feuer nicht zerstreut, sondern körperlich, von der Grösse eines kleinen Kindes, soll herabgekommen sein.
+
+1722, den 1. Februar, nach 8 Uhr Abends, eine von S. W. nach N. O. gehende Feuerkugel in der Schweiz und im Elsass, nach Scheuchzer und nach den Bresslauer Sammlungen, 19. Versuch, S. 162.
+
+1723, den 6. Januar, Abends um 7 Uhr, in Portugal eine Feuerkugel, die mit schrecklichem Krachen zersprang. Bresslauer Sammlungen, 23. Versuch, S. 71.
+
+1723, den. August, zwischen 10 und 11 Uhr Vormittags: eine Feuerkugel in Polen und Schlesien. Bresslauer Sammlungen, 25. Versuch, S. 172.
+
+1725, den 22. October, um 2 Uhr Morgens, haben viele in Maryland, in Nord-Amerika, Explosionen mit nachfolgendem Getöse gehört, Einige (weil zu der Zeit nur Wenige wachend gewesen sind) haben auch ein Feuer-Meteor gesehen. _Philos. transact. Vol. 38_, p. 120.
+
+1626 [1726], den 1. Januar, des Morgens um 6 1/2 Uhr, in Schlesien ein Feuer-Meteor, welchem die Einbildungskraft eine schwertförmige Gestalt gegeben hat. Bresslauer Sammlungen, 39. Versuch, S. 69.
+
+1726, den 4. Februar, eine Feuerkugel in Regensburg. Ebendaselbst, S. 148.
+
+1728, den 29. März, Abends um 9 Uhr, in der Ober-Lausitz, südwestlich, eine Feuerkugel, die ihre Gestalt und Farbe mehrere Mahle veränderte, und wegen ihrer in Spüngen auf- und niederwärts gehenden Bewegung für eine _capra saltans_ erklärt ward. Endlich schien sie sich in grosse Funken, wie eine Rakete, zu zertheilen. Gilberts Annalen der Physik, B. 32, S. 334, wo es, so wie einige folgende Nachrichten aus A. E. Büchners _Miscell. Physico-Med. Mathem._ entlehnt ist.
+
+1728, den 30. Mai, zu Campo-Major in Portugal, eine Feuerkugel, welche nach N. ging, und mit einem starken Knalle zersprang. Ebendaselbst, S. 335.
+
+1728, den 4. December, des Nachts zwischen 12 und 1 Uhr, eine Feuerkugel zu Nürnberg, die südwärts ging. Ebendaselbst, S. 338.
+
+1729, den 19. Aprill, Abends um 7 Uhr, zu Genf eine Feuerkugel, scheinbar etwas kleiner als der Mond, ging aus N. gegen S. W., liess einen Lichtstreifen nach, der 7 bis 8 Minuten sichtbar blieb. Ebendaselbst, S. 339.
+
+1729, den 2. Junius, nach Scheuchzer, früh vor Tagesanbruch, in der Schweiz eine Feuerkugel, die sich in die Länge ausdehnte; die Erscheinung (vielleicht nur des nachgelassenen Lichtstreifens) dauerte 1 1/10 Stunde. Ebendaselbst, S. 341.
+
+1729, den 23. August, Abends um 9 Uhr, zu Paris ein Feuer-Meteor; nach dem Zerspringen sollen Stücke in den Garten des Pallastes von Luxenburg gefallen sein, ohne weitern Schaden zu thun, oder einen widrigen Geruch nachzulassen. (Vielleicht nur eine optische Täuschung, so wie man oft geglaubt hat, das Niederfallen sei in der Nähe geschehen, da doch der Ort oft noch sehr weit entfernt gewesen ist.) Ebendaselbst, S. 343.
+
 ...
 
 ## Sechste Abteilung.
