@@ -1612,7 +1612,7 @@ Die Feuer-Meteore, bei welchen das Niederfallen der Massen beobachtet worden ist
 
 1729, den 1. October, 2 Stunden vor Sonnenaufgang, ward in verschiedenen Gegenden von Upland in Schweden die Ankunft und die erste Ausbildung einer Feuerkugel beobachtet. Man sah nähmlich erst rothe Streifen, die von N. nach S. gingen; diese zogen sich zusammen, und es bildete sich daraus eine Feuerkugel, welche bei ihrem weiteren Fortgange Flammen und Funken warf, und dann mit anhaltendem Getöse und mit Hinterlassung von Rauchwolken zersprang. _Acta literaria Sueciae, 1734_, p. 78. (Dieses ist einer von den sehr seltenen Fällen, wo man Gelegenheit hatte, ein solches Meteor von der ersten Ankunft an bis zum Zerspringen zu beobachten. Die Masse muss in einer weniger schiefen Richtung, als die meisten andern, angekommen sein.)
 
-1729, den 16. October, sah man zu Warschau eine brennende Säule am Himmel, die so viel Klarheit gab, als ob es dabei blitzte, von O. nach W. sich bewegte, und viele hellleuchtende Sterne um sich hatte, nach Gilberts Annalen, B. 32, S. 342. Dieses scheint kein Nordlicht, sondern ein hierher gehörendes in die Länge gezogenes Feuer-Meteor gewesen su sein.)
+1729, den 16. October, sah man zu Warschau eine brennende Säule am Himmel, die so viel Klarheit gab, als ob es dabei blitzte, von O. nach W. sich bewegte, und viele hellleuchtende Sterne um sich hatte, nach Gilberts Annalen, B. 32, S. 342. Dieses scheint kein Nordlicht, sondern ein hierher gehörendes in die Länge gezogenes Feuer-Meteor gewesen zu sein.
 
 1729, den 25. November, zu Grossetto in Toscana, eine feurige Scheibe am Himmel, 4 Mahl grösser als der Mond, und viel heller, verschwand bald wieder. Ebendaselbst.
 
@@ -1625,6 +1625,66 @@ Die Feuer-Meteore, bei welchen das Niederfallen der Massen beobachtet worden ist
 1731, den 3. März, um 9 Uhr 20 Minuten Abends, zu Upsal eine Feuerkugel mit schwachem Donner, etwa 6 bis 8 Secunden lang sichtbar, ging, wie sich aus der angegebenen Richtung des Lichtstreifens schliessen lässt, von O. N. O. nach S. S. W. _Acta literaria Sueciae, 1734_, p. 81.
 
 1731, den 12. März, Nachmittags zwischen 1 und 2 Uhr, wurden zu Halstead in England, in der Grafschaft Essex, bei heiterem Himmel schreckliche Explosionen gehört (unstreitig von einem Feuer-Meteor); man sah etwas wie einen glühenden Mühlstein (einen grossen Meteor-Stein), nachdem es einen Pfahl zerschlagen hatte, in das Wasser eines Canals fallen, welches davon sehr aufwallte. Wenn der Pfarrer Vievar, welcher dieses als Augenzeuge an die königliche Societät in London berichtet hat, noch eine Viertelstunde nachher etwas dahin wieder aufwärts gehen gesehen haben will, wo es hergekommen war, so kann dieses nichts anders, als ein aufsteigender Dampf gewesen sein.) _Philos. transact. Vol. 41, P. I. 1739_, p. 288.
+
+1732, den 15. August, zwischen 11 und 12 Uhr Vormittags, ist auch etwas von einem Feuer-Meteor bei Springfield in der Grafschaft Essex in einen Canal gefallen, mit Zurücklassung eines übeln Geruches. _Philos. transact. Vol. 41, P. I. 1739_, p. 289.
+
+1733, im August, nach 9 Uhr Abends, in England eine Feuerkugel, ging von O. nach W. _Philos. transact. Vol. 41, P. II._, p. 627.
+
+1733, den 8. December, zwischen 11 und 12 Uhr Vormittags, in Dorsetshire, und andern Gegenden von England, ein von O. nach W. gehendes Feuer-Meteor. _Philos. transact. Vol. 41, P. I_, p. 346.
+
+1734, den 13. März, um 8 Uhr 5 Minuten Abends, zu London eine Feuerkugel mit einem Schweife. _Philos. trans. Vol. 41, P. I_, p. 346.
+
+1734, den 9. December, um 8 Uhr (vermuthlich Vormittags, weil es nur von Wenigen ist gesehen worden), zu Regensburg eine Feuerkugel, deren Explosion eine solche Erschütterung machte, dass es für ein Erdbeben gehalten ward. _Acta Acad. Nat. Curios. Vol. IV_, p. 492.
+
+1736, den 1. October, Abends um 6 Uhr, in England eine grosse Feuerkugel. _Philos. transact. Vol. 41, P. II_, p. 628.
+
+1736, im October, in Schlesien eine Feuerkugel mit einem Schweife, zersprang mit Getöse. _Commercium literar. Norimb. 1737_, p. 292.
+
+1737, im November, in Nord-Amerika ein grosses Feuer-Meteor. _Philos. transact. Vol. 41, P. I_, p. 360.
+
+1737, den 5. December, um 5 Uhr Abends, eine Feuerkugel, in England, Irland und auch in Venedig gesehen, zersprang mit schrecklichem Getöse, und setzte den ganzen Himmel in Feuer. _Philos. transact. Vol. 41, P. II_, p. 583, 606, und 627.
+
+1738, den 13. Julius, um 11 Uhr Abends, hat Gensanne zu Paris eine Feuerkugel beobachtet, etwa ein Viertheil des Mondes gross, welche sich in Sprüngen auf und nieder bewegte, aber immer nach und nach weniger hoch, und etwas niedriger; es dauerte wohl eine halbe Stunde, bis sie sich endlich am Horizonte verlor. _Hist. de l'Acad. de Paris 1738_, p. 36. (Das war, nach der älteren Benennung, eine rechte _capra saltans_.)
+
+1738, den 28. oder 29. August, um 5 Uhr Nachmittags, ward eine Feuerkugel mit zugespitztem Schweife an mehreren Orten in England gesehen; sie zersprang mit Krachen und darauf folgendem rollenden Getöse; die Erscheinung dauerte etwa eine Minute. _Philos. transact. Vol. 41, P. II_, p. 628. _Gentlemans magazine, Vol. VIII_, p. 492.
+
+1739, den 3. Junius, um 10 Uhr Abends, bemerkte man eine Feuerkugel zu Cambridge in Nord-Amerika, sie ging von S. nach N., liess viele Funken und kleinere Kugeln nach sich. Den Donner hörte man an Orten, die 80 engl. Meilen von einander entfernt waren. Winthrop gibt davon Nachricht in den _Philos. transact. Vol. 54, num. 34_.
+
+1739, den 2. December, um 6 Uhr Abends, in England eine von N. nach S. gehende Feuerkugel; machte grosses Getöse. _Philos. transact. Vol. 41, P. II_, p. 628.
+
+1740, in der Nacht vom 23. zum 24. Februar, sah man auf der Rhede von Toulon eine Feuerkugel, die sich nach und nach erhoben hatte, gegen das Meer (oder vielmehr gegen die niedere Atmosphäre) fiel, und sich wieder zurückspringend erhob, worauf sie in einer grösseren Höhe platzte, da man denn die Stücke theils in das Meer, theils auf benachbarte Berge niederfallen gesehen hat. Das Getöse war dem stärksten Donner gleich, dauerte aber nicht lange. _Hist. de l'Acad. de Paris, 1740_, p. 3.
+
+1741, den 11. December, nach 1 Uhr Nachmittags, ward an einigen Orten in England eine Feuerkugel, grösser als der Vollmond, mit einem nachfolgenden Lichtstreifen, gesehen; sie veränderte ihre Richtung, die anfangs mehr nach N. O., und späterhin mehr nach S. O. zu gehen schien, und machte eine schreckliche Explosion mit Erschütterung und mit Hinterlassung sehr vielen Rauches. _Philos. transact. 1741_, p. 870; 1742, p. 58 und 138. In dem _Gentlemans magazine, Vol. 20_, p. 129, wird von einer am 31. December desselben Jahres um 1 Uhr Nachmittags in England erschienenen Feuerkugel geredet, welche mit rollendem Getöse zersprungen, und wobei die Erschütterung für ein Erdbeben gehalten worden ist; dieses scheint mir aber mit dem Meteor vom 11. December einerlei, und das Datum nicht richtig zu sein.
+
+1742, den 24. November, um 11 Uhr Vormittags, in verschiedenen Gegenden von Nord-Amerika eine von S. W. nach N. O. gehende Feuerkugel, zersprang in kleine Stücke mit Getöse. _Philos. transact. Vol. 54, 1764_, p. 189.
+
+1742, den 16. December, um 8 Uhr 40 Minuten, in London eine Feuerkugel, die sich schlangenförmig von S. g. W., nach N. g. O. bewegte, mit einem langen Schweife. _Philos. transact. 1745_, p. 522, wo sie auch abgebildet ist.
+
+1744, den 7. Mai, um 8 Uhr Abends, zu Oxford eine Feuerkugel, welche ihre Gestalt mehrmahls veränderte. Ebendaselbst.
+
+1744, den 27. Mai, um 11 Uhr 10 Minuten Abends, zu London eine Feuerkugel, mit zugespitztem Schweife. Das Licht war blau, wie von Schwefel. Sie ging von S. S. O. nach O. _Philos. transact. 1744, num. 473_, wo sie auch abgebildet ist.
+
+1745, den 13. Januar, des Morgens zwischen 3 und 4 Uhr, zu Arnheim ein Feuer-Meteor, das Strahlen schoss, viel Getöse machte, und zersprang. Gilberschlag in s. Theorie der am 23. Julius 1762 erschienenen Feuerkugel, p. 94.
+
+1745, den 13. October, nach der ersten Stunde der Nacht (nach italienischer Zeitrechnung; also etwa um 7 Uhr Abends), erschien in der Gegend von Bologna eine Feuerkugel, die über das dortige Zenith nach O. ging. Zanotti hat davon Nachricht gegeben in den _Comment. Bonon. Tom II, P. I_, p. 464. Sie war dort nach seiner Berechnung 6 italienische Meilen hoch; die Grösse war scheinbar etwa wie der vierte Theil des Mondes; das Licht der Kugel war röthlich, und das des 5 Mahl längeren Schweifes blendend weiss.
+
+1746, den 8. März, um 8 Uhr Vormittags, ward in Essex eine kleine helle Wolke (eine Feuerkugel) mit einem nach hinten zugespitzten regenbogenfarbigen Lichtstreifen (dem Schweife) nicht weit von der Sonne gesehen; dieser zurückgelassene Schweif blieb wohl noch eine halbe Stunde lang sichtbar. _Philos. transact. Vol. 44, P. II_, p. 456.
+
+1749, den 4. November, 10 Minuten vor 12 Uhr (Mittag oder Mitternacht?), ward, nach einem Berichte von Chalmers in den _Philos. transact. Vol. 46_, p. 366, in atlantischen Meere unter 42° 48′ nördlicher Breite und 9° 3′ Länge eine Feuerkugel mit blauem Lichte gesehen, die in einer Entfernung von 3 engl. Meilen auf dem Wasser zu rollen schien, (oder sich wohl nur fast bis an das Wasser in einer sehr schiefen Richtung mochte gesenkt haben); man wollte ihr ausweichen, aber sie näherte sich sogleich senkrecht dem Schiffe (muss also wieder aufwärts gesprungen sein), machte eine Explosion, als ob hunderte von Kanonen zugleich abgefeuert würden, liess einen starken Schwefelgeruch nach sich, zerschlug den mittleren Topmast, und warf 5 Mann nieder, von denen einer sehr verbrannt war. Das, was auf das Schiff zukam, schien die Grösse eines grossen Mühlsteins zu haben.
+
+1750, den 9. Februar, um 10 3/4 Uhr Abends, in Schlesien eine Feuerkugel, die von S. W. nach N. O. zog. Sie sprang mit starkem Getöse in 4 Stücke, welche nach Einigen in die Oder, nach Andern aber an andere Orte sollen gefallen sein (wobei sich, wie öfters bei solchen Meteoren, viel optische Täuschung kann eingemengt haben, weil man gewöhnlich das Niederfallen für näher hält, als es ist). _Nov. Act. Erudit. 1754. Sept._ p. 507. _Nov. Act. Natur. Curios. Tom. I_, p. 348. _Histoire de l'Acad. de Paris 1751_, p. 37.
+
+1750, den 12. Aprill, Abends um 9 Uhr, zu Hamburg eine Feuerkugel, feuerroth, schien bersten zu wollen, gab eine Menge Funken von sich, ward hernach oval, ging schnell von S. O. nach N. W., und verlohr sich bei trüber Luft aus dem Gesichte, nach Gilberschlag in s. Theorie der 1762 erschienenen Feuerkugel.
+
+1750, den 7. Junius, um 7 Uhr Abends, hörte man in England in der Gegend von Norwich eine Explosion mit anhaltendem Getöse; man sah hernach nichts weiter, als in W. einige weisse Wölkchen (den Rauch der Feuerkugel, welche man vorher wegen des Sonnenlichtes nicht bemerkt hatte). _Philos. transact. Vol. 46_, p. 698.
+
+1750, den 22. Julius, um 8 Uhr 40 Minuten Abends, ward in ganz England eine von N. nach S. gehende Feuerkugel gesehen. _Philos. transact. Vol. 47_, p. 1 und 3. Sie erschien grösser, als ein Stern der ersten Grösse, zog einen Schweif nach sich, und verlohr sich bald hinter den Wolken. Nach dem _Gentlemans magazine, Vol. 20_, p. 244, soll sie von W. nach O. gegangen sein. (Wahrscheinlich ist die Richtung, wie bei so vielen andern, veränderlich gewesen.)
+
+(1751, den 26. Mai, um 6 Uhr Abends, erschien im Agramer Comitat in Croatien bei heiterem Himmel eine Feuerkugel, die mit dumpfem Getöse von W. nach O. zog, und mit einem heftigen Krachen und Erschütterung, und mit Verbreitung von Rauch zersprang, worauf bei Hradschina zwei Eisenmassen in Gestalt feuriger in einander verwickelter Ketten herabfielen, die also mussten in geschmolzenem Zustande gewesen sein. Dasselbe Meteor ist auch vom Herrn Hofrath Feder in Hannover, zu Neustadt an der Aisch in Franken, wo er damahls Schüler war, in der südlichen Gegend des Himmels von der Westseite nach der Ostseite, etwa in einer Höhe von 30 bis 40 Graden, ziehend gesehen worden, es muss also sehr hoch gegangen sein). Mehr davon in der vierten Abteilung.
+
+1752, den 19. Junius, zu Nismes am Tage bei heiterem Himmel eine von N. nach S. gehende Feuerkugel, die eine grosse Explosion mit Erschütterung machte, und ein graues Wölkchen nachliess. _Journal des Savans, Janvier 1772_, p. 32.
+
+1752, den 25. December, um 5 Uhr Abends, zu Glasgow eine Feuerkugel, ging von N. O. nach S. W., spielte alle Regenbogenfarben, und zersprang in viele Stücke. _Gentlemans magazine, Vol. 22_, p. 582.
 
 ...
 
