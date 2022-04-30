@@ -1610,6 +1610,22 @@ Die Feuer-Meteore, bei welchen das Niederfallen der Massen beobachtet worden ist
 
 1729, den 23. August, Abends um 9 Uhr, zu Paris ein Feuer-Meteor; nach dem Zerspringen sollen Stücke in den Garten des Pallastes von Luxenburg gefallen sein, ohne weitern Schaden zu thun, oder einen widrigen Geruch nachzulassen. (Vielleicht nur eine optische Täuschung, so wie man oft geglaubt hat, das Niederfallen sei in der Nähe geschehen, da doch der Ort oft noch sehr weit entfernt gewesen ist.) Ebendaselbst, S. 343.
 
+1729, den 1. October, 2 Stunden vor Sonnenaufgang, ward in verschiedenen Gegenden von Upland in Schweden die Ankunft und die erste Ausbildung einer Feuerkugel beobachtet. Man sah nähmlich erst rothe Streifen, die von N. nach S. gingen; diese zogen sich zusammen, und es bildete sich daraus eine Feuerkugel, welche bei ihrem weiteren Fortgange Flammen und Funken warf, und dann mit anhaltendem Getöse und mit Hinterlassung von Rauchwolken zersprang. _Acta literaria Sueciae, 1734_, p. 78. (Dieses ist einer von den sehr seltenen Fällen, wo man Gelegenheit hatte, ein solches Meteor von der ersten Ankunft an bis zum Zerspringen zu beobachten. Die Masse muss in einer weniger schiefen Richtung, als die meisten andern, angekommen sein.)
+
+1729, den 16. October, sah man zu Warschau eine brennende Säule am Himmel, die so viel Klarheit gab, als ob es dabei blitzte, von O. nach W. sich bewegte, und viele hellleuchtende Sterne um sich hatte, nach Gilberts Annalen, B. 32, S. 342. Dieses scheint kein Nordlicht, sondern ein hierher gehörendes in die Länge gezogenes Feuer-Meteor gewesen su sein.)
+
+1729, den 25. November, zu Grossetto in Toscana, eine feurige Scheibe am Himmel, 4 Mahl grösser als der Mond, und viel heller, verschwand bald wieder. Ebendaselbst.
+
+1730, den 13. Aprill, Abends um 9 1/2 Uhr, zu Mons eine Feuerkugel, machte eine Explosion wie ein Donnerschlag. Ebendaselbst, S. 343.
+
+1730, den 17. Juli, Mitternachts, zu Neisse in Oberschlesien eine Feuerkugel, ging gegen O.; den 19. Julius will man dort wieder ein Feuer-Meteor in Gestalt einer Sense, 15 Minuten lang gesehen haben (welches nichts anders kann gewesen sein, als ein gekrümmter Lichtstreif, den eine Feuerkugel nach einem Bogensprunge zurückgelassen hatte). Ebendaselbst, S. 343.
+
+1730, den 20. August, Abends um 9 1/2 Uhr, in der Ober-Lausitz eine Feuerkugel, nicht sehr gross, die mit Zischen von S. W. nach O. ging. Ebendaselbst. (Von noch einigen in demselben Aufsatze erwähnten feurigen Säulen, oder Lichtgürteln am Himmel, gebe ich hier keine Nachricht, weil es sich aus den Angaben nicht beurtheilen lässt, ob es nordlichtartige Erscheinungen, oder ob es Feuer-Meteore, von denen hier die Rede ist, gewesen sind. In meinen Knabenjahren, wo es noch viele Nordlichter gab, sah ich auch einmahl einen solchen Lichtgürtel, überall gleich breit, welcher von N. O. nach S. W. sich über den ganzen Himmel erstreckte, und wohl eine halbe Stunde lang ohne viele Veränderung bemerkbar war; die Erscheinung ward für etwas nordlichtartiges gehalten.)
+
+1731, den 3. März, um 9 Uhr 20 Minuten Abends, zu Upsal eine Feuerkugel mit schwachem Donner, etwa 6 bis 8 Secunden lang sichtbar, ging, wie sich aus der angegebenen Richtung des Lichtstreifens schliessen lässt, von O. N. O. nach S. S. W. _Acta literaria Sueciae, 1734_, p. 81.
+
+1731, den 12. März, Nachmittags zwischen 1 und 2 Uhr, wurden zu Halstead in England, in der Grafschaft Essex, bei heiterem Himmel schreckliche Explosionen gehört (unstreitig von einem Feuer-Meteor); man sah etwas wie einen glühenden Mühlstein (einen grossen Meteor-Stein), nachdem es einen Pfahl zerschlagen hatte, in das Wasser eines Canals fallen, welches davon sehr aufwallte. Wenn der Pfarrer Vievar, welcher dieses als Augenzeuge an die königliche Societät in London berichtet hat, noch eine Viertelstunde nachher etwas dahin wieder aufwärts gehen gesehen haben will, wo es hergekommen war, so kann dieses nichts anders, als ein aufsteigender Dampf gewesen sein.) _Philos. transact. Vol. 41, P. I. 1739_, p. 288.
+
 ...
 
 ## Sechste Abteilung.
