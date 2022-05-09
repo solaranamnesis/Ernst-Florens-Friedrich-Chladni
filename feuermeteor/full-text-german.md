@@ -2037,6 +2037,8 @@ Im Jahre 1816 sollen, wie im _Journal of science and the arts Nr. IX._, p. 132 g
 
 1819, den 5. Mai, Mittags gegen 12 1/2 Uhr, ward zu Aberdeen bei hellem Sonnenscheine und wolkenlosem Himmel ein Meteor bemerkt, welches in Gestalt eines Feuerballs mit kurzem Schweife, dessen Ende der Erde zugekehrt war, in einer Höhe von etwa 36 Graden erschien, und ungefähr fünf Minuten darauf mit einem starken Donner zersprang, und dicken Rauch zurückliess, der hernach eine weisse Wolke bildete. In den Bezirken von Lintore, Fintrey zc. war die Explosion so stark, dass das Rindvieh auf den Weiden erschrack, und zu brüllen anfing. Aus englischen Zeitungen im Oesterreichischen Beobachter 1819, Nr. 166, vom 16. Junius. (Die nach unten gekehrte Richtung des Schweifes zeigt, dass das Meteor müsse, wie so viele andere, nach einer Senkung wieder aufwärts gegangen sein.)
 
+## Vierte Abteilung.
+
 ...
 
 ## Sechste Abteilung.
