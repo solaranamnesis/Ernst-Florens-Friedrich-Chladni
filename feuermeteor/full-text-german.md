@@ -2155,7 +2155,7 @@ Plinius erwähnt ferner in der angeführten Stelle auch eines bei Cassandria gef
 
 *) Dagegen aber reden einige Blätter von einem Steine, der in den Ruinen von Makbeths Schlosse zu Dunsinan in einem Gewölbe soll sein gefunden worden, und von dem die Vermuthung geäußert worden ist, daß er vielleicht ein Meteor-Stein sein möchte; hofsentlich werden wir in der Folge genauer erfahren, was etwa an der Sache ist.
 
-III. Niederfälle von Stein- und Eisenmassen nach dem Anfange unserer Zeitrechnung. ( Ein vorausgesetztes Sternchen * bedeutet, daß der Verfasser etwas von der gefallenen Substanz besitzt.)
+III\. Niederfälle von Stein- und Eisenmassen nach dem Anfange unserer Zeitrechnung. ( Ein vorausgesetztes Sternchen * bedeutet, daß der Verfasser etwas von der gefallenen Substanz besitzt.)
 
 Einer der ersten seit dem Anfange unserer Zeitrechnung gefallenen Steine scheint der zu sein, welcher zur Zeit des Plinius in _Vocontiorum agro_ (bei Vaisien?) gefallen, und von ihm gesehen worden ist. Er sagt, _Hist. nat. II_, 58, wo er auch von andern Meteor-Steinen redet: Ego ipse vidi in _Vocontiorum agro paule ante delatum_, wo Andere, wahrscheinlich richtiger, delapsum lesen wollen. Da Plinius im Jahre 79 umgekommen ist, so muß der Fall weit früher, wahrscheinlich in der ersten Hälfte des ersten Iahrhunderts, sich ereignet haben.
 
