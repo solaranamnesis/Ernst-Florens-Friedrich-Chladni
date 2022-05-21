@@ -2525,6 +2525,10 @@ Nacherinnerung zu dieser und zu der vorigen Abtheilung.
 
 In dieser 4ten Abtheilung habe ich aus dem von Abel-Rémusat im _Journal de Physique, Mai 1819_, mitgetheilten Verzeichnisse vieler in China beobachteten Feuer-Meteore (für dessen Bekanntmachung er allen Dank von Seiten der Physiker verdient), nur diejenigen Ereignisse eingeschaltet, wo man den Nachrichten zu Folge wirklich Steine habhaft geworden ist, nicht aber die, wo nur der Niederfall eines Feuer-Meteors gemeldet wird. Auch in der vorigen, oder 3ten Abtheilung, habe ich die ältern chinesischen Nachrichten, so wie auch viele andere aus ältern Zeiten nicht mitgetheilt, weil die Absicht war, die Beobachtungen solcher Meteore erst von einer spätern Zeit an zusammenzustellen, und weil auch daraus in Hinsicht auf die Beschaffenheit solcher Naturerscheinungen sich nichts anders ergibt, als aus den Nachrichten, welche hier mitgetheilt sind. Ich verweise also die Leser, welche die ältern chinesischen Berichte von Feuer-Meteoren nachsehen wollen, auf das angeführte Stück des _Journal de Physique_.
 
+## Fünfte Abtheilung.
+
+Ueber Gediegeneisenmassen, die auch als meteorisch können angesehen werden, über deren Niederfallen aber keine Beobachtungen vorhanden sind.
+
 ...
 
 ## Sechste Abteilung.
