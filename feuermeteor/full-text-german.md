@@ -2048,7 +2048,7 @@ Unter den Andern, welche Verzeichnisse der ihnen bekannt gewordenen Niederfälle
 
 Soldani im neunten Bande der Memorie dell' Accademia di Siena, bei Gelegenheit des Steinfalles bei Siena am 16. Junius 1794.
 
-_Edward King‘s Remarks concerning stones said to have fallen from the clouds_. London 1796. Er hat die in meiner ersten Schrift enthaltenen Beispiele angeführt, und noch einige hinzugefügt. Seine Erklärungsart ist nicht zu billigen.
+_Edward King's Remarks concerning stones said to have fallen from the clouds_. London 1796. Er hat die in meiner ersten Schrift enthaltenen Beispiele angeführt, und noch einige hinzugefügt. Seine Erklärungsart ist nicht zu billigen.
 
 Über Massen und Steine, die aus dem Monde (eine etwas zu voreilige Behauptung) auf die Erde gefallen sind, von F. A. Freyh. von Ende. Braunschweig 1808, 4.
 
