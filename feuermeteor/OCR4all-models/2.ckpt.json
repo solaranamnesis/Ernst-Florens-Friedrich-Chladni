@@ -1,6 +1,6 @@
 {
-  "epochs": 500000,
-  "current_epoch": 19,
+  "epochs": 100,
+  "current_epoch": 12,
   "samples_per_epoch": -1,
   "scale_epoch_size": 1,
   "train_accum_steps": 1,
@@ -14,7 +14,7 @@
   "lav_every_n": 0,
   "lav_silent": true,
   "lav_min_epoch": 0,
-  "output_dir": "/tmp/calamariddt98eul/fold_2",
+  "output_dir": "/tmp/calamari34mp6j_m/fold_2",
   "write_checkpoints": true,
   "export_best": true,
   "export_final": false,
@@ -48,8 +48,8 @@
     "lr": 0.001,
     "step_function": true,
     "offset_epochs": 0,
-    "steps_per_epoch": 262,
-    "epochs": 500000,
+    "steps_per_epoch": 1070,
+    "epochs": 100,
     "__cls__": "tfaip.trainer.scheduler.constant_params:Constant"
   },
   "scenario": {
@@ -149,9 +149,9 @@
         "processors": [
           {
             "modes": [
-              "prediction",
               "evaluation",
-              "training"
+              "training",
+              "prediction"
             ],
             "extra_params": [
               4,
@@ -163,9 +163,9 @@
           },
           {
             "modes": [
-              "prediction",
               "evaluation",
-              "training"
+              "training",
+              "prediction"
             ],
             "normalize": true,
             "invert": true,
@@ -176,39 +176,39 @@
           },
           {
             "modes": [
-              "prediction",
               "targets",
               "evaluation",
-              "training"
+              "training",
+              "prediction"
             ],
             "bidi_direction": "auto",
             "__cls__": "calamari_ocr.ocr.dataset.textprocessors.basic_text_processors:BidiTextProcessorParams"
           },
           {
             "modes": [
-              "prediction",
               "targets",
               "evaluation",
-              "training"
+              "training",
+              "prediction"
             ],
             "__cls__": "calamari_ocr.ocr.dataset.textprocessors.basic_text_processors:StripTextProcessorParams"
           },
           {
             "modes": [
-              "prediction",
               "targets",
               "evaluation",
-              "training"
+              "training",
+              "prediction"
             ],
             "unicode_normalization": "NFC",
             "__cls__": "calamari_ocr.ocr.dataset.textprocessors.text_normalizer:TextNormalizerProcessorParams"
           },
           {
             "modes": [
-              "prediction",
               "targets",
               "evaluation",
-              "training"
+              "training",
+              "prediction"
             ],
             "replacements": [
               {
@@ -250,9 +250,9 @@
           },
           {
             "modes": [
-              "prediction",
               "evaluation",
-              "training"
+              "training",
+              "prediction"
             ],
             "max_line_width": 4096,
             "__cls__": "calamari_ocr.ocr.dataset.imageprocessors.preparesample:PrepareSampleProcessorParams"
@@ -267,19 +267,19 @@
         "processors": [
           {
             "modes": [
-              "prediction",
               "targets",
               "evaluation",
-              "training"
+              "training",
+              "prediction"
             ],
             "__cls__": "calamari_ocr.ocr.dataset.postprocessors.reshape:ReshapeOutputsProcessorParams"
           },
           {
             "modes": [
-              "prediction",
               "targets",
               "evaluation",
-              "training"
+              "training",
+              "prediction"
             ],
             "ctc_decoder_params": {
               "type": "default",
@@ -320,39 +320,39 @@
           },
           {
             "modes": [
-              "prediction",
               "targets",
               "evaluation",
-              "training"
+              "training",
+              "prediction"
             ],
             "bidi_direction": "auto",
             "__cls__": "calamari_ocr.ocr.dataset.textprocessors.basic_text_processors:BidiTextProcessorParams"
           },
           {
             "modes": [
-              "prediction",
               "targets",
               "evaluation",
-              "training"
+              "training",
+              "prediction"
             ],
             "__cls__": "calamari_ocr.ocr.dataset.textprocessors.basic_text_processors:StripTextProcessorParams"
           },
           {
             "modes": [
-              "prediction",
               "targets",
               "evaluation",
-              "training"
+              "training",
+              "prediction"
             ],
             "unicode_normalization": "NFC",
             "__cls__": "calamari_ocr.ocr.dataset.textprocessors.text_normalizer:TextNormalizerProcessorParams"
           },
           {
             "modes": [
-              "prediction",
               "targets",
               "evaluation",
-              "training"
+              "training",
+              "prediction"
             ],
             "replacements": [
               {
@@ -516,7 +516,7 @@
     "scenario_params_filename": "scenario_params.json",
     "scenario_base_path": "/usr/local/lib/python3.7/dist-packages/calamari_ocr/ocr/scenario.py",
     "scenario_id": "calamari_ocr.ocr.scenario:CalamariScenario",
-    "id": "fold_2_calamari_ocr.ocr.scenario:CalamariScenario_2022-05-10",
+    "id": "fold_2_calamari_ocr.ocr.scenario:CalamariScenario_2022-05-21",
     "tfaip_commit_hash": null,
     "tfaip_version": "1.2.6",
     "use_input_gradient_regularization": false,
@@ -525,7 +525,7 @@
     "__cls__": "calamari_ocr.ocr.scenario_params:CalamariScenarioParams"
   },
   "warmstart": {
-    "model": "/var/ocr4all/models/custom/chaldni/5/2.ckpt.h5",
+    "model": "/var/ocr4all/models/custom/chaldni/6/2.ckpt.h5",
     "allow_partial": false,
     "trim_graph_name": false,
     "rename": [],
@@ -539,14 +539,14 @@
     "__cls__": "tfaip.trainer.warmstart.warmstart_params:WarmStartParams"
   },
   "early_stopping": {
-    "best_model_output_dir": "/var/ocr4all/models/custom/chaldni/6",
+    "best_model_output_dir": "/var/ocr4all/models/custom/chaldni/7",
     "best_model_name": "",
     "frequency": 1,
     "n_to_go": 5,
     "lower_threshold": 0.0,
     "upper_threshold": 0.9,
     "mode": "min",
-    "current": 0.004120568744838238,
+    "current": 0.002121421042829752,
     "monitor": "val_CER",
     "n": 1,
     "__cls__": "tfaip.trainer.callbacks.earlystopping.params:EarlyStoppingParams"
@@ -589,10 +589,10 @@
       "n_folds": 0,
       "preload": true,
       "files": [
-        "/tmp/calamariddt98eul/fold0_000.h5",
-        "/tmp/calamariddt98eul/fold1_000.h5",
-        "/tmp/calamariddt98eul/fold3_000.h5",
-        "/tmp/calamariddt98eul/fold4_000.h5"
+        "/tmp/calamari34mp6j_m/fold0_000.h5",
+        "/tmp/calamari34mp6j_m/fold1_000.h5",
+        "/tmp/calamari34mp6j_m/fold3_000.h5",
+        "/tmp/calamari34mp6j_m/fold4_000.h5"
       ],
       "pred_extension": ".pred.xml",
       "__cls__": "calamari_ocr.ocr.dataset.datareader.hdf5.reader:Hdf5"
@@ -605,7 +605,7 @@
       "n_folds": 0,
       "preload": true,
       "files": [
-        "/tmp/calamariddt98eul/fold2_000.h5"
+        "/tmp/calamari34mp6j_m/fold2_000.h5"
       ],
       "pred_extension": ".pred.xml",
       "__cls__": "calamari_ocr.ocr.dataset.datareader.hdf5.reader:Hdf5"
@@ -614,7 +614,7 @@
   },
   "preload_data": false,
   "preload_data_progress_bar": true,
-  "saved_checkpoint_sub_dir": "checkpoint/checkpoint_0018",
+  "saved_checkpoint_sub_dir": "checkpoint/checkpoint_0011",
   "checkpoint_sub_dir": "checkpoint/checkpoint_{epoch:04d}",
   "checkpoint_save_freq": "epoch",
   "version": 5,
@@ -629,91 +629,94 @@
     "include": [],
     "include_files": [],
     "resolved_include_chars": [
+      "u",
+      "x",
       "6",
-      "n",
-      "Z",
-      "y",
-      ")",
-      "\u00fc",
-      "F",
-      "\u00f4",
-      "O",
-      "a",
-      "C",
-      "\ueedc",
-      "V",
-      "/",
-      "l",
-      ";",
-      "Q",
-      "r",
-      "w",
-      "m",
-      "\u00df",
-      "z",
-      "?",
-      "q",
-      "e",
-      "9",
-      "\u2e17",
-      "\u00f6",
+      "o",
       "W",
       "v",
-      "x",
-      ":",
-      "M",
-      ",",
+      "s",
+      "E",
       "K",
       "2",
-      "A",
-      ".",
-      "-",
-      "p",
-      "P",
-      "c",
-      "4",
-      "G",
-      "L",
-      "o",
+      ":",
       "\u00a7",
-      "(",
-      "d",
-      "R",
-      "I",
-      "\"",
-      "k",
-      "X",
-      "j",
-      "f",
-      "g",
-      "7",
-      "D",
-      "i",
-      "u",
-      "b",
-      "3",
-      "H",
-      "\ua76d",
-      "S",
-      "'",
-      "B",
-      "\u00e4",
-      "Y",
-      "1",
-      "N",
-      "\u00e9",
-      "h",
-      "E",
-      "8",
-      "0",
-      " ",
+      "\u00f4",
+      ";",
       "5",
-      "s",
-      "J",
-      "T",
+      "G",
+      "3",
+      "R",
+      "\u2e17",
+      "j",
+      "P",
+      "Y",
+      "B",
       "U",
+      "I",
+      "4",
+      "/",
+      "l",
+      "a",
+      "\u00e9",
+      "m",
+      "z",
+      ",",
+      "f",
+      "O",
+      "Q",
+      "7",
+      "r",
+      "Z",
+      "c",
+      "g",
+      "!",
+      "\"",
+      "=",
+      "p",
+      "L",
+      "k",
+      "D",
+      "8",
+      "q",
+      ")",
+      "9",
+      "h",
+      "M",
+      "F",
+      "'",
+      "*",
+      "(",
+      "b",
       "t",
-      "\u017f"
+      "1",
+      "-",
+      "\u00fc",
+      "T",
+      "0",
+      "V",
+      "e",
+      "?",
+      "\ua76d",
+      "\u00df",
+      "X",
+      "y",
+      " ",
+      "n",
+      ".",
+      "N",
+      "d",
+      "A",
+      "J",
+      "\u017f",
+      "w",
+      "C",
+      "i",
+      "S",
+      "\u00e4",
+      "\ueedc",
+      "H",
+      "\u00f6"
     ],
     "__cls__": "calamari_ocr.ocr.dataset.codec:CodecConstructionParams"
   },
