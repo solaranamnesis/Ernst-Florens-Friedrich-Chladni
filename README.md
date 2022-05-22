@@ -1,8 +1,8 @@
 # Ernst Chladni.
 
-## Ueber Feuer-Meteore, und über die mit demselben herabgefallenen Massen.
+## Über Feuer-Meteore, und über die mit denselben herabgefallenen Massen.
 
-Attempt at a translation of Ernst Chladni's work: "Ueber Feuer-Meteore, und über die mit demselben herabgefallenen Massen," from the original (Fraktur) German to English, I welcome all pull requests of submitted translations and/or edits.
+Attempt at a translation of Ernst Chladni's work: "Über Feuer-Meteore, und über die mit denselben herabgefallenen Massen," from the original (Fraktur) German to English, I welcome all pull requests of submitted translations and/or edits.
 
 Sections One through (most of) Three and Six were done manually. The other parts were done with OCR4all:
 
