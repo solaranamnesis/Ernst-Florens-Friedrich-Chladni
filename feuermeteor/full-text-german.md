@@ -2956,4 +2956,278 @@ Späterer Nachtrag zu der zweiten Abtheilung §. 24, Note i, und zu der dritten 
 
 Von dem, was ich in der zweiten Abtheilung §. 24, Note i, über einen in Thüringen, mitten in der Nacht geschehenen, und mir von einem Postillion als Augenzeugen, soviel ich mich nun erinnere, im Sommer 1816 auf einer Fahrt von Gotha über Langensalza nach Tennstädt erzählten Niederfalle meteorischer Massen gesagt habe, erhielt ich kurz vor Beendigung des Druckes dieses Buches eine Bestätigung, nebst etwas genauerer Bestimmung des Ortes und der Zeit, aus einem Briefe des Herrn Präsidenten v. Schlotheim in Gotha an Herrn Director v. Schreibers, vom 10. October 1809, welchen letzterer mir gefälligst mitgetheilt hat. Es wird in diesem Briefe gesagt: "Vor allen Dingen muß ich Ihnen ein Ereigniß berichten, das sich in der Mitte des Mai 1808 einige Stunden von hier zutrug, und das ich leider erst zu Anfange dieses Jahres erfuhr. Um Mitternacht hörte man nähmlich in Tonna, 4 Stunden von hier (von Gotha), und in der benachbarten Gegend, in der Richtung von N. W. nach S. O. einen heftigen, einem Kanonenschusse ähnlichen Donnerschlag, und ein Postillion, der gerade bei der Marksleber-Brücke zwischen Tonna, Langensalza und Marksleben befindlich war, sagte aus, daß er von diesem Schlage, der bei heiterem Himmel aus einer feurigen Lufterscheinung hergerührt hatte, aus welcher wahrscheinlich in seiner Nähe mehrere Sternschnuppen (nach seinem Ausdrucke) herunter gefallen wären, ganz betäubt worden sey, und Noth gehabt habe, seine scheu gewordenen Pferde aufzuhalten. Dem Amtmanne Cordner zu Tonna gab ich sogleich, wie mir diese Erzählung gemacht wurde, Auftrag, die Sache näher zu untersuchen. Er selbst war über den heftigen Schlag, dem ein heftiges Sausen folgte, erwacht, und mehrere Leute in Tonna behaupteten dasselbe. Alle Aussagen der Einwohner daselbst, so wie auch mehrere Personen in Langensalza, Nägelstädt, Fahnern und Marksleben, bestätigen das Factum durchgängig. Leider aber ist der Postillion, der obige Angabe erzählt haben soll, nicht aufzufinden, u. s. w." Dieser Postillion ist wahrscheinlich derselbe gewesen, der mich gefahren, und mir die Stelle gezeigt hat, wo ein Stück des zersprungenen Feuer-Meteors, nicht weit von ihm, nahe bei einer Brücke, in das Wasser gefallen ist, wovon seine Pferde scheu geworden sind.
 
-...
+Anhang.
+
+Verzeichniss der Sammlung von Meteor-Massen, welche sich im k. k. Hof-Mineralien-Cabinette in Wien befindet.
+
+Vom Director von Schreibers.
+
+Verzeichniss der Sammlung von Meteor-Massen, welche sich im k. k. Hof-Mineralien-Cabinette in Wien befindet.
+
+Meteor-Steine.
+
+Ensisheim. November 1492.
+
+Ein kleines Bruchstück, 4 1/2 Loth schwer. (Wiener Commercial-Gewicht.)
+
+Ein Geschenk des verstorbenen Majors v. Schwarz, 1809 erhalten.
+
+Ein grösseres von 24 1/2 Loth.
+
+Durch gütige Vermittlung Sr. Excellenz des kaiserl. Ministers, Freiherrn v. Hügel, aus Colmar zum Geschenk erhalten, 1813.
+
+Tabor. Julius 1753.
+
+Ein vollkommen ganzer, um und um mit Rinde bedeckter Stein von beinahe 5 Pfund am Gewichte.
+
+Von dem damahligen, zu jener Zeit in Tabor, der Kreisstadt des Bechiner-Kreises residirenden königl. böhmischen Kreishauptmann, Grafen v. Wratislaw, gleich nach der Begenbenheit, die er aus eigenem Antriebe förmlich und ämtlich untersuchte, mit einem umständlichen Bericht an das königl. böhmische Gubernium, und von diesem an die k. k. Hofkammer in Wien eingesendet.
+
+Eine geschliffene und polirte Platte, 2 1/2 Loth schwer.
+
+Vom Herrn Cabinetts-Custos v. Mühlfeld.
+
+Ein kleines Bruchstück von 2 1/2 Loth.
+
+Vom Herrn Doctor Pohl aus Prag, zu Tausch erhalten, 1811.
+
+Maurkirchen. November 1768.
+
+Ein Bruchstück von 24 Loth.
+
+Durch Herrn Doctor Chladni erhalten, 1805.
+
+Eichstädt. Februar 1785.
+
+Ein Bruchstück von 7 Loth.
+
+Durch den Domherrn von Hompesch zu Eichstädt, um das Jahr 1789, dem damahligen Director des k. k. Mineralien-Cabinetts, Abbe Stütz, mitgetheilt.
+
+Barbotan. Julius 1790.
+
+Ein Bruchstück von 3 3/4 Loth.
+
+Von dem Mineralienhändler Herrn Mohr, zu Kauf erhalten, 1809.
+
+Siena. Junius 1794.
+
+Ein Bruchstück von beinahe 2 Loth.
+
+Vom Herrn Obersten v. Tihavsky erhalten, 1809.
+
+Ein kleiner, beinahe vollkommen ganzer, und um und um bis auf eine kleine Fläche incrustirter Stein von 2 1/4 Quintel.
+
+Ein noch kleinerer vollkommen ganzer Stein von 1 Quintel am Gewicht.
+
+Beide durch Vermittlung des Herrn Professors v. Jacquin, aus Italien zum Kauf erhalten, 1816.
+
+Yorkshire. Decemer 1795.
+
+Ein Bruchstück von 2 1/2 Loth.
+
+Vom Mr. Sowerby in London zu Tausch erhalten, 1816.
+
+Sales. März 1798.
+
+Ein Bruchstück von 2 1/2 Loth.
+
+Durch Herrn Leman, aus der Sammlung des Herrn Marquis De Dree in Paris, zu Tausch erhalten, 1815.
+
+Benares, (Bengalen) December 1798.
+
+Ein Bruchstück von 4 3/4 Loth.
+
+Ein Geschenk des verstorbenen Greville in London, 1807.
+
+L'Aigle. Mai 1803.
+
+Ein vollkommen ganzer, durchaus mit Rinde bedeckter Stein von beinahe 2 Pfund.
+
+Von einem Franzosen in Wien zu Kauf erhalten, 1803.
+
+Ein Bruchstück von beinahe 3 1/4 Loth.
+
+Durch Herrn Apotheker Moser für das k. k. Cabinett in Paris angekauft, 1808.
+
+Ein Bruchstück von beinahe 2 Loth.
+
+Vom Mineralienhändler Herrn Lambotin in Paris zu Kauf erhalten, 1815.
+
+Apt. October 1803.
+
+Ein Bruchstück von 17 Loth.
+
+Durch gefällige Mittheilung aus dem königl. Museum zu Paris, von dem daselbst aufbewahrten (1813) 7 Pfund schweren ganzen Steine, erhalten 1815.
+
+High Possil, Glasgow, Aprill 1804.
+
+Ein Bruchstück, 1 Loth schwer.
+
+Vom Mr. Sowerby in London zu Tausch erhalten, 1816.
+
+Alais. März 1806.
+
+Mehrere kleine Brocken, Pulver und Staub.
+
+Vom Hrn. Legations-Rath Lavater in Zürich, und von Herrn Leman aus der De Dree'schen Sammlung in Paris zu Tausch erhalten, 1811, 1815.
+
+Timochin, Smolensk. März 1807.
+
+Ein Bruchstück von 4 Loth 3 Quintel.
+
+Vom verstorbenen Ober-Medicinal-Rath Klaproth in Berlin, als Abschnitt von seinem eigenen grössern Bruchstücke dem k. k. Cabinette überlassen, 1810.
+
+Weston, Connecticut. December 1807.
+
+Zwei Bruchstücke, zusammen 3 Loth 2 Quintel am Gewicht.
+
+Vom verstorbenen Mineralienhändler Barton, 1812.
+
+Parma. Aprill 1808.
+
+Ein Bruchstück von 3 Loth 3 Quintel.
+
+Durch gefällige Mittheilung aus dem königl. Museum zu Paris, von dem daselbst aufbewahrten (1813) 1 Pfund schweren ganzen Steine, erhalten 1815.
+
+Stannern. Mai 1808.
+
+Zwei und zwanzig Stücke und mehrere kleine Fragmente von einem Gesammtgewichte von nahe an 25 Pfund, die Auswahl aus einem Vorrathe von 93 Stücken zu beinahe 46 Pfund.
+
+Theils auf der Untersuchungsreise an Ort und Stelle wenige Tage nach dem Ereignisse, theils späterhin bei veranlasster fortgesetzter Aufsuchung durch das Iglauer Kreisamt eingeschickt erhalten; und zwar:
+
+Eilf ganze und mehr oder weniger vollkommen und um und um mit Rinde bedeckte Steine, wovon der grösste 11 Pfund 10 Loth, der kleinste 58 Grane wiegt, und jeder entweder durch eine auffallende Abweichung in der Grösse, durch besondere Form und Gestaltung, oder durch besondere Beschaffenheit der Rinde, im ganzen oder an einzelnen Stellen, sich auszeichnet.
+
+Ferner
+
+Eilf grössere und mehrere kleine Bruchstücke, wovon jedes entweder eine ganz eigene und besondere Beschaffenheit der Rinde und der Masse, oder irgend einen Gemengtheil der letztern besonders ausgezeichnet darstellt, wie aus den Beschreibungen zu ersehen ist, welche von den meisten derselben bereits 1809 in Gilberts Annalen der Physik B. 31. H. 1. gegeben worden sind.
+
+Lissa. September 1808.
+
+Ein vollkommen ganzer Stein von 5 Pfund 19 Loth.
+
+Vom Lissa'er Wirthschaftsamte, wohin derselbe gleich nach Auffindung abgegeben ward, mit den Resultaten der angeordneten, und am 17. November deselben Jahres gemeinschaflich mit Herrn Doctor Reuß von Bilin an Ort und Stelle gepflogenen wissenschaftlichen Untersuchung des Ereignisses, an das Bunzlauer Kreisamt, und durch dieses an die k. k. Hofkammer in Wien eingesendet.
+
+Ein Bruchstück von 3 Loth.
+
+Vom Lissa'er Wirthschaftsamte mit den Resultaten der sogleich am 6ten Tage nach dem Ereignisse aus eigenem Antriebe vorgenommenen ämtlichen Untersuchung des Factums, dem Bunzlauer Kreisamte, und durch dieses nach Wien eingesendet.
+
+Tipperary. August 1810.
+
+Ein Bruchstück von 15 Loth.
+
+Ein Geschenk des Herrn Professor Giesecke in Dublin, 1816.
+
+Charsonville, Orleans. Novemer 1810.
+
+Ein Bruchstück von 1 Pfund.
+
+Durch gefällige Mittheilung aus dem k. Museum zu Paris, von dem daselbst aufbewahrten (1813) 11 Pfund schweren ganzen Steine, erhalten 1815.
+
+Berlanguillas. Julius 1811.
+
+Ein Bruchstück von fast 12 Loth.
+
+Durch gefällige Mittheilung aus dem königl. Museum zu Paris, von dem daselbst aufbewahrten (1813) 3 Pfund schweren ganzen Steine, erhalten 1815.
+
+Toulouse. Aprill 1812.
+
+Ein Bruchstück von 1 Loth.
+
+Durch gefällige Mittheilung aus dem königl. Museum zu Paris, von dem daselbst aufbewahrten (1813) 6 Loth schweren Steine, erhalten 1815.
+
+Erxleben. Aprill 1812.
+
+Ein Bruchstück von 3 1/2 Loth.
+
+Ein Geschenk des Herrn Professors Blumenbach in Göttingen, 1813.
+
+Chantonay. August 1812.
+
+Eine Masse von 4 1/2 Pfund am Gewichte.
+
+Auf Vermittlung des Herrn P. Partsch, durch Herrn Brochant in Paris zu Kauf erhalten, 1818.
+
+Limerik. September 1813.
+
+Ein Bruchstück 1/2 Loth schwer.
+
+Vom Mr. Sowerby in London zu Tausch ererhalten, 1816.
+
+Agen. September 1814.
+
+Ein Bruchstück von 4 1/2 Loth.
+
+Durch gefällige Mittheilung aus dem königl. Museum in Paris, erhalten 1815.
+
+Chassigny, Langres. October 1815.
+
+Ein Bruchstück von 2 1/2 Loth.
+
+Ein Geschenk des Herrn Lucas, _Garde adj._ am Museum zu Paris, 1816.
+
+In meiner eigenen kleinen Sammlung von Meteor-Producten, die ich zum Behufe der mir vorgenommenen mikroscopischen Untersuchungen, vorzüglich in Beziehung der verschiedenen einzelnen Gemengtheile, und auf deren sehr abweichendes quantitatives Verhältniss in den verschiedenen Meteorolithen, anlegte; besitze ich noch Fragmente von jenen von Laponas bei Pont de Vesle in Bresse, September 1753; von Sigena in Aragonien, November 1773; von Eggenfeld, Massing, December 1803, und von Doroninsk, Irkutsk, März 1805; die aber zu klein und unbedeutend sind, um in die kaiserl. Sammlung aufgenommen werden zu können.
+
+Meteor-Eisen.
+
+Sibirien. Pallas.
+
+Eine Masse von 5 Pfund 16 3/4 Loth am Gewichte.
+
+Wahrscheinlich noch aus der Privat-Sammlung des verstorbenen Freiherrn v. Baillou herstammend, welche vor etwa 70 Jahren den Grund zur k. k. Mineralien-Sammlung legte.
+
+? Eine ähnliche aber mehr abgerollte und abgenutzte Masse von 2 Pfund 1/2 Loth.
+
+Aus der Mineralien-Sammlung der Theresianischen Ritter-Akademie in Wien, bei Aufhebung derselben unter Kaiser Joseph, an das k. k. Hof-Mineralien-Cabinett übertragen; nach mitgekommener Notitz, ursprünglich aus Norwegen herstammend.
+
+Man sehe was hierüber Herr Professor Gilbert in den Annalen der Physik B. 50, S. 259 geäussert, und was Herr Doctor Chladni in diesem Werke S. 325 vorgebracht hat.
+
+Sachsen ?
+
+Ein sehr kleines Stück, 1 Quintel schwer.
+
+Ein Geschenk des Herrn Präsidenten v. Schlotheim in Gotha, 1809.
+
+man sehe was Chladni S. 326 über die Herstammung bemerkt.
+
+Croatien. Agram. Mai 1751.
+
+Die eine grössere der damahls vor vielen Augenzeugen herabgefallenen Massen, von beinahe 71 Pfund, welche nach der am 8ten Tage nach dem Ereignisse von Seite des bischöflichen Consistoriums zu Agram aus freiem Antriebe an Ort und Stelle gepflogenen ämtlichen und förmlichen Untersuchung, sammt einer in Folge dieser ausgestellten Urkunde durch den Bischof Freiherrn v. Clobuschiczky, auf dem eben zu jener Zeit in Ungarn abgehaltenen Landtage Sr. Majestät Kaiser Franz I. überbracht wurde. Auf allerhöchsten Befehl ward dieselbe nach Wien gesendet, wo sie anfänglich in der k. k. Schatzkammer aufbewahrt, in der Folge aber in das k. k. Mineralien-Cabinett übersetzt wurde.
+
+Böhmen. Elbogen.
+
+Eine Masse von 150 Pfund (ursprünglich 191; da vor der Ausfolgung in Elbogen ein Eck derselben abgesäget, und zum Angedenken zurückbehalten wurde.
+
+Auf Veranlassung der k. k. Naturalien-Cabinetts-Direction ward dieselbe im Jahre 1812 nach Wien gebracht.
+
+Ungarn. Lenarto.
+
+Ein Stück von 5 Pfund 24 Loth.
+
+Vom Herrn Professor Sennovitz zu Eperies, dem k. k. Cabinette überlassen 1818.
+
+Eine geschliffene und geätzte Platte.
+
+Ein Geschenk des Freiherrn v. Brudern, 1815.
+
+Afrika. Kap.
+
+Ein Stück von 1 Pfund 12 1/2 Loth.
+
+Durch gefällige Mittheilung des Herrn Professor Van Marum zu Haarlem, auf Umtausch erhalten, 1815.
+
+Mexico. Zacatecas? Toluca?
+
+Ein Stück von 3 Loth 1 Quintel 50 Gr.
+
+Von einem grössern, von Herrn v. Humboldt herrührenden Stücke, im Besitze des verstorbenen O. M. R. Klaproth in Berlin, mit dessen gefälliger Zustimmung abgefeilt, und von demselben dem k. k. Cabinette überlassen, 1810.
+
+Chaco-Gualamba. St. Iago del Estero.
+
+Ein Stück von 1 1/4 Loth.
+
+Durch den verstorbenen v. Fichtel aus Madrid, zu Kauf erhalten 1806.
+
+Von den mehr oder weniger problematischen Gediegen-Eisen-Massen, finden sich grössere oder kleinere Stücke von jener von Aachen, von Mailand, von Gross-Kamsdorf, und zwar nach Chladnis Versicherung von der achten, wie denn auch das Stück von Klaproth selbst herrührt - man sehe was Chladni S. 351 darüber äussert), von Cilly aus Steiermark, von Florac, und einigen andern minder bekannten, theils am k. k. Cabinette, theils in meiner eigenen Sammlung. So auch kleine Partien von dem im März 1803 in Italien, bei Udine, gefallenen Staube, und von dem Rückstande des rothen Schnees, der auf der Alpe Anceindaz in der Schweiz, im Junius 1818 gefunden wurde.
+
+Im September 1819.
+
+v. Schreibers.
