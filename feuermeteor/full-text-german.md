@@ -2876,7 +2876,7 @@ Wenn die niederfallenden Massen vor ihrer Ankunft sich im allgemeinen Weltraume 
 
 2) Wenn die Anziehungskraft und die Tangentialkraft einander gleich sind, so wird der kleinere Körper genötigt, sich in einem Kreise um den größeren zu bewegen.
 
-3) Wenn die Anziehungskraft als Einheit betrachtet, die Tangentialkraft zwischen 1 und 2 fällt, so wird der kleinere Körper genötigt, sich um den größeren in einer elliptischen Bahn zu bewegen, welche um desto mehr in die Länge gezogen ist, je mehr sich die Tangentialkraft der Quadratwurzel von 2 nähert.
+3) Wenn die Anziehungskraft als Einheit betrachtet, die Tangentialkraft zwischen 1 und √2 fällt, so wird der kleinere Körper genötigt, sich um den größeren in einer elliptischen Bahn zu bewegen, welche um desto mehr in die Länge gezogen ist, je mehr sich die Tangentialkraft der Quadratwurzel von 2 nähert.
 
 4) Wenn die Tangentialkraft der Quadratwurzel von 2 gleich ist, so werden sich die beiden Schenkel der Bahn nicht schließen, und es wird eine Parabel daraus.
 
