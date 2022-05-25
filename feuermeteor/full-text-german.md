@@ -806,7 +806,7 @@ Was zu weiterer Kenntniss der Sache von so manchen Physikern, Geometern, Chemike
 
 _Sic (derisa diu) tandem bona causa triumphat!_
 
-Zweite Abteilung.
+## Zweite Abteilung.
 
 Allgemeine Bemerkungen über Feuerkugeln und herabgefallene Massen.
 
