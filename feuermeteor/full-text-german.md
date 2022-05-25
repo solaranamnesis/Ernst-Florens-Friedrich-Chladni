@@ -1,20 +1,20 @@
 [Vorrede](#vorrede)
 
-[Übersicht-des-inhalts](#übersicht-des-inhalts)
+[Übersicht des Inhalts](#übersicht-des-inhalts)
 
-[Erste-abteilung](#erste-abteilung)
+[Erste Abteilung](#erste-abteilung)
 
-[Zweite-abteilung](#zweite-abteilung)
+[Zweite Abteilung](#zweite-abteilung)
 
-[Dritte-abteilung](#dritte-abteilung)
+[Dritte Abteilung](#dritte-abteilung)
 
-[Vierte-abteilung](#vierte-abteilung)
+[Vierte Abteilung](#vierte-abteilung)
 
-[Fünfte-abtheilung](#fünfte-abtheilung)
+[Fünfte Abtheilung](#fünfte-abtheilung)
 
-[Sechste-abteilung](#sechste-abteilung)
+[Sechste Abteilung](#sechste-abteilung)
 
-[Siebente-abteilung](#siebente-abteilung)
+[Siebente Abteilung](#siebente-abteilung)
 
 [Anhang](#anhang)
 
