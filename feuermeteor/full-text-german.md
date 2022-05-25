@@ -1,3 +1,15 @@
+# Über Feuer-Meteore,
+
+# und über die mit denselben herabgefallenen Massen,
+
+## von Ernst Florens Friedrich Chladni,
+
+### der Philosophie und Rechte Doktor, der kaiserlich Akademie der Wissenschaften zu St. Petersburg, der königlich Akademien zu Berlin, München und Turin, der königlich Sozietäten der Wissenschaften zu Göttingen und zu Haarlem, der Gesellschaft naturforschender Freunde zu Berlin, der philomattschen zu Paris, der Großherzoglich mineralogischen zu Jena, der Akademie der Künste und Wissenschaften zu Livorno, der Gesellschaft für Naturfunde zu Rotterdam, der Hamburgischen zu Beförderung der Künste und nützlichen Gewerbe, der naturforschenden Gesellschaft zu Halle, der naturhistorischen zu Hannover, und noch einiger andern teils Mitgliede, teils Korrespondenten.
+
+## Wien 1819.
+
+### Im Verlage den J. G. Heubner.
+
 [Vorrede](#vorrede)
 
 [Übersicht des Inhalts](#übersicht-des-inhalts)
@@ -17,18 +29,6 @@
 [Siebente Abteilung](#siebente-abteilung)
 
 [Anhang](#anhang)
-
-# Über Feuer-Meteore,
-
-# und über die mit denselben herabgefallenen Massen,
-
-## von Ernst Florens Friedrich Chladni,
-
-### der Philosophie und Rechte Doktor, der kaiserlich Akademie der Wissenschaften zu St. Petersburg, der königlich Akademien zu Berlin, München und Turin, der königlich Sozietäten der Wissenschaften zu Göttingen und zu Haarlem, der Gesellschaft naturforschender Freunde zu Berlin, der philomattschen zu Paris, der Großherzoglich mineralogischen zu Jena, der Akademie der Künste und Wissenschaften zu Livorno, der Gesellschaft für Naturfunde zu Rotterdam, der Hamburgischen zu Beförderung der Künste und nützlichen Gewerbe, der naturforschenden Gesellschaft zu Halle, der naturhistorischen zu Hannover, und noch einiger andern teils Mitgliede, teils Korrespondenten.
-
-## Wien 1819.
-
-### Im Verlage den J. G. Heubner.
 
 ## Vorrede.
 
