@@ -1892,7 +1892,7 @@ An demselben Tage zeigten sich Sternschnuppen und kleine Feuerkugeln in mehreren
 
 1804, den 15. April, um 9 3/4 Uhr Abends, ward zu Genf und in der Gegend von Neuchâtel eine Feuerkugel gesehen, die von S. nach N. ein wenig ostwärts mit großer Schnelligkeit ging. Das Licht war rötlich, es folgten einige Lichtpunkte. Nachdem sie durch das Zenit von Genf gegangen war, zerteilte sie sich in mehrere Bruchstücke. Eine Minute darauf hörte man ein Rollen, wie einen entfernten Donner. Die beobachtete Höhe wird etwas über 12 1/2 Lieue geschätzt. _Biblioth. britann. t. 25, p. 364. Nuova scelta d'opuscoli da C. Amoretti, t. I. p. 50._
 
-1804, den 29. Julius, Abends um 10 Uhr 58 Minuten, sah Hofrath Huth zu Frankfurt an der Oder eine Feuerkugel, wie eine große Sternschnuppe, von O. nach W. mit einem pfeifenden Geschwirr ziehen; sie war von 45 Höhe in O. bis eben so viel in W. sichtbar, und hinterließ einen langen hellen schweif, der noch eine Sekunde länger sichtbar war. Gilberts Annalen, B. 19. S. 374.
+1804, den 29. Julius, Abends um 10 Uhr 58 Minuten, sah Hofrath Huth zu Frankfurt an der Oder eine Feuerkugel, wie eine große Sternschnuppe, von O. nach W. mit einem pfeifenden Geschwirr ziehen; sie war von 45° Höhe in O. bis eben so viel in W. sichtbar, und hinterließ einen langen hellen schweif, der noch eine Sekunde länger sichtbar war. Gilberts Annalen, B. 19. S. 374.
 
 1804, den 19. August, Abends zwischen 10 und 11 Uhr, ward eine kleine Feuerkugel oder große Sternschnuppe von Brandes in Eckwarden gesehen, welche weiter ostwärts muss grösser erschienen sein. sie ward auch in Oldenburg gesehen. Gilberts Annalen, B. 18. S. 250.
 
