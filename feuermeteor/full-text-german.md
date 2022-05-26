@@ -52,91 +52,91 @@ E. F. F. Chladni.
 
 Erste Abteilung. Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.
 
-1\. Die Alten kannten schon diese Art von Naturerscheinungen.
+§. 1\. Die Alten kannten schon diese Art von Naturerscheinungen.
 
-2\. Nachheriger Unglaube, der bis zur Verstockung ging, mit wenigen Ausnahmen.
+§. 2\. Nachheriger Unglaube, der bis zur Verstockung ging, mit wenigen Ausnahmen.
 
-3\. Der Verfasser war in neuerer Zeit der erste, der diesen Unglauben bekämpfte.
+§. 3\. Der Verfasser war in neuerer Zeit der erste, der diesen Unglauben bekämpfte.
 
-4\. Veranlassung dazu.
+§. 4\. Veranlassung dazu.
 
-5\. Fortdauer des Unglaubens, und Anfechtungen, die der Verfasser sich musste gefallen lassen.
+§. 5\. Fortdauer des Unglaubens, und Anfechtungen, die der Verfasser sich musste gefallen lassen.
 
-6\. Einige Ausnahmen in Deutschland.
+§. 6\. Einige Ausnahmen in Deutschland.
 
-7\. Untersuchungen in England.
+§. 7\. Untersuchungen in England.
 
-8\. Etwas späterer Glaube, und weitere Untersuchungen in Frankreich.
+§. 8\. Etwas späterer Glaube, und weitere Untersuchungen in Frankreich.
 
-9\. Endliche allgemeine Anerkennung.
+§. 9\. Endliche allgemeine Anerkennung.
 
 Zweite Abteilung. Allgemeine Bemerkungen über Feuerkugeln, und über de herabgefallenen Massen.
 
-1\. Allgemeiner Begriff von dieser Art der Naturerscheinungen.
+§. 1\. Allgemeiner Begriff von dieser Art der Naturerscheinungen.
 
-2\. Anfang der Erscheinung eines solchen Meteors.
+§. 2\. Anfang der Erscheinung eines solchen Meteors.
 
-3\. Beobachtete Höhe der Feuerkugeln.
+§. 3\. Beobachtete Höhe der Feuerkugeln.
 
-4\. Beschaffenheit der Bahn. Achsendrehung. Bogensprünge. (Nebst einem späteren Nachtrage zu Ende dieser Abteilung.)
+§. 4\. Beschaffenheit der Bahn. Achsendrehung. Bogensprünge. (Nebst einem späteren Nachtrage zu Ende dieser Abteilung.)
 
-5\. Geschwindigkeit der Bewegung.
+§. 5\. Geschwindigkeit der Bewegung.
 
-6\. Größe der Feuerkugeln.
+§. 6\. Größe der Feuerkugeln.
 
-7\. Gestalt dieser Meteore.
+§. 7\. Gestalt dieser Meteore.
 
-8\. Licht und Farben derselben.
+§. 8\. Licht und Farben derselben.
 
-9\. Brennen, Rauch und Dampf.
+§. 9\. Brennen, Rauch und Dampf.
 
-10\. Zerplatzung der Feuerkugeln, mit Erschütterung und Getöse.
+§. 10\. Zerplatzung der Feuerkugeln, mit Erschütterung und Getöse.
 
-11\. Dauer der Erscheinung.
+§. 11\. Dauer der Erscheinung.
 
-12\. Niederfallen der Massen, welche entweder Meteor-Steine, oder Gediegeneisenmassen, oder auch staubartige, oder weiche Substanzen sind.
+§. 12\. Niederfallen der Massen, welche entweder Meteor-Steine, oder Gediegeneisenmassen, oder auch staubartige, oder weiche Substanzen sind.
 
-13\. Beschaffenheit der Meteor-Steine im Allgemeinen.
+§. 13\. Beschaffenheit der Meteor-Steine im Allgemeinen.
 
-14\. Bestandteile derselben.
+§. 14\. Bestandteile derselben.
 
-15\. Größe und Quantität der gefallenen Steine.
+§. 15\. Größe und Quantität der gefallenen Steine.
 
-16\. Gestalt der Meteor-Steine.
+§. 16\. Gestalt der Meteor-Steine.
 
-17\. Rinde derselben.
+§. 17\. Rinde derselben.
 
-18\. Beschaffenheit der Steinart.
+§. 18\. Beschaffenheit der Steinart.
 
-19\. Meteorische Gediegeneisen-Massen.
+§. 19\. Meteorische Gediegeneisen-Massen.
 
-20\. Niederfälle von staubartigen oder weichen Substanzen in trockner oder feuchter Gestalt.
+§. 20\. Niederfälle von staubartigen oder weichen Substanzen in trockner oder feuchter Gestalt.
 
-21\. Über noch manche anderen Dinge, die herabgefallen sein sollen.
+§. 21\. Über noch manche anderen Dinge, die herabgefallen sein sollen.
 
-22\. Die Feuerkugeln und die Niederfälle meteorischer Massen sind von alle dem, was sich auf unsere Erde bezieht, unabhängig.
+§. 22\. Die Feuerkugeln und die Niederfälle meteorischer Massen sind von alle dem, was sich auf unsere Erde bezieht, unabhängig.
 
-23\. Unabhängigkeit von Jahreszeiten.
+§. 23\. Unabhängigkeit von Jahreszeiten.
 
-24\. Unabhängigkeit von Tageszeiten.
+§. 24\. Unabhängigkeit von Tageszeiten.
 
-25\. Unabhängigkeit von den Weltgegenden.
+§. 25\. Unabhängigkeit von den Weltgegenden.
 
-26\. Unabhängigkeit von der geographischen Lage.
+§. 26\. Unabhängigkeit von der geographischen Lage.
 
-27\. Unabhängigkeit vom Wetter.
+§. 27\. Unabhängigkeit vom Wetter.
 
-28\. Unabhängigkeit von Perioden.
+§. 28\. Unabhängigkeit von Perioden.
 
-29\. Ueer Schaden, der durch solche Meteore ist verursacht worden.
+§. 29\. Ueer Schaden, der durch solche Meteore ist verursacht worden.
 
-30\. Vergebliche Bemühungen des Verfassers, verschiedene ältere Meteor-Massen aufzufinden.
+§. 30\. Vergebliche Bemühungen des Verfassers, verschiedene ältere Meteor-Massen aufzufinden.
 
-31\. Übereinkunft der Sternschnuppen mit den Feuerkugeln. (Nebst einem späteren Nachtrage zu Ende der siebenten Abteilung.)
+§. 31\. Übereinkunft der Sternschnuppen mit den Feuerkugeln. (Nebst einem späteren Nachtrage zu Ende der siebenten Abteilung.)
 
-32\. Verzeichnis der Sammlung von Meteor-Substanzen, welche der Verfasser gegenwärtig besitzt. (Nebst einem späteren Nachtrage zu Ende der sechsten Abteilung.)
+§. 32\. Verzeichnis der Sammlung von Meteor-Substanzen, welche der Verfasser gegenwärtig besitzt. (Nebst einem späteren Nachtrage zu Ende der sechsten Abteilung.)
 
-33\. Wahrscheinlichkeit eines häufigen Niederfallens meteorischer Massen auf unsern Weltkörper. (Späterer Nachtrag zu 4.)
+§. 33\. Wahrscheinlichkeit eines häufigen Niederfallens meteorischer Massen auf unsern Weltkörper. (Späterer Nachtrag zu §. 4.)
 
 Dritte Abteilung. Nachrichten von beobachteten Feuerkugeln, und zwar sowohl von solchen, deren Massen man habhaft geworden ist, als auch von andern, in chronologischer Ordnung.
 
