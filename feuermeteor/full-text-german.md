@@ -446,7 +446,7 @@ Zwischen 1675 und 1677, ein Stein auf ein Schiff beider Insel Copinsha.
 
 1798, Steine bei Benares in Bengalen.
 
-1801, auf der ile des tonneliers.
+1801, auf der île des tonneliers.
 
 1802, in den Schottischen Hochlanden.
 
@@ -1862,7 +1862,7 @@ An demselben Tage zeigten sich Sternschnuppen und kleine Feuerkugeln in mehreren
 
 1800, in der Mitte des August, ungefähr um 9 Uhr Abends, wurden bei Halle vom Ratsmeister Weber und Andern zwei kleine Feuerkugeln etwa von der doppelten Größe der Venus gesehen, die beide, eine etwa 5 Minuten später als die andere, nach s. W. gingen, und zerplatzten. Gilberts Annalen, B. 29. s. 105. (Vielleicht waren es stücke eines schon vorher in großer Entfernung zerplatzten Meteors, die ihren Weg noch eine Zeitlang in derselben Richtung mochten fortgesetzt haben.)
 
-(1801, auf der ile des tonneliers bei Isle de France ein von W. kommendes explodierendes Feuer-Meteor, das einen steinniederfall gab, und auch auf der Insel Bourbon als ein leuchtender Punkt gesehen ward.) s. die vierte Abteilung.
+(1801, auf der île des tonneliers bei Isle de France ein von W. kommendes explodierendes Feuer-Meteor, das einen steinniederfall gab, und auch auf der Insel Bourbon als ein leuchtender Punkt gesehen ward.) s. die vierte Abteilung.
 
 1801, in der Nacht zwischen dem 19. und 20. Junius zwischen 12 und 1 Uhr, sah man, nach einem Bericht in _Tilloch's philos. magazine, vol. 10._ p. 285, in dem _Hull Advertiser_, 4. Julius 1801, im _Monthly magazine_, August 1801, und aus diesen in Voigts Magazin für Naturkunde B. 3. s. 825, zu Hull eine Feuerkugel in s. W. grösser als der Mond, mit einem schwarzen Querstreifen; diese teilte sich in 11 solche Kugeln, und diese sich wieder in kleine Sternchen, die nach und nach verlöschten. Das Licht war bläulich. sie war einige Sekunden lang verschwunden (allem Ansehen nach hinter ausgebrochenem Rauche und Dampfe, und im tiefsten Punkte einer Senkung), und hernach wieder weit glänzender erschienen.
 
