@@ -938,7 +938,7 @@ Hierher gehört allem Ansehen nach auch die von Bode (nach dem astronomischen Ja
 
 An folgenden Feuerkugeln ist diese Art der Bewegung aus der schlangenförmigen oder zickzackförmigen Gestalt des nachgelassenen, die Bahn des Meteors bezeichnenden, Schweifes zu schließen gewesen: 1688, den 17. April; 1719, den 19 März; 1730, den 17. Julius; 1757, den 18. Februar; 1762, den 29. Julius; 1779, den 31. Oktober; 1798, den 28. Julius; 1805, den 23. Oktober.
 
-Dass ein solches Abprallen von der einer so schnellen Bewegung (von etlichen Meilen in einer Sekunde, S. 5.) sehr widerstehenden Atmosphäre, schon in einer Höhe von etlichen Meilen, wo die Luft sehr dünne ist, Statt finden könne, wird dadurch begreiflicher, weil ein solcher Körper nicht etwa sehr dicht, sondern vielmehr, bei nicht gar vieler Masse (S. 15.) zu einem sehr großen Volumen (§. 6.) ausgedehnt, und also eher im Stande ist, von der Atmosphäre abzuprallen, als wenn er bei gleicher Masse kleiner und dichter wäre.
+Dass ein solches Abprallen von der einer so schnellen Bewegung (von etlichen Meilen in einer Sekunde, §. 5.) sehr widerstehenden Atmosphäre, schon in einer Höhe von etlichen Meilen, wo die Luft sehr dünne ist, Statt finden könne, wird dadurch begreiflicher, weil ein solcher Körper nicht etwa sehr dicht, sondern vielmehr, bei nicht gar vieler Masse (§. 15.) zu einem sehr großen Volumen (§. 6.) ausgedehnt, und also eher im Stande ist, von der Atmosphäre abzuprallen, als wenn er bei gleicher Masse kleiner und dichter wäre.
 
 5\. Geschwindigkeit der Bewegung.
 
