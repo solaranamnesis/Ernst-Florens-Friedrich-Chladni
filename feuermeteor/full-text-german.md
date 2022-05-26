@@ -1932,7 +1932,7 @@ An eben demselben Tage, um 8 Uhr 5 Minuten Abends, hat Hofrath Huth eine Feuerku
 
 (1808, den 22. Mai, des Morgens zwischen 5 1/2 und 6 Uhr, sah man zu Triesch bei Stannern in Mähren, und auch 4 bis 5 Meilen davon an der böhmischen Grenze, eine von N. O. nach S. W. gehende Feuerkugel, welche den bekannten großen Steinfall bei Stannern gab, von dem in der vierten Abteilung weiter die Rede sein wird.)
 
-1808, den 29. Mai, um 11 Uhr 26 Minuten Abends, ward unter 35 29 nördlicher Breite, und 6 45 Länge, 9 engl. Meilen von Cap Spartel, eine Feuerkugel mit einem schweife gesehen, die sich in 7 bis 8 kleinere auflöste. _Monthly magazine, Nov. 1809_, p. 566.
+1808, den 29. Mai, um 11 Uhr 26 Minuten Abends, ward unter 35° 29′ nördlicher Breite, und 6° 45′ Länge, 9 engl. Meilen von Cap Spartel, eine Feuerkugel mit einem schweife gesehen, die sich in 7 bis 8 kleinere auflöste. _Monthly magazine, Nov. 1809_, p. 566.
 
 1808, den 4. Junius, Abends um 9 Uhr 28 Minuten, ward zu Dessau von dem Stabsärzte Dr. Kretzschmar eine Feuerkugel mit kegelförmigem schweife gesehen, deren Licht heller war als das Mondlicht; sie ging nach N. W. zu. Gilberts Annalen, B. 29, S. 108.
 
