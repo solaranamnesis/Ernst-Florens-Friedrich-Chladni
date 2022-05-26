@@ -50,7 +50,7 @@ E. F. F. Chladni.
 
 ## Übersicht des Inhalts.
 
-Erste Abteilung. Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.
+#### Erste Abteilung. Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.
 
 §. 1\. Die Alten kannten schon diese Art von Naturerscheinungen.
 
@@ -70,7 +70,7 @@ Erste Abteilung. Geschichte der ersten Untersuchungen des Niederfallens meteoris
 
 §. 9\. Endliche allgemeine Anerkennung.
 
-Zweite Abteilung. Allgemeine Bemerkungen über Feuerkugeln, und über de herabgefallenen Massen.
+#### Zweite Abteilung. Allgemeine Bemerkungen über Feuerkugeln, und über de herabgefallenen Massen.
 
 §. 1\. Allgemeiner Begriff von dieser Art der Naturerscheinungen.
 
