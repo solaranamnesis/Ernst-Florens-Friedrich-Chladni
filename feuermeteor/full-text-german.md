@@ -404,7 +404,7 @@ Zwischen 1675 und 1677, ein Stein auf ein Schiff beider Insel Copinsha.
 
 ? 1766, einer zu Novellara.
 
-1768, ein Stein bei Luce.
+1768, ein Stein bei Lucé.
 
 1768, einer bei Maurkirchen im Innviertel.
 
@@ -694,23 +694,23 @@ Rother Schnee auf der Alpe Anceindaz in der Schweiz, am Fuße der Diablerets.
 
 Siebente Abteilung. Über den Ursprung der herabgefallenen Massen.
 
-1\. Vormalige Meinungen von dem, was Feuerkugeln wären.
+§. 1\. Vormalige Meinungen von dem, was Feuerkugeln wären.
 
-2\. Nachherige Meinungen von dem Ursprunge der herabgefallenen Massen.
+§. 2\. Nachherige Meinungen von dem Ursprunge der herabgefallenen Massen.
 
-3\. Die herabfallenden Massen sind kosmisch, das ist, sie kommen aus dem allgemeinen Weltraume zu uns.
+§. 3\. Die herabfallenden Massen sind kosmisch, das ist, sie kommen aus dem allgemeinen Weltraume zu uns.
 
-4\. Das Dasein solcher im allgemeinen Weltraume sich bewegenden Massen, ist durch sehr viele Beobachtungen erwiesen.
+§. 4\. Das Dasein solcher im allgemeinen Weltraume sich bewegenden Massen, ist durch sehr viele Beobachtungen erwiesen.
 
-5\. Diese Massen können Haufen von Ur-Materie sein, die vor ihrer Ankunft noch keinem größeren Weltkörper zugehört hatte, und scheinen von kometenartiger Beschaffenheit zu sein.
+§. 5\. Diese Massen können Haufen von Ur-Materie sein, die vor ihrer Ankunft noch keinem größeren Weltkörper zugehört hatte, und scheinen von kometenartiger Beschaffenheit zu sein.
 
-6\. Sie können auch Trümmer eines zerstörten Weltkörpers sein.
+§. 6\. Sie können auch Trümmer eines zerstörten Weltkörpers sein.
 
-7\. Ein Ursprung aus Mond-Vulkanen ist zwar an sich nicht unmöglich, aber doch sehr unwahrscheinlich.
+§. 7\. Ein Ursprung aus Mond-Vulkanen ist zwar an sich nicht unmöglich, aber doch sehr unwahrscheinlich.
 
-8\. Die niedergefallenen Massen können schlechterdings nicht aus Bestandteilen der Atmosphäre gebildet sein.
+§. 8\. Die niedergefallenen Massen können schlechterdings nicht aus Bestandteilen der Atmosphäre gebildet sein.
 
-9\. Sie können auch nicht von der Erde durch vulkanische Kräfte in die Höhe gehoben sein.
+§. 9\. Sie können auch nicht von der Erde durch vulkanische Kräfte in die Höhe gehoben sein.
 
 (Späterer Nachtrag zu dem 31. der zweiten Abteilung, die Beobachtungen der Sternschnuppen betreffend.)
 
@@ -1368,7 +1368,7 @@ Als meine erste Abhandlung über diesen Gegenstand im Jahre 1794 erschien, hatte
 
 1753, den 4. Julius, bei Tabor in Böhmen, ein sehr kleines Stück.
 
-1768, den 13. September, bei Luce, etwas über 3/4 Unze.
+1768, den 13. September, bei Lucé, etwas über 3/4 Unze.
 
 1768, den 20. November, bei Maurkirchen, 5 3/4 Unzen.
 
