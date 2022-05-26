@@ -138,7 +138,9 @@ E. F. F. Chladni.
 
 §. 33\. Wahrscheinlichkeit eines häufigen Niederfallens meteorischer Massen auf unsern Weltkörper. (Späterer Nachtrag zu §. 4.)
 
-Dritte Abteilung. Nachrichten von beobachteten Feuerkugeln, und zwar sowohl von solchen, deren Massen man habhaft geworden ist, als auch von andern, in chronologischer Ordnung.
+#### Dritte Abteilung. Nachrichten von beobachteten Feuerkugeln, und zwar sowohl von solchen, deren Massen man habhaft geworden ist, als auch von andern, in chronologischer Ordnung. Mehr als 280.
+
+#### Vierte Abteilung. Nachrichten von den Stein- und Eisenmassen, deren Niederfallen beobachtet worden ist, in chronologischer Ordnung.
 
 1\. Vorerinnerungen.
 
@@ -522,7 +524,7 @@ Ein Stein in Dorbrecht.
 
 (Nacherinnerung zu dieser und zu der vorigen Abteilung, die in China beobachteten Feuer-Meteore und Steinfälle betreffend.)
 
-Fünfte Abteilung. Über Gediegeneisenmassen, die auch als meteorisch können angesehen werden, über deren Niederfallen aber keine Beobachtungen vorhanden sind.
+#### Fünfte Abteilung. Über Gediegeneisenmassen, die auch als meteorisch können angesehen werden, über deren Niederfallen aber keine Beobachtungen vorhanden sind.
 
 I\. Allgemeine Bemerkungen über das Vorkommen des meteorischen Gediegeneisens, und über das Gefüge desselben.
 
@@ -580,7 +582,7 @@ Eine bei Leadhills gefundene Masse.
 
 ? Ein großes Felsenstück im östlichen Teile von Asien.
 
-Sechste Abteilung. Nachrichten von herabgefallenen staubartigen oder weichen Materien, in trockner oder feuchter Gestalt, in chronologischer Ordnung.
+#### Sechste Abteilung. Nachrichten von herabgefallenen staubartigen oder weichen Materien, in trockner oder feuchter Gestalt, in chronologischer Ordnung.
 
 Ungefähr um 473, großer Niederfall von schwarzem Staube, um Konstantinopel.
 
@@ -692,7 +694,7 @@ Rother Schnee auf der Alpe Anceindaz in der Schweiz, am Fuße der Diablerets.
 
 (Späterer Nachtrag zu dem 32. der zweiten und zu der fünften Abteilung; eine Antike aus Pompei, die Meteor-Eisen zu sein scheint, betreffend.)
 
-Siebente Abteilung. Über den Ursprung der herabgefallenen Massen.
+#### Siebente Abteilung. Über den Ursprung der herabgefallenen Massen.
 
 §. 1\. Vormalige Meinungen von dem, was Feuerkugeln wären.
 
@@ -714,9 +716,9 @@ Siebente Abteilung. Über den Ursprung der herabgefallenen Massen.
 
 (Späterer Nachtrag zu dem 31. der zweiten Abteilung, die Beobachtungen der Sternschnuppen betreffend.)
 
-Als Anhang folgt ein Verzeichnis der im k. k. Naturalien-Kabinette zu Wien befindlichen meteorischen Stein- und Eisenmassen, vom Herrn Direktor von Schreibers.
+#### Als Anhang folgt ein Verzeichnis der im k. k. Naturalien-Kabinette zu Wien befindlichen meteorischen Stein- und Eisenmassen, vom Herrn Direktor von Schreibers.
 
-Berichtigungen und Verbesserungen.
+### Berichtigungen und Verbesserungen.
 
 S. 11. Z. 13, anstatt 1812, ist zu lesen 1802.
 
