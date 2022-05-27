@@ -6,10 +6,7 @@
 \usepackage{booktabs}
 \setlength{\emergencystretch}{15pt}
 \usepackage{fancyhdr}
-\usepackage{graphicx}
-\graphicspath{ {./} }
 \usepackage{microtype}
-\usepackage[figurename=]{caption}
 \begin{document}
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
@@ -64,694 +61,430 @@
 \clearpage
 \tableofcontents
 \clearpage
-\section{Vorrede.}
+\section*{Vorrede.}
 \paragraph{}
 Da das, herabfallen meteorischer Massen, und der kosmische Ursprung derselben, durch mich zuerst im Jahre 1794 unter den Physikern zur Sprache gebracht worden ist, so haben sp"aterhin Mehrere den Wunsch ge"au"sert, dass ich diesen Gegenstand mit Benutzung der neuern Beobachtungen und Untersuchungen mehr im Zusammenhange bearbeiten m"ochte. Einen besonderen Wert f"ur mich hatte hierbei die Aufforderung von Seiten des Herrn Doktor Olbers, in der monatlichen Korrespondenz des Freiherrn von Zach, Februar 1803, und aus dieser in Gilberts Annalen der Physik, B. XIV, S. 45. Recht gern h"atte ich fr"uher diesem Wunsche Gen"uge geleistet, aber teils war ich mit andern Dingen besch"aftigt, die ich doch auch nicht vernachl"assigen wollte, oder durste, (z. B. mit alle dem, was zur Ausarbeitung meiner Neuen Beitr"age zu Akustik n"otig war, mit Vervollkommnung meines Klavizylinder, und mit Untersuchungen "uber die verschiedenen m"oglichen Bauarten solcher Instrumente); teils auch hatte ich hierzu den weiten noch nicht genug Beobachtungen zu sammeln Gelegenheit gehabt. Ich lie"s es also vor der Hand dabei bewenden, von Zeit zu Zeit Beitr"age in Gilberts Annalen und in anderen wissenschaftlichen Zeitschriften zu liefern. Erst im Mai 1816 fasste ich den festen Entschluss, etwas Ganzes hier"uber auszuarbeiten, und dieses bis zur geschehenen Ausf"uhrung als mein Hauptbestreben anzusehen, wozu die Reise, welche ich mir vorgenommen hatte, mir sehr beh"ulflich fein konnte und musste. Da n"amlich dieser Gegenstand unter die Dinge geh"ort, welche sich nicht \emph{a priori} konstruieren (wof"ur mir im Deutschen kein anderer Ausdruck sogleich beifallen will als: aus den Fingern saugen) lassen, und wo man, so viel als m"oglich, alle vorhandenen Beobachtungen beisammenhaben muss, um nicht einseitig "uber die Sache zu urteilen; so habe ich auf dieser Reise weder M"uhe noch Kosten gescheut, um alle Beobachtungen, deren ich habhaft werden konnte, zu sammeln. In dieser Absicht blieb ich zwei Monate in Gotha, und drei Monate in G"ottingen, um in den dortigen Bibliotheken alles hierher Geh"orende nachzusehen; benutzte besonders in Hamburg, Bremen und Wien viele ausl"andische Zeitschriften; machte im Julius 1818 eine Exkursion von Karlsruhe nach Paris, um in den dortigen Bibliotheken und Naturalien-Kabinetten manches nachzusehen u. s. w., so dass ich wissentlich nichts von dem, was zur Sache geh"ort, vernachl"assigt habe. Um dem Buche die geh"orige Korrektheit zu geben, bin ich bis nach Beendigung des Druckes in Wien geblieben. "Ubrigens halte ich f"ur n"otig (weil man mich "ofters darum befragt hat) die Bemerkung beizuf"ugen, dass alles, was ich bei dieser Gelegenheit, und auch sonst, f"ur Naturkenntnisse, und bei den akustischen Untersuchungen auch f"ur deren Anwendung auf Kunst, zu tun mich bestrebt habe, auf meine eigene Rechnung geschehen ist, indem ich von Niemanden irgendeinen Gehalt oder andere Vorteile genie"se.
 
-Jedem, der sich durch Lieferung brauchbarer Nachrichten, oder sonst auf irgendeine Art um die Sache verdient gemacht hat, habe ich gern am geh"origen Orte Gerechtigkeit widerfahren lassen. Alle die Schriften, welche Beobachtungen von Tatsachen enthalten, habe ich zu benutzen, und immer aus den ersten Quellen zu sch"opfen mich bestrebt; viele Schriften aber, die blass Meinungen und Urteile enthalten, habe ich nicht angef"uhrt, weil hier nicht die Absicht war, eine vollst"andige Literatur des Gegenstandes zu liefern, sondern den Gegenstand selbst abzuhandeln. Es liegt auch nicht viel daran, zu wissen, wie dieser oder jener sich die Sache vorstellt, wohl aber zu wissen, was beobachtet worden ist, und was aus den Beobachtungen, mit Zuziehung bekannter Naturgesetze, auf die einfachste und nat"urlichste Art folgt. Hierbei kommt auch gar nichts darauf an, ob eine Behauptung alt oder neu ist, oder auch, ob sie Manchem, der in seinen einmal gefassten Vorstellungen nicht gern etwas ab"andert, und alles auf einen gar zu engen Kreis zu beschr"anken geneigt ist,* etwa gar zu paradox vorkommen m"ochte. Jeder Satz, der etwas zur Vermehrung unserer Kenntnisse beigetragen hat, war einmal zu irgendeiner Zeit etwas Ungew"ohnliches oder Paradoxes, und musste also Manchem zum Ansto"s gereichen; h"atte man also immer bei dem Gew"ohnlichen wollen stehen bleiben, so w"aren alle menschlichen Kenntnisse und Einrichtungen noch in dem Zustande der ersten Kindheit oder Rohheit, oder w"aren wenigstens sehr langsam vorw"artsgeschritten.
-
-*) Viele, denen es sonst nicht an Einsichten fehlt, haben eine besondere Scheu daf"ur, sich so manches im Weltall so gro"s zu denken, als es wirklich ist, und "uberhaupt sich die Dinge in ihrer wahren verh"altnism"a"sigen Gr"o"se oder Kleinheit vorzustellen. Viele m"ochten auch gar gern unsern gegen so viele andere Weltk"orper sehr kleinen Erdball (und vielleicht auch auf diesem ihr liebes Ich) als das Wichtigste im Weltall ansehen, um dessentwillen alles "Ubrige da ist, und worauf sich Alles bezieht. Solche m"ussten eigentlich, wenn sie recht konsequent fein wollen, Anh"anger des ptolem"aischen oder des tychonischen Systems fein und bleiben. Wirklich habe ich auch vor vielen Jahren zwei sonst verst"andige M"anner gekannt, die physikalische und mathematische Kenntnisse hatten, oder zu haben glaubten; von denen aber der Eine dem ptolem"aischen, der Andere dem tychonischen Welt-Systeme mit sehr vielem Eifer anhing, weil sie, wie vormals Galileis Gegner, es f"ur "au"serst s"undlich und verderblich hielten, wenn man ann"ahme, dass die Erde sich bewege. Beide gaben sich alle M"uhe, um mich von ihrer Meinung zu "uberzeugen; ich antwortete ihnen aber, mir k"ame das, wenn man nur noch einen Schritt weiter in das Kleine gehen wollte, ungef"ahr so vor, als ob, wenn ein Hase gebraten w"urde, man annehmen wollte, dass nicht etwa der Hase nebst dem Spie"se sich bewege, sondern dass die K"uche nebst dem Feuer, so wie auch das ganze Haus, die Erde, und allenfalls auch das ganze Weltall sich um den Hafen drehe, damit er gebraten werde.
+Jedem, der sich durch Lieferung brauchbarer Nachrichten, oder sonst auf irgendeine Art um die Sache verdient gemacht hat, habe ich gern am geh"origen Orte Gerechtigkeit widerfahren lassen. Alle die Schriften, welche Beobachtungen von Tatsachen enthalten, habe ich zu benutzen, und immer aus den ersten Quellen zu sch"opfen mich bestrebt; viele Schriften aber, die blass Meinungen und Urteile enthalten, habe ich nicht angef"uhrt, weil hier nicht die Absicht war, eine vollst"andige Literatur des Gegenstandes zu liefern, sondern den Gegenstand selbst abzuhandeln. Es liegt auch nicht viel daran, zu wissen, wie dieser oder jener sich die Sache vorstellt, wohl aber zu wissen, was beobachtet worden ist, und was aus den Beobachtungen, mit Zuziehung bekannter Naturgesetze, auf die einfachste und nat"urlichste Art folgt. Hierbei kommt auch gar nichts darauf an, ob eine Behauptung alt oder neu ist, oder auch, ob sie Manchem, der in seinen einmal gefassten Vorstellungen nicht gern etwas ab"andert, und alles auf einen gar zu engen Kreis zu beschr"anken geneigt ist,\footnote{Viele, denen es sonst nicht an Einsichten fehlt, haben eine besondere Scheu daf"ur, sich so manches im Weltall so gro"s zu denken, als es wirklich ist, und "uberhaupt sich die Dinge in ihrer wahren verh"altnism"a"sigen Gr"o"se oder Kleinheit vorzustellen. Viele m"ochten auch gar gern unsern gegen so viele andere Weltk"orper sehr kleinen Erdball (und vielleicht auch auf diesem ihr liebes Ich) als das Wichtigste im Weltall ansehen, um dessentwillen alles "Ubrige da ist, und worauf sich Alles bezieht. Solche m"ussten eigentlich, wenn sie recht konsequent fein wollen, Anh"anger des ptolem"aischen oder des tychonischen Systems fein und bleiben. Wirklich habe ich auch vor vielen Jahren zwei sonst verst"andige M"anner gekannt, die physikalische und mathematische Kenntnisse hatten, oder zu haben glaubten; von denen aber der Eine dem ptolem"aischen, der Andere dem tychonischen Welt-Systeme mit sehr vielem Eifer anhing, weil sie, wie vormals Galileis Gegner, es f"ur "au"serst s"undlich und verderblich hielten, wenn man ann"ahme, dass die Erde sich bewege. Beide gaben sich alle M"uhe, um mich von ihrer Meinung zu "uberzeugen; ich antwortete ihnen aber, mir k"ame das, wenn man nur noch einen Schritt weiter in das Kleine gehen wollte, ungef"ahr so vor, als ob, wenn ein Hase gebraten w"urde, man annehmen wollte, dass nicht etwa der Hase nebst dem Spie"se sich bewege, sondern dass die K"uche nebst dem Feuer, so wie auch das ganze Haus, die Erde, und allenfalls auch das ganze Weltall sich um den Hafen drehe, damit er gebraten werde.} etwa gar zu paradox vorkommen m"ochte. Jeder Satz, der etwas zur Vermehrung unserer Kenntnisse beigetragen hat, war einmal zu irgendeiner Zeit etwas Ungew"ohnliches oder Paradoxes, und musste also Manchem zum Ansto"s gereichen; h"atte man also immer bei dem Gew"ohnlichen wollen stehen bleiben, so w"aren alle menschlichen Kenntnisse und Einrichtungen noch in dem Zustande der ersten Kindheit oder Rohheit, oder w"aren wenigstens sehr langsam vorw"artsgeschritten.
 
 Herr v. Schreibers, Direktor der k. k. Hof-Naturalien-Kabinette in Wien, welcher sich um die Lehre von den Meteor-Massen in mehreren Hinsichten sehr verdient gemacht hat, fand f"ur gut, diesem Buche eine Beilage von 10 Steindruck-Tafeln, nebst deren Erkl"arung, beizuf"ugen, welche ein besonderes Heft in 4 \^10 ausmacht, und worin verschiedene im k. k. Naturalien-Kabinette befindliche Meteor-Massen und Figuren auf ge"atzten Fl"achen einiger Arten des Meteor-Eisens dargestellt werden, so wie auch die Gegend um Stannern, auf welche am 22. Mai 1808 Meteor-Steine fielen. Diese kleine Karte ist ein Gegenst"uck zu der, welche Biot von der Gegend um L'Aigle geliefert hat, wo die Meteor-Steine am 26. April 1803 ebenfalls auf einen elliptischen Bezirk gefallen sind. Ich zweifle gar nicht, dass es den Lesern angenehm sein werde, wenn sie dadurch einen anschauenden Begriff von Machen in diesem Buche beschriebenen Gegenst"anden erhalten k"onnen. Als Anhang zu dem Buche selbst hat er ein Verzeichnis der im k. k. Naturalien-Kabinette zu Wien befindlichen Sammlung von meteorischen Stein- und Eisen-Massen beigef"ugt, welche ohne Zweifel unter allen in Hinsicht der Mannigfaltigkeit sowohl, als der Prachtst"ucke, die vorz"uglichste ist. Die Bekanntmachung des Verzeichnisses war wohl notwendig, weil schon manches Unrichtige war dar"uber gesagt worden.
 
-Da nun der Zweck, warum ich ungef"ahr seit drei bis vier Jahren die Bearbeitung der Lehre von den Meteor-Massen als Hauptsache angesehen habe, durch die Herausgabe dieses Buches, so gut es mir m"oglich war, er f"ullt ist, so gedenke ich nun wieder manche andere Dinge als Hauptbesch"aftigung anzusehen, und auch wieder einmal weitere Untersuchungen "uber die Bauarten der beiden von mir erfundenen Instrumente, des Klavizylinders und des Euphon, anzustellen, wovon vorz"uglich ersteres seht verschiedener Arten der Einrichtung, und betr"achtlicher Vervollkommnungen f"ahig ist, und einmal in der Folge, wenn es in mehrerer Vollkommenheit, als jetzt, allgemeiner verbreitet werden sollte, vieles w"urde dazu beitragen k"onnen, Manchem mehreren Geschmack an harmonischen und gebundenen S"atzen beizubringen, als an solchen, wo es blo"s auf Fertigkeit ankommt. Was ich dar"uber, um nichts verloren gehen zu lassen, vor einigen Jahren nebst den n"otigen Zeichnungen schriftlich aufgesetzt habe, ist nach meinen jetzigen Begriffen noch gar zu unreif, und es sind noch weit mehrere Forschungen und Experimente n"otig, um vielleicht auch "uber diesen Gegenstand einmal in der Folge etwas Ganzes zu liefern. Auch fehlt es sonst nicht an Stoff zur Besch"aftigung, und an Luft dazu wird es mir, so lange ich mich so gesund f"uhle, wie bisher, hoffentlich auch nicht fehlen. "Ubrigens, von welcher Art auch meine Besch"aftigungen sein m"ogen, werde ich doch auch nicht unterlassen, auf alles das aufmerksam zu sein, was die Geschichte und die weitere Kenntnis des hier bearbeiteten Gegenstandes betrifft, um in der Folge Nachtr"age zu dem, was hier gesagt ist, zu liefern. Sollte etwa ein und anderer Leser dieses Buches Gelegenheit haben, mir glaubw"urdige Nachrichten mitzuteilen, welche weder hier, noch in einer bekannten Zeitschrift erw"ahnt sind, von merkw"urdigen Feuer-Meteoren, von Stein- und Eisen-Niederf"allen, von Gediegeneisen-Massen, die auch f"ur meteorisch zu halten sind, von Niederf"allen staubartiger, schlammiger oder bitumin"oser Stoffe,* oder sollte etwa jemand so gef"allig sein wollen (wie schon Mancher gewesen ist), meine Sammlung meteorischer Substanzen durch irgendetwas von der Art, das ich noch nicht besitze, zu vermehren, so w"urde ich es mit allem geb"uhrenden Danke anerkennen, und ich w"urde in diesem Falle bitten, wenn der "Ubersender sich innerhalb der "Osterreichischen Monarchie befindet, durch die J. G. Heubner'sche Buchhandlung in Wien; wenn er sich aber au"serhalb derselben befindet, durch die Breitkopf- und H"artel'sche Buchhandlung in Leipzig, es (mit m"oglichster Ersparung des Porto, besonders wenn die Sache nicht von vorz"uglicher Wichtigkeit ist) an mich gelangen zu lassen.
-
-*) Denjenigen, welche etwa Gelegenheit haben, einen Staubniederfall, oder das Herabfallen einer schleimigen Materie mit einer sternschnuppenartigen Lichterscheinung (wovon mir au"ser den in der sechsten Abteilung erw"ahnten Beispielen noch viele andere, aber zu unbestimmt, als dass sie hier h"atten k"onnen mit angef"uhrt werden, von glaubw"urdigen Personen erz"ahlt worden sind, und wo in dem einen Falle der zum Teil auf ein Kleidungsst"uck gefallene schleimige Stoff noch am folgenden Tage phosphoresziert haben soll); ist sehr zu empfehlen, des sie so viel als m"oglich von dem herabgefallenen Stoffe, oder wenn es roter Regen oder Schnee ist, von dem Bodensatze desselben sammeln, und irgendjemanden, der physikalische und chemische Untersuchungen dar"uber anstellen kann, zukommen lassen, indem diese Stoffe bis jetzt weit weniger untersucht worden sind, als die herabgefallenen Stein- und Eisenmassen. Wenn der Beobachter auch sein Physiker, aber doch sonst verst"andig und gebildet ist, so wird er doch wohl, sobald er einmal auf die Sache aufmerksam gemacht worden ist, f"ur billig erachten, aus Liebe f"ur die Wissenschaft sich einer so geringen Bem"uhung zu unterziehen.
+Da nun der Zweck, warum ich ungef"ahr seit drei bis vier Jahren die Bearbeitung der Lehre von den Meteor-Massen als Hauptsache angesehen habe, durch die Herausgabe dieses Buches, so gut es mir m"oglich war, er f"ullt ist, so gedenke ich nun wieder manche andere Dinge als Hauptbesch"aftigung anzusehen, und auch wieder einmal weitere Untersuchungen "uber die Bauarten der beiden von mir erfundenen Instrumente, des Klavizylinders und des Euphon, anzustellen, wovon vorz"uglich ersteres seht verschiedener Arten der Einrichtung, und betr"achtlicher Vervollkommnungen f"ahig ist, und einmal in der Folge, wenn es in mehrerer Vollkommenheit, als jetzt, allgemeiner verbreitet werden sollte, vieles w"urde dazu beitragen k"onnen, Manchem mehreren Geschmack an harmonischen und gebundenen S"atzen beizubringen, als an solchen, wo es blo"s auf Fertigkeit ankommt. Was ich dar"uber, um nichts verloren gehen zu lassen, vor einigen Jahren nebst den n"otigen Zeichnungen schriftlich aufgesetzt habe, ist nach meinen jetzigen Begriffen noch gar zu unreif, und es sind noch weit mehrere Forschungen und Experimente n"otig, um vielleicht auch "uber diesen Gegenstand einmal in der Folge etwas Ganzes zu liefern. Auch fehlt es sonst nicht an Stoff zur Besch"aftigung, und an Luft dazu wird es mir, so lange ich mich so gesund f"uhle, wie bisher, hoffentlich auch nicht fehlen. "Ubrigens, von welcher Art auch meine Besch"aftigungen sein m"ogen, werde ich doch auch nicht unterlassen, auf alles das aufmerksam zu sein, was die Geschichte und die weitere Kenntnis des hier bearbeiteten Gegenstandes betrifft, um in der Folge Nachtr"age zu dem, was hier gesagt ist, zu liefern. Sollte etwa ein und anderer Leser dieses Buches Gelegenheit haben, mir glaubw"urdige Nachrichten mitzuteilen, welche weder hier, noch in einer bekannten Zeitschrift erw"ahnt sind, von merkw"urdigen Feuer-Meteoren, von Stein- und Eisen-Niederf"allen, von Gediegeneisen-Massen, die auch f"ur meteorisch zu halten sind, von Niederf"allen staubartiger, schlammiger oder bitumin"oser Stoffe,\footnote{Denjenigen, welche etwa Gelegenheit haben, einen Staubniederfall, oder das Herabfallen einer schleimigen Materie mit einer sternschnuppenartigen Lichterscheinung (wovon mir au"ser den in der sechsten Abteilung erw"ahnten Beispielen noch viele andere, aber zu unbestimmt, als dass sie hier h"atten k"onnen mit angef"uhrt werden, von glaubw"urdigen Personen erz"ahlt worden sind, und wo in dem einen Falle der zum Teil auf ein Kleidungsst"uck gefallene schleimige Stoff noch am folgenden Tage phosphoresziert haben soll); ist sehr zu empfehlen, des sie so viel als m"oglich von dem herabgefallenen Stoffe, oder wenn es roter Regen oder Schnee ist, von dem Bodensatze desselben sammeln, und irgendjemanden, der physikalische und chemische Untersuchungen dar"uber anstellen kann, zukommen lassen, indem diese Stoffe bis jetzt weit weniger untersucht worden sind, als die herabgefallenen Stein- und Eisenmassen. Wenn der Beobachter auch sein Physiker, aber doch sonst verst"andig und gebildet ist, so wird er doch wohl, sobald er einmal auf die Sache aufmerksam gemacht worden ist, f"ur billig erachten, aus Liebe f"ur die Wissenschaft sich einer so geringen Bem"uhung zu unterziehen.} oder sollte etwa jemand so gef"allig sein wollen (wie schon Mancher gewesen ist), meine Sammlung meteorischer Substanzen durch irgendetwas von der Art, das ich noch nicht besitze, zu vermehren, so w"urde ich es mit allem geb"uhrenden Danke anerkennen, und ich w"urde in diesem Falle bitten, wenn der "Ubersender sich innerhalb der "Osterreichischen Monarchie befindet, durch die J. G. Heubner'sche Buchhandlung in Wien; wenn er sich aber au"serhalb derselben befindet, durch die Breitkopf- und H"artel'sche Buchhandlung in Leipzig, es (mit m"oglichster Ersparung des Porto, besonders wenn die Sache nicht von vorz"uglicher Wichtigkeit ist) an mich gelangen zu lassen.
 
 Geschrieben im September 1819.
 
 E. F. F. Chladni.
 \clearpage
-\section{"Ubersicht des Inhalts.}
-Erste Abteilung. Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.
+\section*{"Ubersicht des Inhalts.}
+\subsection*{Erste Abteilung. Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.}
+\paragraph{}
+§. 1. Die Alten kannten schon diese Art von Naturerscheinungen.
 
-§. 1\. Die Alten kannten schon diese Art von Naturerscheinungen.
+§. 2. Nachheriger Unglaube, der bis zur Verstockung ging, mit wenigen Ausnahmen.
 
-§. 2\. Nachheriger Unglaube, der bis zur Verstockung ging, mit wenigen Ausnahmen.
+§. 3. Der Verfasser war in neuerer Zeit der erste, der diesen Unglauben bek"ampfte.
 
-§. 3\. Der Verfasser war in neuerer Zeit der erste, der diesen Unglauben bek"ampfte.
+§. 4. Veranlassung dazu.
 
-§. 4\. Veranlassung dazu.
+§. 5. Fortdauer des Unglaubens, und Anfechtungen, die der Verfasser sich musste gefallen lassen.
 
-§. 5\. Fortdauer des Unglaubens, und Anfechtungen, die der Verfasser sich musste gefallen lassen.
+§. 6. Einige Ausnahmen in Deutschland.
 
-§. 6\. Einige Ausnahmen in Deutschland.
+§. 7. Untersuchungen in England.
 
-§. 7\. Untersuchungen in England.
+§. 8. Etwas sp"aterer Glaube, und weitere Untersuchungen in Frankreich.
 
-§. 8\. Etwas sp"aterer Glaube, und weitere Untersuchungen in Frankreich.
+§. 9. Endliche allgemeine Anerkennung.
+\subsection*{Zweite Abteilung. Allgemeine Bemerkungen "uber Feuerkugeln, und "uber den herabgefallenen Massen.}
+\paragraph{}
+§. 1. Allgemeiner Begriff von dieser Art der Naturerscheinungen.
 
-§. 9\. Endliche allgemeine Anerkennung.
+§. 2. Anfang der Erscheinung eines solchen Meteors.
 
-Zweite Abteilung. Allgemeine Bemerkungen "uber Feuerkugeln, und "uber den herabgefallenen Massen.
+§. 3. Beobachtete H"ohe der Feuerkugeln.
 
-§. 1\. Allgemeiner Begriff von dieser Art der Naturerscheinungen.
+§. 4. Beschaffenheit der Bahn. Achsendrehung. Bogenspr"unge. (Nebst einem sp"ateren Nachtrage zu Ende dieser Abteilung.)
 
-§. 2\. Anfang der Erscheinung eines solchen Meteors.
+§. 5. Geschwindigkeit der Bewegung.
 
-§. 3\. Beobachtete H"ohe der Feuerkugeln.
+§. 6. Gr"o"se der Feuerkugeln.
 
-§. 4\. Beschaffenheit der Bahn. Achsendrehung. Bogenspr"unge. (Nebst einem sp"ateren Nachtrage zu Ende dieser Abteilung.)
+§. 7. Gestalt dieser Meteore.
 
-§. 5\. Geschwindigkeit der Bewegung.
+§. 8. Licht und Farben derselben.
 
-§. 6\. Gr"o"se der Feuerkugeln.
+§. 9. Brennen, Rauch und Dampf.
 
-§. 7\. Gestalt dieser Meteore.
+§. 10. Zerplatzung der Feuerkugeln, mit Ersch"utterung und Get"ose.
 
-§. 8\. Licht und Farben derselben.
+§. 11. Dauer der Erscheinung.
 
-§. 9\. Brennen, Rauch und Dampf.
+§. 12. Niederfallen der Massen, welche entweder Meteor-Steine, oder Gediegeneisenmassen, oder auch staubartige, oder weiche Substanzen sind.
 
-§. 10\. Zerplatzung der Feuerkugeln, mit Ersch"utterung und Get"ose.
+§. 13. Beschaffenheit der Meteor-Steine im Allgemeinen.
 
-§. 11\. Dauer der Erscheinung.
+§. 14. Bestandteile derselben.
 
-§. 12\. Niederfallen der Massen, welche entweder Meteor-Steine, oder Gediegeneisenmassen, oder auch staubartige, oder weiche Substanzen sind.
+§. 15. Gr"o"se und Quantit"at der gefallenen Steine.
 
-§. 13\. Beschaffenheit der Meteor-Steine im Allgemeinen.
+§. 16. Gestalt der Meteor-Steine.
 
-§. 14\. Bestandteile derselben.
+§. 17. Rinde derselben.
 
-§. 15\. Gr"o"se und Quantit"at der gefallenen Steine.
+§. 18. Beschaffenheit der Steinart.
 
-§. 16\. Gestalt der Meteor-Steine.
+§. 19. Meteorische Gediegeneisen-Massen.
 
-§. 17\. Rinde derselben.
+§. 20. Niederf"alle von staubartigen oder weichen Substanzen in trockner oder feuchter Gestalt.
 
-§. 18\. Beschaffenheit der Steinart.
+§. 21. "Uber noch manche anderen Dinge, die herabgefallen sein sollen.
 
-§. 19\. Meteorische Gediegeneisen-Massen.
+§. 22. Die Feuerkugeln und die Niederf"alle meteorischer Massen sind von alle dem, was sich auf unsere Erde bezieht, unabh"angig.
 
-§. 20\. Niederf"alle von staubartigen oder weichen Substanzen in trockner oder feuchter Gestalt.
+§. 23. Unabh"angigkeit von Jahreszeiten.
 
-§. 21\. "Uber noch manche anderen Dinge, die herabgefallen sein sollen.
-
-§. 22\. Die Feuerkugeln und die Niederf"alle meteorischer Massen sind von alle dem, was sich auf unsere Erde bezieht, unabh"angig.
-
-§. 23\. Unabh"angigkeit von Jahreszeiten.
-
-§. 24\. Unabh"angigkeit von Tageszeiten.
-
-§. 25\. Unabh"angigkeit von den Weltgegenden.
-
-§. 26\. Unabh"angigkeit von der geographischen Lage.
-
-§. 27\. Unabh"angigkeit vom Wetter.
-
-§. 28\. Unabh"angigkeit von Perioden.
-
-§. 29\. "Uber Schaden, der durch solche Meteore ist verursacht worden.
-
-§. 30\. Vergebliche Bem"uhungen des Verfassers, verschiedene "altere Meteor-Massen aufzufinden.
-
-§. 31\. "Ubereinkunft der Sternschnuppen mit den Feuerkugeln. (Nebst einem sp"ateren Nachtrage zu Ende der siebenten Abteilung.)
-
-§. 32\. Verzeichnis der Sammlung von Meteor-Substanzen, welche der Verfasser gegenw"artig besitzt. (Nebst einem sp"ateren Nachtrage zu Ende der sechsten Abteilung.)
-
-§. 33\. Wahrscheinlichkeit eines h"aufigen Niederfallens meteorischer Massen auf unsern Weltk"orper. (Sp"aterer Nachtrag zu §. 4.)
-
-Dritte Abteilung. Nachrichten von beobachteten Feuerkugeln, und zwar sowohl von solchen, deren Massen man habhaft geworden ist, als auch von andern, in chronologischer Ordnung. Mehr als 280.
-
-Vierte Abteilung. Nachrichten von den Stein- und Eisenmassen, deren Niederfallen beobachtet worden ist, in chronologischer Ordnung.
-
-1\. Vorerinnerungen.
-
-2\. Niederf"alle von Stein- und Eisenmassen, vor unserer Zeitrechnung.
-
-A\. Wo sich die Zeit des Falles mehr oder weniger genau angeben l"asst.
-
-? Ungef"ahr 1478 Jahre vor Christi Geburt, ein Stein in Kreta.
-
-((Die Erz"ahlung von herabgefallenen Steinen im Buche Josua scheint von Hagel zu verstehen zu sein.))
-
-? 1403 vor unserer Zeitrechnung, vielleicht eine Eisenmasse auf dem Ida.
-
-1200, Steine bei Orchomenos.
-
-? 705 oder 704, das Ancyle, wahrscheinlich eine Eisenmasse.
-
-654, Steine auf dem albanischen Berge.
-
-644, in China.
-
-465, ein gro"ser Stein bei Aegos-Potamos.
-
-Nicht lange vorher oder nachher, ein Stein bei Theben.
-
-((In Piceno, vielleicht nur Hagel.))
-
-211, ein Stein in China.
-
-206 oder 205, Steine, wahrscheinlich in Italien.
-
-192, ein Stein in China.
-
-176, ein Stein in den See des Mars, in agro Crustumino.
-
-90 oder 89, Steine zu Rom.
-
-89, Steine in China.
-
-56 oder 52, Eisen in Lukanien.
-
-((Bei Acilla vielleicht nur Hagel.))
-
-38, 29, 22, 19, 12, 9, 6, 6, Steine in China.
-
-B\. Wo sich die Zeit des Falles nicht bestimmen l"asst.
-
-Der Stein aus Pessinus in Phrygien.
-
-Der Elagabal zu Emisa in Syrien.
-
-Ein Stein zu Abydos.
-
-Einer zu Cassandria oder Potidaea.
-
-? Wahrscheinlich das Symbol der Diana zu Ephesus.
-
-? Wahrscheinlich der Stein in der Kaaba zu Mekka, und noch einer, der dort aufbewahrt wird.
-
-3\. Niederf"alle von Stein- und Eisenmassen, nach dem Anfange unserer Zeitrechnung.
-
-In der ersten H"alfte des ersten Jahrhunderts ein Stein in Vocontiorum agro.
-
-In den Jahren 2, 106, 154, 310 und 333, Steinf"alle in China.
-
-((Ein angeblicher Niederfall im Jahre 416 ist ein Missverst"andnis.))
-
-452, Steine in Thrakien.
-
-Sp"aterhin ein Stein bei Emessa in Syrien, und auch einige auf dem Berge Libanus.
-
-? Vielleicht um 570, Steine bei Beder in Arabien.
-
-616, Steine in China.
-
-? 648, ein gro"ser Stein zu Konstantinopel.
-
-(Einige nicht einzuschaltende angebliche Niederf"alle.)
-
-? 839, Steine in Japan.
-
-852, ein Stein in Tabaristan.
-
-856, Steine in "Agypten.
-
-? 885, Steine in Japan.
-
-897, Steine bei Kufah.
-
-951, ein gro"ser Stein bei Augsburg.
-
-998, Steine bei Magdeburg.
-
-Bald nach 1009, eine Eisenmasse bei Dschordschan.
-
-((Ein angeblich bei Cordova gefallener Stein scheint eine Verwechselung mit der vorigen Begebenheit zu sein.))
-
-1021, Steine in Afrika.
-
-((Eine fabelhafte Nachricht von einem bei Jerusalem gefallenen Steine.))
-
-1057, Steine in Corea.
-
-1112, Steine oder vielleicht Eisenmassen bei Aquileja.
-
-1135 oder 1136, ein Stein zu Oldisleben in Th"uringen.
-
-? 1138, vielleicht ein Steinfall zu Mosul.
-
-1164, Eisen im Mei"snischen.
-
-((Einige Ereignisse, die nicht scheinen unter die Steinf"alle zu geh"oren.))
-
-1249, Steine bei Quedlinburg und an anderen Orten.
-
-? In dieselben Jahrhunderte vielleicht ein Stein in W"urzburg.
-
-Zwischen 1251 und 1360, Steine bei Welikoi-Ustiug.
-
-1280, eine Stein- oder Eisenmasse bei Alexandria in "Agypten.
-
-1304, viele Steine oder Eisenmasse bei Friedland oder Friedeburg.
-
-? 1328, vielleicht Steine in Mortahiah und Dakhaliah.
-
-? 1339, vielleicht Steine in Schlesien.
-
-? 1368, wahrscheinlich eine Eisenmasse im Oldenburgischen.
-
-1379, Steine zu Minden.
-
-1421, ein Stein auf der Insel Java.
-
-? 1438, viele leichte Steine bei Roa in Spanien.
-
-? Wahrscheinlich in dieselben Jahrhunderte ein Stein bei Lucern.
-
-1491, ein Stein bei Rivolta de' bassi, nicht weit von Crema.
-
-1492, ein gro"ser Stein bei Ensisheim.
-
-1496, Steine bei Cesena und Forli.
-
-? Wahrscheinlich in dieselben Jahrhunderte, oder nicht lange darnach, ein Stein bei Br"ussel.
-
-((Verschiedene nicht einzuschaltende angebliche Steinf"alle.))
-
-1511, gro"ser Steinfall bei Crema.
-
-1516, Steine in China.
-
-1520, Steine in Aragon, zwischen Oliva und Gandia.
-
-? 1528, Steine bei Augsburg.
-
-? 1540, ein gro"ser Stein in Limousin.
-
-Ungef"ahr zwischen 1540 und 1550, eine Eisenmasse im Walde bei Naunhof.
-
-Um die Mitte dieses Jahrhunderts, Eisen an mehreren Orten in Piemont.
-
-1552, viele Steine bei Schleusingen u. s. w.
-
-1559, Steine bei Miskolz in Ungarn.
-
-1561, Steine oder Eisen, bei Torgau und Eilenburg.
-
-((1564, ein angeblicher Steinfall zwischen Mecheln und Br"ussel, scheint eine Erdichtung zu sein.))
-
-? 1572, vielleicht Steine bei Thorn.
-
-1580, gro"ser Steinfall bei N"orten, nicht weit von G"ottingen.
-
-1581, ein Stein bei Niederreissen in Th"uringen.
-
-1583, ein Stein bei Castrovillari in Abruzzo.
-
-1583, einer in Piemont.
-
-1596, Steine zu Crevalcote.
-
-Wahrscheinlich in dieselben Jahrhunderte ein Stein im K"onigreiche Valencia in Spanien.
-
-1618, gro"ser Steinfall in Steiermark.
-
-1618, eine metallische Masse in B"ohmen.
-
-1621, eine Eisenmasse bei Lahore in Indien.
-
-1622, ein Stein in Devonshire.
-
-1628, ein Stein bei Hatford in Berkshire.
-
-1634, Steine in der Grafschaft Charollois.
-
-? 1635, ein Stein bei Calce im Vicentinischen.
-
-1636, ein gro"ser Stein zwischen Sagan und Dubrow in Schlesien.
-
-1637, ein Stein auf dem Berge Vaisien in der Provence.
-
-1642, einer in Suffolk.
-
-1643 oder 1644, Steine auf ein Schiff im Ostindischen Meere.
-
-1647, ein Stein bei Zwickau.
-
-1647, ein Stein bei Stolzenau in Westphalen.
-
-? Zwischen 1647 und 1654, ein Stein im Ostindischen Meere.
-
-1650, ein Stein in Dordrecht.
-
-1654, gro"ser Steinfall auf der Insel F"unen.
-
-Ungef"ahr nach der Mitte dieses Jahrhunderts, ein gro"ser Stein in Warschau.
-
-Desgleichen ein kleiner Stein in Mailand.
-
-((Eine unglaubliche Nachricht von gefallenen Steinen in Schiras, 1667, nebst zwei "ahnlichen Nachrichten.))
-
-1668, gro"ser Steinfall bei Verona.
-
-1671, Steine in der Ortenau in Schwaben.
-
-? 1673, bei Dietlingen im Badenschen.
-
-1674, Steine im Canton Glarus.
-
-Zwischen 1675 und 1677, ein Stein auf ein Schiff beider Insel Copinsha.
-
-1677, Steine in Ermendorf bei Gro"senhain.
-
-1680, in London.
-
-1697, bei Siena.
-
-1706, einer bei Larissa in Griechenland.
-
-1722, Steine bei dem Kloster Schefftlar im Freisingischen.
-
-1723, bei Plescowitz in B"ohmen.
-
-((Ein angeblicher Niederfall bei Lessai ist nur ein Missverst"andnis.))
-
-1738, Steine in der Grafschaft Avignon.
-
-1740, bei Hasargrad oder Rasgrad an der Donau.
-
-((Ein angeblich in Gr"onland gefallener Stein war ein herabgerolltes Felsenst"uck.))
-
-1750, ein Stein bei Coutances.
-
-1751, Eisenmassen bei Agram.
-
-1753, viele Steine bei Tabor in B"ohmen.
-
-1753, Steine bei Laponas in Bresse.
-
-1755, ein Stein bei Terranova in Kalabrien.
-
-1766, einer bei Alboreto, nicht weit von Modena.
-
-? 1766, einer zu Novellara.
-
-1768, ein Stein bei Lucé.
-
-1768, einer bei Maurkirchen im Innviertel.
-
-1773, ein Stein bei Sigena in Aragon.
-
-1775, einer bei Rodach in Koburgischen.
-
-1775 oder 1776, Steine bei Obruteza in Volhynien.
-
-1776 oder 1777, bei Fabbriano.
-
-1779, ei Pettiswood in Irland.
-
-1780, bei Beefton in England.
-
-1782, ein gro"ser Stein bei Turin.
-
-1785, Steinfall im Eichst"adtischen.
-
-1787, im Gouvernement von Charkow.
-
-1790, gro"ser Steinfall bei Barbotan, u. s. w.
-
-1791, Steine bei Castel-Berardenga in Toskana.
-
-1791, bei Menabilly in Cornwallis.
-
-1794, sehr viele Steine bei Siena.
-
-1795, Steine in Ceylon.
-
-1795, ein Stein in Yorkshire.
-
-1796, bei Belaja Zerkwa im s"udlichen Russland.
-
-1796, einer in Portugal.
-
-1798, einer bei Sales im Rhone-Departement.
-
-1798, Steine bei Benares in Bengalen.
-
-1801, auf der île des tonneliers.
-
-1802, in den schottischen Hochlanden.
-
-1803, gro"ser Steinfall bei L'Aigle.
-
-1803, Steinfall bei East-Norton in England.
-
-1803, ein Stein bei Apt, im Departement de Vaucluse.
-
-1803, einer bei Eggenfelde im Innviertel.
-
-1804, bei High-Possil in Schottland.
-
-Ein Stein in Dorbrecht.
-
-1805, Steine bei Doroninsk in Sibirien.
-
-1805, zu Konstantinopel.
-
-1806, Steine, von andern verschieden, bei Alais, im Departement du Gard.
-
-1806, ein Stein bei Basingstoke in Hantshire.
-
-1807, ein gro"ser Stein bei Timochin im Gouvernement von Smolensk.
-
-1807, viele Steine bei Weston in Connecticut.
-
-1808, Steine im Parmesanischen.
-
-1808, gro"ser Steinfall bei Stannern in M"ahren.
-
-1808, Steine bei Lissa in B"ohmen.
-
-? 1809, bei Nord-Amerika auf ein Schiff und in das Meer.
-
-1810, in Caswell-County in Neu-Connecticut.
-
-1810, bei Shabad in Indien.
-
-1810, in der Grafschaft Tipperary, in Irland.
-
-1810, in der Gegend von Charsonville bei Orléans.
-
-1810, ein Stein im Gouvernement von Poltawa.
-
-1811, Steine bei Berlanguillas in Spanien.
-
-1812, bei Toulouse.
-
-1812, bei Erxleben, zwischen Magdeburg und Helmst"adt.
-
-1812, bei Chantonnay im Departement de la Vendee.
-
-1813, Steine bei Cutro in Kalabrien, mit gro"sem Staubniederfalle.
-
-? 1813, Steine bei Malpas, nicht weit von Chester.
-
-1813, in der Grafschaft Limerick in Irland.
-
-1814, ein Stein bei Bachmut in Russland.
-
-1814, Steine bei Sawotaipola, nicht weit von Friedrichshamm, in Finnland.
-
-1814, bei Agen, im Departement du Lot et Garonne.
-
-1814, bei Doab in Indien.
-
-1815, bei Chassigny nicht weit von Langres.
-
-1816, bei Glastonbury in Sommersetshire.
-
-1818, einer im Dorfe Slobodka, im Gouvernement von Smolensk.
-
-(Nacherinnerung zu dieser und zu der vorigen Abteilung, die in China beobachteten Feuer-Meteore und Steinf"alle betreffend.)
-
-F"unfte Abteilung. "Uber Gediegeneisenmassen, die auch als meteorisch k"onnen angesehen werden, "uber deren Niederfallen aber keine Beobachtungen vorhanden sind.
-
-I\. Allgemeine Bemerkungen "uber das Vorkommen des meteorischen Gediegeneisens, und "uber das Gef"uge desselben.
-
-II\. Nickelhaltige Gediegeneisenmassen, von "astigem oder zelligem Gef"uge, mit Ausf"ullung der Zwischenr"aume mit Olivin, oder Peridot.
-
-Die in Sibirien gefundene und durch Pallas bekannt gewordene Masse.
-
-? Ein St"uck Gediegeneisen aus B"ohmen.
-
-Ein St"uck, welches bei Eibenstock in Sachsen ist gefunden worden.
-
-Ein St"uck, angeblich aus Norwegen, im k. k. Naturalien-Kabinette zu Wien.
-
-Eine in Sachsen gefundene Masse, welche sich zu Gotha befindet.
-
-III\. Derbe nickelhaltige Eisenmassen, mit kristallinischem Gef"uge.
-
-(Die bei Agram 1751 gefallene, ist die einzige vorhandene, deren Niederfallen ist beobachtet worden.)
-
-Eine zu Elbogen in B"ohmen aufbewahrt gewesene Masse.
-
-Eine, die bei Lenarto in Ungarn ist gefunden worden.
-
-Eine Masse vom Vorgebirge der guten Hoffnung.
-
-Mehrere gro"se Massen am Senegal.
-
-In Mexico an verschiedenen Orten.
-
-? Eine in Honduras.
-
-Eine bei San Jago del Estero in S"ud-Amerika, und noch eine nicht weit davon befindliche.
-
-Eine Masse in Brasilien, bei Bahia.
-
-Eine in Nord-Amerika bei Neu-Orléans gefundene Masse.
-
-Zwei Eisenmassen an der n"ordlichen K"uste der Baffinbai.
-
-IV\. Problematische Gediegeneisen-Massen, die keinen Nickel enthalten, und nicht von dem Gef"uge, wie die vorigen sind, oder auch deren Beschaffenheit nicht genug bekannt ist, um "uber ihren Ursprung urteilen zu k"onnen.
-
-Eine in Achen.
-
-Eine im Mail"andischen bei Villa gefundene Masse.
-
-Eine von Gro"s-Kamsdorf, nicht weit von Saalfeld.
-
-Eine, so auf einem Berge bei Cilly, in Steiermark ist gefunden worden.
-
-Eine bei Bitburg, nicht weit von Trier, gefundene Masse.
-
-Eine von Florac im Departement de la Loire.
-
-Eine bei Leadhills gefundene Masse.
-
-? Ein gro"ses Felsenst"uck im "ostlichen Teile von Asien.
-
-Sechste Abteilung. Nachrichten von herabgefallenen staubartigen oder weichen Materien, in trockner oder feuchter Gestalt, in chronologischer Ordnung.
-
-Ungef"ahr um 473, gro"ser Niederfall von schwarzem Staube, um Konstantinopel.
-
-642, Staub um Konstantinopel, und anderw"arts roter Schnee.
-
-743, Staubniederfall an mehreren Orten.
-
-Um die Mitte des neunten Jahrhunderts blutroter Staub, wahrscheinlich einerlei Begebenheit mit dem Falle einer dem Blute "ahnlichen Substanz zu Balk, ungef"ahr um 860.
-
-869, desgleichen zu Brixen, vielleicht, mit einer Ver"anderung des Datum, mit dem vorigen einerlei Meteor.
-
-929, zu Bagdad r"otlicher Sand mit einer Feuererscheinung.
-
-1056, roter Schnee in Armenien.
-
-1110, R"otung des Sees Van in Armenien, durch eine hineingefallene Feuerkugel.
-
-1416, roter Regen in B"ohmen.
-
-? Bei Lucern, wahrscheinlich in dieselben Jahrhunderte, herabfall einer dem Blute "ahnlichen Substanz, und eines Steines mit einem Feuer-Meteor.
-
-1501, sogenannter Blutregen an mehreren Orten.
-
-1543, roter Regen in Westphalen.
-
-1548, Herabfall einer Fl"ussigkeit, wie geronnen Blut, nach Erscheinung einer explodierenden Feuerkugel, in Th"uringen oder im Mansfeldischen.
-
-1557, zu Schlage in Pommern, Niederfall einer Substanz wie geronnen Blut.
-
-1560 (?), roter Regen zu L"owen und Emden.
-
-1560, roter Regen zu Lillebonne, mit einem Feuer-Meteor, welches ein Pulver-Magazin anz"undete.
-
-? 1582, Niederfall einer Substanz, bei Menschenhaare, mit sonderbarem Get"ose, zu Rockhausen bei Erfurt.
-
-1586, bei Verden, eine Rothe und schw"arzliche Substanz, mit einem Feuer-Meteor.
-
-1623, roter Regen zu Stra"sburg.
-
-1637, schwarzer Staub im Archipelagus und in Syrien.
-
-1638, roter Regen bei Turnhout.
-
-1642, Schwefelklumpen bei Magdeburg, u. s. w.
-
-1643, sogenannter Blutregen zu Vaihingen und zu Weinsberg.
-
-1645, bei Herzogenbusch.
-
-1646, zu Br"ussel.
-
-1652, zwischen Siena und Rom, eine schleimige Substanz einer Sternschnuppe.
-
-? 1665, bei Laucha, Niederfall einer Substanz, wie blaue Seide.
-
-? 1665, schwefelartiger Staub in Norwegen.
-
-1678, roter Schnee bei Genova.
-
-? 1686, eine schwarze papierartige Substanz in Kurland.
-
-? 1689, roter Staub in Venedig, u. s. w.
-
-1711, roter Regen in Schonen.
-
-1718, gallertartige Materie, von einer Feuerkugel, auf der Insel Lethi.
-
-1719, Staubniederfall auf die atlantischen Meere, mit Lichterscheinung.
-
-1721, roter Schlammregen um Stuttgart, mit einem Meteor.
-
-? Ein St"uck Schwefel in England.
-
-1744, roter Regen zu Pier d'Arena bei Genova.
-
-1755, Niederf"alle von schwarzem und rotem Staube an verschiedenen Orten.
-
-1763, roter Regen im Herzogtume Cleve, und bei Utrecht.
-
-? Eine schwammige Masse von Masse von einer Feuerkugel, bei Koblenz, ohne Bestimmung der Zeit.
-
-1781, wei"slicher Staub in Sizilien.
-
-1796, Niederfall eines bitumin"osen Stoffes von einer Feuerkugel, in der Ober-Lausitz.
-
-Sp"aterhin eine gallertartige Masse, von einem Klumpen Feuer herabgefallen, bei Krefeld.
-
-1803, gro"ser Niederfall von rotem Staube und rotem Schnee in Italien.
-
-1809, roter Regen im Venezianischen.
-
-1810, roter Schnee bei Piacenza.
-
-1813, gro"ser Niederfall von rotem Staube, nebst Meteor-Steinen, in Italien.
-
-1814, gro"ser Niederfall von schwarzem Staube, mit Feuererscheinung, bei Canada.
-
-1814, rote Erde, im Thale von Oneglia.
-
-1814, Staub zugleich mit den in Doab gefallenen Steinen.
-
-? 1815, gro"ser Staubniederfall in den s"udlichen ostindischen Meeren.
-
-1816, roter Schnee im n"ordlichen Italien.
-
-Rother Schnee an der n"ordlichen K"uste der Baffinbai.
-
-Rother Schnee auf der Alpe Anceindaz in der Schweiz, am Fu"se der Diablerets.
-
+§. 24. Unabh"angigkeit von Tageszeiten.
+
+§. 25. Unabh"angigkeit von den Weltgegenden.
+
+§. 26. Unabh"angigkeit von der geographischen Lage.
+
+§. 27. Unabh"angigkeit vom Wetter.
+
+§. 28. Unabh"angigkeit von Perioden.
+
+§. 29. "Uber Schaden, der durch solche Meteore ist verursacht worden.
+
+§. 30. Vergebliche Bem"uhungen des Verfassers, verschiedene "altere Meteor-Massen aufzufinden.
+
+§. 31. "Ubereinkunft der Sternschnuppen mit den Feuerkugeln. (Nebst einem sp"ateren Nachtrage zu Ende der siebenten Abteilung.)
+
+§. 32. Verzeichnis der Sammlung von Meteor-Substanzen, welche der Verfasser gegenw"artig besitzt. (Nebst einem sp"ateren Nachtrage zu Ende der sechsten Abteilung.)
+
+§. 33. Wahrscheinlichkeit eines h"aufigen Niederfallens meteorischer Massen auf unsern Weltk"orper. (Sp"aterer Nachtrag zu §. 4.)
+
+\subsection*{Dritte Abteilung. Nachrichten von beobachteten Feuerkugeln, und zwar sowohl von solchen, deren Massen man habhaft geworden ist, als auch von andern, in chronologischer Ordnung. Mehr als 280.}
+
+\subsection*{Vierte Abteilung. Nachrichten von den Stein- und Eisenmassen, deren Niederfallen beobachtet worden ist, in chronologischer Ordnung.}
+\subsubsection*{1. Vorerinnerungen.}
+\subsubsection*{2. Niederf"alle von Stein- und Eisenmassen, vor unserer Zeitrechnung.}
+\begin{center}
+A. Wo sich die Zeit des Falles mehr oder weniger genau angeben l"asst. 
+\end{center}
+\begin{itemize}
+    \item ? Ungef"ahr 1478 Jahre vor Christi Geburt, ein Stein in Kreta.
+    \item ((Die Erz"ahlung von herabgefallenen Steinen im Buche Josua scheint von Hagel zu verstehen zu sein.))
+    \item ? 1403 vor unserer Zeitrechnung, vielleicht eine Eisenmasse auf dem Ida.
+    \item 1200, Steine bei Orchomenos.
+    \item ? 705 oder 704, das Ancyle, wahrscheinlich eine Eisenmasse.
+    \item 654, Steine auf dem albanischen Berge.
+    \item 644, in China.
+    \item 465, ein gro"ser Stein bei Aegos-Potamos.
+    \item Nicht lange vorher oder nachher, ein Stein bei Theben.
+    \item ((In Piceno, vielleicht nur Hagel.))
+    \item 211, ein Stein in China.
+    \item 206 oder 205, Steine, wahrscheinlich in Italien.
+    \item 192, ein Stein in China.
+    \item 176, ein Stein in den See des Mars, in agro Crustumino.
+    \item 90 oder 89, Steine zu Rom.
+    \item 89, Steine in China.
+    \item 56 oder 52, Eisen in Lukanien.
+    \item ((Bei Acilla vielleicht nur Hagel.))
+    \item 38, 29, 22, 19, 12, 9, 6, 6, Steine in China.
+\end{itemize}
+\begin{center}
+B. Wo sich die Zeit des Falles nicht bestimmen l"asst.
+\end{center}
+\begin{itemize}
+    \item Der Stein aus Pessinus in Phrygien.
+    \item Der Elagabal zu Emisa in Syrien.
+    \item Ein Stein zu Abydos.
+    \item Einer zu Cassandria oder Potidaea.
+    \item ? Wahrscheinlich das Symbol der Diana zu Ephesus.
+    \item ? Wahrscheinlich der Stein in der Kaaba zu Mekka, und noch einer, der dort aufbewahrt wird.
+\end{itemize}
+\subsubsection*{3. Niederf"alle von Stein- und Eisenmassen, nach dem Anfange unserer Zeitrechnung.}
+\begin{itemize}
+    \item In der ersten H"alfte des ersten Jahrhunderts ein Stein in Vocontiorum agro.
+    \item In den Jahren 2, 106, 154, 310 und 333, Steinf"alle in China.
+    \item ((Ein angeblicher Niederfall im Jahre 416 ist ein Missverst"andnis.))
+    \item 452, Steine in Thrakien.
+    \item Sp"aterhin ein Stein bei Emessa in Syrien, und auch einige auf dem Berge Libanus.
+    \item ? Vielleicht um 570, Steine bei Beder in Arabien.
+    \item 616, Steine in China.
+    \item ? 648, ein gro"ser Stein zu Konstantinopel.
+    \item (Einige nicht einzuschaltende angebliche Niederf"alle.)
+    \item ? 839, Steine in Japan.
+    \item 852, ein Stein in Tabaristan.
+    \item 856, Steine in "Agypten.
+    \item ? 885, Steine in Japan.
+    \item 897, Steine bei Kufah.
+    \item 951, ein gro"ser Stein bei Augsburg.
+    \item 998, Steine bei Magdeburg.
+    \item Bald nach 1009, eine Eisenmasse bei Dschordschan.
+    \item ((Ein angeblich bei Cordova gefallener Stein scheint eine Verwechselung mit der vorigen Begebenheit zu sein.))
+    \item 1021, Steine in Afrika.
+    \item ((Eine fabelhafte Nachricht von einem bei Jerusalem gefallenen Steine.))
+    \item 1057, Steine in Corea.
+    \item 1112, Steine oder vielleicht Eisenmassen bei Aquileja.
+    \item 1135 oder 1136, ein Stein zu Oldisleben in Th"uringen.
+    \item ? 1138, vielleicht ein Steinfall zu Mosul.
+    \item 1164, Eisen im Mei"snischen.
+    \item ((Einige Ereignisse, die nicht scheinen unter die Steinf"alle zu geh"oren.))
+    \item 1249, Steine bei Quedlinburg und an anderen Orten.
+    \item ? In dieselben Jahrhunderte vielleicht ein Stein in W"urzburg.
+    \item Zwischen 1251 und 1360, Steine bei Welikoi-Ustiug.
+    \item 1280, eine Stein- oder Eisenmasse bei Alexandria in "Agypten.
+    \item 1304, viele Steine oder Eisenmasse bei Friedland oder Friedeburg.
+    \item ? 1328, vielleicht Steine in Mortahiah und Dakhaliah.
+    \item ? 1339, vielleicht Steine in Schlesien.
+    \item ? 1368, wahrscheinlich eine Eisenmasse im Oldenburgischen.
+    \item 1379, Steine zu Minden.
+    \item 1421, ein Stein auf der Insel Java.
+    \item ? 1438, viele leichte Steine bei Roa in Spanien.
+    \item ? Wahrscheinlich in dieselben Jahrhunderte ein Stein bei Lucern.
+    \item 1491, ein Stein bei Rivolta de' bassi, nicht weit von Crema.
+    \item 1492, ein gro"ser Stein bei Ensisheim.
+    \item 1496, Steine bei Cesena und Forli.
+    \item ? Wahrscheinlich in dieselben Jahrhunderte, oder nicht lange darnach, ein Stein bei Br"ussel.
+    \item ((Verschiedene nicht einzuschaltende angebliche Steinf"alle.))
+    \item 1511, gro"ser Steinfall bei Crema.
+    \item 1516, Steine in China.
+    \item 1520, Steine in Aragon, zwischen Oliva und Gandia.
+    \item ? 1528, Steine bei Augsburg.
+    \item ? 1540, ein gro"ser Stein in Limousin.
+    \item Ungef"ahr zwischen 1540 und 1550, eine Eisenmasse im Walde bei Naunhof.
+    \item Um die Mitte dieses Jahrhunderts, Eisen an mehreren Orten in Piemont.
+    \item 1552, viele Steine bei Schleusingen u. s. w.
+    \item 1559, Steine bei Miskolz in Ungarn.
+    \item 1561, Steine oder Eisen, bei Torgau und Eilenburg.
+    \item ((1564, ein angeblicher Steinfall zwischen Mecheln und Br"ussel, scheint eine Erdichtung zu sein.))
+    \item ? 1572, vielleicht Steine bei Thorn.
+    \item 1580, gro"ser Steinfall bei N"orten, nicht weit von G"ottingen.
+    \item 1581, ein Stein bei Niederreissen in Th"uringen.
+    \item 1583, ein Stein bei Castrovillari in Abruzzo.
+    \item 1583, einer in Piemont.
+    \item 1596, Steine zu Crevalcote.
+    \item Wahrscheinlich in dieselben Jahrhunderte ein Stein im K"onigreiche Valencia in Spanien.
+    \item 1618, gro"ser Steinfall in Steiermark.
+    \item 1618, eine metallische Masse in B"ohmen.
+    \item 1621, eine Eisenmasse bei Lahore in Indien.
+    \item 1622, ein Stein in Devonshire.
+    \item 1628, ein Stein bei Hatford in Berkshire.
+    \item 1634, Steine in der Grafschaft Charollois.
+    \item ? 1635, ein Stein bei Calce im Vicentinischen.
+    \item 1636, ein gro"ser Stein zwischen Sagan und Dubrow in Schlesien.
+    \item 1637, ein Stein auf dem Berge Vaisien in der Provence.
+    \item 1642, einer in Suffolk.
+    \item 1643 oder 1644, Steine auf ein Schiff im Ostindischen Meere.
+    \item 1647, ein Stein bei Zwickau.
+    \item 1647, ein Stein bei Stolzenau in Westphalen.
+    \item ? Zwischen 1647 und 1654, ein Stein im Ostindischen Meere.
+    \item 1650, ein Stein in Dordrecht.
+    \item 1654, gro"ser Steinfall auf der Insel F"unen.
+    \item Ungef"ahr nach der Mitte dieses Jahrhunderts, ein gro"ser Stein in Warschau.
+    \item Desgleichen ein kleiner Stein in Mailand.
+    \item ((Eine unglaubliche Nachricht von gefallenen Steinen in Schiras, 1667, nebst zwei "ahnlichen Nachrichten.))
+    \item 1668, gro"ser Steinfall bei Verona.
+    \item 1671, Steine in der Ortenau in Schwaben.
+    \item ? 1673, bei Dietlingen im Badenschen.
+    \item 1674, Steine im Canton Glarus.
+    \item Zwischen 1675 und 1677, ein Stein auf ein Schiff beider Insel Copinsha.
+    \item 1677, Steine in Ermendorf bei Gro"senhain.
+    \item 1680, in London.
+    \item 1697, bei Siena.
+    \item 1706, einer bei Larissa in Griechenland.
+    \item 1722, Steine bei dem Kloster Schefftlar im Freisingischen.
+    \item 1723, bei Plescowitz in B"ohmen.
+    \item ((Ein angeblicher Niederfall bei Lessai ist nur ein Missverst"andnis.))
+    \item 1738, Steine in der Grafschaft Avignon.
+    \item 1740, bei Hasargrad oder Rasgrad an der Donau.
+    \item ((Ein angeblich in Gr"onland gefallener Stein war ein herabgerolltes Felsenst"uck.))
+    \item 1750, ein Stein bei Coutances.
+    \item 1751, Eisenmassen bei Agram.
+    \item 1753, viele Steine bei Tabor in B"ohmen.
+    \item 1753, Steine bei Laponas in Bresse.
+    \item 1755, ein Stein bei Terranova in Kalabrien.
+    \item 1766, einer bei Alboreto, nicht weit von Modena.
+    \item ? 1766, einer zu Novellara.
+    \item 1768, ein Stein bei Lucé.
+    \item 1768, einer bei Maurkirchen im Innviertel.
+    \item 1773, ein Stein bei Sigena in Aragon.
+    \item 1775, einer bei Rodach in Koburgischen.
+    \item 1775 oder 1776, Steine bei Obruteza in Volhynien.
+    \item 1776 oder 1777, bei Fabbriano.
+    \item 1779, ei Pettiswood in Irland.
+    \item 1780, bei Beefton in England.
+    \item 1782, ein gro"ser Stein bei Turin.
+    \item 1785, Steinfall im Eichst"adtischen.
+    \item 1787, im Gouvernement von Charkow.
+    \item 1790, gro"ser Steinfall bei Barbotan, u. s. w.
+    \item 1791, Steine bei Castel-Berardenga in Toskana.
+    \item 1791, bei Menabilly in Cornwallis.
+    \item 1794, sehr viele Steine bei Siena.
+    \item 1795, Steine in Ceylon.
+    \item 1795, ein Stein in Yorkshire.
+    \item 1796, bei Belaja Zerkwa im s"udlichen Russland.
+    \item 1796, einer in Portugal.
+    \item 1798, einer bei Sales im Rhone-Departement.
+    \item 1798, Steine bei Benares in Bengalen.
+    \item 1801, auf der île des tonneliers.
+    \item 1802, in den schottischen Hochlanden.
+    \item 1803, gro"ser Steinfall bei L'Aigle.
+    \item 1803, Steinfall bei East-Norton in England.
+    \item 1803, ein Stein bei Apt, im Departement de Vaucluse.
+    \item 1803, einer bei Eggenfelde im Innviertel.
+    \item 1804, bei High-Possil in Schottland.
+    \item Ein Stein in Dorbrecht.
+    \item 1805, Steine bei Doroninsk in Sibirien.
+    \item 1805, zu Konstantinopel.
+    \item 1806, Steine, von andern verschieden, bei Alais, im Departement du Gard.
+    \item 1806, ein Stein bei Basingstoke in Hantshire.
+    \item 1807, ein gro"ser Stein bei Timochin im Gouvernement von Smolensk.
+    \item 1807, viele Steine bei Weston in Connecticut.
+    \item 1808, Steine im Parmesanischen.
+    \item 1808, gro"ser Steinfall bei Stannern in M"ahren.
+    \item 1808, Steine bei Lissa in B"ohmen.
+    \item ? 1809, bei Nord-Amerika auf ein Schiff und in das Meer.
+    \item 1810, in Caswell-County in Neu-Connecticut.
+    \item 1810, bei Shabad in Indien.
+    \item 1810, in der Grafschaft Tipperary, in Irland.
+    \item 1810, in der Gegend von Charsonville bei Orléans.
+    \item 1810, ein Stein im Gouvernement von Poltawa.
+    \item 1811, Steine bei Berlanguillas in Spanien.
+    \item 1812, bei Toulouse.
+    \item 1812, bei Erxleben, zwischen Magdeburg und Helmst"adt.
+    \item 1812, bei Chantonnay im Departement de la Vendee.
+    \item 1813, Steine bei Cutro in Kalabrien, mit gro"sem Staubniederfalle.
+    \item ? 1813, Steine bei Malpas, nicht weit von Chester.
+    \item 1813, in der Grafschaft Limerick in Irland.
+    \item 1814, ein Stein bei Bachmut in Russland.
+    \item 1814, Steine bei Sawotaipola, nicht weit von Friedrichshamm, in Finnland.
+    \item 1814, bei Agen, im Departement du Lot et Garonne.
+    \item 1814, bei Doab in Indien.
+    \item 1815, bei Chassigny nicht weit von Langres.
+    \item 1816, bei Glastonbury in Sommersetshire.
+    \item 1818, einer im Dorfe Slobodka, im Gouvernement von Smolensk.
+\end{itemize}
+\paragraph{}
+ (Nacherinnerung zu dieser und zu der vorigen Abteilung, die in China beobachteten Feuer-Meteore und Steinf"alle betreffend.)
+\subsection*{F"unfte Abteilung. "Uber Gediegeneisenmassen, die auch als meteorisch k"onnen angesehen werden, "uber deren Niederfallen aber keine Beobachtungen vorhanden sind.}
+\subsubsection*{I. Allgemeine Bemerkungen "uber das Vorkommen des meteorischen Gediegeneisens, und "uber das Gef"uge desselben.}
+\subsubsection*{II. Nickelhaltige Gediegeneisenmassen, von "astigem oder zelligem Gef"uge, mit Ausf"ullung der Zwischenr"aume mit Olivin, oder Peridot.}
+\begin{itemize}
+    \item Die in Sibirien gefundene und durch Pallas bekannt gewordene Masse.
+    \item ? Ein St"uck Gediegeneisen aus B"ohmen.
+    \item Ein St"uck, welches bei Eibenstock in Sachsen ist gefunden worden.
+    \item Ein St"uck, angeblich aus Norwegen, im k. k. Naturalien-Kabinette zu Wien.
+    \item Eine in Sachsen gefundene Masse, welche sich zu Gotha befindet.
+\end{itemize}
+\subsubsection*{III. Derbe nickelhaltige Eisenmassen, mit kristallinischem Gef"uge.}
+\begin{itemize}
+    \item (Die bei Agram 1751 gefallene, ist die einzige vorhandene, deren Niederfallen ist beobachtet worden.)
+    \item Eine zu Elbogen in B"ohmen aufbewahrt gewesene Masse.
+    \item Eine, die bei Lenarto in Ungarn ist gefunden worden.
+    \item Eine Masse vom Vorgebirge der guten Hoffnung.
+    \item Mehrere gro"se Massen am Senegal.
+    \item In Mexico an verschiedenen Orten.
+    \item ? Eine in Honduras.
+    \item Eine bei San Jago del Estero in S"ud-Amerika, und noch eine nicht weit davon befindliche.
+    \item Eine Masse in Brasilien, bei Bahia.
+    \item Eine in Nord-Amerika bei Neu-Orléans gefundene Masse.
+    \item Zwei Eisenmassen an der n"ordlichen K"uste der Baffinbai.
+\end{itemize}
+\subsubsection*{IV. Problematische Gediegeneisen-Massen, die keinen Nickel enthalten, und nicht von dem Gef"uge, wie die vorigen sind, oder auch deren Beschaffenheit nicht genug bekannt ist, um "uber ihren Ursprung urteilen zu k"onnen.}
+\begin{itemize}
+    \item Eine in Achen.
+    \item Eine im Mail"andischen bei Villa gefundene Masse.
+    \item Eine von Gro"s-Kamsdorf, nicht weit von Saalfeld.
+    \item Eine, so auf einem Berge bei Cilly, in Steiermark ist gefunden worden.
+    \item Eine bei Bitburg, nicht weit von Trier, gefundene Masse.
+    \item Eine von Florac im Departement de la Loire.
+    \item Eine bei Leadhills gefundene Masse.
+    \item ? Ein gro"ses Felsenst"uck im "ostlichen Teile von Asien.
+    \item Sechste Abteilung. Nachrichten von herabgefallenen staubartigen oder weichen Materien, in trockner oder feuchter Gestalt, in chronologischer Ordnung.
+    \item Ungef"ahr um 473, gro"ser Niederfall von schwarzem Staube, um Konstantinopel.
+    \item 642, Staub um Konstantinopel, und anderw"arts roter Schnee.
+    \item 743, Staubniederfall an mehreren Orten.
+    \item Um die Mitte des neunten Jahrhunderts blutroter Staub, wahrscheinlich einerlei Begebenheit mit dem Falle einer dem Blute "ahnlichen Substanz zu Balk, ungef"ahr um 860.
+    \item 869, desgleichen zu Brixen, vielleicht, mit einer Ver"anderung des Datum, mit dem vorigen einerlei Meteor.
+    \item 929, zu Bagdad r"otlicher Sand mit einer Feuererscheinung.
+    \item 1056, roter Schnee in Armenien.
+    \item 1110, R"otung des Sees Van in Armenien, durch eine hineingefallene Feuerkugel.
+    \item 1416, roter Regen in B"ohmen.
+    \item ? Bei Lucern, wahrscheinlich in dieselben Jahrhunderte, herabfall einer dem Blute "ahnlichen Substanz, und eines Steines mit einem Feuer-Meteor.
+    \item 1501, sogenannter Blutregen an mehreren Orten.
+    \item 1543, roter Regen in Westphalen.
+    \item 1548, Herabfall einer Fl"ussigkeit, wie geronnen Blut, nach Erscheinung einer explodierenden Feuerkugel, in Th"uringen oder im Mansfeldischen.
+    \item 1557, zu Schlage in Pommern, Niederfall einer Substanz wie geronnen Blut.
+    \item 1560 (?), roter Regen zu L"owen und Emden.
+    \item 1560, roter Regen zu Lillebonne, mit einem Feuer-Meteor, welches ein Pulver-Magazin anz"undete.
+    \item ? 1582, Niederfall einer Substanz, bei Menschenhaare, mit sonderbarem Get"ose, zu Rockhausen bei Erfurt.
+    \item 1586, bei Verden, eine Rothe und schw"arzliche Substanz, mit einem Feuer-Meteor.
+    \item 1623, roter Regen zu Stra"sburg.
+    \item 1637, schwarzer Staub im Archipelagus und in Syrien.
+    \item 1638, roter Regen bei Turnhout.
+    \item 1642, Schwefelklumpen bei Magdeburg, u. s. w.
+    \item 1643, sogenannter Blutregen zu Vaihingen und zu Weinsberg.
+    \item 1645, bei Herzogenbusch.
+    \item 1646, zu Br"ussel.
+    \item 1652, zwischen Siena und Rom, eine schleimige Substanz einer Sternschnuppe.
+    \item ? 1665, bei Laucha, Niederfall einer Substanz, wie blaue Seide.
+    \item ? 1665, schwefelartiger Staub in Norwegen.
+    \item 1678, roter Schnee bei Genova.
+    \item ? 1686, eine schwarze papierartige Substanz in Kurland.
+    \item ? 1689, roter Staub in Venedig, u. s. w.
+    \item 1711, roter Regen in Schonen.
+    \item 1718, gallertartige Materie, von einer Feuerkugel, auf der Insel Lethi.
+    \item 1719, Staubniederfall auf die atlantischen Meere, mit Lichterscheinung.
+    \item 1721, roter Schlammregen um Stuttgart, mit einem Meteor.
+    \item ? Ein St"uck Schwefel in England.
+    \item 1744, roter Regen zu Pier d'Arena bei Genova.
+    \item 1755, Niederf"alle von schwarzem und rotem Staube an verschiedenen Orten.
+    \item 1763, roter Regen im Herzogtume Cleve, und bei Utrecht.
+    \item ? Eine schwammige Masse von Masse von einer Feuerkugel, bei Koblenz, ohne Bestimmung der Zeit.
+    \item 1781, wei"slicher Staub in Sizilien.
+    \item 1796, Niederfall eines bitumin"osen Stoffes von einer Feuerkugel, in der Ober-Lausitz.
+    \item Sp"aterhin eine gallertartige Masse, von einem Klumpen Feuer herabgefallen, bei Krefeld.
+    \item 1803, gro"ser Niederfall von rotem Staube und rotem Schnee in Italien.
+    \item 1809, roter Regen im Venezianischen.
+    \item 1810, roter Schnee bei Piacenza.
+    \item 1813, gro"ser Niederfall von rotem Staube, nebst Meteor-Steinen, in Italien.
+    \item 1814, gro"ser Niederfall von schwarzem Staube, mit Feuererscheinung, bei Canada.
+    \item 1814, rote Erde, im Thale von Oneglia.
+    \item 1814, Staub zugleich mit den in Doab gefallenen Steinen.
+    \item ? 1815, gro"ser Staubniederfall in den s"udlichen ostindischen Meeren.
+    \item 1816, roter Schnee im n"ordlichen Italien.
+    \item Rother Schnee an der n"ordlichen K"uste der Baffinbai.
+    \item Rother Schnee auf der Alpe Anceindaz in der Schweiz, am Fu"se der Diablerets.
+\end{itemize}
+\paragraph{}
 (Sp"aterer Nachtrag zu dem 32. der zweiten und zu der f"unften Abteilung; eine Antike aus Pompei, die Meteor-Eisen zu sein scheint, betreffend.)
+\subsection*{Siebente Abteilung. "Uber den Ursprung der herabgefallenen Massen.}
+\paragraph{}
+§. 1. Vormalige Meinungen von dem, was Feuerkugeln w"aren.
 
-Siebente Abteilung. "Uber den Ursprung der herabgefallenen Massen.
+§. 2. Nachherige Meinungen von dem Ursprunge der herabgefallenen Massen.
 
-§. 1\. Vormalige Meinungen von dem, was Feuerkugeln w"aren.
+§. 3. Die herabfallenden Massen sind kosmisch, das ist, sie kommen aus dem allgemeinen Weltraume zu uns.
 
-§. 2\. Nachherige Meinungen von dem Ursprunge der herabgefallenen Massen.
+§. 4. Das Dasein solcher im allgemeinen Weltraume sich bewegenden Massen, ist durch sehr viele Beobachtungen erwiesen.
 
-§. 3\. Die herabfallenden Massen sind kosmisch, das ist, sie kommen aus dem allgemeinen Weltraume zu uns.
+§. 5. Diese Massen k"onnen Haufen von Ur-Materie sein, die vor ihrer Ankunft noch keinem gr"o"seren Weltk"orper zugeh"ort hatte, und scheinen von kometenartiger Beschaffenheit zu sein.
 
-§. 4\. Das Dasein solcher im allgemeinen Weltraume sich bewegenden Massen, ist durch sehr viele Beobachtungen erwiesen.
+§. 6. Sie k"onnen auch Tr"ummer eines zerst"orten Weltk"orpers sein.
 
-§. 5\. Diese Massen k"onnen Haufen von Ur-Materie sein, die vor ihrer Ankunft noch keinem gr"o"seren Weltk"orper zugeh"ort hatte, und scheinen von kometenartiger Beschaffenheit zu sein.
+§. 7. Ein Ursprung aus Mond-Vulkanen ist zwar an sich nicht unm"oglich, aber doch sehr unwahrscheinlich.
 
-§. 6\. Sie k"onnen auch Tr"ummer eines zerst"orten Weltk"orpers sein.
+§. 8. Die niedergefallenen Massen k"onnen schlechterdings nicht aus Bestandteilen der Atmosph"are gebildet sein.
 
-§. 7\. Ein Ursprung aus Mond-Vulkanen ist zwar an sich nicht unm"oglich, aber doch sehr unwahrscheinlich.
-
-§. 8\. Die niedergefallenen Massen k"onnen schlechterdings nicht aus Bestandteilen der Atmosph"are gebildet sein.
-
-§. 9\. Sie k"onnen auch nicht von der Erde durch vulkanische Kr"afte in die H"ohe gehoben sein.
+§. 9. Sie k"onnen auch nicht von der Erde durch vulkanische Kr"afte in die H"ohe gehoben sein.
 
 (Sp"aterer Nachtrag zu dem 31. der zweiten Abteilung, die Beobachtungen der Sternschnuppen betreffend.)
 
-Als Anhang folgt ein Verzeichnis der im k. k. Naturalien-Kabinette zu Wien befindlichen meteorischen Stein- und Eisenmassen, vom Herrn Direktor von Schreibers.
+\subsection*{Als Anhang folgt ein Verzeichnis der im k. k. Naturalien-Kabinette zu Wien befindlichen meteorischen Stein- und Eisenmassen, vom Herrn Direktor von Schreibers.}
 \clearpage
-\subsection{Berichtigungen und Verbesserungen.}
+\subsection*{Berichtigungen und Verbesserungen.}
 \paragraph{}
 S. 11. Z. 13, anstatt 1812, ist zu lesen 1802.
 
@@ -795,65 +528,59 @@ S. 413. Z. 6, von unten, anstatt schiefen l. schiefern.
 
 Die Besitzer oder Leser dieses Buches werden ersucht, besonders die auf S. 11, 91, 93, 262, und 315 bemerkten Fehler in Berichtigen.
 \clearpage
-\section{Erste Abteilung.}
+\section{Erste Abteilung. Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.}
+\subsection{Die Alten kannten schon diese Art von Naturerscheinungen.}
 \paragraph{}
-Geschichte der ersten Untersuchungen des Niederfallens meteorischer Massen.
-
-1\. Die Alten kannten schon diese Art von Naturerscheinungen.
-
-Schon in den "alteren Zeiten zweifelte man nicht, dass bisweilen Stein- und Eisenmassen mit einem Feuer-Meteor vom Himmel fallen. Da es hier nicht die Absicht ist, diesen Gegenstand in antiquarischer Hinsicht genauer abzuhandeln, berufe ich mich deshalb auf die vierte Abteilung, wo viele "altere Nachrichten von dergleichen Ereignissen angef"uhrt werden. Bei den Griechen und R"omern ward mit dergleichen Steinen mancher Aberglaube getrieben, indem man sie als Symbole der G"otter ansah; indessen scheinen doch auch Manche bessere Begriffe davon gehabt zu haben. So scheint es z. B., dass Anaxagoras vor dem Falle eines gro"sen Steines bei Aegos Potamos schon gesagt habe, dass bisweilen solche Steine vom Himmel fallen; so hat auch Plutarch den Fall dieses Steines so gut beschrieben, als es in der damaligen Zeit zu verlangen war; so sagt auch Damaskus (in \emph{Photii bibliotheca graeca}, c. 242) ganz richtig, dass die \emph{baetylia} (Meteor-Steine) mit einer Feuerkugel herabgefallen sind, u. s. w. Auch die "alteren Chinesen haben uns mehrere Nachrichten dieser Art mit historischer Treue, und ohne etwas T"orichtes einzumengen, "uberliefert. In dem mittleren Zeitalter haben uns besonders arabische Schriftsteller manche Nachrichten von solchen Ereignissen hinterlassen, ohne unrichtige Urteile einzumengen; auch ist dieses in noch etwas sp"ateren Zeiten von manchen Chroniken-Schreibern und einigen Andern* geschehen.
-
-*) So hei"st z. B. in dem Buche \emph{de meteoris}, welches dem Theophrastus Paracelsus zugeschrieben wird, S. III. der Basler-Ausgabe von 1569, 8.: \emph{evidentissime constat, lapides naturales ex coelo decidisse pariter ac metalla, sed non aliud, quam ferrum, nec lapidis quam unica species}. Auch in der Schrift: \emph{de Podagricis, lib. II.}, sagt er, dass Steine vom Himmel fallen.
-
-2\. Nachheriger Unglaube, der bis zur Verstockung ging, mit wenigen Ausnahmen.
-
+Schon in den "alteren Zeiten zweifelte man nicht, dass bisweilen Stein- und Eisenmassen mit einem Feuer-Meteor vom Himmel fallen. Da es hier nicht die Absicht ist, diesen Gegenstand in antiquarischer Hinsicht genauer abzuhandeln, berufe ich mich deshalb auf die vierte Abteilung, wo viele "altere Nachrichten von dergleichen Ereignissen angef"uhrt werden. Bei den Griechen und R"omern ward mit dergleichen Steinen mancher Aberglaube getrieben, indem man sie als Symbole der G"otter ansah; indessen scheinen doch auch Manche bessere Begriffe davon gehabt zu haben. So scheint es z. B., dass Anaxagoras vor dem Falle eines gro"sen Steines bei Aegos Potamos schon gesagt habe, dass bisweilen solche Steine vom Himmel fallen; so hat auch Plutarch den Fall dieses Steines so gut beschrieben, als es in der damaligen Zeit zu verlangen war; so sagt auch Damaskus (in \emph{Photii bibliotheca graeca}, c. 242) ganz richtig, dass die \emph{baetylia} (Meteor-Steine) mit einer Feuerkugel herabgefallen sind, u. s. w. Auch die "alteren Chinesen haben uns mehrere Nachrichten dieser Art mit historischer Treue, und ohne etwas T"orichtes einzumengen, "uberliefert. In dem mittleren Zeitalter haben uns besonders arabische Schriftsteller manche Nachrichten von solchen Ereignissen hinterlassen, ohne unrichtige Urteile einzumengen; auch ist dieses in noch etwas sp"ateren Zeiten von manchen Chroniken-Schreibern und einigen Andern\footnote{So hei"st z. B. in dem Buche \emph{de meteoris}, welches dem Theophrastus Paracelsus zugeschrieben wird, S. III. der Basler-Ausgabe von 1569, 8.: \emph{evidentissime constat, lapides naturales ex coelo decidisse pariter ac metalla, sed non aliud, quam ferrum, nec lapidis quam unica species}. Auch in der Schrift: \emph{de Podagricis, lib. II.}, sagt er, dass Steine vom Himmel fallen.} geschehen.
+\subsection{Nachheriger Unglaube, der bis zur Verstockung ging, mit wenigen Ausnahmen.}
+\paragraph{}
 Nun kam aber eine Zeit, wo man mehrere Fortschritte in der Naturkunde machte, und jetzt glaubte man auf einmal alles, was nicht zu einem selbstgemachten Leisten passte, wegwerfen und f"ur Torheit erkl"aren zu m"ussen. Es ist fast unbegreiflich, wie durch die so sehr mit einander "ubereinstimmenden Nachrichten aus "alteren und neueren Zeiten, von den mit einem Feuer-Meteore und mit vielem Get"ose herabgefallenen Stein- und Eisenmassen, die Physiker nicht fr"uher veranlasst worden sind, der Sache weiter nachzuforschen, und die vorhandenen Nachrichten geh"orig mit einander zu vergleichen, da sie alsdann bei einer unbefangenen Ansicht gar bald sich w"urden gen"otigt gesehen haben, das Niederfallen solcher Massen, die Erkl"arungsart sei, welche man wolle, doch wenigstens als eine historisch erwiesene Tatsache anzunehmen. Einige Physiker waren indessen wahrheitsliebend genug, die Tatsachen, wenn sie auch solche nicht geh"orig zu erkl"aren wussten, doch unbefangen zu erz"ahlen, wie z. B. Baudin, Professor in Pau, und St. Amans,* Professor in Agen, den gro"sen Steinfall im Jahre 1790; oder wohl auch mehrere Nachrichten von Steinf"allen zu sammeln, wie Tata und Soldani; manche Obrigkeiten waren auch so verst"andig, nach einem solchen Naturereignisse "uber die Nachrichten, welcher sie habhaft werden konnten, eine Urkunde in geh"origer Form abzufassen, ohne etwas hinein zu mengen, was einem Vorurteile "ahnlich sieht. Gew"ohnlich aber machte man sich die Sache dadurch am leichtesten, dass man, wenn neue Ereignisse dieser Art gemeldet wurden, lieber die Tatsachen verdrehte (wovon genug Beispiele in der Folge vorkommen werden), oder sie geradezu wegleugnete, als dass man sich die M"uhe genommen h"atte, genauere Untersuchungen anzustellen. Der Unglaube ging so weit, dass man sogar die meisten in "offentlichen Sammlungen aufbewahrt gewesenen Meteor-Massen weggeworfen hat,* weil man bef"urchtete, sich l"acherlich zu machen, und f"ur unaufgekl"art gehalten zu werden, wenn man nur die M"oglichkeit der Sache zug"abe.
 
 *) Diesen ging es ebenso, wie mir etliche Jahre sp"ater, indem es f"ur Torheit erkl"art ward. Der Bericht von Baudin, in der \emph{Decade philosophique}, wurde von den Herausgebern mit der eben nicht sehr philosophischen Bemerkung begleitet, dass man so unglaubliche Dinge lieber wegleugnen, als sich auf Erkl"arungen einlassen m"usse. "Uber den Bericht von St. Amans, und "uber die Urkunde, welche die Munizipalit"at zu Juliac abgefasst hatte, dr"uckt sich Bertholon im \emph{Journal des sciences utiles}, 1790, so aus: \emph{Si les lecteurs eurent dès-lors l'occasion de déplorer l'erreur de quelques particuliers, combien ne gémiront pas aujourd'huit en voyant une municipalité entière attester, consacrer en bonne forme ces mêmes bruites populaires qui ne peuvent qu'exciter la pitié, nous ne dirons pas seulement des physiciens, mais de tous les gens raisonnables}. (!Wer so mitleidig ist, verdient doch wohl auch selbst Mitleid. Er f"ugt hinzu:) \emph{Que pouvons nous ajouter a ce proces-verbal; toutes les reflexions qu'il suggere, se presentent d'elles memes au lecteur philosophe, en lisant cette attestation d'un fait evidemment faux, d'un phenomene physiquement impossible.} (!)
 
 *) Wie z. B. im Dresden, eine 1581 in Th"uringen, und eine 1647 bei Zwickau gefallene Masse; in Wien, vier bei Miskolz 1559 gefallene Massen; in Kopenhagen, einen von den 1654 auf der Insel F"uhnen gefallenen Steinen; in Bern, einen 1698 gefallenen, nebst der Urkunde; in Verona, zwei von den 1668 gefallenen, einer 300, und einer 200 Pfund schwer; und noch einen, der in einer Kirche ist aufbewahret worden. Diejenigen, welche aus Aufkl"arungs-Vandalismus diese Massen, die man jetzt mit Silber aufw"agen w"urde, weggeworfen haben, k"onnte man recht f"uglich mit den B"ucherverbrennern Tschihoang-ti, Scipio Africanus, und Omar, in eine Classe setzen. Vielleicht aber lie"se sich doch noch eine oder die andere dieser Massen in irgendeiner alten Polterkammer, unter andern ausgemerzten Sachen, wieder auffinden, wenn man recht nachsuchen wollte.
 
-3\. Der Verfasser war in neuerer Zeit der erste, der diesen Unglauben bek"ampfte.
+3. Der Verfasser war in neuerer Zeit der erste, der diesen Unglauben bek"ampfte.
 
 Wahrscheinlich w"urde das Niederfallen meteorischer Massen noch jetzt nicht als historisch erwiesene Wahrheit allgemein anerkannt werden, wenn ich nicht in der (zu Riga und Leipzig in der Ostermesse 1794 in 4. erschienenen) Abhandlung: "Uber den Ursprung der von Pallas entdeckten Eisenmasse, und einige damit in Verbindung stehende Naturerscheinungen, von E. F. F. Chladni, die Naturforscher zuerst darauf aufmerksam gemacht, und wenn nicht bald darauf die Natur meine Behauptungen durch einige auffallende Ereignisse dieser Art unterst"utzt h"atte, wie z. B. ein Paar Monate nach Erscheinung meiner Schrift durch den bekannten Steinfall bei Siena, und sp"aterhin durch die in Yorkshire, in Ost-Indien, und bei L'Aigle, welche unter den vielen, seit der Zeit geschehenen Steinf"allen, am meisten beigetragen haben, um Manchem einen Glauben an die Sache beizubringen. Ich habe in dieser Schrift gezeigt, und zwar nicht als Hypothese, sondern als etwas nicht zu bezweifelndes:
 
-1\. Dass "ofters Stein- und Eisenmassen vom Himmel gefallen sind, und dieses als eine historisch erwiesene Wahrheit anerkannt werden m"usse;
+1. Dass "ofters Stein- und Eisenmassen vom Himmel gefallen sind, und dieses als eine historisch erwiesene Wahrheit anerkannt werden m"usse;
 
-2\. dass dieses Ereignis identisch mit Feuerkugeln ist, und diese nichts anders, als eine solche brennende Masse sind;
+2. dass dieses Ereignis identisch mit Feuerkugeln ist, und diese nichts anders, als eine solche brennende Masse sind;
 
-3\. dass diese Massen kosmisch sind, d. i. Ank"ommlinge aus dem Weltraume, welche vorher der Erde und deren Atmosph"are fremd waren.
+3. dass diese Massen kosmisch sind, d. i. Ank"ommlinge aus dem Weltraume, welche vorher der Erde und deren Atmosph"are fremd waren.
 
 Eine franz"osische "Ubersetzung dieser Abhandlung von Eugene Coquebert erschien im Jahre 1804, im \emph{Journal des mines}, Nr. 88 und 90.
 
-4\. Veranlassung dazu.
+4. Veranlassung dazu.
 
 Die erste Veranlassung verdanke ich einer Unterredung mit Lichtenberg, wiewohl dieser damals noch nicht wusste, dass jemals feste Massen vom Himmel gefallen w"aren, und also hiervon bei ihm nicht die Rede sein konnte.* Schon fr"uher war er einmal Geburtshelfer meiner Ideen gewesen, indem er durch seine elektrischen Figuren bei mir die Vermutung erregt hatte, dass die Schwingungen einer Fl"ache sich w"urden durch aufgestreuten Sand sichtbar machen lassen, ungef"ahr wie die verschiedenen Elektrizit"at auf einer Harzscheibe durch ausgestreuten Harzstaub. Als ich im Jahre 1792 in G"ottingen war, hatte ich "ofters Gelegenheit, mich mit ihm zu unterhalten, wo er denn von seinem Reichtum origineller Ideen gern Einiges mittheilte. Ich fragte ihn, wie es denn k"ame, dass er in seiner Ausgabe von Erxlebens Naturlehre, von Feuerkugeln wie von einem elektrischen Meteor geredet habe, da doch ihr Erscheinen zuweilen bei ganz heiterem Himmel, in einer H"ohe, wo wegen der so geringen Dichtigkeit der Luft die Elektricit"at sich zerstreuen m"usste, und nur etwa nordlicht"ahnliche Erscheinungen hervorbringen, aber sich nicht in einen Klumpen zusammenballen k"onnte, ihr Brennen und Rauchen, ihr Zerplatzen u. s. w. zu erkennen g"aben, dass sie wohl etwas anders sein m"ochten. Er erwiederte: er und andere Physiker h"atten bei Gelegenheit der elektrischen Meteore davon geredet, weil eine solche Erscheinung mit diesen wenigstens mehr "Ahnlichkeit habe, als mit etwas anderem; eigentlich w"ussten sie aber nicht recht, was sie daraus machen sollten. Als ich ihm weiter mit Fragen zusetzte, wof"ur man sie denn eigentlich halten k"onne, wenn man die vorher erw"ahnten Umst"ande geh"orig in Anschlag bringen wolle, antwortete er, die Feuerkugeln m"ochten wohl etwas nicht Tellurisches, sondern Kosmisches sein, n"amlich etwas, das nicht in unserer Atmosph"are seinen Ursprung habe, sondern von Au"sen in derselben anlange, und darin sein Wesen triebe; was es aber sei, wisse er nicht. Er verglich diese Idee damit, dass Kometen auch vormals w"aren f"ur atmosph"arische Meteore gehalten worden, ungeachtet schon Seneca einen richtigeren Begriff davon hatte, bis D"orfel endlich gezeigt habe, dass Seneca Recht hatte, und dass sie kosmisch sind. So weit Lichtenberg. Diese "Au"serung von ihm war mir so auffallend, dass ich den Entschluss fasste, der Sache weiter nachzuforschen. In dieser Absicht blieb ich ungef"ahr drei Wochen l"anger in G"ottingen, um in der dortigen Bibliothek so viele Nachrichten von Feuerkugeln, als ich damals habhaft werden konnte, zu sammeln. Es ergab sich daraus bald als historische Wahrheit, dass "ofters Stein- und Eisenmassen, zu Folge einer Feuerkugel mit vielem Get"ose herabgefallen waren, wo denn aus allen Umstanden sich schlissen lie"s, dass sie unm"oglich etwas anderes, als Ank"ommlinge aus dem allgemeinen Weltraume sein konnten. Anfangs kam mir selbst alles so fremdartig, und den damals herrschenden Begriffen unangemessen vor, dass ich fast Bedenken getragen h"atte, meine Abhandlung heraus zu geben; indessen tat ich es doch, ohne mich davor zu scheuen, dass man es anfangs l"acherlich und abgeschmackt finden w"urde, und stellte obige S"atze, nebst den n"otigen Gr"unden und Belegen, nicht als blo"se Vermutung, sondern als Behauptung auf, weil bei einer unbefangenen Ansicht der Sache alles so einleuchtend war, dass ich eine Best"atigung und Anerkennung in der Folge ganz gewiss erwarten konnte.
 
 *) Noch nach dem Erscheinen meiner Abhandlung war die ganze Sache Lichtenbergen so fremdartig, dass er zu Hrn. Prof. Harding und zu Andern sagte: es sei ihm bei dem Lesen meiner Schrift anfangs so zu Mute gewesen, als wenn ihn selbst ein solcher Stein am Kopfe getroffen h"atte, und er habe anfangs gew"unscht, dass ich sie nicht geschrieben h"atte. Sp"aterhin ward er davon "uberzeugt, und im G"ottingischen Taschenkalender auf 1797 "au"serte er, der Mond (dem er es zuschrieb) sei ein unartiger Nachbar, weil er mit Steinen nach uns werfe.
 
-5\. Fortdauer des Unglaubens, und Anfechtungen, die der Verfasser sich musste gefallen lassen.
+5. Fortdauer des Unglaubens, und Anfechtungen, die der Verfasser sich musste gefallen lassen.
 
 Als meine Schrift erschienen war, erkl"arten die meisten den ganzen Inhalt derselben f"ur Torheit, so wie ich es auch erwartet hatte. In der neuen allgemeinen deutschen Bibliothek ward gesagt, dass meine Behauptungen gar keine Widerlegung verdienten; in einer andern gelehrten Zeitung wurden sie f"ur eine \emph{licentiam physicam} erkl"art. Einige vermuteten sogar, dass ich wohl nur eine so paradoxe Meinung hingeworfen, und mit allen m"oglichen Scheingr"unden aufgest"utzt haben m"ochte, um, wenn die Physiker es von der ernsthaften Seite n"ahmen, mich "uber sie alle lustig zu machen.* Am st"arksten aber eiferten die beiden Gebr"uder De Luc gegen mich, weil so manches mit ihren Begriffen von Weltordnung nicht "ubereinstimmte. J. A. De Luc hat mich zwar nicht schriftlich, desto mehr aber m"undlich, in Berlin (in der k"onigl. Akademie der Wissenschaften, und in der Gesellschaft naturforschender Freunde), in Braunschweig, Hannover, G"ottingen, wahrscheinlich auch hernach in London, verketzert, und ge"au"sert, dass, wenn er einen solchen Stein h"atte zu seinen F"ussen fallen sehen, er sagen w"urde: ich habe es gesehen, ich glaube es aber doch nicht. (!) Sein Bruder, G. A. De Luc, Professor in Genf, hat f"unf Aufs"atze gegen mich, n"amlich zwei im \emph{Journal des mines}, und drei in der \emph{Bibliothèque britannique}, T. 17, 18 und 19, geliefert, worin er die Pallas'sche Gediegen-Eisenmasse von einem Vulkan auswerfen l"asst, den Niederfall eines Steines in Yorkshire 1795, und auch anderer, geradezu wegleugnet, und f"ur unm"oglich erkl"art, und mich sogar unter diejenigen rechnet, die (seiner Meinung nach) alle Weltordnung leugnen, und die nicht bedenken, wie sehr sie an allem B"osen in der moralischen Welt Schuld sind. (!!) Gegen diese etwas starken "Au"serungen habe ich nichts erwiedert, weil ich Streitigkeiten, besonders von der Art, nicht liebe, und weil ich es auch nicht f"ur n"otig hielt. Hier musste ich es indessen doch mit erw"ahnen, weil es zur Geschichte der Sache geh"ort.
 
 *) Wenn mich eine solche Laune angewandelt h"atte, so w"urde ich sie doch lieber an Torheiten, als an physikalischen Gegenst"anden, ausgelassen haben, da meines Erachtens Naturforschung, und "uberhaupt Untersuchung der Wahrheit, gewisser Massen als etwas Heiliges anzusehen ist, das schlechterdings nicht durch mutwillige Aufstellung falscher Behauptungen entweiht werden darf.
 
-6\. Einige Ausnahmen in Deutschland.
+6. Einige Ausnahmen in Deutschland.
 
 Indessen waren doch nicht alle Naturforscher mit der festen Idee behaftet, dass schlechterdings nie etwas von Au"sen bei uns herabfallen k"onne. Unter den ersten, welche im Wesentlichen (d. i. in Hinsicht auf die historische Richtigkeit der Sache, und auf die Ankunft solcher Massen von Au"sen) mit mir einverstanden waren, kann ich gegenw"artig die sehr achtungsw"urdigen M"anner, von Zach, Olbers, und Werner* nennen, habe aber anfangs keinen genannt, und auch niemanden gesagt, dass mir Lichtenberg die erste Veranlassung dazu gegeben habe, weil ich den anf"anglichen Vorwurf einer Vers"undigung gegen Physik, gegen Aufkl"arung, und gegen Orthodoxie lieber allein tragen, als jemanden mit hineinziehen wollte, und weil ich auch fest "uberzeugt war, dass die Wahrheit sich auch ohnedem durch alle Widerspr"uche durcharbeiten w"urde. In einigen Zeitschriften ward meine Abhandlung wenigstens f"ur lesensw"urdig erkl"art, und zur weiteren Pr"ufung empfohlen, so wie ich auch keine unbedingte Annahme meiner Behauptungen, sondern nur unbefangene Pr"ufung verlangte.
 
 *) Freiherr v. Zach war sogleich damit einverstanden, und "uber meinen m"undlichen Ausdruck: es w"aren Weltsp"ane, l"achelte er zwar, fand ihn aber nicht unangemessen. Olbers zeigte schon im Jahre 1795, in einer Vorlesung im Museum zu Bremen, die M"oglichkeit, dass solche Steine k"onnten aus Mond-Vulkanen ausgeworfen sein, wiewohl er jetzt auch den eigentlich kosmischen Ursprung f"ur wahrscheinlicher h"alt. Werner machte sogleich bei dem ersten Anblicke der Meteor-Steine die Bemerkung, da man auf der Erde keine dergleichen f"ande, m"ussten sie wohl von wo anders kommen, wo es dergleichen g"abe.
 
-7\. Untersuchungen in England.
+7. Untersuchungen in England.
 
 Im Auslande erregte die Sache zuerst in England Aufmerksamkeit, wozu, au"ser meiner Schrift, auch die Steinf"alle bei Siena (1794, zwei Monate, nachdem meine Schrift erschienen war), in Yorkshire (1795), und sp"ater auch der bei Benares in Ost-Indien 1798) Veranlassung gaben. Im Jahre 1796 gab Edward King zu London bei Nicol heraus: \emph{Remark's concerning stones, said to have fallen from the Clouds in these days and in the ancient times}, worin er einen beif"alligen Auszug aus meiner Schrift gegeben, und noch einige andere Nachrichten von Meteor-Steinf"allen hinzugef"ugt hat; nur ist seine Erkl"arungsart nicht so, dass man damit zufrieden sein k"onnte. Nicht lange nachher taten Howard und Graf Bournon (der damals in England war, jetzt aber wieder in Paris ist) das, was guten Naturforschern zukam; sie untersuchten n"amlich Bruchst"ucke von solchen Massen, der eine chemisch, der andere mineralogisch, und fanden, dass sie sowohl in der Zusammensetzung der Bestandteile, als auch in den "au"seren Kennzeichen, von allen bekannten Mineralien verschieden waren, aber unter sich im Wesentlichen "ubereinstimmten. Die sehr lehrreiche Abhandlung: \emph{Experiments and observations of certain stones and metallic substances, which at different times are said to have fallen from the clouds}, in den Philos. transact. for 1812, part. I. Nr. 7. p. 168 zc. enth"alt die Resultate ihrer Untersuchungen, durch welche die Sache au"ser allen Zweifel gesetzt ward. In dem \emph{Philosophical magazine}, Nr. V., ward ein beif"alliger Auszug aus meiner Schrift gegeben, welcher in der \emph{Bibliothèque britannique} T. XVI. p. 73 zc. "ubersetzt ist.*
 
 *) Thomson hat in seiner Chemie gesagt, die erste Veranlassung zu den Untersuchungen dieses Gegenstandes w"are von Howard und Bournon gegeben worden, worin er mir Unrecht getan hat, da ich den ersten Ansto"s gegeben habe, aber Howard und Bournon mehrere Jahre sp"ater solche Substanzen zuerst chemisch und mineralogisch untersucht haben. Prof. Wolf hat in seiner deutschen "Ubersetzung von Thomsons Chemie dieses in einer Note berichtigt. Als ich meine Schrift im Jahre 1794 herausgab, konnte ich nichts "uber die chemische und mineralogische Beschaffenheit meteorischer Massen sagen, weil ich damals noch nichts davon gesehen hatte. Die ersten Meteor-Steine sah ich 1798 in Wien.
 
-8\. Etwas sp"aterer Glaube, und weitere Untersuchungen in Frankreich.
+8. Etwas sp"aterer Glaube, und weitere Untersuchungen in Frankreich.
 
 In Frankreich dauerte es l"anger, ehe man zu glauben anfing, dass etwas vom Himmel fallen k"onnte, und Pictet bem"uhte sich anfangs vergeblich, Andere von der Richtigkeit der Sache zu "uberzeugen. In der \emph{Bibl. britann.} T. XVII. befindet sich ein Schreiben von ihm aus Edinburgh, vom 18. Julius 1801, worin er sagt: Herr von Buch habe ihm zuerst Nachricht gegeben, dass er zu Wien solche Steine gesehen habe; er habe bisher nur historisch, und mit einer gewissen Sch"uchternheit* davon gesprochen, und nun sei es ihm lieb gewesen, zu erfahren, dass man gar nicht mehr daran zweifelte, und dass es zu London verschiedene Sammlungen solcher Steine g"abe, wovon ihm Greville und Howard einige gezeigt h"atten. Nach seiner R"uckkehr aus England las Pictet einen Aufsatz in der Sitzung des Instituts vor, worin er Nachricht von Howards und Bournons Untersuchungen, und zugleich einen beif"alligen Auszug aus meiner Schrift gab. Ungeachtet man damals nichts davon wissen wollte, so wurden doch bald Einige aufmerksamer, und fingen an zu vermuten, dass doch etwas an der Sache sein m"ochte, wie denn im Jahre 1802 Laplace die Idee "au"serte, dass solche Massen vielleicht Ausw"urfe aus Mond-Vulkanen sein k"onnten, Vauquelin auch von der Sache "uberzeugt war, und Biot einen Aufsatz in der philomatischen Gesellschaft vorlas, worin er zeigte, dass ein vormals aus Phrygien nach Rom gebrachter Stein wahrscheinlich auch ein Meteor-Stein gewesen sei. Bald darauf unterst"utzte der Himmel die gute Sache durch ein recht gro"ses Naturereignis dieser Art, indem am 26. April 1803 bei l'Aigle, im Orne-Departement (oder in der Normandie), mit einem Feuer-Meteor, und mit gro"sem Get"ose, 2000 bis 3000 Steine fielen. Der Maire des Orts meldete es offiziell, die Meisten wollten es aber nicht glauben, und in einer Pariser Zeitung ward sogar die Gemeinde zu l'Aigle bedauert, dass sie einen so unaufgekl"arten Maire habe, der solche Albernheiten glauben k"onne. Es erschienen aber immer mehrere Nachrichten von diesem Vorfalle, welche endlich so viele Aufmerksamkeit erregten, dass Biot als Kommissar des Instituts abgeschickt ward, um die Sache an Ort und Stelle zu untersuchen. Er verfuhr dabei als vorurteilsfreier Naturforscher, lie"s sich durch die Nachrichten, die er einzog, gewisser Massen an die Orte leiten, bereisete die ganze Gegend, wo die Steine auf einen elliptischen Bezirk gefallen waren (so wie es auch, verm"oge der beobachteten Bewegung des Meteors, und der Zerspringung desselben sein musste), brachte Steine mit, die von Vauquelin, Thenard, und andern untersucht, und den von Howard untersuchten "ahnlich gefunden wurden, und stattete dem Institute einen ausf"uhrlichen Bericht ab, der sich im 7. Bande der Schriften desselben befindet, und auch besonders abgedruckt ist. Nun endlich (wie Benzenberg sich gut ausdr"uckt) "wich die Aufkl"arung, die das Herunterfallen geleugnet hatte, vor der gr"o"seren Aufkl"arung, die das Herunterfallen der Steine glaubte." Cuvier sagt in dem von Seite des Instituts abgefassten \emph{Rapport décennal} (der auch besonders zu Paris, bei Renouard 1809, abgedruckt ist) "uber den Verlauf der Sache Folgendes: \emph{Le phénomène des pierres tombées de l'atmosphère, que l'antiquité et le moyen âge n'ont pas ignoré, n'a été mis que dans cette période au rang des vérités physiques; les conjectures de M. Chladni, les analyses de M. M. Howard, Vauquelin, Thenard, Laugier, les voyages et enquêtes de M. Biot y ont egalement contribué}.
 
-9\. Endliche allgemeine Anerkennung.
+9. Endliche allgemeine Anerkennung.
 
 Nach dieser Zeit hat ein vorher ungl"aubig gewesener nach dem andern sich von der Wahrheit, dass feste Massen vom Himmel fallen, "uberzeugt, und gegenw"artig, seitdem es durch so viele neuere Ereignisse und Untersuchungen best"atigt ist, wird es wohl keinem wahren Physiker, oder wer sonst Begriffe von historischer Kritik hat, mehr einfallen, daran zu zweifeln. Sollte dieses aber doch noch der Fall sein (wie denn die  Erfahrung lehrt, dass Mancher eine einzige fixe Idee haben, und doch in andern Dingen sehr verst"andig sein kann), so wird es besser sein, ihm seine Meinung zu lassen, als mit ihm dar"uber zu streiten, weil es doch vergeblich sein w"urde.
 
@@ -865,7 +592,7 @@ Was zu weiterer Kenntnis der Sache von so manchen Physikern, Geometern, Chemiker
 \paragraph{}
 Allgemeine Bemerkungen "uber Feuerkugeln und herabgefallene Massen.
 
-1\. Hier ist die Absicht, im Allgemeinen das vorzutragen, was an solchen Meteoren beobachtet worden ist, mit eingeschalteten Erkl"arungen, so wie sie sich bei der einfachsten und nat"urlichsten Ansicht der Sache von selbst ergeben. Die 3te, 4te, 5te und 6te Abteilung sollen die Belege dazu enthalten.
+1. Hier ist die Absicht, im Allgemeinen das vorzutragen, was an solchen Meteoren beobachtet worden ist, mit eingeschalteten Erkl"arungen, so wie sie sich bei der einfachsten und nat"urlichsten Ansicht der Sache von selbst ergeben. Die 3te, 4te, 5te und 6te Abteilung sollen die Belege dazu enthalten.
 
 Da diese Meteore gew"ohnlich "uber sehr betr"achtliche Strecken unsers Erdk"orpers sich bewegen, und bei ihrer ersten Erscheinung, besonders am Tage, wo deren Licht weniger auffallend ist, nicht die allgemeine Aufmerksamkeit so erregen, wie sp"aterhin durch ihr st"arkeres Licht und durch ihr Get"ose; da auch wohl die meisten Massen m"ogen an Orte fallen, wo keine Menschen, am wenigsten aber aufmerksame und gebildete Menschen, sich in der N"ahe befinden, viele auch in das Meer oder in W"alder: so hat "au"serst selten jemand Gelegenheit gehabt, den ganzen Verlauf eines solchen Meteors von dem ersten Sichtbarwerden desselben bis zum Niederfallen, oder zum Auffinden der Massen zu beobachten, sondern gew"ohnlich nur den Anfang, oder den weiteren Fortgang, oder das Ende. Aus allen Vergleichungen der Beobachtungen ergibt sich aber, dass ein solches Meteor sich in seinem ganzen Zusammenhange gew"ohnlich auf folgende Art zeigt:
 
@@ -879,19 +606,19 @@ In einigen F"allen, von denen in der sechsten Abteilung weiter die Rede sein wir
 
 Es versteht sich "ubrigens von selbst, dass bei Beurteilung dieser Naturerscheinungen alles muss abgesondert werden, was in seiner Art etwas anders, aber von Einigen zur Rechtfertigung ihrer unrichtigen Vorstellungsarten damit verwechselt worden ist, z. B. wenn von Feuerkugeln die Rede ist, solche Erscheinungen, die blo"s elektrisch sind, und wo etwa ein Blitz sich, wie bisweilen im Kleinen ein elektrischer Funke, als eine abgesonderte Feuermasse gezeigt hat; und wenn von Stein- oder Staubniederf"allen die Rede ist, manche Niederschl"age von Sande, von Bl"utenst"aube, oder von andern Dingen, die durch einen Wirbelwind fortgef"uhrt, und wo anders hingeworfen worden sind, wie auch manche Erz"ahlungen in Chroniken, die blo"s von einem Hagel zu verstehen sind.
 
-2\. Anfang der Erscheinung eines solchen Meteors.
+2. Anfang der Erscheinung eines solchen Meteors.
 
 Die erste Erscheinung der Feuerkugeln wird nur selten beobachtet, weil sie gew"ohnlich erst, wenn sie weiter ausgebildet sind, und uns n"aherkommen, durch ihr st"arkeres Licht mehrere Aufmerksamkeiten erregen. Soweit es aus den von mir gesammelten Nachrichten sich ergibt, sind Meteore dieser Art zuerst erschienen:
 
-1\. Als ein leuchtender Punkt, oder eine Sternschnuppe, z. B. 1762, den 29. Julius; 1783, den 4. Oktober; 1805, den 23. Oktober; 1815, den 16. September.
+1. Als ein leuchtender Punkt, oder eine Sternschnuppe, z. B. 1762, den 29. Julius; 1783, den 4. Oktober; 1805, den 23. Oktober; 1815, den 16. September.
 
-2\. Als ein kleines sich entz"undendes W"olkchen, wie 1676, den 31. M"arz; 1761, den 12. November; 1783, den 18. August; 1812, den 10. April (die Feuerkugel, welche den Steinfall bei Toulouse gab); 1813, den 27. Januar. (Der Unterschied dieser Erscheinungsart von der vorigen kann wohl entweder in einer mehreren oder mindere Lockerheit der ankommenden Materie, oder auch in dem mehreren umher befindlich gewesenen Rauche und Dampfe liegen.)
+2. Als ein kleines sich entz"undendes W"olkchen, wie 1676, den 31. M"arz; 1761, den 12. November; 1783, den 18. August; 1812, den 10. April (die Feuerkugel, welche den Steinfall bei Toulouse gab); 1813, den 27. Januar. (Der Unterschied dieser Erscheinungsart von der vorigen kann wohl entweder in einer mehreren oder mindere Lockerheit der ankommenden Materie, oder auch in dem mehreren umher befindlich gewesenen Rauche und Dampfe liegen.)
 
-3\. Als ein oder mehrere parallele leuchtende Streifen, aus welchen sich hernach die weiter fortgehende Feuerkugel bildet, z. B. 1729, den 1. Oktober; (? 1756, den 2. Januar); 1799, den 12. November; 1808, den 21. Mai; 1812, den 23. August. Dieses mag wohl der Fall sein, wenn die ankommende Materie sehr zerstreut ist, und sich in die L"ange zieht, und die lockersten Teile wegen des Widerstandes der Atmosph"are hinter den dichteren zur"uckbleiben.
+3. Als ein oder mehrere parallele leuchtende Streifen, aus welchen sich hernach die weiter fortgehende Feuerkugel bildet, z. B. 1729, den 1. Oktober; (? 1756, den 2. Januar); 1799, den 12. November; 1808, den 21. Mai; 1812, den 23. August. Dieses mag wohl der Fall sein, wenn die ankommende Materie sehr zerstreut ist, und sich in die L"ange zieht, und die lockersten Teile wegen des Widerstandes der Atmosph"are hinter den dichteren zur"uckbleiben.
 
 Die genaueren Umst"ande bei jeder von diesen Erscheinungen sind, so wie auch bei den nachherigen Angaben, in der n"achstfolgenden Abteilung nachzusehen.
 
-3\. Beobachtete H"ohe der Feuerkugeln.
+3. Beobachtete H"ohe der Feuerkugeln.
 
 Bei mehreren Feuerkugeln ist die H"ohe, in welcher man sie gesehen hat, so wie auch die Geschwindigkeit, die Beschaffenheit der Bahn u. s. w., durch korrespondierende Beobachtungen und deren Berechnung bestimmt worden. Wenn dieses auch nicht mit der strengsten Genauigkeit geschehen kann (weil man bei einer so schnell vor"ubergehenden Erscheinung nicht Zeit hat, Messungen durch Werkzeuge anzustellen, sondern sich mit einer Sch"atzung durch das Augenma"s begn"ugen muss), so kann die Abweichung von der Wahrheit, bei gut angestellten Beobachtungen, doch nicht so gar gro"s sein.
 
@@ -899,7 +626,7 @@ Die durch Beobachtungen aus verschiedenen Standpunkten gefundene H"ohe, in welch
 
 Die gro"se H"ohe, in welcher solche K"orper gesehen worden sind, w"urde, wenn nicht noch so viele andere Gr"unde w"aren, allein schon hinreichend sein, um einzusehen, dass sie nicht aus Bestandteilen der Atmosph"are gebildet sein k"onnen. Die Luft, welche auch nach allen chemischen Untersuchungen keine solchen Bestandteilen enth"alt, ist schon in einer H"ohe von 8 Meilen, wo das Barometer nur auf 4/250 Linie steht, um 82,000 Mahl d"unner, als unten; in einer H"ohe von 20 Meilen, 1,176,000 Mahl d"unner, und die Kubik-Meile wiegt kaum ein Pfund; in einer H"ohe von 25 Meilen ist sie 1200 Billionen Mahl d"unner, und die Kubik-Meile wiegt nur 1/30 Loth (nach Benzenbergs Bestimmung in Voigts Magazin f"ur Naturkunde, 9. B. S. 421). Es w"urde also hierzu der Stoff nicht vorhanden sein, am wenigsten zu Eisenmassen von 300 bis 400 Zentnern, selbst wenn es m"oglich w"are, dass durch irgendeine Art von Zauberei alles Ponderable in der Luft, "uber einer betr"achtlichen Strecke Landes, auf ein Mahl k"onnte in Eisen und Nickel verwandelt werden.
 
-4\. Beschaffenheit der Bahn, Achsendrehung, Bogenspr"unge.
+4. Beschaffenheit der Bahn, Achsendrehung, Bogenspr"unge.
 
 Gew"ohnlich kommen Feuerkugeln in einer mehr oder weniger schiefen, bisweilen dem Horizonte fast parallelen, Richtung an, gehen "uber sehr betr"achtliche Strecken Landes (wie z. B. die am 31. M"arz 1676, von der Seite von Dalmatien, wo sie wohl auch schon viel weiter her mochte gekommen sein, quer "uber das adriatische Meer, "uber Italien, und nach Korsika zu weiter; die am 18. August 1783 "uber Schottland, England, Frankreich und Italien weiter vorw"arts), und senken sich in einer krummen, allem Ansehen nach parabolischen, Linie. Hierauf fallen entweder die dichteren Bestandteile nachdem Zerplatzen der Feuerkugel als Stein- oder Eisenmassen nieder, oder die Masse prallt (wie oft ist beobachtet worden), als ein lockerer, zu einem gro"sen Volumen (nach §. 6.) ausgedehnter, K"orper von der Atmosph"are ab, und geht in Bogenspr"ungen weiter fort, und manche, wie schon Pringle vermutet hat, fallen wahrscheinlich nicht nieder, sondern gehen (wenn ihre urspr"ungliche Tangential-Bewegung zu schnell ist, als dass sie von der Anziehung der Erde bis zum Niederfallen k"onnte "uberw"altigt werden) wieder von der Erde abw"arts, um ihren Lauf im allgemeinen Weltraume fortzusetzen. Aus dieser Beschaffenheit der Bewegung, welche ganz so ist, wie sie einem aus dem Weltraume anlangenden Projektil zukommt, und so auch aus den bisweilen mehrere Male wiederholten Abprallen von der Atmosph"are sieht man ganz offenbar, bass ein solcher K"orper schlechterdings nicht in der Atmosph"are gebildet sein kann, wo keine Kraft denkbar ist, die ihm eine solche tangentiale Richtung geben k"onnte, sondern dass die Bewegung aus Wirkungen einer Wurfkraft und des Falles zusammen gesetzt ist, und dass also ein solcher K"orper vor seiner Ankunft eine ihm eigent"umliche Bewegung im Weltraume m"usse gehabt haben, welche hernach bei der Ann"aherung an unsern Weltk"orper durch die Schwerkraft abge"andert worden ist.
 
@@ -975,7 +702,7 @@ An folgenden Feuerkugeln ist diese Art der Bewegung aus der schlangenf"ormigen o
 
 Dass ein solches Abprallen von der einer so schnellen Bewegung (von etlichen Meilen in einer Sekunde, §. 5.) sehr widerstehenden Atmosph"are, schon in einer H"ohe von etlichen Meilen, wo die Luft sehr d"unne ist, Statt finden k"onne, wird dadurch begreiflicher, weil ein solcher K"orper nicht etwa sehr dicht, sondern vielmehr, bei nicht gar vieler Masse (§. 15.) zu einem sehr gro"sen Volumen (§. 6.) ausgedehnt, und also eher im Stande ist, von der Atmosph"are abzuprallen, als wenn er bei gleicher Masse kleiner und dichter w"are.
 
-5\. Geschwindigkeit der Bewegung.
+5. Geschwindigkeit der Bewegung.
 
 Aus vielen vorhandenen Beobachtungen und Berechnungen, und auch schon daraus, dass ein solches Meteor "ofters in wenigen Sekunden, einige Mahl sogar fast mit der Schnelligkeit eines Blitzes, quer "uber den ganzen Himmel gegangen ist, ergibt sich, dass die Geschwindigkeit anfangs die einer abgeschossenen Gesch"utzkugel, welche nicht viel "uber 2000 Fu"s in einer Sekunde betragen kann, wohl 100 und mehrere Male "ubertroffen hat, und nicht geringer gewesen ist, als die der Weltk"orper in ihrem Laufe. Diese Geschwindigkeit, welche viel zu gro"s ist, als dass man sie einem Auswurfe aus Mond-Vulkanen zuschreiben k"onnte, zeigt schon allein ganz offenbar, dass es Massen sind, die vor ihrer Ankunft, ebenso wie gr"o"sere Weltk"orper, eine eigent"umliche Bewegung im Weltraume hatten. Sie kann keine Folge des Falles sein, da sie hierzu viel zu gro"s ist, da auch die Richtung von der senkrechten gew"ohnlich gar zu verschieden ist. In der Atmosph"are ist auch keine Kraft denkbar, die einer solchen Masse einen Sto"s in einer Seitenrichtung geben k"onnte, wie zu einer so schnellen und fast horizontalen Bewegung erfordert w"urde.
 
@@ -985,19 +712,19 @@ Was die aus Beobachtungen bestimmten Geschwindigkeiten betrifft, so ward bei der
 
 Wenn nun dergleichen kleinere Haufen von Materie sich im allgemeinen Weltraume mit einer Geschwindigkeit bewegen, welche der der gr"o"seren Weltk"orper vollkommen gleich kommt, so muss notwendig die Geschwindigkeit der Ankunft in unserer Atmosph"are sowohl, wie auch die mehrere oder mindere durch Hitze u. s. w. bewirkte Ver"anderung der Substanz sehr verschieden sein, nachdem eine solche Masse mehr in einer dem Laufe der Erde entgegengesetzten Richtung ankommt, oder beinahe in derselben Richtung; in welchem letzteren Falle die beiderseitigen Geschwindigkeiten sich mehr oder weniger kompensieren w"urden. Dieses letztere mag wohl bei den mehr staub- oder schlammartig niederfallenden Massen Statt finden.
 
-6\. Gr"o"se der Feuerkugeln.
+6. Gr"o"se der Feuerkugeln.
 
 Die Gr"o"se der Feuerkugeln ist, wie schon Plutarch an dem bei Aegos-Potamos gefallenen Steine richtig bemerkt hat, allemal weit betr"achtlicher gewesen, als das Volumen der hernach niedergefallenen Massen, woraus man ganz offenbar sieht, dass sie als sehr lockere, zu einem gro"sen Volumen ausgedehnte K"orper ankommen, und dass wir gew"ohnlich nur die Bestandteile erhalten, welche hinl"anglich verdichtet sind, um niederfallen zu k"onnen, wenige F"alle ausgenommen, wo solche Massen weniger ver"andert, staub- oder schlammartig herabgekommen sind. Bei Bestimmung der Gr"o"se findet keine gro"se Genauigkeit Statt, weil man keine Zeit hat, Messungen der scheinbaren Gr"o"se anzustellen, und diese also nur nach einer ungef"ahren Sch"atzung durch das Augenma"s beurteilen, und durch deren Vergleichung mit der Entfernung einiger Massen auf die wahre Gr"o"se schlie"sen kann. Die scheinbare Gr"o"se, welche anfangs bei gr"o"serer Entfernung geringer ist, wird gew"ohnlich mit den Vollmonden verglichen, und entweder so gro"s, als dieser, oder auch bisweilen kleiner, einige Mahl auch gr"osser, z. B. bei der am 25. November 1729, vier Mahl gr"osser angegeben. Was die wirkliche Gr"o"se betrifft, so sch"atzte man bei der Feuerkugel am 31. M"arz 1676 den l"angeren Durchmesser auf eine, und den k"urzeren auf eine halbe italienische Meile; am 22. Februar 1719 den Durchmesser auf 356 Ruthen; am 19. M"arz 1719, 1 1/2 englische Meile; am 15. August 1754 eine englische Meile; am 26. November 1758 zwischen 1/2 und 2 englische Meilen; den 29. Juli 1762 wenigstens 506 Toisen; den 17. Julius 1771 mehr als 500 Toisen; den 26. August 1778 eine italienische Meile; den 31. Oktober 1779 auf 2 englische Meilen; den 18. August 1783 in England den kleinen Durchmesser 1/2, den gr"o"seren 1 1/6 englische Meilen; in Frankreich, wo alles scheint zu klein angenommen worden zu sein, 216 Fu"s; den 11. September 1784, 450 Toisen; den 8. M"arz 1798 zwischen 85 und 152 Toisen; den 6. oder 13. November 1803 auf 280 Yards oder englische Ellen; den 14. Dezember 1807 (welche den Steinfall bei Weston in Nord-Amerika gab) wenigstens 491 Fu"s (wo man aber diesen K"orper nicht h"atte als eine solide Masse eben so dicht, wie die Meteorsteine, ansehen sollen, sondern als eine lockere, blasenf"ormig ausgedehnte Masse).
 
-7\. Gestalt dieser Meteore.
+7. Gestalt dieser Meteore.
 
 Dass solche Meteore anfangs wie eine Sternschnuppe, oder wie ein kleines lichtes W"olkchen, oder als leuchtende Streifen erscheinen, aus denen ein st"arker leuchtender K"orper fortgeht, ist schon im 2. S. gesagt worden. Bei dem weitern Fortgange und bei mehreren Ann"aherungen vergr"o"sert sich dieser K"orper, und ver"andert "ofters seine Gestalt, indem diese bald rund, bald l"anglich, bald birnf"ormig erscheint. Mehrere Male ist ein Aufwallen der Materie bemerkt worden, z. B. den 17. Julius 1771 und den 18. August 1783. Gew"ohnlich brechen nach allen Richtungen Flammen aus, die dem Ganzen bisweilen ein zackiges Ansehen geben, und hinterw"arts sich zuspitzen; au"serdem zieht ein solches Meteor meistens einen langen, aus Rauch und Dampf und andern verfl"uchtigten Teilen bestehenden, Schweif nach sich, der bisweilen auch in die L"ange gezogene Teile der Haupt-Substanz enth"alt; einige Mahl sind auch dicke Rauchwolken nachgeblieben. Bisweilen hat man kleinere, von der gr"o"seren Feuerkugel abgesonderte, Kugeln hinter derselben hergehen sehen. Nach dem Zerspringen sieht man gew"ohnlich die einzelnen St"ucke, zusammengenommen viel kleiner, als die vorige Gr"o"se der (blasenartig ausgedehnt gewesenen) Kugel, niederfallen, oder ihren Weg fortsetzen.
 
-8\. Licht und Farben der Feuerkugeln.
+8. Licht und Farben der Feuerkugeln.
 
 Das Licht der Feuerkugeln ist allemal sehr hell, so dass es weit st"arker ist, als das Mondenlicht, aber doch meistens dem Sonnenlichte nicht ganz gleichkommt. Einige Mahl hat man es doch diesem beinahe gleich gefunden, und man hat auch bemerkt, dass ungeachtet des Sonnenlichtes die K"orper einen Schatten geworfen haben, z. B. am 15. August 1755. Die Farbe ist gew"ohnlich sehr ver"anderlich gewesen, meistens blendend wei"s, so dass man das Licht mit wei"sgl"uhendem oder geschmolzenem Eisen, oder mit den Blitzen, oder mit brennendem Kampfer verglichen hat. Mehrere Male hat man auch ein bl"auliches Licht, wie von brennendem Schwefel (der auch wohl ein Hauptbestandteil ist), oder auch ein rotes oder gelbes, bisweilen auch alle Regenbogenfarben spielendes Licht gesehen, und zwar die brennende Kugel mit anderer Farbe, und mit hellerem Lichte, als den Schweif. Merkw"urdig ist das bei den Feuerkugeln am 7. November 1799, und am 23. Oktober 1801 beobachtete gr"unliche Licht, woraus man, da sonst keine mit dieser Farbe brennende Materien, besonders unter den gew"ohnlichen Bestandteilen meteorischer Massen, bekannt sind, auf einen Kupfergehalt dieser beiden Meteore zu schlissen geneigt sein m"ochte, wovon auch noch sonst Beispiele vorhanden gewesen zu sein scheinen. Sowohl die ganze Masse der Feuerkugel, als auch die nach der Zerspringung weiter gehenden Bruchst"ucke, sind meistens in einen Nebel eingeh"ullt erschienen, der sich des Nachts wei"slich und leuchtend, am Tage aber als Rauch oder einem W"olkchen "ahnlich gezeigt hat.
 
-9\. Brennen, Rauch und Dampf.
+9. Brennen, Rauch und Dampf.
 
 Gew"ohnlich hat man bei Feuerkugeln bemerkt, dass Flammen, Funken und Rauch nach allen Richtungen ausbrechen, wovon manche der in der n"achsten Abteilung erw"ahnten Abbildungen eine deutliche Vorstellung geben k"onnen; die Abbildung im \emph{Journal de Savans} 1676, p. 60, scheint mir eine der nat"urlichsten und treuesten zu sein. Bei der am 22. Februar 1719 sah man Flammen und Rauch aus vier Spalten oder Schl"unden ausbrechen. Wegen der schnellen Bewegung des K"orpers verbreiten sich die Flammen vorz"uglich nach hinten, wo sie sich zuspitzen. Manche Feuerkugeln lassen vielen Rauch nach sich, wie z. B. die am 31. M"arz 1676; am 11. Dezember 1741; am 26. Mai 1751; am 4. November 1753; am 27. November 1755; am 15. Januar 1756; am 22. Dezember 1806. Mehrere Mahl ist dieser Rauch und Dampf von Unkundigen, oder von solchen, die die Sache zu den Behufen einer schim"arischen Erkl"arungsart (aus atmosph"arischen Anh"aufungen) gern verdrehen m"ochten, f"ur eine eigentliche Wolke gehalten worden. Manche dergleichen Meteore erf"ullen betr"achtliche Gegenden mit Schwefeldampf, z. B. die am 29. November 1637; 1700 in Jamaica; am 10. August 1717; am 22. Februar 1719; am 4. Julius 1803; am 10. April 1817. So verbreiten auch die Meteorsteine gew"ohnlich noch eine Zeitlang nach ihrem Falle einen unertr"aglichen Schwefelgeruch. Manche Feuerkugeln haben in der Gegend Nebel und Feuchtigkeit zur"uckgelassen, wie z. B. die am 12. November 1799, und am 22. Mai 1808; wie denn auch nach denen am 12. November 1761 und am 17. Julius 1771 einige gro"se "ubelriechende Wassertropfen niederfielen. So scheint das Meteor am 2. Januar 1756 gr"o"sten Teils aus Wasser bestanden zu haben.
 
@@ -1017,7 +744,7 @@ Wenn man einige Mahl bei dem Vor"uberziehen, oder bei dem Zerplatzen einer Feuer
 
 *) Diese Beobachtungen beg"unstigen sehr die Idee von Laplace, dass der Schall in der Luft deshalb schneller fortgehe, als nach der gew"ohnlichen Theorie, weil durch die Kompression eines jeden Luftteilchens W"arme entwickelt werde, welche die Elastizit"at des benachbarten Luftteilchens f"ur den n"achsten Augenblick vermehre.
 
-10\. Zerplatzen der Feuerkugeln, mit Ersch"utterung und Get"ose.
+10. Zerplatzen der Feuerkugeln, mit Ersch"utterung und Get"ose.
 
 Die Feuerkugeln bl"ahen sich gew"ohnlich bei ihrem weiteren Fortgange in unserer Atmosph"are so auf, dass sie endlich mit einem heftigen Get"ose und mit Ersch"utterung der Luft, bisweilen auch des Bodens selbst, zerplatzen, unstreitig zu Folge, der durch die Hitze im Innern entwickelten, elastischen Fl"ussigkeiten, welchen die "au"sere z"ahe H"ulle endlich nicht l"anger zu widerstehen vermag. Wo kein Zerplatzen bemerkt worden ist, liegt der Grund wohl nur darin, dass der Ort der Beobachtung zu weit entfernt gewesen ist, oder auch, dass manche Feuerkugeln, wie schon Pringle, Rittenhouse und Andere vermutet haben, nicht bei uns niedergefallen sind, sondern ihren Weg weiter abw"arts von der Erde in dem allgemeinen Weltraume fortgesetzt haben m"ogen. Bisweilen zerplatzt eine Feuerkugel ganz, bisweilen nur teilweise, und die einzelnen St"ucke bilden sich bei einem weiteren Fortgange bisweilen zu kleinen Feuerkugeln aus, welche hernach auch zerplatzen. Bei manchen Feuerkugeln sintert auch die z"ahe Masse nach gewaltsamer Entweichung der im Inneren entwickelten elastischen Fl"ussigkeiten wieder zusammen, bl"aht sich von neuem auf, und explodiert wieder, welches bisweilen auch mehrere Male wiederholt wird. Bei Feuerkugeln, die durch Abprallen von der Atmosph"are Bogenspr"unge machen, geschieht eine Explosion gew"ohnlich in dem tiefsten Punkte einer Senkung, wiewohl die 1740 in der Nacht vom 23. bis 24. Februar nach einer vorher gegangenen Senkung in einer gr"o"seren H"ohe platzte. Bei einer solchen Explosion wird gew"ohnlich viel Rauch und Dampf abgesetzt, worauf man bisweilen, wenn die St"ucke nicht niedergefallen sind, bemerkt hat, dass die Feuerkugel mit neuem und verst"arktem Glanze weiter gegangen ist. Durch die Zerplatzung eines solchen Meteors wird gew"ohnlich die Luft weit umher sehr heftig ersch"uttert, so dass H"auser gezittert haben, Th"uren und Fenster aufgesprungen sind, und die Begebenheit von Manchen f"ur ein Erdbeben ist gehalten worden, z. B. den 30. M"arz 1654, im Junius 1668, den 9. Dezember 1734, den 31. Dezember 1741, 1756 "uber Aix, wo Schornsteine eingest"urzt sind, den 12. November 1761, den 30. April 1762, den 29. Julius 1773, den 8. August 1773, den 6. Februar 1818, und noch mehrere Male. Einige Mahl, wie z. B. den 13. Januar 1763, hat man aus g"anzlicher Unkunde die Ersch"utterung und das Meteor einem Erdbeben zugeschrieben, da doch vielmehr die Ersch"utterung eine Folge der Zerplatzung des Meteors gewesen ist. Bei einigen Beobachtungen hat man das Zerspringen vielmehr als ein Verschwinden oder Verl"oschen angesehen, unstreitig deswegen, weil die vorher durch die Hitze, und durch die im Innern entwickelten elastischen Fl"ussigkeiten, zu einem betr"achtlichen Umfange blasenf"ormig ausgedehnt gewesene Masse, nach dem Zerspringen in einzelne kleinere, aber dichtere St"ucke zusammen gesunken ist,* die wegen ihres geringen Umfanges weniger in die Augen fallen konnten; weil auch der bei dem Zerplatzen ausbrechende Rauch und Dampf alles verh"ullte. "Uberdies m"ogen auch wohl die Augen der Beobachter meist zu sehr auf den Ort des Zerspringens gerichtet gewesen sein, als dass sie zugleich auch das schnelle Fortgehen oder Niederfallen dieser kleineren Massen, die in der Ferne nur das Ansehen von Funken haben konnten, h"atten bemerken k"onnen. An der Stelle des Zerplatzens hat man bisweilen nachher noch einen leuchtenden Nebel, oder am Tage mehr eine Rauchwolke gesehen; auch sind "ofters noch geraume Zeit nachher nachgelassene Teile des Schweifes als ein mehr oder weniger heller oder dunkler, bisweilen schlangenf"ormig oder zickzackf"ormig gekr"ummter Streif zu sehen gewesen, weil diese Teile wegen ihrer Leichtigkeit sich nicht so schnell haben fortbewegen oder niederfallen k"onnen, als die dichteren Teile des Meteors. Auch hat man mehrere Male nach dem Zerspringen weit umher einen Schwefelgeruch bemerkt.
 
@@ -1025,11 +752,11 @@ Die Feuerkugeln bl"ahen sich gew"ohnlich bei ihrem weiteren Fortgange in unserer
 
 Was das Get"ose betrifft, so will man bei einigen Feuerkugeln schon bei ihrem Durchzuge durch die Atmosph"are ein Zischen oder Sausen bemerkt haben, z. B. den 31. M"arz 1676, den 26. Mai 1751, den 29. Julius 1762, den 12. November 1799, den 29. Julius 1804, den 23. Oktober 1805, den 3. Januar 1810, den 15. Mai 1811, den 15. Februar 1818. Das st"arkste Get"ose wird aber bei dem Zerspringen geh"ort, gew"ohnlich ein oder mehrere Knalle, fast wie Kanonensch"usse, aber weit heftiger, und hinterdrein ein noch l"anger anhaltendes Krachen und Poltern; bisweilen hat man auch bei der Bewegung der niederfallenden Steine durch die Luft ein Zischen oder Sausen geh"ort, und endlich auch den Schlag bei dem Niederfallen derselben. Das Get"ose wird fast von jedem Beobachter anders geschildert; Manche vergleichen es mit dem schnellen Rollen eines schwer beladenen Wagens "uber Steine; Manche mit dem Donner; Manche mit dem Durcheinanderr"utteln vieler Gewehre; Manche mit gro"sem und kleinem Gewehrfeuer, und wohl auch zugleich vielen Trommeln und Pfeifen, u. s. w. Darin scheinen sie aber fast alle "ubereinzustimmen, dass nach der Haupt-Explosion noch anhaltendes Get"ose von anderer Art geh"ort worden ist. Bemerkungen von Le Roy "uber dieses verschiedene Get"ose finden sich in den \emph{Mém. de l'Acad. de Paris}, 1771, p. 683. Bei der Feuerkugel am 6. November 1548 hat das Krachen eine Viertelstunde gedauert; den 11. April 1786 sechs Minuten; den 26 April 1803 f"unf bis sechs Minuten; den 18. Januar 1818 soll es sogar fast eine halbe Stunde gedauert haben. Bei der am 10. Mai 1760 hat man es 80 englische Meilen weit geh"ort; am 24. November 1742 an Orten, die 20 englische Meilen voneinander entfernt waren; am 18. August 1783 h"orten Cavallo und Pigot den Knall gegen 10 Minuten sp"ater; den 26. April 1803 h"orte man ihn in einem Umfange, dessen Radius "uber 30 franz"osische Meilen betr"agt, u. s. w.
 
-11\. Dauer der Erscheinung.
+11. Dauer der Erscheinung.
 
 Gew"ohnlich hat die Dauer der Erscheinung eines solchen Meteors nur wenige Sekunden betragen, bisweilen hat man sie aber auf einige Minuten gesch"atzt, und die Feuerkugel am 13. Julius 1738 soll wohl eine halbe Stunde lang Bogenspr"unge gemacht haben. In den meisten F"allen aber, wo man eine l"angere Dauer, als von einigen Minuten, angegeben hat, scheint dieses nicht blo"s von der Feuerkugel, sondern auch von der nachherigen Sichtbarkeit des nachgelassenen Schweifes und anderer verfl"uchtigten Bestandteile zu verstehen zu sein. Einige Mahl sind Feuerkugeln so schnell quer "uber den ganzen Himmel gegangen, dass sich nicht einmal die Richtung mit einiger Genauigkeit hat angeben lassen.
 
-12\. Niederfallen der Massen.
+12. Niederfallen der Massen.
 
 Nach der Zerplatzung einer Feuerkugel geht die Masse entweder ganz oder teilweise weiter fort, oder es fallen die Bestandteile, insoweit sie nicht verfl"uchtigt worden sind, gew"ohnlich als Steinmassen, seltener als Eisenmassen nieder.* Bei den meisten Feuerkugeln ist man die Substanz nicht habhaft geworden, weil sie in das Meer, oder sonst in das Wasser, oder in W"alder, oder an andere Orte, wo sie nicht in der N"ahe beobachtet oder untersucht worden ist, hingefallen sein mag; weil auch manche Feuerkugeln gar nicht niedergefallen sein, sondern ihren Weg wieder abw"arts von der Erde im allgemeinen Raume fortgesetzt haben m"ogen. Wo man die Massen habhaft geworden ist, sind gew"ohnlich die Bruchst"ucke von dem Orte des Zerplatzens nach allen Richtungen umher geschleudert worden; bei den Steinf"allen am 26. April 1803, und am 22. Mai 1808 ist bemerkt worden, dass die Steine, so wie es auch mit den Gesetzen der Bewegung "ubereinkommt, auf einen elliptischen Raum umher geworfen worden sind, dessen gr"o"ste Achse in der Richtung des Meteors gewesen ist, und zwar die gr"o"seren mehr nach der Seite zu, von welcher das Meteor hergekommen ist, und die kleineren mehr nach der andern Seite zu. Am 14. Dezember 1807 ist bemerkt worden, dass an drei Orten, "uber welchen die st"arksten Explosionen geschahen, auch die meisten Steine gefallen sind. Einige Mahl ist die Masse ganz herabgekommen, vermutlich weil sie zu z"ah war, um sich ganz zu zerteilen, und sich vor dem Niederfallen wieder zusammen geknetet hat, wie z. B. am 14. Dezember 1492, wo aus der Beschaffenheit des Steines sich schlie"sen l"asst, dass Teile der Oberfl"ache, w"ahrend der weitern Bewegung in die Masse hineingeknetet worden sind, welche im Bruche gl"anzende und dunkelgraue Absonderungsfl"achen bilden. Auch an mehreren Arten von Meteor-Steinen bemerkt man im Innern Teile von Rinde, die wieder hineingeknetet sind, und auch noch andere unverkennbare Spuren von Durcheinanderknetung der Masse.
 
@@ -1041,65 +768,65 @@ Die gr"o"ste Tiefe, bis zu welcher Meteor-Massen in die Erde eingeschlagen haben
 
 Die mit einem Feuer-Meteor vom Himmel gefallenen Massen lassen sich ihrer Beschaffenheit nach so einteilen:
 
-1\. Meteor-Steine, welche am h"aufigsten fallen.
+1. Meteor-Steine, welche am h"aufigsten fallen.
 
-2\. Gediegen Eisen, mit oder ohne Beimengung erdiger Bestandteile.
+2. Gediegen Eisen, mit oder ohne Beimengung erdiger Bestandteile.
 
-3\. Staubartige oder weiche Substanzen, in feuchter oder trockner Gestalt.
+3. Staubartige oder weiche Substanzen, in feuchter oder trockner Gestalt.
 
-13\. Beschaffenheit der Meteor-Steine im Allgemeinen.
+13. Beschaffenheit der Meteor-Steine im Allgemeinen.
 
 Die Meteor-Steine haben bei aller Verschiedenheit doch auch viele "Ahnlichkeit miteinander, so dass sie gewisser Massen eine Sippschaft ausmachen. Sie sind ein Gemenge von mancherlei erdigen, metallischen und andern Bestandteilen, von solcher Beschaffenheit, dass sie leicht von allen auf unserer Erde befindlichen Steinarten sich unterscheiden lassen, wiewohl die Bestandteile selbst bei uns vorhanden sind. Auswendig sind sie gew"ohnlich mit einer schwarzen oder schw"arzlich braunen Rinde "uberzogen, welche ungef"ahr eben die Bestandteile, wie das Innere, enth"alt.
 
-14\. Bestandteile der Meteor-Steine.
+14. Bestandteile der Meteor-Steine.
 
 Die bisher in den Meteor-Steinen gefundenen Bestandteile sind:
 
-1\. Eisen. Dieses ist in allen Meteor-Steinen vorhanden gewesen,* und in manchen hat es mehr als den dritten Teil betragen. Die Arten, wie es sich gezeigt hat, sind:
+1. Eisen. Dieses ist in allen Meteor-Steinen vorhanden gewesen,* und in manchen hat es mehr als den dritten Teil betragen. Die Arten, wie es sich gezeigt hat, sind:
 
 *) Vielleicht k"onnten nur etwa die 1677 bei Ermendorf gefallenen Steine eine Ausnahme gemacht haben, welche allem Ansehen nach Kupfer enthielten.
 
-a\. als Gediegeneisen, ebenso geschmeidig und nickelhaltig, wie in den ganz oder gr"o"sten Teils daraus bestehenden Massen, von denen im S. 19 und in der 5. Abteilung die Rede sein wird. Am gew"ohnlichsten findet es sich nur in feinen Punkten eingesprengt, bisweilen auch in feinen Zacken und H"akchen, seltener in etwas gr"o"seren St"ucken. De Drée besa"s indes ein St"uck von den bei Barbotan 1790 gefallenen Meteor-Steinen, worin ein St"uck Gediegeneisen von der Gr"o"se einer Haselnuss sich befand, und ich besitze eines von demselben Steinfalle, und einen von den bei L'Aigle 1803 gefallenen Steinen, worin sich St"ucke von etwa 2 Linien Durchmesser befinden, wo in den ersteren eins Kristallisationsfl"achen zeigt, die auf ein Oktaeder schlie"sen lassen. Auch sah ich an dem 19 Pfund (9 1/2 Kilogrammen) schweren St"ucke von der bei Ensisheim 1492 gefallenen Masse, welche sich im Museum des Pflanzengartens zu Paris befindet, eine zahnf"ormige Hervorragung von Gediegeneisen, gr"osser als eine Erbse. Hier und da zeigt es sich auch als Anflug. In den Meteor-Steinen, die keinen Nickel enthalten, hat man auch kein Gediegeneisen gefunden.
+a. als Gediegeneisen, ebenso geschmeidig und nickelhaltig, wie in den ganz oder gr"o"sten Teils daraus bestehenden Massen, von denen im S. 19 und in der 5. Abteilung die Rede sein wird. Am gew"ohnlichsten findet es sich nur in feinen Punkten eingesprengt, bisweilen auch in feinen Zacken und H"akchen, seltener in etwas gr"o"seren St"ucken. De Drée besa"s indes ein St"uck von den bei Barbotan 1790 gefallenen Meteor-Steinen, worin ein St"uck Gediegeneisen von der Gr"o"se einer Haselnuss sich befand, und ich besitze eines von demselben Steinfalle, und einen von den bei L'Aigle 1803 gefallenen Steinen, worin sich St"ucke von etwa 2 Linien Durchmesser befinden, wo in den ersteren eins Kristallisationsfl"achen zeigt, die auf ein Oktaeder schlie"sen lassen. Auch sah ich an dem 19 Pfund (9 1/2 Kilogrammen) schweren St"ucke von der bei Ensisheim 1492 gefallenen Masse, welche sich im Museum des Pflanzengartens zu Paris befindet, eine zahnf"ormige Hervorragung von Gediegeneisen, gr"osser als eine Erbse. Hier und da zeigt es sich auch als Anflug. In den Meteor-Steinen, die keinen Nickel enthalten, hat man auch kein Gediegeneisen gefunden.
 
-b\. Als Eisen-Oxyd, welches sich an mehreren Arten von Meteor-Steinen durch braune Rostflecke zu erkennen gibt, an manchen besonders, wenn sie sehr der Feuchtigkeit ausgesetzt gewesen sind.
+b. Als Eisen-Oxyd, welches sich an mehreren Arten von Meteor-Steinen durch braune Rostflecke zu erkennen gibt, an manchen besonders, wenn sie sehr der Feuchtigkeit ausgesetzt gewesen sind.
 
-c\. Als Schwefeleisen, in welchem, nach Stromeier, metallisches Eisen mit Schwefel in Minimum verbunden ist. Es findet sich teils in feinen Punkten eingesprengt, teils auch in gr"o"seren oder kleineren runden, l"anglichen oder eckigen St"ucken. (Ich vermute, dass bisweilen noch eine Beimischung Statt findet, weil die Farbe des Schwefeleisens bei manchen Meteor-Steinen mehr in das Gelbe, bei andern mehr in das Wei"sliche, und wieder bei andern mehr in das R"otliche f"allt.)
+c. Als Schwefeleisen, in welchem, nach Stromeier, metallisches Eisen mit Schwefel in Minimum verbunden ist. Es findet sich teils in feinen Punkten eingesprengt, teils auch in gr"o"seren oder kleineren runden, l"anglichen oder eckigen St"ucken. (Ich vermute, dass bisweilen noch eine Beimischung Statt findet, weil die Farbe des Schwefeleisens bei manchen Meteor-Steinen mehr in das Gelbe, bei andern mehr in das Wei"sliche, und wieder bei andern mehr in das R"otliche f"allt.)
 
-2\. Kieselerde, welche einen Hauptbestandteil der Meteor-Steine ausmacht, und bei einigen mehr als die H"alfte derselben betragen hat.
+2. Kieselerde, welche einen Hauptbestandteil der Meteor-Steine ausmacht, und bei einigen mehr als die H"alfte derselben betragen hat.
 
-3\. Magnesia. Auch diese ist bisher in allen Meteor-Steinen gefunden worden; in der gr"o"sten Menge in dem von Langres, wo sie 32, und in der kleinsten in den von Stannern, wo sie nur 2 bis 2 1/2 Hundertteile betragen hat.
+3. Magnesia. Auch diese ist bisher in allen Meteor-Steinen gefunden worden; in der gr"o"sten Menge in dem von Langres, wo sie 32, und in der kleinsten in den von Stannern, wo sie nur 2 bis 2 1/2 Hundertteile betragen hat.
 
-4\. Nickel; die einzigen bis jetzt bekannt gewordenen Meteor-Steine, welche keinen Nickel enthalten haben, sind die bei Stannern 1808, bei Agen 1814, und bei Langres 1815 gefallenen, welche sich auch durch das Ansehen des Innern von andern Meteor-Steinen unterscheiden. In allen "ubrigen Meteor-Steinen ist Nickel gefunden worden, in den von Doroninsk, 1805, 10 Hundertteile, in denen von Orléans, 1810, auf 6 Hundertteile, in andern weniger, und in einigen noch kein Hundertteil; wahrscheinlich ist aber, so wie auch bei manchen nickelhaltigen Gediegeneisenmassen, nicht aller vorhandene Nickel ausgeschieden worden. Er scheint mit dem Gediegeneisen verbunden zu sein, weil auch von diesem nichts in den nickellosen Meteorsteinen gefunden worden ist.
+4. Nickel; die einzigen bis jetzt bekannt gewordenen Meteor-Steine, welche keinen Nickel enthalten haben, sind die bei Stannern 1808, bei Agen 1814, und bei Langres 1815 gefallenen, welche sich auch durch das Ansehen des Innern von andern Meteor-Steinen unterscheiden. In allen "ubrigen Meteor-Steinen ist Nickel gefunden worden, in den von Doroninsk, 1805, 10 Hundertteile, in denen von Orléans, 1810, auf 6 Hundertteile, in andern weniger, und in einigen noch kein Hundertteil; wahrscheinlich ist aber, so wie auch bei manchen nickelhaltigen Gediegeneisenmassen, nicht aller vorhandene Nickel ausgeschieden worden. Er scheint mit dem Gediegeneisen verbunden zu sein, weil auch von diesem nichts in den nickellosen Meteorsteinen gefunden worden ist.
 
-5\. Chrom, meistens etwa 1 bis 2 Prozent, bisweilen auch weniger. Es ist zuerst von Lowitz (nach den russischen Mizellen 1804, und Gilberts Annalen der Physik, B. 29. S. 213) und von Laugier (nach den \emph{Annales du Muséum d'histoire naturelle}, T. VII.) entdeckt worden. Nach Vauquelin soll es in metallischer Gestalt, aber nach Stromeier als Oxyd vorhanden sein. Ob es in einigen Meteor-Steinen, wo kein Chrom-Gehalt angegeben ist, auch nicht enthalten gewesen sei, oder ob man diese nicht besonders darauf untersucht habe, l"asst sich ohne weitere Untersuchungen nicht bestimmen.
+5. Chrom, meistens etwa 1 bis 2 Prozent, bisweilen auch weniger. Es ist zuerst von Lowitz (nach den russischen Mizellen 1804, und Gilberts Annalen der Physik, B. 29. S. 213) und von Laugier (nach den \emph{Annales du Muséum d'histoire naturelle}, T. VII.) entdeckt worden. Nach Vauquelin soll es in metallischer Gestalt, aber nach Stromeier als Oxyd vorhanden sein. Ob es in einigen Meteor-Steinen, wo kein Chrom-Gehalt angegeben ist, auch nicht enthalten gewesen sei, oder ob man diese nicht besonders darauf untersucht habe, l"asst sich ohne weitere Untersuchungen nicht bestimmen.
 
-6\. Schwefel, wohl gr"o"sten Teils mit dem Eisen in Verbindung. In dem Meteor-Steine von Langres, 1815, hat Vauquelin keinen Schwefel gefunden, indessen vermute ich aus den metallisch gl"anzenden Punkten, die darin auch, wie in andern Meteor-Steinen, wiewohl in sehr geringer Menge, enthalten sind, dass er doch auch nicht ganz ohne Schwefeleisen sein m"oge. Dass anfangs mehr Schwefel in den meteorischen Massen gewesen ist, als man hernach darin findet, sieht man ganz deutlich aus der bl"aulichen Flamme, mit welcher die meisten solchen Meteoren brennen, und an dem Schwefelgeruche, den sie bisweilen "uber betr"achtliche Gegenden verbreiten, und der auch anfangs noch an den niedergefallenen Massen, und der auch anfangs noch an den niedergefallenen Massen bemerkbar ist.
+6. Schwefel, wohl gr"o"sten Teils mit dem Eisen in Verbindung. In dem Meteor-Steine von Langres, 1815, hat Vauquelin keinen Schwefel gefunden, indessen vermute ich aus den metallisch gl"anzenden Punkten, die darin auch, wie in andern Meteor-Steinen, wiewohl in sehr geringer Menge, enthalten sind, dass er doch auch nicht ganz ohne Schwefeleisen sein m"oge. Dass anfangs mehr Schwefel in den meteorischen Massen gewesen ist, als man hernach darin findet, sieht man ganz deutlich aus der bl"aulichen Flamme, mit welcher die meisten solchen Meteoren brennen, und an dem Schwefelgeruche, den sie bisweilen "uber betr"achtliche Gegenden verbreiten, und der auch anfangs noch an den niedergefallenen Massen, und der auch anfangs noch an den niedergefallenen Massen bemerkbar ist.
 
-7\. Kalkerde ist auch ein gew"ohnlicher Bestandteil der Meteor-Steine, wiewohl meistens nur in geringer Menge. Die gr"o"ste Menge fand sich in denen von Stannern, n"amlich "uber 12 Hundertteile. Sie ist zuerst von Klaproth gefunden worden.
+7. Kalkerde ist auch ein gew"ohnlicher Bestandteil der Meteor-Steine, wiewohl meistens nur in geringer Menge. Die gr"o"ste Menge fand sich in denen von Stannern, n"amlich "uber 12 Hundertteile. Sie ist zuerst von Klaproth gefunden worden.
 
-8\. Tonerde ist ebenfalls zuerst von Klaproth in Meteor-Steinen gefunden worden; meistens ist sie nur in geringer Menge vorhanden; die gr"o"ste, n"amlich 14 Hundertteile, fand sich in denen von Stannern. Diejenigen, bei welchen kein Gehalt an Tonerde und Kalkerde angegeben ist, sind wahrscheinlich nicht besonders darauf untersucht worden.
+8. Tonerde ist ebenfalls zuerst von Klaproth in Meteor-Steinen gefunden worden; meistens ist sie nur in geringer Menge vorhanden; die gr"o"ste, n"amlich 14 Hundertteile, fand sich in denen von Stannern. Diejenigen, bei welchen kein Gehalt an Tonerde und Kalkerde angegeben ist, sind wahrscheinlich nicht besonders darauf untersucht worden.
 
-9\. Mangan ist auch ein gew"ohnlicher Bestandteil, und nur in wenigen Meteor-Steinen, wo es nicht besonders scheint, aufgesucht worden zu sein, ist nichts davon gefunden worden. Die gr"o"ste bisher gefundene Menge betrug in den Steinen von Charkow (1787), 4 bis 6, in andern nicht "uber 1 bis 2 Hundertteile.
+9. Mangan ist auch ein gew"ohnlicher Bestandteil, und nur in wenigen Meteor-Steinen, wo es nicht besonders scheint, aufgesucht worden zu sein, ist nichts davon gefunden worden. Die gr"o"ste bisher gefundene Menge betrug in den Steinen von Charkow (1787), 4 bis 6, in andern nicht "uber 1 bis 2 Hundertteile.
 
-10\. Natrum hat Stromeier in die Steine von Erxleben (1812) gefunden, aber nur 0,7. Vielleicht w"urde man es bei noch mehrere Aufmerksamkeiten auch in manchem andern finden.
+10. Natrum hat Stromeier in die Steine von Erxleben (1812) gefunden, aber nur 0,7. Vielleicht w"urde man es bei noch mehrere Aufmerksamkeiten auch in manchem andern finden.
 
-11\. Wasser fand sich in den Steinen von Stannern und von Alais, und wahrscheinlich war es auch in andern einer von den bei der Analyse verloren gegangenen Bestandteilen. Dass es bei mehreren Feuer-Meteoren in gr"o"serer Menge vorhanden gewesen ist, l"asst sich aus dem bisweilen nach Erscheinung derselben bemerkten Nebel und Dampf, und aus den einige Male hernach niedergefallenen gro"sen Wassertropfen schlie"sen. Es kann auch wohl sein, dass die Bestandteile des Wassers vorher gr"o"sten Teils in anderen Verbindungen da gewesen, und erst durch das Brennen zu Wasser umge"andert worden sind.
+11. Wasser fand sich in den Steinen von Stannern und von Alais, und wahrscheinlich war es auch in andern einer von den bei der Analyse verloren gegangenen Bestandteilen. Dass es bei mehreren Feuer-Meteoren in gr"o"serer Menge vorhanden gewesen ist, l"asst sich aus dem bisweilen nach Erscheinung derselben bemerkten Nebel und Dampf, und aus den einige Male hernach niedergefallenen gro"sen Wassertropfen schlie"sen. Es kann auch wohl sein, dass die Bestandteile des Wassers vorher gr"o"sten Teils in anderen Verbindungen da gewesen, und erst durch das Brennen zu Wasser umge"andert worden sind.
 
-12\. Kohlenstoff ist bisher nur in den bei Alais 1806 gefallenen Steinen gefunden worden, und die geringe Menge, 2 1/2 Hundertteile, ist schon hinreichend gewesen, um diesen Steinen einen ganz von andern Meteor-Steinen verschiedenen Charakter zu geben, indem sie mehr wie ein leicht zerreiblicher schwarzer Mulm, als wie eine Steinart sich zeigen. Ich vermute, dass die schw"arzeren Teile des bei Chantonnay 1812 gefallenen Steines auch etwas Kohlenstoff enthalten m"ogen.
+12. Kohlenstoff ist bisher nur in den bei Alais 1806 gefallenen Steinen gefunden worden, und die geringe Menge, 2 1/2 Hundertteile, ist schon hinreichend gewesen, um diesen Steinen einen ganz von andern Meteor-Steinen verschiedenen Charakter zu geben, indem sie mehr wie ein leicht zerreiblicher schwarzer Mulm, als wie eine Steinart sich zeigen. Ich vermute, dass die schw"arzeren Teile des bei Chantonnay 1812 gefallenen Steines auch etwas Kohlenstoff enthalten m"ogen.
 
-13\. Salzs"aure hat Prof. Johann Andreas Ritter von Scherer in Wien zuerst in den Meteor-Steinen von Stannern entdeckt, und Moser hat es best"atigt. Sie ist mit Bittererde und Alkali gebunden. Gilberts Annalen, B. 29, S. 314. Vermutlich mag sie sich auch in dem 1805 in Sibirien gefallenen Steine befinden, weil dessen Geschmack salzig war.
+13. Salzs"aure hat Prof. Johann Andreas Ritter von Scherer in Wien zuerst in den Meteor-Steinen von Stannern entdeckt, und Moser hat es best"atigt. Sie ist mit Bittererde und Alkali gebunden. Gilberts Annalen, B. 29, S. 314. Vermutlich mag sie sich auch in dem 1805 in Sibirien gefallenen Steine befinden, weil dessen Geschmack salzig war.
 
 H"ochst wahrscheinlich enthalten die Meteor-Steine noch manche anderen Bestandteile, die entweder mit einem und anderem schon bekannten in Verbindung geblieben oder unter den bei der Analyse verloren gegangenen Bestandteilen befindlich gewesen sind, wo der Verlust bisweilen auf mehrere Hundertteile angegeben wird. So scheint bei dem 1785 im Eichst"adtischen gefallenen Steine, bei der Analyse von Klaproth, sich eine Spur von Kobalt gezeigt zu haben, die aber von ihm nicht weiterverfolgt worden ist, welche Substanz indessen von Stromeier auch in dem Gediegeneisen vom Vorgebirge der guten Hoffnung, und von John in der Pallas'schen Eisenmasse ist gefunden worden. So werden auch wohl noch sonst manche metallischen, erdigen und anderen Bestandteile in einem und andern Meteor-Steine k"onnen aufgefunden werden, z. B. Kupfer,* Arsenik, Blei, Boraxs"aure, Kali u. s. w. Es w"urde aber wohl n"otig sein, eine weit gr"o"sere Menge hierzu zu verwenden, als bisher geschehen ist. Ich vermute, dass man alsdann wohl fast alle Stoffe, die auf unserer Erde in Menge vorhanden sind, (und sie wahrscheinlich auch mit anderen Weltk"orpern gemein hat), darin werde finden k"onnen, und auch ziemlich in denselben quantitativen Verh"altnissen. Der Stoff (wenn man nicht blo"s Meteor-Steine und Gediegeneisenmassen, von deren vorherigen Bestandteilen vieles durch Brennen in der Atmosph"are verfl"uchtigt worden ist, sondern auch das, was als Staub, und als schlammiger oder harziger Stoff bei uns anlangt, alles in einander rechnet), ist wohl im Ganzen als Weltenstoff anzusehen, und wenn wir so viele Stoffe, die in sehr geringer Menge darin enthalten sein m"ogen, nicht finden, oder wenigstens noch nicht gefunden haben, so mag es wohl damit ungef"ahr dieselbe Bewandtnis haben, wie in dem sinnreichen Traume von Lichtenberg (in dessen vermischten Schriften B. 5, S. 162), wo er in einer Kugel von 1 Zoll Durchmesser, welche die Erde im Kleinen darstellte, durch chemische Analyse derselben nur die Bestandteile, welche sich bei uns in vorz"uglicher Menge befinden, n"amlich einige Erdarten, nebst Eisen, und ein wenig Salz und Extraktivstoff gefunden haben will, in welchem letzteren das ganze Thier- und Pflanzenreich steckte.
 
-15\. Gr"o"se und Quantit"at der gefallenen Steine.
+15. Gr"o"se und Quantit"at der gefallenen Steine.
 
 Die Quantit"at der gefallenen Steine, so wie auch die Gr"o"se derselben, ist sehr verschieden gewesen. Einige Male ist man nur eines Steines oder etlicher kleinen habhaft geworden, wobei man nicht wissen kann, ob es das Ganze, oder ob es nur ein Teil der Meteor-Masse war; andere Mahle ist die Quantit"at sehr betr"achtlich gewesen, z. B. 1668 bei Verona, 1790 bei Barbotan, 1803 bei L'Aigle, 1807 bei Weston. Manche Steine sind kaum einige Qu"antchen schwer gewesen, andere 200 bis 300 Pfund, z. B. bei Ensisheim und bei Verona, und der bei Aegos-Potamos vor unserer Zeitrechnung gefallene Stein soll von der Gr"o"se eines Fuders gewesen sein. Manche ohne Zweifel auch meteorische Eisenmassen sind noch gr"osser. Dass aber doch das Volumen des Herabgefallenen allemal weit kleiner ist, und sein muss, als das Meteor war, ist schon S. 6. und 12. bemerket worden. Dass die Menge dessen, was niederf"allt, im Ganzen sehr betr"achtlich sein m"usse, dar"uber soll im letzten Paragraphe dieser Abteilung noch Einiges gesagt werden.
 
-16\. Gestalt der Meteor-Steine.
+16. Gestalt der Meteor-Steine.
 
 Hr. Direktor von Schreibers bemerkt mit Recht, und meines Wissens zuerst, in Gilberts Annalen der Physik, B. 31, S. 52, dass, so verschieden und unregelm"a"sig die Umrisse der Steine (und zwar nicht nur der von Stannern, von denen er haupts"achlich redet, sondern auch anderer) dem ersten Anblicke nach erscheinen, doch bei genauerer Betrachtung in der Total-Form einige "Ahnlichkeit und "Ubereinstimmung zu finden ist. Eine gewisse Grundform, die sich allem Ansehen nach vorz"uglich auf ein ungleichseitiges, drei- und vierseitiges Prisma, und auf eine mehr oder weniger vollkommene verschobene Pyramide beschr"anket, scheint zum Grunde zu liegen, so dass sie sich selbst bei den scheinbar am unregelm"a"sigsten gestalteten Meteor-Steinen einiger Massen nachweisen l"asst. Diese Bemerkung finde ich an den vielen von mir in Wien, in Paris und anderswo gesehenen Meteor-Steinen vollkommen best"atigt, und kann es auch selbst an Steinen und St"ucken davon, die ich besitze, nachweisen, vorz"uglich ein verschobenes vierseitiges Prisma an einem Stein von L'Aigle. So werden auch in Chroniken und andern "alteren und neuern Nachrichten die Meteor-Steine gew"ohnlich als unregelm"a"sig dreieckig oder viereckig, oder pyramidalisch beschrieben, und auf "alteren griechischen M"unzen, wo ein Meteor-Stein auf einem Gestelle, mit einem Sterne dar"uber, zur Bezeichnung des vorherigen und des nachherigen Zustandes, dargestellt ist, zeigt er sich in einer pyramidalischen Gestalt. Diese ziemlich allgemeine bemerkbare Grundform, und die Beschaffenheit der Oberfl"ache, an welcher nur wenig ebene, aber mehr konkave und konvexe Fl"achen mit mancherlei Unebenheiten vorkommen, und wo gew"ohnlich im Ganzen nach der einen Seite zu mehr Konkavit"at, von der andern mehr Konvexit"at sich zeigt, und woraus man ganz offenbar sieht, dass die Masse in gro"se und kleine St"ucke getrennt ist, scheinen Beziehung auf die vorherige Gestalt des Meteors, und auf die "au"seren und inneren Fl"achen desselben zu haben, welches, wie aus allen Umst"anden sich ergibt, eine durch Hitze erweichte, und durch die im Innern entwickelten elastischen Fl"ussigkeiten blasenartig ausgedehnte, und endlich durch deren Gewalt zersprengte Masse war. An den abgerundeten Ecken dieser Steine treffen gew"ohnlich drei, seltener vier Seiten zusammen. An manchen Meteor-Steinen, besonders an denen, die viele k"ornige, kugelige oder eckige K"orper enthalten, zeigen sich viele gr"o"sere und kleinere Vertiefungen und Hervorragungen auf der Oberfl"ache; am meisten habe ich diese an den Steinen von Parma und von Lissa (1808), und am wenigsten an den von mir gesehenen St"ucken des bei Langres 1815 gefallenen Steines bemerkt.
 
-17\. Rinde der Meteor-Steine.
+17. Rinde der Meteor-Steine.
 
 Auswendig sind die Meteor-Steine, nur, so viel mir bekannt ist, den von Chantonnay (1812) einiger Massen ausgenommen, mit einer schwarzen oder schw"arzlichen Rinde umgeben, welche aus denselben Substanzen, wie das Innere, in einem einer Verschlackung etwas "ahnlichen Zustande, besteht. Diese Rinde, deren Dicke nicht immer dieselbe ist, aber nur selten 1/4 Linie "ubersteigt, und also die Gestalt der Steine nicht "andert, und deren Unebenheiten nicht ebnet, ist in verschiedenen Meteor-Steinen, bisweilen von demselben Falle, oder auch bisweilen an verschiedenen Stellen desselben Steines, ziemlich verschieden. An den meisten Steinen ist sie schwarz und wenig gl"anzend, wie z. B. an denen von L'Aigle, Barbotan, Tabor, Lissa, u. s. w. An einigen ist sie mehr schwarzbraun und ohne Glanz, wie z. B. an den Steinen von Maurkirchen und von Sales; oder schwarzbraun und gl"anzend, fast wie lackiert, an dem Steine von Langres; an einigen ist sie schw"arzer und mehr matt metallisch gl"anzend, fast wie von geschmolzenem und wenig oxydiertem Eisen, wo sie auch gew"ohnlich mehr auf den Magnet wirkt, wie besonders bei den Steinen von Toulouse und von Orléans; an einigen mehr pechartig gl"anzend, wie vorz"uglich an den Steinen von Stannern; und n"achst diesen an dem Steine von Eggenfelde; an einigen sehr rau, wie an dem von Erxleben (wo sie so unzusammenh"angend ist, dass das Innere "uberall durchschimmert), wie auch an den Steinen von Weston, von Benares, von Ensisheim (wo ich an dem in Museum des Pflanzengartens zu Paris aufbewahrten St"ucke etwas von solcher Rinde fand); an einigen mehr zusammenh"angend, und an andern mehr rissig, welches letztere sich besonders an den Steinen von Siena zeigt, u. s. w., so wie auch diese Verschiedenheiten in der vierten Abteilung weiter angegeben werden. An manchen Steinen, und an manchen Stellen ist die Rinde so hart, dass sie mit dem Stahle Feuer schl"agt, an andern ist sie es weniger. An den ganz schwarzen und lockern Steinen von Alais zeigt sich auch eine Art von Rinde an der etwas mehr, als das Innere, zusammenh"angenden und gl"anzenden Oberfl"ache.
 
@@ -1117,7 +844,7 @@ An manchen Meteor-Steinen scheinen einige Stellen nur ein Mahl, andere aber mehr
 
 Wollte man durch Kunst die Meteor-Steinrinde auf eine der Natur "ahnliche Art nachahmen, so w"urde das wohl auf keine andere Art geschehen k"onnen, als, wenn man ein rindenloses St"uck Meteor-Stein erhitzt (aber nur nicht bis zum Braunwerden des Innern), und es in geschmolzenen Schwefel taucht, der mit rostiger Eisenfeile oder fein gesiebtem Hammerschlag, mit etwas Ru"s oder Kohlenstaub, und mit staubartigen erdigen Teilen, wozu gepulverter Meteor-Stein am tauglichsten sein w"urde, gemengt ist, und es hernach noch einer Flamme aussetzt, damit der "uberfl"ussige Schwefel wegbrenne, und sich noch etwas Ru"s ansetze. Ich habe es nicht versucht, zweifle aber nicht, dass man bei einem anzustellenden Versuch es so finden werde.
 
-18\. Beschaffenheit der Steinart.
+18. Beschaffenheit der Steinart.
 
 Die Steinart der Meteor-Steine ist ein so mannigfaches Gemenge von verschiedenartigen Teilen, dass es wohl unm"oglich sein w"urde, eine allgemeine Beschreibung davon zu geben. Von allen vulkanischen und andern Steinarten, die wir auf der Erde finden, sind die Meteor-Steine ganz verschieden, aber unter sich haben sie bei aller Verschiedenheit doch viel "Ahnliches, und machen, wie schon bemerket worden, gewisser Massen eine Sippschaft aus. Gew"ohnlich sind die verschiedenartigen Teile durch ein hell- oder dunkelgraues erdiges Zement miteinander verbunden. In diesem finden sich gew"ohnlich Gediegeneisen in Punkten, oder in kleinen Zacken, mitunter auch angeflogen; Schwefeleisen in Punkten oder in gr"o"seren runden, l"anglichen oder eckigen St"ucken; braune Flecke von Eisenoxyd; kleinere oder gr"o"sere runde, ovale oder eckige K"orner von einer etwas h"arteren und dunkleren Steinart (die an meinem St"ucke des Eggenfelder Steines Kristallisationsfl"achen zeigt, und im Bruche des von Siena ein regelm"a"siges l"angliches Viereck bildet); kleine Massen von einer wei"sen erdigen Substanz, die aus Tonerde und Kalkerde zu bestehen scheinen; kleine Teilchen, die mit Feldspat, manche auch mit Olivin einige "Ahnlichkeit haben, u. s. w. Mitunter finden sich auch Teile von schwarzer Rinde-Substanz, als Adern, Lagen oder Flecke.
 
@@ -1145,19 +872,19 @@ Von allen andern unterscheiden sich am meisten der Stein von Erxleben (1812) dur
 
 Die nickellosen Meteor-Steine unterscheiden sich von den andern dadurch, dass man in ihnen kein Gediegeneisen bemerkt. Die von Stannern (1808) und von Agen (1814) sind einander im Innern sehr "ahnlich, und durch ein feineres Korn und mehr aschenartiges Ansehen kenntlich; bei letzteren sind hell- und dunkelgraue Teile, mitunter auch wohl schwarze Rinde-Substanz mehr durcheinander geknetet, als bei ersteren. Die ebenfalls nickellosen Steine von Langres (1815) haben mit diesen keine "Ahnlichkeit, und zeichnen sich durch ihre sehr hellgraue, in das gr"unlich-gelbe fallende Farbe vor allen andern aus, und sind im Ansehen ein glimmerartiger Sandstein sehr "ahnlich. Indessen glaube ich einige wenige Gemengteil darin bemerkt zu haben, die den Steinen von Stannern und von Agen "ahnlich sind, so dass diese Steinarten, ungeachtet ihres so verschiedenen Ansehens, doch einander nicht so ganz fremd zu sein scheinen. Ebenso finde ich einige gr"ungelbliche Teilchen, die ebenso wie die Steinart des Meteor-Steines von Langres beschaffen sind, in die Steine von Eggenfelde (1803) wieder.
 
-19\. Meteorische Gediegeneisenmassen.
+19. Meteorische Gediegeneisenmassen.
 
 Niederf"alle von Gediegeneisenmassen haben sich weit seltener ereignet, als Niederf"alle von Meteor-Steinen, und der letzte bisher bekannt gewordene Fall von Gediegeneisen ist der am 26. Mai 1751, von dem an seinem Orte wird weitergeredet werden. Au"serdem sind aber noch verschiedene Gediegeneisenmassen gefunden worden, denen man, wegen der "Ahnlichkeit des Eisens mit denen, wo das Niederfallen historisch erwiesen ist, und wegen der gro"sen Verschiedenheit von gew"ohnlichem Eisen, so wie auch wegen des isolierten Vorkommens an Orten, wo keine Eisenh"utten oder Eisengruben waren u. s. w., mit allem Rechte denselben Ursprung zuschreiben kann.
 
 Das Gediegeneisen der ganz oder gr"o"sten Teils daraus bestehenden meteorischen Massen ist, so viel uns bekannt ist, ganz ebenso beschaffen, wie das in den Meteor-Steinen in geringerer Menge enthaltene. Es enth"alt einige Hundertteile Nickel (nach Stromeier 10 bis 11, wenn auch nicht immer so viel ist abgeschieden worden), und ist, die H"arte mag an manchen Stellen etwas gr"osser oder geringer sein, doch allemal sehr geschmeidig, und l"asst sich warm und kalt unter dem Hammer strecken, so dass es also vom gew"ohnlichen Gusseisen sehr verschieden ist. Die Arten, wie dieses Eisen bisher vorgekommen ist, sind:
 
-1\. zellig oder "astig, mit Ausf"ullung der Zwischenr"aume durch Olivin, welcher eben die Bestandteile enth"alt, wie die Steinart der Meteor-Steine, und eine nicht durch Kunst nachzuahmende Verglasung derselben zu sein scheint;
+1. zellig oder "astig, mit Ausf"ullung der Zwischenr"aume durch Olivin, welcher eben die Bestandteile enth"alt, wie die Steinart der Meteor-Steine, und eine nicht durch Kunst nachzuahmende Verglasung derselben zu sein scheint;
 
-2\. derb und aus vierseitigen Tafeln bestehend, welche mehr oder weniger durch Schmelzung miteinander verbunden zu sein scheinen.
+2. derb und aus vierseitigen Tafeln bestehend, welche mehr oder weniger durch Schmelzung miteinander verbunden zu sein scheinen.
 
 "Uber alles dieses soll in der f"unften Abteilung mehreres gesagt werden.
 
-20\. Niederf"alle von staubartigen oder weichen Substanzen in trockner oder feuchter Gestalt.
+20. Niederf"alle von staubartigen oder weichen Substanzen in trockner oder feuchter Gestalt.
 
 Mehrere beobachtete Niederfalle von rotem, schwarzem oder vielleicht auch anderem Staube (so genannte Staub-, Blut- oder Schlammregen), so wie auch manche Niederf"alle einer bitumin"osen, gallertartigen oder geronnenem Blute "ahnlichen Substanz, sind allem Ansehen nach von den nach Erscheinung einer Feuerkugel erfolgten Stein- und Eisenniederf"allen nicht wesentlich verschieden. In Gilberts Annalen der Physik, B. 51, S. 249 zc., habe ich dieses (mit Absonderung dessen, was nicht hierhergeh"ort, und ein blo"s irdische oder atmosph"arisches Ereignis war) zuerst ausgesprochen, und an vielen beobachteten Naturereignissen dieser Art gezeigt, und hier sollen in der sechsten Abteilung diese und andere Nachrichten als Belege zu dem hier gesagten mitgeteilt werden.
 
@@ -1171,7 +898,7 @@ Man hat sonst auf solche Staub- oder Schlammniederf"alle zu wenig geachtet, verm
 
 Merkw"urdig ist es auch, dass sich im Meteor-Staube immer kleine harte, eckige, dem Augit etwas "ahnliche K"orner befunden haben. Diese scheinen der Anfang der Steinbildung aus chaotischen Stoffen zu sein.
 
-21\. "Uber noch manche anderen Dinge, die herabgefallen sein sollen.
+21. "Uber noch manche anderen Dinge, die herabgefallen sein sollen.
 
 Was es mit dem Niederf"allen von Haaren (1582), blauer Seide (1665), schwarze Papiere (1686), wahrscheinlich faserigen und membran"osen Stoffen, die man diesen Dingen "ahnlich will, gefunden haben, f"ur eine Bewandtnis haben m"oge, mag ich nicht entscheiden. Da die Nachrichten eben nicht das Gepr"age von L"ugenberichten haben, musste ich sie doch auch in der sechsten Abteilung erw"ahnen, weil, wenn etwas Wahres zum Grunde liegt, doch wohl zu erwarten ist, dass einmal in der Folge sich etwas "ahnliches ereignen werde, wo alsdann eine vorl"aufig erregte Aufmerksamkeit zu besserer Untersuchung der Sache vieles beitragen kann.
 
@@ -1181,11 +908,11 @@ Au"serdem wird noch von mehreren Substanzen, die niedergefallen sein sollen, man
 
 Die harten, dunkelgrauen, kalkartigen Schlacken, welche man, nach den \emph{Nov. Act. Nat. Curios.} Vol. 3, obs. 51, p. 221, im August 1768 in Liefland, in der Asche eines durch den Blitz entz"undeten Heuhaufens, gefunden hat, lassen nicht, wie ich in meiner ersten Schrift, S. 39, vermutete, auf niedergefallene Massen schlie"sen, sondern waren h"ochst wahrscheinlich aus der Kieselerde und dem Kali der Asche zusammengeschmolzen. Ich besitze selbst eine solche harte, graue, mehr kieselartige als kalkartige Schlacke aus dem Brande eines gro"sen Heumagazins zu Vegesack bei Bremen, welche mit Meteor-Steinen gar keine "Ahnlichkeit hat.
 
-22\. Die Feuerkugeln und die Niederf"alle meteorischer Massen sind von allem, was auf unserer Erde vorgeht, unabh"angig.
+22. Die Feuerkugeln und die Niederf"alle meteorischer Massen sind von allem, was auf unserer Erde vorgeht, unabh"angig.
 
 Verschiedene Schriftsteller haben, um einen atmosph"arischen oder terrestrischen Ursprung der niedergefallenen Massen glaublich zu machen, diesen Naturereignissen mancherlei Beziehungen auf Jahres- und Tageszeiten, auf die Himmelsgegenden, auf die geographische Lage, auf das Wetter, und auf bestimmte Perioden angedichtet, und eine Menge von Dingen in die Welt hinein behauptet, von welchen auch nicht das mindeste der Wahrheit gem"a"s ist. Da es f"ur wahre Naturforschung ebenso sch"adlich ist, wenn man zwischen Dingen eine Beziehung finden will, wo keine ist, als wenn man wirklich vorhandene Beziehungen verkennen will, so ordne ich hier, um zu zeigen, was hieran wahr oder falsch ist, in den n"achsten Paragrafen die mir bekannt gewordenen Begebenheiten dieser Art nach den Monaten, Tageszeiten, Himmelsgegenden, u. s. w. Dieses ist schon von mir in Gilberts Annalen der Physik geschehen hier sind aber die seitdem bekannt gewordenen Ereignisse eingetragen. Die dritte und vierte Abteilung, und die darin angef"uhrten Schriftsteller, dienen als Belege zu dem, was hier gesagt wird.
 
-23\. Unabh"angigkeit von den Jahreszeiten.
+23. Unabh"angigkeit von den Jahreszeiten.
 
 In den \emph{Annales de Chimie}, Vol. 85, p. 267, und in der \emph{Bibliothèque britannique}, Vol. 59, p. 182, und auch noch in einigen deutschen und andern Zeitschriften, ist behauptet worden, dass von 65 bis 70 (damals bekannt gewordenen) Niederf"allen meteorischer Massen, zwei Drittheile sich sollen im Junius, Julius und August ereignet haben, und dass in einem Sommermonat mehr sollen gefallen sein, als in allen Wintermonaten. Die Unrichtigkeit dieser Behauptung, und die g"anzliche Unabh"angigkeit der Meteor-Steinf"alle und der Feuerkugeln von den Jahreszeiten wird sich sogleich zeigen, wenn ich diese Ereignisse nach der Folge der Monate ordne.
 
@@ -1219,7 +946,7 @@ Was nun andere Feuerkugeln betrifft, deren Massen man nicht habhaft geworden ist
 
 Wenn man nun die Feuer-Meteore, deren Massen man habhaft geworden ist, mit den "ubrigen zusammenrechnet, so sind beobachtet worden: im Januar 31, im Februar 27, im M"arz 34, im April 28, im Mai 29, im Junius 17, im Julius 30 bis 32, im August ungef"ahr 30, im September 28, im Oktober 33, im November 34, im Dezember 30. Auch bei dieser Zusammenstellung zeigt sich nicht die mindeste Best"atigung der vorher erw"ahnten Behauptungen; die angebliche Beziehung auf Jahreszeiten ist also nichts aus Naturbeobachtungen Hergenommenes, sondern sie ist vielmehr als etwas zum Behuf einer ganz unnat"urlichen Erkl"arungsart Erdichtetes anzusehen.
 
-24\. Unabh"angigkeit von den Tageszeiten.
+24. Unabh"angigkeit von den Tageszeiten.
 
 In den vorher angef"uhrten Aufs"atzen hat man auch eine angebliche Beziehung der Meteor-Steinf"alle auf Tageszeiten nachweisen wollen, und behauptet, es h"atten nur 7 zwischen Mitternacht und Mittag, und noch dazu nur zwischen 8 und 11 Uhr vormittags sich ereignet, und nur eine zwischen 11 Uhr abends und 6 Uhr fr"uh. Dieses ist aber auch ungegr"undet, und zeigt nichts weiter, als dass diejenigen, welche so etwas sagen, teils die Beobachtungen nicht geh"orig kennen, teils auch das, was nach den Gesetzen der Wahrscheinlichkeit Statt finden kann und muss, nicht geh"orig in Anschlag bringen. Es k"onnen n"amlich des Nachts, wo au"ser Schildwachen, Nachtw"achtern und Postillons, die alle weder Interesse noch Zeit haben, der Sache weiter nachzuforschen, selten jemand im Freien, und noch seltener jemand nahe bei der Stelle des Falles ist, bei weitem nicht so viel Meteor-Steinf"alle beobachtet werden, als am Tage, und besonders des Nachmittags, wo besonders viele Menschen im Freien sind. Indessen sind f"ur diese ung"unstigen Umst"ande auch des Nachts und am fr"uhen Morgen genug dergleichen Ereignisse beobachtet worden. Ich gebe hier ein nach den Tageszeiten geordnetes Verzeichnis, von 6 zu 6 Stunden gerechnet.
 
@@ -1237,7 +964,7 @@ Wenn n"amlich zu jeder Tageszeit ungef"ahr gleich viele dergleichen Massen aus d
 
 Man sieht also aus allen diesem ganz deutlich, dass eben so wenig eine Beziehung auf Tageszeiten, wie auf Jahreszeiten Statt findet.
 
-25\. Unabh"angigkeit von den Weltgegenden.
+25. Unabh"angigkeit von den Weltgegenden.
 
 Es ist behauptet worden, die Meteore, welche niedergefallene Massen gegeben haben, und wohl auch andere, bewegten sich gew"ohnlich im magnetischen Meridian, und h"atten auf diesen eine Beziehung. Aber auch dieses ist nichts weiter, als ein aus ein Paar F"allen, wo ein Meteor ungef"ahr in der Richtung gegangen ist, hergenommenes Vorurteil, und best"atigt sich in der Erfahrung ganz und gar nicht. Ich ordne hier die Richtungen der Meteore, deren Massen niedergefallen sind, nach den Weltgegenden, und sodann auch die Richtungen anderer Feuerkugeln, mit Weglassung derer, bei denen sich gar zu viele Widerspr"uche in den Angaben finden. Man wird daraus ersehen, dass die Richtung dieser Meteore von den Weltgegenden ganz unabh"angig ist.
 
@@ -1245,17 +972,17 @@ Niedergefallene Meteor-Massen sind gekommen, von Norden, 1722 Freisingen, 1807 W
 
 Hieraus sieht man also ganz offenbar, dass mehrere herabgefallene Massen von O. oder von W. gekommen sind, als in einer anderen Richtung, und dass also keine Beziehung auf den magnetischen Meridian Statt findet. Eben so wenig findet dieses bei andern Feuerkugeln Statt, und wenn nach einer Richtung mehr Feuerkugeln, als nach einer andern gegangen sind, so ist es nur als etwas Zuf"alliges anzusehen, das sich in der Folge bei weit mehreren gesammelten Beobachtungen ausgleichen w"urde. Von denen, die sich in meinem Verzeichnisse in der dritten Abteilung finden, sind gekommen, von N. ungef"ahr 11; von N. N. W. 2 bis 3; von N. W. 7 bis 9; von W. N. W. 2; von W. 10; von W. S. W. 2; von S. W. 10; von S. S. W. 4; von S. g. W. 1; von S. 8; von S. S. O. 2; von S. O. 8; von O. 8; von O. N. O. 2; von N. O. 7; von N. N. O. 4; von N. g. O. 1.
 
-26\. Unabh"angigkeit von der geographischen Lage.
+26. Unabh"angigkeit von der geographischen Lage.
 
 Unter die ganz aus der Luft gegriffenen Behauptungen geh"ort auch die, dass die Menge der Meteor-Steinf"alle mit der Ann"aherung an den "Aquator zunehme. Die meisten sind bis jetzt in Deutschland, Frankreich, England und Italien beobachtet worden, aus dem Grunde, weil es in diesen L"andern mehrere gebildete Menschen gibt, die Sinn f"ur Naturbeobachtungen haben, und weil mehrere Mittheilung durch Zeitschriften Statt findet, als in vielen anderen L"andern. Es folgt aber hieraus gar nicht, dass anderswo nicht auch auf einer ebenso gro"sen Ausdehnung des Landes, oder des Meeres, ebenso viele Meteor-Steinf"alle sich k"onnten ereignet haben, nur werden sie uns meistens nicht bekannt. Ich ordne hier die beobachteten Niederf"alle meteorischer Massen nach den L"andern, und zwar von 1600 an, weil in fr"uheren Zeiten nur aus wenigen Gegenden Beobachtungen dieser Art geliefert worden sind, die also nicht dazu dienen k"onnen, hierin ein Land mit dem andern zu vergleichen. So muss man auch, f"ur die Beobachtungen aus L"andern, wo man erst sp"at angefangen hat, Nachrichten dieser Art geh"orig mitzuteilen, z. B. die aus Russland und aus Nord-Amerika, alles andere auch erst ungef"ahr von dieser neueren Zeit an in Anschlag bringen. Wir haben beobachtete Meteor-Steinf"alle seit dem Jahre 1600: In Deutschland 17, n"amlich: 1618 B"ohmen, 1618 Steiermark, 1636 Schlesien, 1647 Zwickau, 1647 Stolzenau, 1671 Schwaben, 1677 Ermendorf, 1722 Freisingen, 1723 B"ohmen, 1753 B"ohmen, 1768 Maurkirchen, 1775 Rodach, 1785 Eichst"adt, 1803 Eggenfelde, 1808 Stannern, 1808 Lissa, 1812 Erxleben. In Frankreich 15, n"amlich: 1634 Charollois, 1637 Vaisien (nun ein ganzes Jahrhundert ohne eine Beobachtung, ohne Zweifel, weil man bef"urchtete, sich l"acherlich zu machen, wenn man sagte, es sei etwas vom Himmel gefallen, weshalb auch die n"achstfolgende Begebenheit f"ur etwas anderes gehalten worden ist), 1738 Avignon, 1750 Coutances, 1755 Bresse, 1768 Maine, 1798 Sales, 1803 L'Aigle, 1803 Apt, 1806 Alais, 1810 Orléans, 1812 Chantonnay, 1812 Toulouse, 1814 Agen, 1815 Langres. In England, und was dazu geh"ort, 16 bis 17: 1622 Devonshire, 1628 Berkshire, 1642 Suffolk, zwischen 1675 und 1677 bei Copinsha, 1680 London (nun beinahe ein Jahrhundert ohne eine Beobachtung, wahrscheinlich aus eben dem Grunde, wie in Frankreich), 1779 Irland, 1780 Beefton, 1791 Cornwallis, 1795 Yorkshire, 1802 Schottland, 1803 East Norton, 1804 Glasgow, 1806 Hantshire, 1810 Tipperary, ? 1813 Malpas, 1813 Limerick, 1816 Sommersetshire. In Italien 11 bis 13: ? 1635 Calce, in einem nicht angegebenen Jahre zu Mailand, 1668 Verona, 1697 Siena, 1755 Kalabrien, 1766 Modena, ? 1766 Novellara, 1776 oder 1777 Fabbriano, 1782 Turin, 1791 Toskana, 1794 desgleichen, 1808 Parma, 1813 Kalabrien. In Russland, erst von neuerer Zeit an zu rechnen, 8; 1787 Charkow, 1796 Belaja Zerkwa, 1805 Sibirien, 1807 Timochin, 1811 Poltawa, 1814 Bachmut, 1814 Friedrichshamm, 1818 Slobodka. Aus manchen europ"aischen L"andern, wo wahrscheinlich mehrere Meteor-Steinf"alle sich m"ogen ereignet haben, sind sehr wenige bekannt worden, und auch diese gr"o"sten Teils durch Fremde. In Spanien, 2: 1773 Aragon, 1811 Berlanguillas. In Portugal, 1: 1796. In Polen, 2: einer in Warschau, und einer 1775 oder 1776 in Volhynien. In D"anemark, 1: 1654 in F"uhnen, (1817 im M"arz sind wahrscheinlich nicht weit davon Steine in die Ostsee gefallen). Aus Schweden ist gar keiner bekannt, vermutlich nicht deswegen, weil nichts m"ochte gefallen sein, sondern weil man, so wie ein ganzes Jahrhundert hindurch in Frankreich und in England, zu wenig darauf geachtet, und aus Besorgnis, sich l"acherlich zu machen, nicht gewagt hat, zu sagen, es sei etwas vom Himmel gefallen, und weil es uns "uberhaupt zu sehr an wissenschaftlicher Mittheilung aus dortigen Gegenden fehlt; indessen haben wir von dorther einige Nachrichten von Feuerkugeln. In Ungarn, 1: 1751 bei Agram, wovon wir wohl auch nichts wissen w"urden, wenn nicht das dortige bisch"ofliche Konsistorium eine Urkunde dar"uber abgefasst h"atte, und diese nebst der vorz"uglichsten gefallenen Eisenmasse in dem k. k. Naturalien-Kabinette zu Wien w"are aufbewahrt worden. In Holland, 2: beide zu Utrecht, und wie es scheint, auch einer zu Mydrecht. In der europ"aischen T"urkei, 3: 1706 Larissa, 1740 Rasgrad, 1808 Konstantinopel. Au"ser Europa, in und bei Ostindien, 5: 1621 Lahore, 1795 Ceylon, 1798 Benares, 1810 Shabad, 1814 Doab. Auf dem ostindischen Meere, 2; bei den afrikanischen Inseln, 1: 1801; in und bei Nord-Amerika, 3: erst in neuerer Zeit, 1807, Weston, 1809 auf ein Schiff, 1810 Caswell County. Wo ist also hier nur die mindeste Best"atigung der vorher erw"ahnten Behauptung, dass die Menge der Meteor-Steinf"alle mit der Ann"aherung an den "Aquator zunehme?
 
 Mit anderen Feuerkugeln ist es eben so, und die meisten Beobachtungen haben wir aus solchen L"andern, wo man am aufmerksamsten darauf gewesen ist, und sich bestrebt, alle auffallenden Naturerscheinungen sogleich in wissenschaftlichen und anderen Zeitschriften bekannt zu machen. Am meisten geschieht dieses in England, von wo ich aus den \emph{Philos. transactions} (die viele treffliche Beobachtungen und Berechnungen enthalten), aus dem \emph{Gentlemans magazine}, dem \emph{Monthly magazine} (das \emph{European magazine} w"urde ich auch in dieser Absicht vom Anfange bis auf die jetzige Zeit durchgesehen haben, wenn ich es h"atte k"onnen habhaft werden), den physikalischen Zeitschriften von Tilloch, Nicholson, Thomson u. s. w., vom Anfange derselben bis auf die neuesten Zeiten, wenigstens von 70, seit dem Jahre 1700 beobachteten, Feuerkugeln Nachrichten gesammelt, und in der dritten Abteilung mitgeteilt habe. Besserer Vergleichung wegen erw"ahne ich die aus anderen L"andern auch nur vom Anfange des vorigen Jahrhunderts. In Deutschland und der Schweiz, ungef"ahr 50; in Frankreich, 30; in Italien, 10; in D"anemark, 4; in Schweden, 7; in Nord-Amerika, 7; in Portugal, 3; in Mexico, 3; u. s. w.
 
-27\. Unabh"angigkeit vom Wetter.
+27. Unabh"angigkeit vom Wetter.
 
 Man hat auch mit Unrecht behauptet, es habe sich kein Meteor-Steinfall bei wolkigem Himmel oder bei Regen ereignet. Freilich sind die meisten Meteor-Steinf"alle, und auch die meisten andern Feuer-Meteore bei heiterem Himmel beobachtet worden, und es kann auch nicht anders sein, weil man bei bew"olktem Himmel das Meteor nicht sieht, und weil auch, wenn es regnet, wenige Menschen im Freien sind, und man auch den Fall der Steine, die Risse in der Erde, und das Aufsteigen des Dampfes u. s. w. nicht so weit sehen kann, als bei heiterem Wetter. Indessen ist doch auch bei einigen beobachteten Meteor-Steinf"allen der Himmel mit Wolken bedeckt gewesen, z. B. den 13. Dezember 1795, den 13. M"arz 1807, im August 1810 bei Tipperary (weil man das angebliche W"olkchen, aus dem der Stein kam, und welches aus dem Rauche des Meteors bestand, nach einer anderen Richtung ziehen sah, als die "ubrigen eigentlichen Wolken), und den 10. April 1812. Einige Mahl hat es auch geregnet, z. B. den 30. M"arz 1654, den 17. Junius 1809, und den 14. M"arz 1813. Bisweilen ist eine solche Begebenheit aus Unkunde f"ur ein Gewitter, oder wohl gar, wie 1738 bei Avignon, und 1795 in Ceylon, f"ur die Wirkung eines vulkanischen Ausbruches gehalten worden. Viele "altere Chronikenschreiber haben die Meteor-Steinf"alle mit Hagel verwechselt, und scheinen keinen anderen Begriff davon gehabt zu haben, als dass sie eine verst"arkte Art des Hagels sein m"ussten.
 
-28\. Unabh"angigkeit von Perioden.
+28. Unabh"angigkeit von Perioden.
 
 Ritter und Andere haben behauptet, die Meteor-Steinf"alle, und die Erscheinungen der Feuerkugeln hielten bestimmte Perioden, aber auch dieses best"atigt sich nicht in der Erfahrung. Nur alsdann w"urde man "uberhaupt befugt sein, auf ein Dasein von Perioden zu schlie"sen, wenn man Beobachtungen der auf der ganzen Oberfl"ache der Erde, oder wenigstens auf die gr"o"sten Teile derselben, mehrere Jahre hindurch sich ereignenden Begebenheiten dieser Art h"atte, und es sich daraus erg"abe. Die vorhandenen Nachrichten betreffen aber nur den sehr kleinen Teil der Erdoberfl"ache, wo die Menschen hinreichende Bildung haben, um einander ihre Naturbeobachtungen mitzuteilen; man kann also daraus gar nicht auf das Ganze schlie"sen. "Uberdies, um mit einiger Wahrscheinlichkeit nur einiger Massen die j"ahrliche Zahl der Meteor-Steinf"alle beurteilen zu k"onnen, von denen wir bei dem gegenw"artigen Zustande der wissenschaftlichen Mittheilung Nachricht erwarten d"urfen, l"asst sich alles das, was vor dem Jahre 1803 beobachtet ist, gar nicht in Anschlag bringen, weil erst von diesem Jahre an das schon 9 Jahre fr"uher von mir f"ur jeden Unbefangenen deutlich genug erwiesene Niederfallen meteorischer Massen als historisch und physikalisch nicht weiter abzuleugnende Tatsache allgemein ist anerkannt worden, und Mancher vorher w"urde geglaubt haben, sich durch Bekanntmachung solcher Ereignisse l"acherlich zu machen, wie aus der ersten Abtheilung zu ersehen ist. Ich gebe hier die in jedem Jahre beobachtete Zahl der Meteor-Steinf"alle, und anderer Feuerkugeln, soweit sie mir bekannt geworden sind, von dem Jahre 1803 an:
 
@@ -1265,7 +992,7 @@ Andere Feuerkugeln:|6|5|5|5|3|7|5|1|2|5|4|8|3|6|8|13|
 
 F"ur eines der Jahre 1804 bis 1806 kann noch ein Meteor-Steinfall in Dordrecht gerechnet werden. Das Maximum der beobachteten Meteor-Steinf"alle war im Jahre 1803, vermutlich weil man wegen der Neuheit der Sache, die kurz vorher allgemeiner zur Sprache kam, am aufmerksamsten darauf war, und im Jahre 1814. N"achstdem sind die meisten, n"amlich 3, in den Jahren 1808, 1810, 1812 beobachtet worden, in anderen Jahren aber 1 oder 2, und im Jahre 1817 gar keiner, au"ser wenn man das in Anschlag bringen will, dass im M"arz wahrscheinlich in die Ostsee m"ogen Meteor-Steine gefallen sein. Vielleicht erhalten wir aus diesen Jahren noch eine und andere Nachricht aus entfernteren Gegenden. Die Zahl der zu beobachtenden Feuerkugeln scheint etwas ganz unbestimmtes zu sein, und wenn hier im Jahre 1817 8 Feuerkugeln, und im Jahre 1818 13 bemerkt sind, so ist nicht etwa daraus zu schlissen, dass deren Anzahl im Ganzen gr"osser gewesen sei, sondern der Grund liegt darin, weil ich alle Nachrichten von solchen Ereignissen auf meiner jetzigen Reise in Zeitschriften aller Art eifriger, als vorher, aufgesucht habe.
 
-29\. "Uber Schaden, der durch solche Meteore ist angerichtet worden.
+29. "Uber Schaden, der durch solche Meteore ist angerichtet worden.
 
 Da man mich "ofters um dieses befragt hat, und wirklich durch solche Ereignisse Menschen sind get"otet worden, und manches in Brand gesteckt, oder sonst verw"ustet worden ist, so stelle ich hier die mir bekannt gewordenen Beispiele zusammen. Bei alle dem hat niemand Ursache, sich vor einer solchen Naturbegebenheit sehr zu f"urchten, da die F"alle sehr selten, und gegen den Schaden, der "ofters durch den Blitz verursacht wird, fast f"ur nichts zu rechnen sind.
 
@@ -1325,7 +1052,7 @@ Ungef"ahr um diese Zeit hat zu Mailand ein kleiner Stein einen Franziskaner get"
 
 1810, in der Mitte des Julius, hat bei Shabad in Ost-Indien eine Feuerkugel, mit der ein gro"ser Stein gefallen war, 5 D"orfer angez"undet, und dadurch die Ernte vernichtet, und hat auch Manns- und Frauenspersonen besch"adigt.
 
-30\. Vergebliche Bem"uhungen des Verfassers, einige "altere Meteor-Steine und Gediegeneisenmassen aufzufinden.
+30. Vergebliche Bem"uhungen des Verfassers, einige "altere Meteor-Steine und Gediegeneisenmassen aufzufinden.
 
 Mit aller Wahrscheinlichkeit konnte ich hoffen, auf meinen Reisen einige "altere Meteor-Steine an den Orten anzutreffen, wo sie zu Folge der vorhandenen Nachrichten sollten, aufbewahrt sein. In der Absicht, teils sie selbst zu untersuchen, teils chemische Untersuchungen derselben zu bef"ordern, und auch zugleich meine Sammlung meteorischer Substanzen zu bereichern, habe ich es an Nachforschungen nicht fehlen lassen; sie waren aber alle fruchtlos. Manche dergleichen Massen sind durch Ungl"ucksf"alle verloren gegangen; die meisten sind wahrscheinlich aus "ubelverstandenem Aufkl"arungseifer weggeworfen worden, weil man die gemeldeten Tatsachen f"ur unm"oglich, und die ganze Sache f"ur abgeschmackt hielt; einige m"ogen auch in neuerer Zeit gestohlen worden sein. Der "alteste noch vorhandene Meteor-Stein, welcher 1492 zu Ensisheim gefallen ist, w"urde gewiss auch nicht mehr vorhanden sein, wenn man ihn nicht, ein Dekret des Kaisers Sigismund [Maximilian I] gem"a"s, in der dortigen Kirche als ein Heiligtum aufbewahrt h"atte.
 
@@ -1367,7 +1094,7 @@ Ich hatte auch einige Vermutung, es m"ochte in Halberstadt eine alte Meteor-Mass
 
 Eine Nachforschung in C"oln gab eben so wenig ein g"unstiges Resultat. Friedrich von Dalberg sagt n"amlich in seiner Schrift: "Uber Meteor-Cultus der Alten, es finde sich in der Domkirche zu C"oln ein Stein, welcher durch das Gew"olbe der Decke geschlagen habe, von welchem er also vermutet hat, dass es ein Meteor-Stein gewesen sein m"ochte. Ich habe, um die Sache zu untersuchen, im Jahre 1807 einen Gang von D"usseldorf nach C"oln gemacht, aber gefunden, dass der Stein nichts anders als ein sehr gro"ser, von dem unvollendeten Turme herabgefallener Baustein war, welcher noch an der Stelle lag, wohin er gefallen war, so wie auch das durch das Gew"olbe geschlagene Loch noch zu sehen war. Sp"aterhin ist der Stein weggeschafft, und das Loch im Gew"olbe zugemacht worden.
 
-31\. "Ubereinkunft der Sternschnuppen mit den Feuerkugeln.
+31. "Ubereinkunft der Sternschnuppen mit den Feuerkugeln.
 
 In meiner Schrift: "Uber den Ursprung der von Pallas entdeckten Eisenmasse zc., habe ich im S. 6. nicht als Behauptung, sondern als Vermutung gesagt, dass die meisten Sternschnuppen wohl in ihrer Art eben dasselbe sein m"ochten, was Feuerkugeln sind. Nun stellten aber Benzenberg und Brandes korrespondierende Beobachtungen "uber Sternschnuppen an, und berechneten bei mehreren derselben die wahre Bahn aus Vergleichung der aus verschiedenen Standpunkten beobachteten scheinbaren Bahnen. Daraus ergab sich, dass diese Meteore nach allen Richtungen, und manche auch aufw"arts gehen (z. B. eine von 5 zu 12 Meilen), so dass, wenn sie vorher immer in derselben Richtung gegangen w"aren, sie durch unsere Erde h"atten hindurchgehen m"ussen. Da nun diese bisweilen aufw"arts gehende Bewegung nach den damaligen Begriffen nicht zu meiner Vermutung zu passen schien, und richtige Beobachtungen, nebst dem, was unmittelbar daraus folgt, allemal mehr gelten m"ussen, als ein blo"s von einigen "Ahnlichkeiten hergenommenes Urteil, so hatte ich sp"aterhin gern meine fr"uhere Vermutung zur"uck genommen, und ge"au"sert, man tue wohl am besten, wenn man geradezu eingestehe, dass man nicht wisse, was Sternschnuppen sind, ungef"ahr, wie Rabbi Samuel in dem von Benzenberg angef"uhrten talmudischen Lexikon von Buxtorf sagt: \emph{Lucidae mihi sunt viae coeli, sicut viae urbis Nahardea, excepta stella jaculante, quae quid sit, nescio.} Nun aber, da die sprungweise gehende Bewegung vieler Feuerkugeln, und das Wiederaufw"artsgehen nach einer Senkung (vermittelst des Abprallens eines sich so schnell bewegenden und so ausgedehnten K"orpers von der widerstehenden Atmosph"are), nach S. 4. als eine sehr oft beobachtete Tatsache anzusehen, und also keinem Zweifel mehr unterworfen ist, so f"allt der Grund von dem Zur"ucknehmen meiner fr"uheren Vermutung nun ganz weg, und ich glaube nun, mit noch mehrerer Zuverl"assigkeit als vorher, annehmen zu k"onnen, dass die Sternschnuppen* von den Feuerkugeln nicht wesentlich verschieden sind. Die aufw"arts gehenden sind n"amlich solche, die erst nach einer vorher gegangenen Senkung durch den Druck der widerstehenden Atmosph"are sich entz"unden oder leuchtend werden, und nach dem Apprallen von derselben in diesem Zustande ihren Weg abw"arts von der Erde fortsetzen, so wie auch an gr"o"seren Feuerkugeln mehrere Male, z. B. den 26. November 1758 und den 17. Julius 1771, beobachtet worden ist, dass sie nach einer Senkung, wo sie fast zu verl"oschen schienen, mit erneuertem Glanze aufw"arts gegangen sind. Vier Beispiele von Sternschnuppen, die in einer hufeisenf"ormig nach unten gekr"ummter Bahn erst niederw"arts, und dann wieder aufw"arts gingen, deren eines von Bode, eines von Benzenberg, eines von mir, und eines vom Direktor von Schreibers beobachtet worden ist, sind schon im 4. S. dieser Abtheilung angef"uhrt worden.
 
@@ -1375,11 +1102,11 @@ In meiner Schrift: "Uber den Ursprung der von Pallas entdeckten Eisenmasse zc., 
 
 Bis jetzt sind, so viel man wei"s, aus verschiedenen Standpunkten gemeinschaftliche Sternschuppen-Beobachtungen angestellt worden:
 
-1\. Von Benzenberg und Brandes. Nachrichten davon finden sich in der Schrift: Versuche, die Entfernungen, die Geschwindigkeit und die Bahnen der Sternschnuppen zu bestimmen, von Benzenberg und Brandes (Hamburg, bei Perthes, 1800); und: "Uber die Bestimmung der geographischen Lage durch Sternschnuppen, von Benzenberg (Hamburg, bei Perthes, 1802).
+1. Von Benzenberg und Brandes. Nachrichten davon finden sich in der Schrift: Versuche, die Entfernungen, die Geschwindigkeit und die Bahnen der Sternschnuppen zu bestimmen, von Benzenberg und Brandes (Hamburg, bei Perthes, 1800); und: "Uber die Bestimmung der geographischen Lage durch Sternschnuppen, von Benzenberg (Hamburg, bei Perthes, 1802).
 
-2\. In England von John Farey und Benjamin Bevan, in 6 englischen Meilen Entfernung (die wohl etwas gr"osser h"atte sein k"onnen), "uber ein Jahr lang, nach Nicholsons \emph{Journal of Natural Philosophy, Vol. 34}, p. 298.
+2. In England von John Farey und Benjamin Bevan, in 6 englischen Meilen Entfernung (die wohl etwas gr"osser h"atte sein k"onnen), "uber ein Jahr lang, nach Nicholsons \emph{Journal of Natural Philosophy, Vol. 34}, p. 298.
 
-3\. Vom Prof. Brandes und Andern in Schlesien, wovon in Gilberts Annalen der Physik, B. 58, S. 290, Nachricht gegeben wird. Es w"are nur zu w"unschen, dass Alle mit demselben Eifer und mit derselben Genauigkeit dabei zu Werke gegangen w"aren, als er selbst, und dass noch von Mehreren dergleichen Beobachtungen angestellt werden m"ochten; denn wenn wir in der Folge hunderte von korrespondierenden Beobachtungen haben sollten, so lie"se sich "uber manches noch weit besser urteilen, als jetzt. Die Sache ist freilich mit mancherlei Schwierigkeiten und Beschwerlichkeiten verbunden, aber desto verdienstlicher ist er f"ur einen Naturforscher, wenn er diese nicht achtet.
+3. Vom Prof. Brandes und Andern in Schlesien, wovon in Gilberts Annalen der Physik, B. 58, S. 290, Nachricht gegeben wird. Es w"are nur zu w"unschen, dass Alle mit demselben Eifer und mit derselben Genauigkeit dabei zu Werke gegangen w"aren, als er selbst, und dass noch von Mehreren dergleichen Beobachtungen angestellt werden m"ochten; denn wenn wir in der Folge hunderte von korrespondierenden Beobachtungen haben sollten, so lie"se sich "uber manches noch weit besser urteilen, als jetzt. Die Sache ist freilich mit mancherlei Schwierigkeiten und Beschwerlichkeiten verbunden, aber desto verdienstlicher ist er f"ur einen Naturforscher, wenn er diese nicht achtet.
 
 Die beobachtete H"ohe der Sternschnuppen war von 1 bis weit "uber 80 Meilen, und bei einigen lie"s sich gar keine Parallaxe bestimmen. Manche teleskopischen Lichtpunkte, die von Bode, Schr"oter, u. a. beobachtet worden sind, gingen, wie schon S. 3. bemerkt worden ist, in einer weit gr"o"seren Entfernung von der Erde. Die Geschwindigkeit ist auf einige Meilen in einer Sekunde, bei einer auf 5 bis 6, gesch"atzt worden, der Durchmesser auf 40 bis 100 Fu"s, und auch wohl mehr. Sie gehen in allen m"oglichen Richtungen. Manche ziehen einen Schweif nach sich, manche nicht. Oft zeigt sich anfangs eine Zunahme des Lichtes, und hernach ein allm"ahliches Verschwinden, manche aber verl"oschen scharf und schnell. Die mit Schweifen scheinen langsamer zu verl"oschen (und ich habe selbst gesehen, dass nach dem Verl"oschen des leuchtenden K"orpers bisweilen noch einige Augenblicke hindurch Teile des zur"uckgelassenen Schweifes etwas leuchtend gewesen sind). Manche sieht man Funken spr"uhen, manche auch nicht.
 
@@ -1393,11 +1120,11 @@ Dass bisweilen von einer Sternschnuppe (oder von einer Lichterscheinung, die von
 
 *) Theophrastus Paracelsus redet auch in \emph{Libr. Meteor. cap. 10} von roten oder gelben Schleimen, wie Froschlaich, der von Sternschnuppen herabgefallen sein soll.
 
-32\. Verzeichnis der Sammlung von Meteor-Substanzen, welche der Verfasser gegenw"artig besitzt.
+32. Verzeichnis der Sammlung von Meteor-Substanzen, welche der Verfasser gegenw"artig besitzt.
 
 Als meine erste Abhandlung "uber diesen Gegenstand im Jahre 1794 erschien, hatte ich, au"ser St"ucken von der Pallas'schen Eisenmasse, noch nichts von der Art gesehen (so wie ich auch noch nie Gelegenheit hatte, eine Feuerkugel selbst zu beobachten). Zuerst sah ich 1798 zu M"unchen den bei Maurkirchen gefallenen Meteor-Stein, und bald darauf in Wien St"ucke von Meteor-Steinen von Tabor und von Eichst"adt, und die Agramer Eisenmasse im k. k. Naturalien-Kabinette. Sp"aterhin habe ich Gelegenheit gehabt, meine Sammlung teils durch die Gef"alligkeit einiger Freunde, teils auch durch Kauf oder Tausch nach und nach zu vermehren, und gebe hier das Verzeichnis davon, so wie sie gegenw"artig (im Fr"uhjahre 1819) ist. In der vierten, f"unften und sechsten Abteilung habe ich die Massen, von denen ich etwas besitze, durch ein vorausgesetztes Sternchen \^ bezeichnet.
 
-1\. Meteor-Steine.
+1. Meteor-Steine.
 
 1492, den 7. November, gefallen bei Ensisheim, ein St"uck, "uber ein Pfund schwer, und noch ein Paar kleinere.
 
@@ -1449,7 +1176,7 @@ Als meine erste Abhandlung "uber diesen Gegenstand im Jahre 1794 erschien, hatte
 
 1815, den 3. Oktober, bei Chassigny, nicht weit von Langres, 1/2 Unze.
 
-2\. Gediegeneisen.
+2. Gediegeneisen.
 
 Von nickelhaltigem Gediegeneisen von "astigem Gef"uge, mit inliegendem Olivin, besitze ich folgendes:
 
@@ -1481,13 +1208,13 @@ Von dem in Steiermark gefundenen durchaus damaszierten Eisen, etwa 2 Unzen.
 
 Von dem bei Florac gefundenen, etwas von dem dichteren und etwas von dem schwammigen Eisen, und auch etwas von der Rinde.
 
-3\. Herabgefallene weiche oder staubartige Substanzen.
+3. Herabgefallene weiche oder staubartige Substanzen.
 
 Etwas von dem harzigen Sto"se, welcher 1796 den 8. M"arz in der Ober-Lausitz mit einer Feuerkugel herabgefallen ist.
 
 R"uckstand von rotem Schnee von der Alpe Anceindaz am Fl"usse der Diablerets.
 
-33\. Wahrscheinlichkeit eines h"aufigen Niederfallens meteorischer Massen auf unseren Weltk"orper.
+33. Wahrscheinlichkeit eines h"aufigen Niederfallens meteorischer Massen auf unseren Weltk"orper.
 
 Die Niederf"alle meteorischer Massen scheinen nach den von Hrn. von Schreibers mir mitgeteilten Bemerkungen sich weit h"aufiger zu ereignen, als man sich gew"ohnlich vorstellt. In Frankreich hat man von 1790 bis 1815, also in einem Zeitraume von 26 Jahren, deren 10 beobachtet, n"amlich: 1. im Julius 1790, bei Barbotan u. s. w.; 2. im M"arz 1796, Sales; 3. April 1803, L'Aigle; 4. Oktober 1803, Apt; 5. M"arz 1806, Alais; 6. November 1810, Charsonville; 7. April 1812, Toulouse; 8. August 1812, Chantonnay; 9. September 1814, Agen; 10. Oktober 1815, Chassigny. Nun ist doch wohl kein vern"unftiger Grund vorhanden, um anzunehmen, dass dieses Land vorzugsweise mit dieser Himmelsgabe beschenkt werde; es kann vielmehr die Ursache in nichts anderem liegen, als dass man dort in neuerer Zeit aufmerksamer auf dergleichen Naturerscheinungen gewesen ist, als in andern L"andern England ausgenommen, wie aus der dritten und vierten Abteilung zu ersehen ist. Der Fl"achenraum, auf welchem sich diese Niederf"alle ereignet haben, kann etwa gegen 6000 Quadrat-Meilen betragen haben, da L'Aigle, N. von Toulouse, S. ungef"ahr 80 Meilen, und Barbotan, W. von Apt, O. ungef"ahr 70 Meilen entfernt ist. Da dieser Fl"achenraum sich zur Erdoberfl"ache (welche, die Unebenheiten ungerechnet, = 9,282060 geogr. Quadrat-Meilen ist) fast wie 1:2000 verh"alt, so k"onnte man wohl, nach Hrn. von Schreibers, mit aller Wahrscheinlichkeit annehmen, dass in diesem Zeitraume von 26 Jahren auf der ganzen Erdoberfl"ache fast 2000 Mahl mehr, also fast 18000 Niederf"alle sich ereignet haben m"ochten, so dass also, wenn es gleichf"ormig gesch"ahe, auf jedes Jahr mehr als 700, oder ungef"ahr auf jeden Tag 2 gerechnet werden k"onnten.
 
@@ -2096,7 +1823,7 @@ Im Jahre 1816 sollen, wie im \emph{Journal of science and the arts Nr. IX.}, p. 
 \paragraph{}
 Nachrichten von den Stein- und Eisenmassen, deren Niederfallen beobachtet worden ist, in chronologischer Ordnung.
 
-I\. Vorerinnerungen.
+I. Vorerinnerungen.
 
 Schon mehrere Male habe ich Verzeichnisse der herabgefallenen Massen geliefert. Das erste in meiner schon erw"ahnten Schrift im Jahre 1794 enth"alt nur wenige Beispiele; sp"aterhin aber sind in den Verzeichnissen, welche ich in Gilberts Annalen der Physik, in Schweiggers Journale der Chemie, im Journal de Physique, im Journal des mines, und im Giornale di Fisica e Chimica gegeben habe, immer mehrere Nachrichten und Berichtigungen hinzugekommen. Gegenw"artiges Verzeichnis ist weit vollst"andiger, als die vorigen; indessen gebe ich es nicht f"ur so vollst"andig aus, dass nicht hier und da etwas k"onnte hinzugef"ugt oder berichtigt werden. Nur ersuche ich diejenigen, welche etwas hinzuf"ugen oder berichtigen wollen, erst genau zu untersuchen, ob eine solche Nachricht wirklich einen Meteor-Steinfall, oder ob sie etwas anders betrifft, und ob dasselbe Ereignis hier schon unter einem andern, vielleicht richtigeren, Datum angegeben ist.
 
@@ -2118,7 +1845,7 @@ In die gegenw"artigen Verzeichnisse habe ich bei Angabe der Zeit und des Ortes, 
 
 Viele von "alteren und neuern Schriftstellern erw"ahnte Nachrichten, wo sich aus den angegebenen Umst"anden nicht beurteilen l"asst, ob es ein Hagel, oder ein Meteor-Steinfall gewesen ist, lasse ich absichtlich weg, wie z. B. manche von Livius, und von dem leichtgl"aubigen Julius Obsequens erw"ahnte Steinregen. Wo ich eine hier angef"uhrte Nachricht f"ur ungewiss halte, setze ich ein Fragezeichen vor. Manche Nachrichten, die meines Erachtens keinen Meteor-Steinfall betreffen, sondere ich durch doppelte Einschlusszeichen (( )) von den "ubrigen ab.
 
-II\. Niederf"alle von Stein- und Eisenmassen vor dem Anfange unserer Zeitrechnung.
+II. Niederf"alle von Stein- und Eisenmassen vor dem Anfange unserer Zeitrechnung.
 
 Verschiedene vom Himmel gefallene Steine, welche B"atylia (wahrscheinlich vom hebr"aischen Beth-el), ingleichen auch Ceraunia, Brontia, u. s. w. genannt wurden, sind von den Alten als ein Heiligtum aufbewahrt, und als Symbole der G"otter angesehen worden. Da hier nicht die Absicht ist, diesen Gegenstand in antiquarischer Hinsicht genauer abzuhandeln, so erw"ahne ich hier nur einige wenige solche Nachrichten, wo man es als historisch erwiesen ansehen kann, dass die Steine vom Himmel gefallen sind, oder wo ich etwa eine Berichtigung n"otig finde, und es sind hier"uber besonders folgende Schriften nachzulesen:
 
@@ -2218,7 +1945,7 @@ Plinius erw"ahnt ferner in der angef"uhrten Stelle auch eines bei Cassandria gef
 
 *) Dagegen aber reden einige Bl"atter von einem Steine, der in den Ruinen von Macbeths Schl"osse zu Dunsinan in einem Gew"olbe soll sein gefunden worden, und von dem die Vermutung ge"au"sert worden ist, dass er vielleicht ein Meteor-Stein sein m"ochte; hoffentlich werden wir in der Folge genauer erfahren, was etwa an der Sache ist.
 
-III\. Niederf"alle von Stein- und Eisenmassen nach dem Anfange unserer Zeitrechnung. ( Ein vorausgesetztes Sternchen * bedeutet, dass der Verfasser etwas von der gefallenen Substanz besitzt.)
+III. Niederf"alle von Stein- und Eisenmassen nach dem Anfange unserer Zeitrechnung. ( Ein vorausgesetztes Sternchen * bedeutet, dass der Verfasser etwas von der gefallenen Substanz besitzt.)
 
 Einer der ersten seit dem Anfange unserer Zeitrechnung gefallenen Steine scheint der zu sein, welcher zur Zeit des Plinius in \emph{Vocontiorum agro} (bei Vaisien?) gefallen, und von ihm gesehen worden ist. Er sagt, \emph{Hist. nat. II}, 58, wo er auch von andern Meteor-Steinen redet: Ego ipse vidi in \emph{Vocontiorum agro paule ante delatum}, wo Andere, wahrscheinlich richtiger, delapsum lesen wollen. Da Plinius im Jahre 79 umgekommen ist, so muss der Fall weit fr"uher, wahrscheinlich in der ersten H"alfte des ersten Jahrhunderts, sich ereignet haben.
 
@@ -2594,7 +2321,7 @@ In dieser 4ten Abteilung habe ich aus dem von Abel-Rémusat im \emph{Journal de 
 \paragraph{}
 "Uber Gediegeneisenmassen, die auch als meteorisch k"onnen angesehen werden, "uber deren Niederfallen aber keine Beobachtungen vorhanden sind.
 
-I\. Allgemeine Bemerkungen "uber das Vorkommen des meteorischen Gediegeneisens, und "uber das Gef"uge desselben.
+I. Allgemeine Bemerkungen "uber das Vorkommen des meteorischen Gediegeneisens, und "uber das Gef"uge desselben.
 
 Unter den bisher bekannt gewordenen Niederf"allen meteorischer Massen finden sich nur wenige, bei welchen Gediegeneisen den Hauptbestandteil ausmacht, und seit dem Jahre 1751, wo bei Agram zwei nickelhaltige Gediegeneisenmassen fielen, sind nur immer Niederf"alle von Meteor-Steinen beobachtet worden, in welchen das Gediegeneisen in geringer Menge vorhanden war, wiewohl es in ihnen eben die Beschaffenheit hatte, wie in den ganz daraus bestehenden Massen. Dagegen sind aber in verschiedenen L"andern Gediegeneisenmassen gefunden worden, denen man, wenn gleich "uber deren Niederfallen keine Beobachtungen vorhanden sind, doch mit allem Recht denselben Ursprung zuschreiben kann. Sie sind n"amlich ebenso beschaffen, wie einige Massen, deren Herabfallen als Tatsache beobachtet worden ist; das Eisen, woraus sie bestehen, unterscheidet sich von dem gew"ohnlichen Eisen durch seine Geschmeidigkeit, ungeachtet der so sichtbaren Spuren von Schmelzung, durch das innere Gef"uge, durch den Nickelgehalt, welcher nach Stromeier in Gilberts Annalen, B. 55, S. 107, in dem Meteor-Eisen konstant ist, und 10 bis 11 Prozent betr"agt, und auch dadurch, dass sie immer isoliert, meistens an Orten, wo weder Eisenlager noch Eisenh"utten waren, sind gefunden worden. Wo an einer Eisenmasse einer oder mehrere von den hier erw"ahnten Umst"anden anders sind, ist der meteorische Ursprung als mehr oder weniger zweifelhaft anzusehen, wiewohl bei einigen dieser Massen es sich nicht begreifen l"asst, wie sie durch einen irdischen uns bekannten Prozess k"onnten gebildet sein.
 
@@ -2616,7 +2343,7 @@ Au"ser dem Nickel enthalten die meteorischen Gediegenmassen noch manches andere.
 
 Wahrscheinlich mag hier und da in "alteren Zeiten, ehe man Eisenerze zu benutzen gewusst hat, oder auch in Gegenden, wo es keine gibt, Meteor-Eisen sein verarbeitet worden, so wie dieses auch in neuerer Zeit von den Indiern in der Gegend von Xiquipilco in Mexico, von den Negern am Senegal, von den Hottentotten, und auf die unvollkommenste Art von den Esquimaux an der n"ordlichen K"uste der Baffinbai geschehen ist. Die Figuren auf solchem Eisen m"ogen auch wohl zu einer Nachahmung derselben bei damasziertem Eisen oder Stahl Anlass gegeben haben. Aus einer Stelle in dem arabischen Romane Antar sieht man, dass die Beduinen-Araber seitdem achten Jahrhunderte solches Eisen und dessen Ursprung gekannt haben. Es wird n"amlich erz"ahlt, ein Hirt habe nach einem entfliehenden Kameel einen Stein geworfen, wodurch dieses sei get"otet worden. Der Eigent"umer habe den Stein sogleich f"ur einen Donnerstein erkannt, und ein Schwert daraus schmieden lassen, welches von au"serordentlicher G"ute gewesen sei, und welches in der ferneren Erz"ahlung eine Hauptrolle spielt. Dieser arabische Roman, Antar, ist vor kurzem ins Englische von Terrick Hamilton "ubersetzt, zu London erschienen, und die erw"ahnte Stelle ist in den Fundgruben des Orients von Hrn. von Hammer, B. 4, H. 3, und aus diesen in Gilberts Annalen der Physik, B. 50, S. 279, mitgeteilt, und auch in den \emph{Annales de Chimie et de Physique, Tom. IX.}, p. 407, angef"uhrt.
 
-II\. Nickelhaltige Gediegeneisenmassen, von "astigem oder zelligem Gef"uge, mit Ausf"ullung der Zwischenr"aume durch Olivin (oder Peridot).
+II. Nickelhaltige Gediegeneisenmassen, von "astigem oder zelligem Gef"uge, mit Ausf"ullung der Zwischenr"aume durch Olivin (oder Peridot).
 
 * Die in Sibirien gefundene und durch Pallas (in seinen Reisen durch verschiedene Provinzen des Russischen Reichs, III. Thl., S. 411zc.) bekannt gewordene Masse, von welcher sich Bruchst"ucke fast in allen vorz"uglichen Mineralien-Sammlungen befinden, ist am meisten dazu geeignet, um von dieser am seltensten vorkommenden Art von Gediegeneisen einen Begriff zu geben. Dass die Masse wirklich vom Himmel gefallen war (worin die Tataren, welche ihr diesen Ursprung zuschrieben, mehr Recht hatten, als diejenigen Physiker, welche es anfangs nicht zugeben wollten), habe ich im Jahre 1794 in meiner schon erw"ahnten Schrift: "Uber den Ursprung der von Pallas entdeckten Eisenmasse u. s. w. b) zuerst, nicht sowohl als blo"se Vermutung, sondern als etwas nicht zu bezweifelndes, behauptet (welches freilich damals eine sehr paradoxe Behauptung war), und sp"aterhin hat es sich durch die chemischen Analysen, nach welchen die Bestandteile mit denen der andern Meteor-Massen, ungeachtet des verschiedenen Ansehens, "ubereinkommen, vollkommen best"atigt. Die Masse ward im Jahre 1749 von einem abgedankten Kosaken, Jakob Medwedef, gefunden, auf einer der h"ochsten Stellen eines Schiefergebirges, zwischen den Fl"usschen Ubei und Sisim, welche beide von der rechten Seite aus wilden Gebirgen, zwischen Abakansk und Bolskoi, oder Karaulnoi-Ostrog, in den Jenisei fallen, 4 Werste von ersterem, und 6 von letzterem, vom Jenisei aber in einer Entfernung von 20 Wersten, ganz isoliert und am Tage liegend, an einer Stelle, wo weder Bergarbeiten noch Schmelzh"utten in der N"ahe sind. Er hat die Masse, weil er etwas anderes als Eisen darin vermutete, und die Tataren, welche sie als ein vom Himmel gefallenes Heiligtum betrachteten c), ihn in dieser Meinung best"arkten, 30 Werste weit nach seiner Wohnung gebracht. Sie war bald darauf von dem Inspector der Eisenwerke zu Krasnojarsk untersucht worden, und hatte schon damals Verwunderung erregt. Pallas erhielt im November 1771 von der Masse Nachricht, und lie"s sie nach der Stadt bringen; einen gro"sen Theil davon erhielt die kaiserliche Akademie der Wissenschaften zu St. Petersburg. Sie wog 42 Pud, oder 1400 russische Pfund, hatte eine ganz unregelm"a"sige, etwas niedergedr"uckte Gestalt, wie ein rauer Pflasterstein, und war "au"serlich mit einer eisensteinartigen Rinde umgeben. Das Innere ist (nach der Beschreibung) ein geschmeidiges, wie ein grober Seeschwamm l"ocheriges und zelliges Eisen, dessen Zwischenr"aume mit einer dem Olivin "ahnlichen Steinart ausgef"ullt sind. Die K"orner dieser Substanz sind teils von der Gr"o"se eines Hanfkorns (oder noch kleiner), teils gr"o"ser als eine Erbse; ihre Oberfl"ache ist meistens glatt und abgerundet, hier und da auch platt (ich f"uge hinzu, mit Kristallisationsfl"achen, wie denn an meinem St"ucke ein hervorragender Kristall, ziemlich durchsichtig, und von der Gr"o"se einer Erbse, ein Dodekaeder zu sein scheint, und drei regelm"a"sige f"unfseitige Fl"achen zeigt). Die H"arte ist betr"achtlich genug, um das Glas zu ritzen, nicht aber den Quarz. Der Bruch ist muschlig. Die Substanz ist mehr oder weniger durchsichtig. Die Farbe ist meistens bernsteingelb, mitunter f"allt sie auch in das Braune, oder auch in das Gr"unlichgelbe (ich finde, dass sie an manchen Stellen auf der Oberfl"ache der Masse auch in das Schwarze "ubergeht). Die Mengung des Eisens und der Steinart ist in der ganzen Masse gleichartig, nur sind manche Stellen kleinzelliger und feink"orniger, als andere; es ist (wie von Andern gesagt wird) durchaus nichts schlackenartiges daran zu bemerken (im Innern durchaus nicht, wohl aber habe ich bemerkt, dass auswendig an einigen Stellen, wo die Hitze vielleicht am heftigsten mag gewirkt haben, die in das Schwarze "ubergehende olivinartige Substanz sich auch mitunter etwas schlackenartig zeigt, und kleine H"ohlungen und Blasen enth"alt). Das Eisen ist (wie bei andern Meteor-Eisenmassen) so z"ahe, dass es schwer ist, St"ucke davon zu trennen. (Bei vielen mit Gewalt losgeschlagenen St"ucken ist auch der in den Zellen des Eisens enthalten gewesene Olivin gr"o"sten Theils herausgefallen, so dass nur das zellige Eisen, oder gewisser Ma"sen das Gerippe "ubriggeblieben ist.) Die innere Fl"ache der mit Olivin ausgef"ullten H"ohlungen des Eisens ist wie mit einem glasartigen Firniss "uberzogen, der sie gegen den Rost sch"utzt; wo dieser aber weg ist, rostet es leicht. Es l"asst sich kalt, und auch bei m"a"siger Hitze h"ammern, aber bei gro"ser Hitze wird es br"uchig. Das spezifische Gewicht desselben fand Howard 6,487, welches im Verh"altnis gegen anderes Eisen gering ist, er sieht die Oxydation eines Teiles und die por"ose Beschaffenheit als die Ursache davon an. (Der Gehalt an Schwefel und an Chrom kann meines Erachtens auch etwas dazu beitragen.) Die olivinartige Substanz zeigte ein spezifisches Gewicht von 3,263 bis 3,300; man k"onnte sie f"ur Chrysolith halten; dieser hat aber ein gr"o"seres Gewicht von 3, 340 und dar"uber. Howard hat die Masse zuerst gut analysiert, und Graf Bournon sie mineralogisch beschrieben. Philos. transact. 1802, und Gilberts Annalen, B. 13. In dem Eisen fand Howard 17 vom Hundert an Nickel (welches wohl m"ochte zu viel sein), und in der Steinart fand er Kieselerde 54; Magnesia 27; Eisenoxyd 17; Nickeloxyd 1; der Verlust war 1. Hierauf hat Klaproth eine Analyse davon bekannt gemacht, in seinen Beitr"agen zur chemischen Kenntnis der Mineral-K"orper, B. 6, S. 301, und im Neuen Journal f"ur Chemie, B. 1, S. 3. Er fand in der metallischen Substanz 98,5 Eisen, und 1,5 Nickel; und in der Steinart fand er Kieselerde 41; Magnesia 38,5; Eisenoxyd in anziehbarem Zustande 18,5, der Verlust war 2. John hat (nach Gilberts Annalen, B. 57, S. 119, nach v. Leonhards Taschenbuche f"ur Mineralogie, 10. Jahrg. 2. Abt. 1816, S. 604, nach dem sechsten Bande seiner chemischen Schriften, und nach dem ersten Bande seines chemischen W"orterbuchs, unter dem Artikel: Eisen) in diesem sibirischen Eisen gefunden: Eisen 96; Nickel 3; Kobalt 1. Ganz neuerlich hat Laugier diese Masse genau untersucht, und in der Pariser Akademie der Wissenschaften am 14. April 1817 eine Abhandlung dar"uber vorgelesen, wovon in den Annales de Chimie, Tom. IV, und in Gilberts Annalen, B. 58, S. 182, Nachricht gegeben wird. Er erhielt: Eisenoxyd 68,2; Kieselerde 16; Magnesia 15; Schwefel 5,2; Chrom 0,6; den Verlust rechnet er 3; dieses ist 113,1. Ohne Oxydation h"atte der Unterschied nach seiner Ansicht 20 Prozent betragen m"ussen. Da er also zwei noch von niemanden in dieser Masse vor ihm gefundene Substanzen, welche sich gew"ohnlich auch in andern Meteor-Massen finden, n"amlich Schwefel und Chrom, auch darin angetroffen hat, so wird der meteorische Ursprung derselben noch mehr, als vorher, au"ser Zweifel gesetzt. Von Schreibers hat auch aus einem Bruchst"ucke dieser Masse, wie schon bemerkt worden, zwei St"uckchen Schwefeleisen herausgel"ost, die ich bei ihm gesehen habe.
 
@@ -2634,7 +2361,7 @@ Das zwischen Eibenstock und Johann Georgenstadt auf einer Eisenhalde bei den Ste
 
 Unter den in der vorigen Abtheilung erw"ahnten Eisenmassen, deren Herabfallen beobachtet worden ist, mag vielleicht das schwammige Eisen, welches nach Plinius, hist. nat. II, 57, in Lukanien gefallen ist, und h"ochst wahrscheinlich die im eilften Jahrhunderte, nach Avicenna, bei Dschordschan gefallene, Masse, welche zusammengebackenen K"ornern von grober Hirse geglichen haben soll, die vom Eisen nicht angegriffen wurden, von dieser Art gewesen sein.
 
-III\. Derbe nickelhaltige Gediegeneisenmassen.
+III. Derbe nickelhaltige Gediegeneisenmassen.
 
 "Uber das Gef"uge dieser Massen ist schon vorher das N"otige im Allgemeinen gesagt worden. Massen dieser Art hat man bis jetzt zwei in unserem Weltteile d), und auch verschiedene in Afrika und in Amerika angetroffen.
 
@@ -2672,7 +2399,7 @@ Von einer in Nord-Amerika aus New-Orléans nach New-York von M. G. Johnson gesch
 
 An der n"ordlichen K"uste der Baffinbai ist auf der Entdeckungsreise des Capitan Ross Gediegeneisen gefunden worden, welches h"ochst wahrscheinlich meteorisch ist. Au"ser einer vorl"aufigen Meldung in verschiedenen Zeitungen, wird Nachricht davon gegeben im Journal of Science, No. XII, p. 369. Man hatte bei den Einwohnern (n"ordlichen Esquimaux) einige Ger"ate von Eisen bemerkt. Der Capitan Sabine forschte nach dem Ursprunge dieses Eisens, und die Einwohner meldeten ihm, dass es aus dem Gebirge, etwa 30 englische Meilen von der K"uste, geh"ohlt w"urde, und dass sich dort zwei gro"se Massen bef"anden, die solches Eisen enthielten. Die eine bestehe fast ganz aus Eisen, und man sei nicht im Stande gewesen, mehr als einige kleine Bruchst"ucke loszuarbeiten. Die andere Masse aber war, wie sie sagten, ein Stein, von dem sie St"ucke losbrechen konnten, welche kleine Kugeln von Eisen enthielten, aus denen sie durch Schlagen zwischen zwei Steinen kleine Platten machten, ungef"ahr von der Gr"o"se eines halben Sixpence, welche in einem kn"ochernen Griffe, Rand an Rand, befestigt, die Schneide ihrer Messer bildeten. Dem Capitan Sabine fiel es gleich ein, dass es meteorisches Eisen sein m"ochte; man achtete aber nicht weiter darauf, bis Sir Joseph Banks St"ucke davon hergab, die Brande auf dessen Verlangen analysiert, und mehr als 3 Prozent Nickel darin gefunden hat. Sowohl deshalb, als auch, weil es nicht leicht rostet, und von auffallend silberwei"ser Farbe ist, wird es f"ur meteorisch erkl"art, und zwar die eine dieser Massen f"ur eine meteorische Gediegeneisenmassen, die andere f"ur einen sehr eisenhaltigen Meteor-Stein.
 
-IV\. Problematische Gediegeneisenmassen, die keinen Nickel enthalten, und nicht von dem Gef"uge, wie die vorigen sind; oder auch, deren Beschaffenheit nicht genug bekannt ist, um "uber ihren Ursprung urteilen zu k"onnen.
+IV. Problematische Gediegeneisenmassen, die keinen Nickel enthalten, und nicht von dem Gef"uge, wie die vorigen sind; oder auch, deren Beschaffenheit nicht genug bekannt ist, um "uber ihren Ursprung urteilen zu k"onnen.
 
 Es ist zweifelhaft, ob manche Gediegeneisenmassen, die keinen Nickel enthalten, und bei denen auch das Gef"uge nicht so beschaffen ist, wie bei den zwei vorher erw"ahnten Arten, auch meteorischen Ursprungs sind, oder nicht. Bei einigen derselben ist es wohl nicht so ganz unwahrscheinlich, weil das Eisen durch seine Geschmeidigkeit, durch sein Ansehen, und durch die dem Silberwei"sen sich n"ahernde Farbe sich sehr vom gew"ohnlichen Eisen unterscheidet, weil diese Massen auch ebenso, wie die vorher erw"ahnten, isoliert, meistens an Orten, wo weder Eisenanbr"uche noch Eisenh"utten waren, sind gefunden worden, so dass, wenn sie nicht meteorischen Ursprungs sind, man sich schwerlich einen rechten Begriff von der Art ihrer Entstehung w"urde machen k"onnen. So wie wir schon drei Meteor-Steinf"alle ohne den vorher als einen wesentlichen Bestandteil angesehenen Nickel kennen (in welchen freilich aber auch kein metallisches Eisen ist gefunden worden), so k"onnte auch wohl einige Mahl auch Gediegeneisen ohne Nickel, und von anderem Gef"uge, als die nickelhaltigen Massen, gefallen sein k). Nur m"ussen wir nicht etwa diese Massen mit den andern verwechseln, und ihnen etwa gar zu voreilig mit Bestimmtheit einen meteorischen Ursprung zuschreiben wollen.
 
