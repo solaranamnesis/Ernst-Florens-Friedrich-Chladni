@@ -11,4 +11,4 @@ Sections One through (most of) Three and Six were done manually. The other parts
 English - Plain Text  
 English - PDF  
 [German - Plain Text](feuermeteor/full-text-german.md)  
-German - PDF  
+[German - PDF](https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-baskerville.pdf)  
