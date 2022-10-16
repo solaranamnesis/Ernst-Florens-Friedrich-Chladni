@@ -11,4 +11,4 @@ Sections One through (most of) Three and Six were done manually. The other parts
 [English - Plain Text](feuermeteor/full-text-english.md)  
 English - PDF  
 [German - Plain Text](feuermeteor/full-text-german.md)  
-[German - PDF](https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-baskerville.pdf) | [Fraktur](https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-frak.pdf) | [Schwabacher](https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-swab.pdf)  
+[German - PDF](https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-baskerville.pdf) | [Biolinum](https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-biolinum.pdf) | [Fraktur](https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-frak.pdf) | [Schwabacher](https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-swab.pdf)  
