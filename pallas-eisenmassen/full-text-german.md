@@ -20,242 +20,32 @@ Allgemeine Bemerkungen über Feuerkugeln.
 
 Eine Feuerkugel (_bolis_) nennt man die ziemlich seltene Naturerscheinung, da eine feurige Masse meist anfangs in der Gestalt eines hellen Sternes oder vielmehr einer Sternschnuppe in einer beträchtlichen Höhe sichtbar wird, sich schnell in einer schief niederwärts gehenden Richtung fortbewegt, dabei an Größe bis zu einem den Mond bisweilen übertreffenden scheinbaren Durchmesser zunimmt, öfters Flammen, Rauch und Funken auswirft und endlich mit einem heftigen Getöse zerspringt.
 
-Von den vorhandenen Beobachtungen über Feuerkugeln sind die-
-zenigen ganz abzusondern, wo Blitze oder andere Lichterscheinungen damit
-sind verwechselt worden. So sind z. B. die meisten von Muschenbroek
-im ellai de phylique (Leid. 17;0.) tom. II. §. 1716 und von
-Vassalli in seinem lettere lilicome eorologiche S. 98---100, und
-. 190 angeführten nichts weiter, als Blitze gewesen: so betrifft auch
-c
-die in Silberschlags Theorie der 1762 erschienenen Feuerkugel S. 128
-..-
-beiläusg erwähnte Erzählung keine Feuerlugeln, sondern ein heftiges Ge-
-witter mit allerlei electrischen Ausströmungen, und die von Chalmer
-(Phil. transact. u. 494. S. 366) im Jahre 1749 auf dem Meere be-
-obachtee Ersceinung ist nichts anders, als ein Blit gewesen: desgleichen,
-wenn Ulloa (im erfien ande seiner Reise nach Peru und in der Hiltoire
-de l'academie des lciences 1751 sagt, das zu Santa Maria de la
-Parilla alle Nächte Fenerkugeln gesehen würden, so kann dieses nicht von
-eigentlichen Feuerkugeln zu versiehen sein, sondern von Irrlichtern, die,
-wie bekannt, in warmen und seuchten Gegenden am häufigsten sind.
-cp,
-11sl)
-lle
+Von den vorhandenen Beobachtungen über Feuerkugeln sind diejenigen ganz abzusondern, wo Blitze oder andere Lichterscheinungen damit sind verwechselt worden. So sind z. B. die meisten von Muschenbroek im _essai de physique (Leid. 1739.) tom. 2. §. 1716_ und von Vassalli in seinem _lettere fisicometeorologiche_ S. 98-100, und S. 190 angeführten nichts weiter, als Blitze gewesen: so betrifft auch die in Silberschlags Theorie der 1762 erschienenen Feuerkugel S. 128 beiläufig erwähnte Erzählung keine Feuerkugeln, sondern ein heftiges Gewitter mit allerlei electrischen Ausströmungen, und die von Chalmer (_Phil. transact. n. 494. S. 366_) im Jahre 1749 auf dem Meere beobachtete Erscheinung ist nichts anders, als ein Blitz gewesen: desgleichen, wenn Ullea (im ersten Bande seiner Reise nach Peru und in der _Histoire de l'academie des sciences_ 1751 sagt, daß zu Santa Maria de la Parilla alle Nächte Feuerkugeln gesehen würden, so kann dieses nicht von eigentlichen Feuerkugeln zu versiehen sein, sondern von Irrlichtern, die, wie bekannt, in warmen und feuchten Gegenden am häufigsten sind.
 
+Nach Blagdens ganz richtiger Vorschrift (_in Phil. transact. Vol. 74. p. 1. n. 18._) ist bei Feuerkugeln Rücksicht zu nehmen auf ihre Bahn, ihre Gestalt, ihr Licht und ihre Farben, ihre Höhe, ihr Zerspringen und das dabei wahrzunehmende Getöse, ihre Größe, ihre Dauer und ihre Geschwindigkeit. Aus allen diesen Umständen, welche ich nach der Reihe durchgehen werde, ergeben sich genug Gründe, wodurch die gewöhnlichen Erklärungsarten aus der Nordlichtsmaterie, aus bloßer Electricität, aus Anhäufung lockerer brennbarer Materien in den obern Gegenden der Atmoshäre, und aus Entzündung der brennbaren Luft hinlänglich widerlegt, und meine schon von einigen Naturforschern vorgetragene Behauptung bestätigt wird, daß sie aus ziemlich schweren und dichten Grundstossen bestehen, die nicht in der obern Lust sich haben anhäufen, oder auf irgend eine Art in die Höhe geführt werden können, daß sie also nicht tellurische, sondern kosmische Körper sind.
 
-### 0011
+a) Ihre Bahn scheint parabolisch zu sein. Die Weltgegend, woher sie kommen, ist ganz unbestimmt. Sie bewegen sich allemal schief niederwärts, so daß die Würkungen der Schwere daran unverkennbar sind. Der Winkel, welchen diese Bewegung mit dem Horizonte macht, ist sehr unbesimmt; manche sind unter einem beträchtlichen Winkel gefallen, wie z. B. die vom 23. Jul. 1762, manche andere sind beinahe mit dem Horizonte parallel gegangen. Es folgt daraus, daß außer der Anziehungskraft der Erde noch eine andere Kraft in sie müsse gewirkt haben. Die Feuerkugel vom 18. Aug. 1783 änderte ihre ursprüngliche Bewegung ein wenig nach West, vielleicht nur scheinbar, wegen der Umdrehung der Erde von W. nach O., vielleicht aber liegt der Grund in einem ungleichen Drucke der in ihrem Innern auswallenden Materie und der ausbrechenden Flammen und Dämpfe gegen die Luft, welches wohl auch die Ursache gewesen ist, warum man an der vom 23. Jul. 1762 ein abwechselndes Schwanken und an der vom 31. Oct. 1779 eine schlängliche Richtung des Schweifes bemerkt hat. Aus einer Beobachtung von Kirch in _Ephem. Nat. Curios. 1686_, wo eine Feuerkugel an der nämlichen Stelle zu bleiben schien, folgt weiter nichts, als daß das Auge des Beobachters in der Richtung ihrer Bewegung gewesen ist. An einigen, wie z. B. an der vom 9. Febr. 1750 und der vom 23. Jul. 1762 hat man eine Umdrehung um die Axe bemerkt.
 
-A
-3
-Nach Blagdens ganz richtiger Vorschrift (in Phil. transact. Vol.
-LXXIV.p. I. n. "11I.) ist bei Feuerkugeln Rücksicht zu nehmen auf
-V7r7
-ihre ahn, ihre Gestalt, ihr Licht und ihre Farben, ihre --
-Ss" ihr Zorsprin-
-" .-
-gen und das dabei wahrzunehmende Getise, ihre e-ße, ihre Dauer und
-...
-ihre Geschwindigkeit. Aus allen diesen Umständen, welche ich nach der
-Reihe durchgehen werde, ergeben sich genug Gründe, wodurch die ge-
-wöhnlichen Erklärungsarten aus der Nordlichtsmaterie, aus bloßer Electri,
-citit, aus häusung lockerer brennbarer Materien in den obern Gegen-
-.
-den der Atmoshäre, und aus Entzündung der brennbaren Luft hinlänglich
-widerlegt, und meine schon von einigen Naturferschern vorgetragene Be-
-hauptung bestätigt wird, daß sie aus ziemlich schweren und dichten Grund,
-stossen bestehen, die nicht in der obern Lust sich haben anhäufen, cder auf
-irgend eine Art in die Höhe geführt werden können, daß sie also nicht
-tellurische, sondern kosuische Körper sind.
-a) Ihee Bahn scheint parabolisch zu sein. Die Weltgegend, wo-
-her sie kommen, ist ganz unbesiimmt. Sie bewegen sich allemal schief
-niederwärts, so daß die Würkungen der Schwere daran unverkennbar sind.
-7, 3i-
-kel, welchen diese Bewegung mit dem Horizonte macht, ist sehr
-unbesimmt; manche sind unter einem beteächtlichen Winkel gefallen, wie
-z. B. die vom 23. Jul. 1762, manche andere sind beinahe mit dem Hori-
-zonte parallel gegangen. Es folgt daraus, daß außer der Anziehungs-
-.-
-lraft der Erde noch eine andere Krast in sie müsse gewirkt haben. Die
-Feucrlugel vom 18. Aug. 1783 änderte ihre ursprüngliche Bewegung ein
-11-
-wenig nach West, vielleicht nur scheinbar, wegen der Umdrehung der Erde
-ven W. nach O., vielleicht aber liegt der Grund in einem ungleichen
---
-le der in ihrem Innern auswallenden Marerie und der ausbrechen-
-.. Flammen und Dämpfe gegen .e Luft, welches wohl auch die Ursache
-1
-?,
-gewesen ist, warum man an der vom 23. Jul. 1762 ein abwechselndes
-Schwanken und an der vom 31. Oct. 1779 eine schlängliche Richtung des
-A2
-Schweifes
-""" zIs IoIa ( -1-nr e
+b) Was ihre Gestalt betrifft, so sieht man sie meist anfangs wie einen hellen Stern, oder vielmehr wie eine Sternschnuppe; bei mehrerer Annäherung vergrößern sie sich zu einem den Mond bisweilen übertreffenden scheinbaren Durchmesser; die meisten verändern oft ihre Gestalt, bald erscheinen sie rund, bald länglich; sie ziehen meist einen langen Schweif nach sich, der aber wohl wegen der so geschwinden Bewegung noch länger erscheinen mag, als er würklich ist, eben so, wie bei schneller Bewegung einer glühenden Kohle der ganze Weg erleuchtet erscheint. Manchmal sondern sich kleinere Kugeln davon ab, die hinter der gröfern hergehn; nach dem Zerspringen sieht man bisweilen die einzelnen Stücke niederfallen, oder neben einander ihren Weg fortsetzen.
 
-Schweifes bemerkt hat. Aus einer Beobachtung von Kirch in Ephem.
-Nat. Curiol. 1686, wo eine Feuerkugel an der nämlichen Stelle
-zu bleiben schien, folgt weiter nichts, als daß das Auge des Beobachters
-in der Richtung ihrer Bewegung gewesen ist. An einigen, wie z. B. an
-der vom 9. Febr. 1750 und der vom 23. Jul. 1762 hat man eine Um-
-drehung um die Axe bemerkt.
-b) Was ihre Gestalt betrifft, so sieht man sie meist anfangs wie
-einen hellen Stern, oder vielmehr wie eine Sternschnuppe; bei mehrerer
-Annäherung vergrößern sie sich zu einem den Mond bisweilen übertrefsen-
-den scheinbaren Durchmesser; die meisten verändern oft ihre Gestalt, bald
-erscheinen sie rund, bald länglich; sie ziehen meist einen langen Schweif
-nach sich, der aber wohl wegen der so geschwinden Bewegung noch länger
-erscheinen mag, als er würklich ist, eben so, wie bei schneller Bewegung
-einer glühenden Kohle der ganze Weg erleuchtet erscheint. Manchmal
-sondern sich kleinere Kugeln davon ab, die hinter der gröfern hergehn; nach
-dem Zerspringen sieht man bisweilen die einzelnen Stücke niederfallen, oder
-neben einander ihren Weg fortsetzen.
-c) Ihr Licht ist allemal sehr hell und blendend weiß, so daß es
-zwar dem Sonnenlichte nicht gleich kommt, aber das Mondenlicht sehr
-weit übertrifst; einige Beobachter vergleichen es mit weifglühendem oder ge-
-schmolzenen Eisen, andere mit brennendem Kampfer. Die am26.Nov. 1758
-und 10. May 1760, welche am Tage erschienen, gaben ohngeachtet des
-hellen Sonnenscheines dech ein siarkes Licht. Bisweilen ist, die weiße
-Farbe etwas in das Blauliche gefallen, z. B. bei der am 18. Aug. 1783.
-Man hat gewöhnlich ein sehr ungleiches und veränderliches Licht bemerkt,
-so daß gleichsem eine Auswallung der Materie darinnen sichtbar gewesen
-ist. Sie zeigen würklich einen brennenden Zustand, meistens hat man
-sie Flammen, Rauch und Funken auswerfen gesehen, bisweilen aus eini-
-gen Oefnungen, wie z. . die, welche man 1719 in Italien beobachtet
-;
+c) Ihr Licht ist allemal sehr hell und blendend weiß, so daß es zwar dem Sonnenlichte nicht gleich kommt, aber das Mondenlicht sehr weit übertrifft; einige Beobachter vergleichen es mit weißglühendem oder geschmolzenen Eisen, andere mit brennendem Kampfer. Die am 26. Nov. 1758 und 10. Mai 1760, welche am Tage erschienen, gaben ohngeachtet des hellen Sonnenscheines dech ein starkes Licht. Bisweilen ist die weiße Farbe etwas in das Blauliche gefallen, z. B. bei der am 18. Aug. 1783. Man hat gewöhnlich ein sehr ungleiches und veränderliches Licht bemerkt, so daß gleichsam eine Auswallung der Materie darinnen sichtbar gewesen ist. Sie zeigen würklich einen brennenden Zustand, meistens hat man sie Flammen, Rauch und Funken auswerfen gesehen, bisweilen aus einigen Oefnungen, wie z. B. die, welche man 1719 in Italien beobachtet hat. Der Schweif zeigt meistens ein weniger helles Licht, als der Kern. Sowohl die ganze Masse, als auch die nach der Zerteilung bisweilen neben einander fortgehenden einzelne Stücke sind meist in einen weißlichen Nebel eingehüllt erschienen.
 
+d) Ihre beobachtete senkrechte Höhe ist immer sehr beträchtlich gewesen. Aus Berechnungen der Parallaxe fand man die am 21. Mai 1676 erschienene Feuerkugel wenigstens 38 Italiänische (9,5 deutsche) Meilen hoch; die am 31. Jul. 1708 40 bis 50 Englische (9 bis 11 deutsche) Meilen; die am 22. Febr. 1719 zwischen 16000 und 20000 Schritt; die am 17. Mai 1719 64 geographische oder deutsche Meilen; die am 26. Nov. 1758 erst 90 bis 100, nachher 26 bis 32 Englische Meilen, (also erst ungefähr 19,5 bis 22, nachher 5,67 bis 7 deutsche Meilen); die am 23. Jul. 1762 bei der ersten Beobachtung 19, bei dem Zerspringen über 4 deutsche Meilen; die am 17. Jul. 1771 bei der ersten Wahrnehmung 41076 und bei dem Zerspringen über 20598 Toisen, (also erst ungefähr 11, nachher fast 6 deutsche Meilen); die in Nordamerika am 31. Oct. 1779 61 englische (13 deutsche) Meilen; die am 18. Aug. 1783 in England 55 bis 60 englische (12 bis 13 deutsche) Meilen, in Frankreich weniger; und die am 4. Oct. 1783 40 bis 50 englische (9 bis 11 deutsche) Meilen hoch.
 
-### 0013
+e) Das Zerspringen mit einem heftigen Getöse scheint ihnen allen eigen zu sein; wo man nichts davon bemerkt hat, liegt es unstreitig daran, daß der Ort der Beobachtung zu weit davon entfernt gewesen ist. Bisweilen zerspringt eine Feuerkugel ganz, bisweilen auch nur teilweise, die einzelnen Stücke zerspringen bisweilen wieder. Daher kommt auch die Verschiedenheit des Getöses, indem man ein oder mehreremal einen Knall, wie einen Kanonenschuß gehört hat, bisweilen mit einem darauf folgenden rasselnden Geräusche. Dieses letztere haben manche Beobachter dem Donner ähnlich gefunden, andere vergleichen es mit dem Rollen vieler Wagen, andern ist es vorgekommen, als ob ein großer Haufen von Gewehren durch einander gerüttelt würde. Das Getöse ist einigemal so heftig gewesen, daß Thüren, Fenster und ganze Häuser, wie bei einem Erdbeben sind erschüttert worden; z. B. am 21. Mai 1676, am 17. Mai 1719, am 3. März 1756 und am 17. Jul. 1771. Man hat es an einer in Nordamerika am 10. Mai 1760, wo drei Explosionen bemerkt wurden, an Orten gehört, die 80 englische (fast 17,5 deutsche) Meilen und bei einer andern am 24. Nov. 1742 an Orten, die 200 englische (über 43 deutsche) Meilen von einander entfernt sind. An der vom 23 Jul. 1762 hat man es in Entfernungen von 20 deutschen Meilen von dem Orte, über welchen sie zersprungen, noch stark hören können, bei dieser, und bei der vom 18. Aug. 1783 hörte man den Knall an entfernten Orten wohl 10 Minuten nach dem Zerspringen. Nach einigen Nachrichten hat man bisweilen einige Zeit nach dem Zerspringen einen Schwefelgeruch verspürt. Bei einigen Feuerkugeln, wie bei denen von 1676 und 1762 will man außer dem Getöse des Zerspringens vorher bei ihrem Durchgange durch die Atmosphäre ein Zischen gehört haben. Daß man öfters nach dem Zerspringen die einzelnen Stücke entweder niederfallen, oder neben einander ihren Weg fortsetzen und bisweilen von neuem zerspringen gesehen hat, ist schon vorher erwähnt worden; bei manchen Beobachtungen wird aber nichts davon gedacht, sondern das Zerspringen vielmehr als ein Verschwinden oder Verlöschen angesehen, unstreitig deswegen, weil die durch die Hitze und die dadurch entwickelten elastischen Flüßigkeiten zu einem beträchtlichen Umfange als eine oder mehrere Blasen ausgedehnt gewesene Masse in einzelne kleinere aber dichtere Massen zusammen gesunken, die wegen ihres geringern Umfanges weniger in die Augen gefallen, und überdieses die Augen der Beobachter wohl meist zu sehr auf den Ort des Zerspringens mogen gerichtet gewesen sein, als daß sie zugleich auf das fernere schnelle Fortgehen dieser kleinern Massen hätten Achtung geben können. An der Stelle des Zerspringens hat man bisweilen noch einige Augenblicke nachher einen schwach leuchtenden Nebel gesehen, wovon der Grund ohne Zweifel darinnen liegt, weil die in der zähen Hülle eingeschlossen gewesenen Dämpfe und Luftarten wegen ihrer lockern Beschaffenheit nicht so schnell sich haben weiter fortbewegen können, wie die dichtere Materie, welche sie umgeben hatte.
 
-9
-S
-hat. Der Schweif zeigt meistens ein weniger helles Licht, als der Kern.
-Sowohl die ganze Masse, als auch die nach der Zertheilung bisweilen
-neben einander fortgehenden einzelne Stücke sind meist in einen weißlichen
-Nebel eingehüllt erschienen.
-d) Ihre beobachtete senkrechte Höhe ist immer sehr beträchtlich ge-
-wesen. Aus Berechnungen der Parallaxe fand man die am 21. May
-1676 erschienene Feuerkugel wenigsiens 38 Italiänische (92 deutsche)
-Meilen hoch; die am 31. Jul. 1708 40 bis 50 Englische (9 bis 11
-deutsche) Meilen; die am 22. Febr. 1719 zwischen 16000 und 20000
-Schritt; die am 17. May 1719 64 geographische oder deutsche Meilen;
-die am 26. Nov. 1758 erst 90 bis 100, nachher 26 bis 32 Englische
-Meilen, (also erst ungefähr 192 bis 22, nachher 5; bis 7 deutsche
-Meilen); die am 23. Jul. 1762 bei der ersten Beobachtung 19, bei
-dem Zerspringen über 4 deutsche Meilen; die am 17. Jul. 1771 bei
-der ersten Wahrnehmung 41076 und bei dem Zerspringen über 20598
-Teisen, (also erst ungefähr 11, nachher fast 6 deutsche Meilen); die in
-Nordamerika am 31. Oct. 1779 61 englische (13 deutsche) Meilen;
-die am 18. Aug. 1783 in England 55 bis 60 englische (12 bis,1
-(eer
-deutsche) Meilen, in Frankreich weniger; und die am 4. . 02
-40 bis ;0 englische (9 bis 11 deutsche) Meilen hoch.
-e) Das Zerspringen mit einem heftigen Getöse scheint ihnen allen
-eigen zu sein; wo man nichts davon bemerkt hat, liegt es unstreitig
-daran, daß der Ort der Beobachtung zu weit davon entfernt gewesen ist.
-Bisweilen zerspringt eine Feuerkugel ganz, bisweilen auch nir theilweise,
-di einzelnen Stücke zerspringen bisweilen wieder. Daher kommt auch
-die Verschiedenheit des Getoses, indem man ein oder mehreremal einen
-Knai, wie einen Kanonenschuß gehört hat, bisweilen mit einem dar-
-auf solgenden rasselnden Geräusche. Dieses letztere haben manche Becb-
-achter
-3
+f) Ihre Größe ist nach allen Beobachtungen ansehnlich gewesen. Viele Genauigkeit darf man bei deren Bestimmung nicht erwarten, weil man bei einer so schnell vorübergehenden Erscheinung nicht Zeit hat, Messungen anzustellen, sondern die scheinbare Größe nur ungefähr nach dem Augenmase schätzen und durch deren Vergleichung mit der Entfernung einigermaßen auf die wahre Größe schließen kannn. Bei der Feuerkugel von 1676 schätzte man den längern Durchmesser ungefähr eine italiänische (0,25 deutsche) Meile, den kürzern halb so groß, bei der am 22. Febr. 1719 den Durchmesser 3560 Schuh; am 26. Nov. 1758 zwischen 0,5 und 1,17 enlischen Meile, am 23. Jul. 1762 wenigstens 506 Klaftern, am 17. Jul. 1771 mehr als 500 Toisen oder Klaftern, am 31. Okt. 1779 den kürzern wenigstens 2 englische Meilen, am 18. Aug. 1783 den kürzern 0,5, den längern 1 bis 2 englische Meilen, nach den französischen Beobachtungen, wo aber mit Recht bemerkt wird, daß die Zahlen eher zu klein, als zu groß angegeben sind, soll der Durchmesser nur 216 Fuß gewesen sein.
 
-achter dem Donner ähnlich gefunden, andere vergleichen es mit dem Rol-
-len vieler Wagen, andern ist es vorgekommen, als ob ein großer Hausen
-von Gewehren durch einander gerüttelt würde. Das Getöse ist einige,
-e
-mal so hestig gewesen, daß Thüren, Fenster und ganze Hänser, wie bei
-einem Erdbeben sind erschüttert worden; z. . am 2. May 1676, am
-"
-17. May 1719, am 3.März 1756 und am 17. Jul. 1771. Man
-hat es an einer in Nordamerika am 10. May 1760, wo drei Cxplosio-
-nen bemerkt wurden, an Orten gehört, die 80 englische (fast 17 deutsche
-Meilen und bei einer andern am 24. Nov. 1742 an Orten, die 200
-englische (über 43 deutsche) Meilen von einander entfernt sind. An der
-vom 23 Jul. 1762 hat man es in Entsernungen von 20 deutschen Meilen
-von dem Orte, über welchen sie zersprungen, noch stark hören können, bei
-dieser, und bei der vom 18. Aug. 178 hörte man den Knall an ent-
-fernten Orten wohl 10 Minuten nach dem Zerspringen. Nach einigen
-Nachrichten hat man bisweilen einige Zeit nach dem Zerspringen einen
-Schwefelgeruch verspürt. Bei einigen Feuerkugeln, wie bei denen von
-1676 und 1762 will man außer dem Getöse des Zerspringens vorher
-bei ihrem Durchgange durch die Armosphäre ein Zischen gehört haben.
-Daß man öfters nach dem Zerspringen die einzelnen Stücke entweder
-niederfaaen, oder neben einander ihren Weg sortsetzen und bisweilen von
-(/,
-neuem zerspringen gesehen hat, ist schon vorher erwnc worden; bei
-manchen Beobachtungen wird aber nichts davon gedacht, sendern das er-
-e ..
-springen vielmehr als ein Verschinden oder erlöschen angesehen, un-
-streitig deswegen, weil die durch die Hitze und die dadurch entwickelten
-elastischen Flüßigkeiten zu einem beträchtlichen Unsange als eine oder
-mehrere Blasen au gedehnt gewesene Nesse in cinzelne inere aber dich-
-tere Massen zus mmen gesunken, die wegen ihres geringern Umsanges we-
-niger in die Augen gefallen, und überdieses die Augen der Beobachte,
-1
-wohl meist zu sehr cuf den Ort des Zerspringens megen gerichtet gewesen
-sern,
-.
+g) Die Dauer ihrer Erscheinung hat man bisweiln nur ungefähr 16 Secunden, mehrenteils aber auf eine halbe oder ganze Minute geschätzt, einigemal auf etliche Minuten.
 
-### 0015
+h) Die Geschwindigkeit ihrer Bewegung ist so groß, daß sie bisweilen der Geschwindigkeit des Laufes der Erde oder anderer Weltkörper völlig gleich kommt. Durch den Fall auf unsere Erde würde eine so schnelle Bewegung, noch dazu in so schiefer Richtung nicht haben können bewürkt werden, es ist also zu schließen, daß außer der Anziehung der Erde noch eine andere Kraft in sie müsse gewürkt haben. Die am 21. Mai 1676 durchlief in einer Secunde wenigstens 2,67 italiänische (0,67 deutsche) Meilen; die am 17. Mai 1719 wenigstens 5 deutsche Meilen; die am 26. Nov. 1758 30 englische (über 6,5 deutsche) Meilen; die am 23. Jul. 1762 10000 Toisen, (beinahe 0,5 deutsche Meilen); die am 17. Jul. 1771 6 bis 8 Stunden Weges (4,5 bis 6 deutsche Meilen); die am 18. Aug. 1783 nach den englischen Beobachtungen 20 bis 40 englische Meilen, nach den französischen Berechnungen, wo die Zahlen überhaupt zu klein angenommen scheinen, 1052 Toisen; die am 4. Oct. 1783, 12 englische Meilen.
 
-se n, als daß sie zugleich auf das fernere schnelle Fortgehen dieser kleinern
-Massen hätten Achtung geben können. An der Stelle des Zerspringens
-hat man bisweilen noch einige Augenblicke nachher einen schwach leuchten-
-den Nebel gesehen, wovon der Grund ohne Zweifel darinnen liegt, weil
-die in der zähen Hülle eingeschlossen gewesenen Dämpfe und Luftarten we-
-gen ihrer lockern Beschaffenheit nicht so schnell sich haben weiter fortbe-
-wegen können, wie die dichtere Materie, welche sie umgeben hatte.
-f) Ihre Größe ist nach allen Beobachtungen ansehnlich gewesen.
-Viele Genauigkeit darf man bei deren Bestimmung nicht erwarten, weil
-man bei einer so schnell vorübergehenden Erscheinung nicht Zeit hat, Mes-
-singen anzustellen, sondern die scheinbare Größe nur ungefähr nach dem
-Augenmase schätzen und durch deren Vergleichung mit der Entfernung
-einigermaßen auf die wahre Größe schließen kannn. Bei der Feuerlugel
-von 1676 schätzte man den längern Durchmesser ungefähr eine italiänische
-eutsche) Meile, den kürzern halb so groß, bei der a1. -8d. 1719
-e .I..
-den Durchmesser 3560 Schuh; am 20. Nev. 17; zwischen un.
-..7
-I.
-enlischen Meile, am 23. Jul. 1762 wenigstens ;6 Klastern, am 17.
-Jul. 1771 mehr als 500 Toisen oder Klastern, am 31. c.. 177) den
-r ,..
-kürzern wenigstens 2 englische Meilen, am 18. Aug. 173 den lirzern ,
-den längern 1 bis 2 englische Meilen, nach den franzisisc en Teobachtun-
-gen, wo aber mit Recht bemeekt wird, daß die Zahlen eber zu klein, als
-zu groß angegeben sind, soll der Durchmesser nur 216.
-.7
-.. cesc.
-".
-e s
-e Dauer ihrer Erscheinung hat man bisweiln nur un."
-.-
-16 Secunden, mehrentheils aber auf eine halbe oder ganze Minute ge-
-schützt, cinigemal auf etliche Minuten.
-I) Die Geschwindigkeic ihrer Bewecuug ist so grof, daß sie
-bisweilen der Geschwindigkeit des Lauses der Erde ocer anderer Weltlörper
-voligia aleich kommt. Durch den Fall auf unsere Erde würde eie so
-schne!e
+§\. 3.
 
-7
-schnelle Bewegung, noch dazu in so schie er Richtung nicht haben können
-bewürkt werden, es ist also zu schließen, daß außer der Anziehung der Erde
-noch eine andere Kraft in sie müsse gewürkt haben. Die am 21. Man
-1676 durchlief in einer Secunde wenigstens 2 italiänische (5 deutsche)
-Meilen; die am 17. May 1719 wenigstens ; deutsche Meilen; die am
-26. Nov. 175830 englische (über 6 deutsche) Meilen; die am 23. Jul.
-1762 10000 Toisen, (beinahe H deutsche Meilen); die am 17. Jul.
-1771 6 bis 8 Stunden Weges (42 bis 6 deutsche Meilen); die am
-18. Aug. 1783 nach den englischen Beobachtungen 20 bis 40 englische
-Meilen, nach den französischen Berechnungen, wo die Zahlen überhaupt
-zu klein angenommen scheinen, 1052 Toisen; die am 4. Oct. 02, 12
-r e
-englische Meilen.
-§. 3.
 Nachrichten von einigen Beobachtungen.
+
 Als Belege zu dem vorigen §. werde ich aus den vielen ältern und
 neuern Beobachtungen nur einige der vorzüglichsten erwähnen. n
-70
 solche Nachrichten ganz davon abzusondern sind, die keine eigentliche Feuer-
 kugeln, sondern andere damit verwechselte Lichtmeteore betreffen, habe ich
 schon erwähnt. Auch in Beobachtungen über würkliche Feuerkugeln haben
@@ -266,25 +56,11 @@ vorübergehenden Erscheinung, die nicht immer von Naturkundigen beob-
 achtet worden, nicht anders zu erwarten ist. Die zu erwähnenden Beob-
 achtungen werde ich, um jede leichter zu finden, in ehronologischer Ordnung
 zusammenstellen.
-Am 21. May 1676 kam eine Feuerkugel von der Seite Dalmatiens
+Am 21. Mai 1676 kam eine Feuerkugel von der Seite Dalmatiens
 her über das Adriatische Meer, ging quer über Italien, wobei man ein
 zischen-
-sü a--
-i
-sestostottsiz11ozo1ao1aMotsato
-2
-iI
-8 ezn I M O a In 1n1a1- --1---
-aid.
 
 
-### 0017
-
-D
-i
-,
-l.
-9
 zischendes Geräusch hörte; sie zersprang Südsüdwestwärts von Livorno mit
 einem entsetzlichen Krachen, die Stücke fielen ins Meer mit einem Geräu-
 sche, wie wenn glühendes Eisen im Wasser gelöscht wird. Ihre Höhe
@@ -309,7 +85,7 @@ Schweif war 7 mal so lang als die Kugel; aus 4 Schlünden brachen
 Rauch und Flammen hervor. Sie zersprang mit einem entsetzlichen
 Knalle und verbreitete einen Schwefelgeruch. Ihre Höhe fand man
 zwischen 16000 und 20000 Schritten, ihren Durchmesser 3560 Schuh.
-Am 17. May 1719 erschien eine in England, ven welcher Halley
+Am 17. Mai 1719 erschien eine in England, ven welcher Halley
 in PIl. transact. n. 360. S. 978 Nachricht giebt; sie lief in einer
 Höhe von 64 geographischen Meilen 302 solcher Meilen in einer Minute
 B
@@ -339,7 +115,7 @@ ftoire de l'Academie des fciences 1753. - --
 2 -
 Am 15. Aug. 1755 sahe man eine in den Niederlanden, die von
 Nord nach Süd ging, und
-am z. May 1756 eine in Frankreich, deren Richtung von S. W.
+am z. Mai 1756 eine in Frankreich, deren Richtung von S. W.
 nach N. O. war; ben dem Zerspringen der letztern war die Erscütterung
 so heftig, daß Schorsieine davon einstürzten. Beide sind beschrieben in
 der Hiltoire de l'Academie des fciences 1756. S. 23.
@@ -365,13 +141,13 @@ Kanonenkugel mehr als 100 mal an Schnelligkeit.
 Am 20. Oct. 1759 zeigte sich eine in England, die von Nord nach
 Süd ging; Nachrichten davon finden sich in Phil. transact. Vol. LI.
 P. 1. n. 31, 32 und 33.
-Am 10. May 1760 erschien eine in Nordamerika, die von Nord
+Am 10. Mai 1760 erschien eine in Nordamerika, die von Nord
 nach Süd giug, Vormittags zwischen 9 und 10 Uhr, ungeachtet des hel-
 len Sonnenscheines mit siarkem Lichte; man bemerkte drei heftige Explosio-
 nen mit darauf folgendem rasselnden Getöse, welches an 80 englische Mei-
 len von einander entfernten Orten gehört ward. Die Daucr der Erschei-
 nung und des Getöses wird auf vier Minuten geschätzt. Winthrop hat
-diese Nachrichten mitgetheilt in Phil. transact. Vol. LII. p. 1. S. 6.
+diese Nachrichten mitgeteilt in Phil. transact. Vol. LII. p. 1. S. 6.
 Am 11. Nov. 1761 sahe man eine, ven der in der Niftoire de
 lacad. des sciences 1761. S. 28. Nachricht gegeben wird, in verschiede-
 nen Gegenden von Frankreich; sie zersprang ungefähr über der Gegend
@@ -463,7 +239,7 @@ men ihre Geschwindigkeit anfangs auf 1052 Toisen in einer Sekunde, ihre
 Höhe anfangs 5725 Toisen oder ungesähr 2 französische Meilen über die
 Fläche der Wolke, hinter welcher sie über den Londner Horizont hervorge-
 kommen ist; ihre Höhe über den Pariser Horizont 1518 Toisen über die
-Fläche dieser Wolle, ihren Durchmesser vor der Zertheilung 216 Fuß;
+Fläche dieser Wolle, ihren Durchmesser vor der Zerteilung 216 Fuß;
 zugleich wird aber bemerkt, daß die Zahlen eher zu klein, als zu groß
 angenommen sind, welches außer dem, daß die zahlreichen englischen
 Beobachtungen und Berechnungen, welche nur wenig von einander ab-
@@ -478,10 +254,10 @@ groß gewesen, wie die, welche ein schwerer Körper bei einem freien Falle
 aus einer Höhe von 1; französischen Meilen erhalten würde. Die schein-
 bare Größe dieser Feuerkugel war, als man sie zuerst beobachtete, etwa
 wie der Jupiter, nachher größer als der Vollmond, am gröften unmittel-
-bar vor der Zertheilung. Ihre Gestalt veränderte sich öfters, bald war
+bar vor der Zerteilung. Ihre Gestalt veränderte sich öfters, bald war
 sie rund, bald in die Länge gezogen. Das Licht war sehr ungleich, man
 konnte hellere und dunklere Stellen unterscheiden, im Innern war eine
-Bewegung oder Aufwallung der Materie zu bemerken. Sie zertheilte sich
+Bewegung oder Aufwallung der Materie zu bemerken. Sie zerteilte sich
 in
 15
 
@@ -491,7 +267,7 @@ in
 
 in mehrere kleinere Massen, die eine Strecke von ungesähr 15 Graden
 einnahmen, und neben einander ihren Weg fortsetzten. Cavallo und Pi-
-got haben den Knall 9 bis 10 Minuten nach der Zertheilung gehört, Coo-
+got haben den Knall 9 bis 10 Minuten nach der Zerteilung gehört, Coo-
 per hat 2 Explosionen bemerkt, die er mit dem Knalle einer 9pfündigen
 Kanone vergleicht.
 Am 4. Oct. 1783 ward eine ebenfalls in England beobachtet, und
@@ -623,7 +399,7 @@ Atmosphäre in die andere nicht Statt finden können, da freie Elektri-
 cität sich ohne merkliches Geräusch fortzubewegen pflegt; und noch we-
 niger möchten sich die bisweilen bemerkten mehrmaligen Explosenen,
 die Absonderung kleinerer Kugeln, die, so wie manchmal die einzelnen
-Stücke nach der Zertheilung in der nämlichen Richtung sortgehen, sich
+Stücke nach der Zerteilung in der nämlichen Richtung sortgehen, sich
 daraus auf eine befriedigende Art erklären lassen.
 Reimarus (vom Blitze, Hamb. 1778. 8. S. 568) sagt viel richti-
 ges darüber, daß Feuerkugeln nicht wohl aus bloßer Elektricität zu erklä-
@@ -682,7 +458,7 @@ Meilen weit gehört hat, läßt sich auch nicht mit einer bloßen Anhäu-
 fung lockerer Materien in der obern Luft zusammenreimen. Da auch
 das Zerspringen öfters in einer Höhe von mehreren Meilen geschehen ist,
 wo die äußerst dünne Luft der Verbreitung des Schalles sehr ungünstig
-sein muß; so läßt sich beurtheilen, daß die Kraft, welche einen so hef-
+sein muß; so läßt sich beurteilen, daß die Kraft, welche einen so hef-
 tigen Schall hervorgebracht hat, weit größer, und die Hülle, in welcher
 die elastische Flüßigkeit eingeschlossen gewesen, viel zäher und dichter
 müsse gewesen sein, als man von bloßen lockeren Anhäufungen von
@@ -831,7 +607,7 @@ s
 1
 c
 So wie erdige, metallische und andere Teile den Grundstoff un-
-seres Planeten ausmachen, wovon das Eisen unter die Hauptbestandtheile
+seres Planeten ausmachen, wovon das Eisen unter die Hauptbestandteile
 gehört, und so wie auch andere Weltkörper aus ähnlichem, oder vielleicht
 eben demselben, wiewohl auf sehr verschiedene Art gemischten und modifi-
 cirten Grundstoffe bestehen mögen: eben so sind auch viele, in kleinere Mas-
@@ -869,7 +645,7 @@ wegen der heftigen Reibung in der Atmosphäre eine sehr beträchtliche Hitze
 hervorgebracht, und also das Brennen auch bei einer sonst ziemlich un-
 günstigen Beschaffenheit der Luft, befördert werden muß. Es kommt
 auch vieles auf die Beschaffenheit der brennenden Materie selbst an; so
-brennt z. B. Schwefel (der ein Bestandtheil einiger gefundenen Massen
+brennt z. B. Schwefel (der ein Bestandteil einiger gefundenen Massen
 gewesen ist) unter der Luftpunpe noch bei einer solchen Verdünnung der
 Lust, wo kein anderer Körper nehr brennen will.
 §. 6.
@@ -988,7 +764,7 @@ el
 §. 7.
 Beobachtete Würkungen an dem Orte, wo Feuerkugeln
 niedergefallen.
-Von der am 21. May 1676 in Italien beobachteten Feuerkugel,
+Von der am 21. Mai 1676 in Italien beobachteten Feuerkugel,
 welche Montanari beschrieben, sollen, wie schon erwähnt, die Stücke nach
 dem Zerspringen südsüdwestwärts von Livorno in das Meer gefallen sein,
 mit einem Geräusche, wie wenn glühendes Eisen im Wasser gelöscht wird;
@@ -1047,8 +823,8 @@ allen sabelhaften Anstrich.
 a) Herr Stüt besitzt ein vom Herrn Baron von Hompesch
 (Domherrn zu Eichstädt und Bruchsal) erhaltenes Stück aus dem Eich-
 städtischen, welches aus aschgrauem Sandsteine besteht, und mit fei-
-nen Könerchent, theils von würklichem gediegenen Eisen, das sich geglüht
-volllommen hämmern läßt, theils von gelbbraunem Eisenocker, durchaus
+nen Könerchent, teils von würklichem gediegenen Eisen, das sich geglüht
+volllommen hämmern läßt, teils von gelbbraunem Eisenocker, durchaus
 ine
 3
 
@@ -1058,7 +834,7 @@ ine
 
 30
 eingesprengt ist; der Sandstein hat die Härte -eines Quadersieins, und
-besteht aus Kiesel und Eisentheilen. Eine gegen zwei Linien dicke, ham-
+besteht aus Kiesel und Eisenteilen. Eine gegen zwei Linien dicke, ham-
 merbare, ganz schwefellose Rinde von gediegenem Eisen bedeckt dessen
 Oberfläche. Die ganze Masse trägt Spuren ausgestandenen Feuers.
 Vom Stücke selbst ward dem Hrn. Baron v. Hompesch folgende Nachricht
@@ -1077,7 +853,7 @@ trlicher, als durch einen Blitz erklären. Hr. Stütz vermuthet, daß der
 daran befindliche Sandstein der nämliche sein möchte, wie an dem
 Gebürge, wo die Masse gefunden worden. Sollte dieses auch gegründet
 sein, welches genauere Untersuchung verdiente, und wegen der eingespreng-
-ten gediegenen Eisentheile nicht recht glaublich ist, so würde es doch mei-
+ten gediegenen Eisenteile nicht recht glaublich ist, so würde es doch mei-
 ner Erklärungsart nicht widersprechen, indem ein schon vorher da gelege-
 nes Seück Sandstein von der herabfallenden geschmolzenen Eisenmasse
 könnte umflossen, und vielleicht auch einigermaßen geschmolzen, und davon
@@ -1114,7 +890,7 @@ c) Durch die Aussagen von sieben Zeugen, worüber von dem
 Bischöflichen Consistorium zu Agram, welches die Sache durch Bevoll
 mächtigte an Ort und Stelle untersuchen lassen, eine, in jetzterwähntem
 Aufsatze des Hrn, Stütz wörtlich abgedruckte gerichtliche Urkunde abgefaße
-worden Twird bestätigt: daß am 26. May 1751 um 6 Uhr Nachmittags-
+worden Twird bestätigt: daß am 26. Mai 1751 um 6 Uhr Nachmittags-
 sich am Himmel eine feurige Kugel gezeigt habe, die bei Hraschina in
 der Agramer Gespannschaft im obern Teile von Slavonien in zwei
 Stücke zersprungen, und so in zwei Teilen, in Gestalt feuriger verwickel-
@@ -1135,7 +911,7 @@ Spalte, eine Elle weit, verursacht habe; an der Spalte habe die Erde
 gleichsam ausgebrannt und grünlich geschienen: das andere Stück, 16
 Pfund schwer, sei auf eine Wiese, 2000 Schritt davon, gefallen, wo man
 ebenfalls eine Spalte, fast zwei Ellen weit, gefunden habe. Auch haben
-viele Leute in verschiedenen Gegenden des Königreichs, die Zertheilung der
+viele Leute in verschiedenen Gegenden des Königreichs, die Zerteilung der
 Feuerkugel, das Knallen und Krachen in der Luft, wie auch, daß etwas
 feuriges vom Himmel gefallen sei, gesehen und bemerkt, nur daß ihnen
 der Ort, wo solche Stücke niedergefallen, wegen zu großer Entfernung
@@ -1178,7 +954,7 @@ Nach ichten sreilich mit allen bisher anerkannten physischen Begrifsen nicht
 da aber durch neine Erklärungsart die Sache zu einer ganz natürlichen
 Erscheinung wird, so glaube ich doch keine dem jetzigen Zeitalter unange-
 messene Begrisfe in der Naturkunde zu verrathen, wenn ich aus Gründen,
-die theils angeführt sind, theils in der Folge angeführt werden sollen, be-
+die teils angeführt sind, teils in der Folge angeführt werden sollen, be-
 baupte, daß diese Massen würklich als der Stoff einer Feuerkugel herab-
 gefallen sind, und nicht durch die Würkungen eines Blitzes entstanden sein
 können; daß man auch der Natur nicht widerspreche, wenn man gegen-
@@ -1321,7 +1097,7 @@ stark nach Schwefel gerochen hätten.
 p) Einen zu Aldoreto im Sommer 1766 herabgefallenen Stein
 erwähnt Vassalli ganz kurz in den angeführten lettere fifico-meteo-
 rologiche S.120. Ueber die Art, wie Beccaria, der die beobachte-
-ten Umstände von Fogliani, Bischofe zu Modena mitgetheilt erhalten,
+ten Umstände von Fogliani, Bischofe zu Modena mitgeteilt erhalten,
 diese Naturbegehenheit in der Nachschrift zu einem Briefe an Franklin
 de electricitate vindice zu erklären gesucht hat, werde ich zu Ende des
 15ten§. noch einiges sagen.
@@ -1351,12 +1127,12 @@ Uebereinstimmung der an drei so entsernten Orten beobachteten Thatsachen,
 und die völlige Aehnlichkeit der Massen und der Kennzeichen, wodurch sie
 sich von andern Mineralien unterscheiden, für hinlängliche Bewegungs-
 gründe, um die Beobachtung bekannt zu machen, und andere Naturfor-
-scher zu Mittheilung weiterer Bemerkungen über diesen Gegenstand
+scher zu Mitteilung weiterer Bemerkungen über diesen Gegenstand
 einzuladen.
 Sehr merkwürdig ist die Uebereinstimmung der bisher erwähnten
 Massen bei der Uebereinstimmung der Nachrichten. Alle diese Mas-
 sen, so weit sie untersucht sind, enthalten Eisen, entweder allein, oder
-mit Schwefel oder einigen Steintheilen vermischt; auch bei denen,
+mit Schwefel oder einigen Steinteilen vermischt; auch bei denen,
 die nicht weiter untersucht sind, lassen die angegebenen Umstände, z. --
 das Ansehen und die Schwere, das nämliche vermuthen. Die meisten
 sind mit einer Eisenrinde überzogen. Bei keiner einzigen Nachricht wird
@@ -1398,7 +1174,7 @@ Menge harter, dunkelgrauer, kalkartiger Schlacken gefunden, aber solche
 nicht weiter untersucht hat, findet sich in Nov. Act.. Ac. Nat. Cur.
 tom. III. obf. 51. p. 221. Es könnten vielleicht bei dieser zweiten
 Beobachtung die Schlacken blos aus der Asche selbst entstanden sein, aber
-bei der erstern scheinen die Bestandtheile einen andern Ursprung, und be-
+bei der erstern scheinen die Bestandteile einen andern Ursprung, und be-
 sonders die ockerartigen Stellen und der mehrere Eisengehalt, als man in
 der Pflanzenasche antrifft, einige Aehnlichkeit mit den vorigen zu ver-
 rathen.
@@ -1495,7 +1271,7 @@ gefunden hat, die auch offenbare Kennzeichen einer Veränderung durch
 Feuer verrathen, möchten wohl auch können hieher gerechnet werden.
 Selbst wenn er an ihnen Ueberbleibsel von Holzkohlen gefunden hat, würde
 dieses, wenn andere Umstände einen solchen Ursprung verrathen, nicht
-das Gegentheil darthun, indem benachbarte Holzstücke durch die herab-
+das Gegenteil darthun, indem benachbarte Holzstücke durch die herab-
 gefallene geschmolzene Masse können verkohlt sein. Der Umstand, daß
 dergleichen Massen meist auf einzelnen Bergen sind gefunden worden, ist
 übrigens meiner Theorie sehr günstig, denn ein einzelner Berg stellt einer
@@ -1505,7 +1281,7 @@ also daselbst mehrere Wahrscheinlichkeit des Niederfallens vorhanden. Auch
 kann dasselbe auf einem solchen Berge eher Statt finden, als auf einem,
 der durch andere benachbarte gedeckt ist. Es kann auch in einen felsigen
 Boden eine solche Masse entweder gar nicht, oder weniger tief eindringen,
-als in den mehrentheils weniger festen Boden in einer Ebene; sie muß
+als in den mehrenteils weniger festen Boden in einer Ebene; sie muß
 also daselbst auch leichter zu finden sein.
 . 10.
 Die Sibirlsche und ähnliche Eisenmassen sind nicht auf nassem
@@ -1569,7 +1345,7 @@ wahrscheinlich zu machen.
 §. 11.
 Sie sind nicht durch Kunst geschmolzen.
 a) Die auffallende Aehnlichkeit mit den im 8ten§. erwähnten Mas-
-sen lehrt das Gegentheil.
+sen lehrt das Gegenteil.
 b) Bei der Sibirischen Masse sieht man es aus den von Pallas
 angegebenen Localumständen. Die alten Bergleute in Sibirien, von de-
 ren Arbeiten man Spuren findet, scheinen gar nicht auf Eisen gearbeitet
@@ -1597,7 +1373,7 @@ d
 die Südamerikanische Masse in eine unbewohnbare Gegend sollte fortge-
 schasst, und die Akensche unbenutzt haben liegen lassen.
 c) Wäre die Sibirische Masse durch Kunst geschmolzen, so würde
-die bengemischte Steinart nicht so gleichförmig vertheilt und nicht so
+die bengemischte Steinart nicht so gleichförmig verteilt und nicht so
 durchsichtig sein, da die Schlacken aus metallurgischem Feuer meist
 schwarz und undurchsichtig sind.
 d) Das Eisen an der Sibirischen Masse, wie auch die Steinart
@@ -1648,13 +1424,13 @@ des Eisens und der Steinart, und der Geschmeidigkeit des Eisens, welche
 der Entstehung durch einen Wald-oder Steinkohlenbrand eben so sehr, als
 der künstlichen Schmelzung widersprechen, wird diese Meinung schon da-
 durch sehr unwahrscheinlich, weil diese Massen an Orten sind gefunden
-worden, wo unmöglich in einem engen Raume so viele Eisentheile haben
+worden, wo unmöglich in einem engen Raume so viele Eisenteile haben
 beisammen sein können, als zu so großen Massen erfordert würden. So
 fand sich die Sibirische Masse nicht da, wo in einiger Entfernung die
 Eisenanbrüche sind, sondern oben auf dem Schiefergebürge; die Südame-
 rikanische in einem Kreideboden, wo weit umher keine Eisenanbrüche, ja
 nicht einmal Berge oder Steine anzutreffen sind, und zu Aken möchten
-sich auch wohl nirgends so viele Eisentheile beisammen antreffen lassen.
+sich auch wohl nirgends so viele Eisenteile beisammen antreffen lassen.
 Hätte ein Wald-oder Steinkohlenbrand das Eisen aus seinen Erzen ge-
 schmolzen, so müßte man auch aller Wahrscheinlichkeit nach nicht nur
 eine so große Masse, sondern auch in der Nähe mehrere kleinere ge-
@@ -1744,7 +1520,7 @@ entwickelten Flüßigkeiten zu einem sehr großen Umfange bis zum Zersprin-
 gen ausgedehnt worden, so folgt daraus: daß da, wo Stücke einer zer-
 sprungenen Feuerkugel niedergefallen sind, auch Materien müssen gefunden
 werden, die mit allen diesen Eigenschaften übereinkommen. Das Eisen,
-als der Hauptbestandtheil der bisher gefimdenen Massen hat alle diese Ei-
+als der Hauptbestandteil der bisher gefimdenen Massen hat alle diese Ei-
 genschasten in vorzüglich hohem Grade. Die Schwere und Zähigkeit des
 Grundstoffes der Feuerkugeln, welche sehr beträchtlich sein muß, da sie
 bei der größten möglichen Ausdehnung doch Consistenz genug übrig be-
@@ -1862,7 +1638,7 @@ was man sonst an Feuerkugeln beobachtet hat, so überein, daß man, ohne
 etwas ungereimtes zu behaupten, die meisten dieser Erzählungen wörtlich
 für wahr annehmen kann.
 a) In der Agramer Urkunde (§. 8. c) wird erwähnt, daß viele
-Leute in verschiedenen Gegenden des Königreichs die Zertheilung der Feuer-
+Leute in verschiedenen Gegenden des Königreichs die Zerteilung der Feuer-
 kugel, das Knallen und Krachen in der uft, wie auch, daß etwas feuriges
 vom Himmel gefallen sei, gesehen und bemerkt haben, so daß die meisten
 darum, als um eine allbekannte Sache wußten, nur daß ihnen der Ort,
@@ -1875,7 +1651,7 @@ worden, und überall Aufsehn erregt haben, und noch weniger würde man
 ihn in einer großen Entfernung als ein Herabfallen einer feurigen Masse
 bemerkt, oder den Donner als ein Knallen und Krachen in der uft ge-
 hört, und solches als eine landkundige Sache angesehen haben. Dieser
-einzige Umstand ist wohl schon hinlänglich, um daraus zu beurtheilen,
+einzige Umstand ist wohl schon hinlänglich, um daraus zu beurteilen,
 daß es kein Blitz, sondern eine ungewöhnliche Naturerscheinung gewesen
 sei, und daß sich solche in weit höhern Regionen, als da, wo Gewitter
 sich befinden können, zugetragen haben müsse.
@@ -1954,7 +1730,7 @@ bürge, wo die Sibirische Masse in ziemlicher Entferng von dem Eisen-
 anbruche gefunden ward, in dem Kreideboden der weiten Südamerikani-
 schen Ebene, wo 100 Meilen umher keine Eisenanbrüche, ja nicht einmal
 Steine anzutressen sind, und zu Aken, wo meines Wissens auch keine
-Eisenanbrüche sind, in einem engen Raume so viele Eisentheile lönnten
+Eisenanbrüche sind, in einem engen Raume so viele Eisenteile lönnten
 beisammen gewesen sein, als zu Messen von 16.0 Pfunden, ren 30
 Cennern und von 15000 bis 17000 Pfunden ersordert würden. Dieser
 Umstand giebt zu erkennen, daß diese Massen cben so wenig durch einen
@@ -1962,7 +1738,7 @@ Blitz, als durch einen Wald oder Steinkohlenbrand an Ort und Stelle
 können geschmolzen sein.
 b) Man hat diese Massen zu Tage ausstehend gefunden, und nicht
 etwa in einiger Tiefe, wo allenfalls eher ein solches Zusammenfliesen von
-Eisentheilen, die durch einen Blitz geschmolzen worden, sich denken ließe.
+Eisenteilen, die durch einen Blitz geschmolzen worden, sich denken ließe.
 Beide jetzt erwähnte Umstände kommen mit dem Ursprunge durch
 das Herabfallen einer Feuerkugel sehr wohl überein, indem a) ein vor
 dem
@@ -2026,7 +1802,7 @@ chen schienen, und noch manche andere Umstände den Ursprung so prob-
 lematisch machten, daß noch keine einzige vorhandene Hypothese allgemein
 als wahrscheinlich anerkannt werden konnte.
 ) Die Feuerkugeln, worüber die Meinungen der Naturfor-
-scher so sehr von einander abweichen, und größtentheils der Natur wi-
+scher so sehr von einander abweichen, und größtenteils der Natur wi-
 dersprechen.
 e7
 , Die Sternschnuppen, worüber auch wenig bestimmtes sich
@@ -2104,12 +1880,12 @@ s
 sich durch die Anziehungskraft in grofe Massen angehüust haben; oder, daß
 eltiörper aus den Teilen einer zerstückten weit gröfern Messe, snd
 3.
-gebildet worden, welche Zertheilung vielleicht durch irgend einen Stoß von
+gebildet worden, welche Zerteilung vielleicht durch irgend einen Stoß von
 aussen, oder durch eine Explosion von innen könnte bewürkt sein. Nun
 mag von diesen Hypothesen die richtigere sein, welche da wolle, so ist es
 nicht unwahrscheinlich, oder wenigstens der Natur nicht widersprechend,
 wenn man annimmt, daß sehr viele dergleichen materielle Teile entweder
-wegen zu großer Entfernung, oder weil es eine ihnen mitgetheilte siärkere
+wegen zu großer Entfernung, oder weil es eine ihnen mitgeteilte siärkere
 Bewegung nach einer andern Richtung verhindert hat, sich mit keiner zu
 ei iem Weltkörper sich anhäufenden größern Masse vereinigt haben; son-
 dern einzeln übrig geblieben sind, und durch Anziehung, oder durch irgend
@@ -2121,9 +1897,9 @@ sachen.
 -
 .
 2
-Es ist merkwürdig, daß Eisen der Hauptbestandtheil der bisher
+Es ist merkwürdig, daß Eisen der Hauptbestandteil der bisher
 gefundenen Massen ist, da man dasselbe nicht nur fast überall auf der
-Oberfläche unserer Erde, selbst als Bestandtheil vieler Wesen aus dem
+Oberfläche unserer Erde, selbst als Bestandteil vieler Wesen aus dem
 Pflanzen-und Thierreiche antrifft, sondern auch die magnetischen Erschei-
 nungen
 t
@@ -2249,7 +2025,7 @@ Nachahmung. Daß man bei dem Gerüchte von einer sonderbaren
 Naturbegebenheit unverzüglich Bevollmächtigte abschickte, um die
 Sache an Ort und Stelle zu untersuchen, daß man viele Zeugen
 darüber einzeln abhörte, und alles in einer einfachen Schreibart,
-die das Gepräge! der Glaubwürdigkeit hat, ohne sein Urtheil mit
+die das Gepräge! der Glaubwürdigkeit hat, ohne sein Urteil mit
 einzumischen, niederschrieb, eine Urkunde darüber abfaßte, und diese
 nebst der einen gesundenen Masse an das kayserliche Naturalienkabinet
 einschickte; das war doch wohl unter allen, was man thun konnte,
