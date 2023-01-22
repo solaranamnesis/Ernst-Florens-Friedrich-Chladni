@@ -2,51 +2,24 @@
 
 ## Von Ernst Florens Friedrich Chladni,
 
-### in Wittenberg, der Phil. und Rechte Doctor, der Berliner Gesellschast Naturs. Freunde Mitglied, und der königl. Societät der Wissenschasten zu Göttingen Cerrespondenten.
+### in Wittenberg, der Phil. und Rechte Doctor, der Berliner Gesellschaft Naturf. Freunde Mitgliede, und der königl. Societät der Wissenschaften zu Göttingen Correspondenten.
 
-### Riga, bei Johann Friedrich Hartkn
+### Riga, bei Johann Friedrich Hartknoch.
 
 ### 1794.
 
+§\. 1.
 
-§. 1.
-Der gesundene Stoff niedergefallener Feuerfugeln, und die Pallasische wie
-auch andere ihr ähnliche Massen sind ganz einerlei.
-(Da die meisten bisherigen Behauptungen über den Ursprung der von
-1
-Pallas in Sibirien gefundenen und einiger ihr ähnlicher Eisen-
-massen mit den Eigenschaften und mit den Localumständen derselben gar
-nicht zusammentressen wollten: so dachte ich einer andern Erklärungsart
-nach, und kam endlich auf eine, welche sich mit deren Eigenschaften und
-Ortsumständen vollkommen vereinen läßt, und zugleich über einige andere
-ebenfalls noch auf keine befriedigende Art erklärte Naturerscheinungen ein
-viel helleres icht verbreitet. So sehr meine neue Erklärungsart manchem
-anfangs paradex scheinen möchte, so wenig wird sie es ihm dann noch
-sein, wenn er meine Gründe gegen die bisherigen und für meine Behaup-
-tungen ohne vorgesafite Meinung erwogen haben wird. Allem Anse-
-hen noch sind nämlich diese Massen und der Stoff der Feuerkugeln
-ganz einerlei: Alles, was man an diesen vor und nach ihrem Nieder-
-fallen bemerkt hat, lehrt uns, daß sie aus schweren und dichten Grundstofsen
-besiehen, die weder als dichte Masse durch irgend eine tellurische Krast
-in die Höhe gesührt, noch aus den in der Atmosphäre befindlichen Theilen
-angehäust sein konnten, sondern aus dem übrigen Weltraume zu uns an,
-langten, und läßt uns wegen der auffallenden Aehnlichkeit der an dem
-Orte des Niedersallens gefundenen Massen sowohl unter sich, als auch mit
-dop
+Der gefundene Stoff niedergefallener Feuerkugeln, und die Pallasische wie auch andere ihr ähnliche Massen sind ganz einerlei.
 
-c
-Pallasischen und einigen andern Massen mit allem Rechte 'auf eine gleiche
-Entstehung dieser mit jenen schließen, welche auch außerdem noch durch
-viele Gründe bestätigt wird.
-§. 2
+Da die meisten bisherigen Behauptungen über den Ursprung der von Pallas in Sibirien gefundenen und einiger ihr ähnlicher Eisenmassen mit den Eigenschaften und mit den Localumständen derselben gar nicht zusammentressen wollten: so dachte ich einer andern Erklärungsart nach, und kam endlich auf eine, welche sich mit deren Eigenschaften und Ortsumständen vollkommen vereinen läßt, und zugleich über einige andere ebenfalls noch auf keine befriedigende Art erklärte Naturerscheinungen ein viel helleres icht verbreitet. So sehr meine neue Erklärungsart manchem anfangs paradox scheinen möchte, so wenig wird sie es ihm dann noch sein, wenn er meine Gründe gegen die bisherigen und für meine Behauptungen ohne vorgefaßte Meinung erwogen haben wird. Allem Ansehen noch sind nämlich diese Massen und der Stoff der Feuerkugeln ganz einerlei: Alles, was man an diesen vor und nach ihrem Niederfallen bemerkt hat, lehrt uns, daß sie aus schweren und dichten Grundstoffen bestehen, die weder als dichte Masse durch irgend eine tellurische Kraft in die Höhe geführt, noch aus den in der Atmosphäre befindlichen Teilen angehäuft sein konnten, sondern aus dem übrigen Weltraume zu uns anlangten, und läßt uns wegen der auffallenden Aehnlichkeit der an dem Orte des Niederfallens gefundenen Massen sowohl unter sich, als auch mit Pallasischen und einigen andern Massen mit allem Rechte auf eine gleiche Entstehung dieser mit jenen schließen, welche auch außerdem noch durch viele Gründe bestätigt wird.
+
+§\. 2
+
 Allgemeine Bemerkungen über Feuerkugeln.
-Eine Feuerkugel (bolis) nennt man die ziemlich seltene
-Naturerscheinung, da eine feurige Masse meist anfangs in der Gestalt
-eines hellen Sternes oder vielmehr einer Sternschnuppe in einer beträcht-
-lichen Höhe sichtbar wird, sich schnell in einer schief niederwärts gehenden
-Richtung fortbewegt, dabei an Geöße bis zu einem den Mond bisweilen
-übertreffenden scheinbaren Durchmesser zunimmt, öscers Flammen, Rauch
-und Funken auswirft und endlich mit einem heftigen Getöse zerspringt.
+
+Eine Feuerkugel (_bolis_) nennt man die ziemlich seltene Naturerscheinung, da eine feurige Masse meist anfangs in der Gestalt eines hellen Sternes oder vielmehr einer Sternschnuppe in einer beträchtlichen Höhe sichtbar wird, sich schnell in einer schief niederwärts gehenden Richtung fortbewegt, dabei an Größe bis zu einem den Mond bisweilen übertreffenden scheinbaren Durchmesser zunimmt, öfters Flammen, Rauch und Funken auswirft und endlich mit einem heftigen Getöse zerspringt.
+
 Von den vorhandenen Beobachtungen über Feuerkugeln sind die-
 zenigen ganz abzusondern, wo Blitze oder andere Lichterscheinungen damit
 sind verwechselt worden. So sind z. B. die meisten von Muschenbroek
@@ -447,7 +420,7 @@ ee
 ### 0021
 
 Am 17. Jul. 1771 ging eine von N. nach S. über England und
-einem großen Theil von Frankreich, sie ward von de la Lande und vielen
+einem großen Teil von Frankreich, sie ward von de la Lande und vielen
 andern beobachtet; eine Abhandlung darüber von le Roy findet sich in den
 Memoires de l'Academie des sciences, 1771. S. 668. Diese
 Feuerkugel erschien größer als der Mond, sie zersprang südsüdwestwärts
@@ -675,7 +648,7 @@ welche sich wohl noch weniger mit einigem Scheine von Wahrheit verthei-
 digen läßt, als die vorige, ist unter andern folgendes zu erinnern:
 Zu einer so beträchtlichen Höhe, wo man Feuerkugeln beob-
 achtet hat, wo die Luft viele tausend mal dünner ist, als unten, können
-unmöglich so viele materielle Theile in Dunst- oder anderer Gestalt ge-
+unmöglich so viele materielle Teile in Dunst- oder anderer Gestalt ge-
 führt werden, als zu einer solchen Zusammenhäufung erfordert würden.
 Es ist hierbei auch gar sehr in Anschlag zu bringen, daß man solche
 Erscheinungen gemeiniglich nicht eher bemerkt, als bis sie durch ihe
@@ -744,7 +717,7 @@ e) Man bemerke keine Explosion bei ihrer ersien Erscheinung, wie
 bei Entzündung der brennbaren uft, sondern allemal erst, wenn sie
 einen weiten Weg fortgegangen sind.
 f) Im Sommer, wo aus faulenden animalischen und vegetabi-
-lischen Theilen so viele brennbare Luft entwickelt wird, erscheinen Feuer-
+lischen Teilen so viele brennbare Luft entwickelt wird, erscheinen Feuer-
 kugeln nicht öfter, als in andern Jahreszeiten.
 V) Maskelyne vermuthet, daß es bleibende dichte Körper sind, die
 sich um die Sonne bewegen; so habenssie auch Hevel l(in s. Cometogra-
@@ -781,7 +754,7 @@ sie vermöge irgend eines erhaltenen Stoßes sich in gerader Richtung durch
 den allgemeinen Weltraum bewegen, bis diese Bewegung bei einer zufäl-
 ligen Annäherung an einen Welekörper durch dessen Anziehung verändere
 wird, möchte sich wohl nicht so genau bestimmen lassen, da man nur einen
-so kleinen Theil des Weges zu beobachten im Stande ist.
+so kleinen Teil des Weges zu beobachten im Stande ist.
 Bei dieser Verschiedenheit der Erklärungsarten ist merkwürdig,
 daß viele Naturforscher gern Naturerscheinungen aus dem erklären, womit
 sie sich sehr beschäfstiget haben; z. B. Bergmann, der sich bemühet hat,
@@ -833,7 +806,7 @@ stalt bald rund, bald in die Länge gezogen erscheint, und das Anwachsen
 der Größe bis zum Zerspringen, und das Zerspringen selbst eine Austehn-
 barkeit durch elastische Flüßigkeiten voraussetzt;
 daß ein solcher dichter Stoff in einer so großen Höhe sch nicht aus
-den in der Atmosphäre befindlichen Theilen anhäufen, oder durch telluri-
+den in der Atmosphäre befindlichen Teilen anhäufen, oder durch telluri-
 sche Kräfte, so weit wir sie kennen, als dichte Masse hinaufgeworfen sein
 kann;
 daß auch keine uns bekannte tellurische Kräfte im Stande sind,
@@ -857,7 +830,7 @@ Theorie dieser Naturerscheinungen folgende:
 s
 1
 c
-So wie erdige, metallische und andere Theile den Grundstoff un-
+So wie erdige, metallische und andere Teile den Grundstoff un-
 seres Planeten ausmachen, wovon das Eisen unter die Hauptbestandtheile
 gehört, und so wie auch andere Weltkörper aus ähnlichem, oder vielleicht
 eben demselben, wiewohl auf sehr verschiedene Art gemischten und modifi-
@@ -929,7 +902,7 @@ Al
 2
 Stelle des Himmels zur andern in gerader Richtung sich bewegen, und
 sodann verschwinden; bisweilen geht ihre sichtbare Bahn über den größ-
-ten Theil des Himmels, bisweilen sieht man sie nur wenige Grade durch-
+ten Teil des Himmels, bisweilen sieht man sie nur wenige Grade durch-
 laufen. Manchmal werfen sie Funken aus. Ueber ihre Höhe hat man
 meines Wissens noch keine Beobachtungen, außer, daß Brydone auf dem
 Aetna, und Sauffüre auf dem Montblanc sie in einer eben so großen
@@ -975,7 +948,7 @@ daß solche lockere Massen in der Armosphäre, obgleich in keiner solchen
 Höhe, wo man Feuerkugeln beobachtet hat, sich anhäufen, und sodann
 niedersallen, eder noch wahrscheinlicher, daß sie mit den Irrlichtern *)
 gleiche Entsiehung haben, und ganz unten aus schleimigen, durch die Fäul-
-niß aufgelöstten vegetabilischen, oder animalischen Theilen entste-
+niß aufgelöstten vegetabilischen, oder animalischen Teilen entste-
 hen, und durch Ausdehnung vermittelst der specifisch leichten, brennbaren
 Sumpfluft, gewissermaßen als natürliche Aecostaten, sich zu einer gerin-
 gen Höhe erheben, bis sie entweder nach einer Zerstreuung der brennbaren
@@ -1143,8 +1116,8 @@ mächtigte an Ort und Stelle untersuchen lassen, eine, in jetzterwähntem
 Aufsatze des Hrn, Stütz wörtlich abgedruckte gerichtliche Urkunde abgefaße
 worden Twird bestätigt: daß am 26. May 1751 um 6 Uhr Nachmittags-
 sich am Himmel eine feurige Kugel gezeigt habe, die bei Hraschina in
-der Agramer Gespannschaft im obern Theile von Slavonien in zwei
-Stücke zersprungen, und so in zwei Theilen, in Gestalt feuriger verwickel-
+der Agramer Gespannschaft im obern Teile von Slavonien in zwei
+Stücke zersprungen, und so in zwei Teilen, in Gestalt feuriger verwickel-
 ter Ketten, wobei man einen, erst schwarzen, nachher vielfarbigen Rauch
 bemerkt habe, mit schrecklichem Getöse und mit solcher Gewalt herabgefal-
 len, daß die Erde wie bei einem Erdbeben davon erschüttert worden-
@@ -1361,7 +1334,7 @@ Umstände sind bei allen dreien die nämlichen gewesen, es wird aber wei-
 ter nichts davon erwähnt, als daß man dabei auch ein Zischen gehört,
 und die Massen heiß angetroffen habe. Alle drei waren einander ganz
 ähnlich, von der nämlichen Farbe und ziemlich ven dem nämlichen
-Korn, man konnte kleine metallische und kiesige Theile unterscheiden, aus-
+Korn, man konnte kleine metallische und kiesige Teile unterscheiden, aus-
 wendig waren sie mit einer harten eisenartigen Rinde überzogen. Bei
 chemischer Untersuchung, die aber, so wie die ganzen gegebenen Nachrich-
 ten hätte genauer sein können, fand man, daß sie Eisen und Schwefel
@@ -1560,7 +1533,7 @@ medergedrückten Oberfläche, der äußern harten und mit kuglichen Eindrük.
 ken überall versehenen Rinde, nebst der innern schwammigen und ästigen
 Textur und überhaupt aus dem ganzen Ansehen zu schließen ist, daß die
 Masse geschmolzen und die Oberfläche eher erkaltet und verhärtet sei, als
-die innern Theile. Bei der Sibirischen Masse sieht man auch die Wür-
+die innern Teile. Bei der Sibirischen Masse sieht man auch die Wür-
 kungen des Feuers an der allem Ansehen nach verglaseten Steinart, womit
 die Höhlungen des Eisens ausgefüllt sind. Diese Beschassenheit der Masse
 würde allein schon hinlänglich sein, um eine Entstehung durch Feuer anzu-
@@ -1631,7 +1604,7 @@ d) Das Eisen an der Sibirischen Masse, wie auch die Steinart
 widerstehen ohne andern Zusatz der Schmelzung so sehr, daß nach den
 Meierschen Versuchen (im dritten Bande der Beschäftigungen der Ber-
 liner Gesellschaft naturforschender Freunde S. 38;) bei dem stärksten
-Feuer nur der den Tiegel unmittelbar berührende Theil verglasete, und
+Feuer nur der den Tiegel unmittelbar berührende Teil verglasete, und
 mit ihm zusammenhing, aber schlechterdings keine gänzliche Schmelzung
 zu bewürken war.
 e) Ein Hauptgrund liegt in der Geschmeidigkeit des Eisens. Alles
@@ -1711,7 +1684,7 @@ durch das stärkste künstliche Feuer.
 d) Die außerordentliche Geschmeidigkeit des Eisens würde bei einer
 vulkanischen Schmelzung noch weniger Statt finden können, als bei einer
 jeden andern, weil das Eisen wohl nicht ohne Verunreinigung mit vielen
-fremden Theilen bleiben könnte.
+fremden Teilen bleiben könnte.
 e) Man tift an den Orten, wo sie gefunden worden, keine Vulka-
 ne an, am wenigsten in einer solchen Nähe, daß eine so große und
 schwere Masse an den Ort, wo man sie gesunden, könnte hingeworfen
@@ -1932,10 +1905,10 @@ Winter geschah, da die Erde über einen Fuß hoch mit Schnee bedeckt war,
 und al so die Atmosphäre von Dünsten sehr gereinigt sein mußte.
 c) Bei der Gleichförmigkeit der Massen ist es höchst unwahr-
 scheinlich, daß an allen den Orten, wo man dergleichen gefunden, nur
-einerlei schmelzbare Theile sollten vorhanden gewesen, und vom Blitze auf
+einerlei schmelzbare Teile sollten vorhanden gewesen, und vom Blitze auf
 einerlei Art verändert worden sein, da man überdieses noch nie an Or-
 ten, wo ein Blitz eingeschlagen, ähnliche Massen, sondern allenfalls nur
-verschlackte erdige Theile und dergl. gefunden hat.
+verschlackte erdige Teile und dergl. gefunden hat.
 d, Die Erscheinungen, welche man zu Agram beobachtet hat, sind
 e
 von denen, die man bei einem Blitze sieht, verschieden, aber ganz so be-
@@ -2067,7 +2040,7 @@ tt
 So sehr nun bei der jetzt gegebenen Erklärungsart alles unter sich
 zusammen hängt, so wird dem ungeachtet der Satz, daß in dem allgemei-
 nen Weltraume außer den Weltkörpern auch viele kleinere Anhäufungen
-von groben materiellen Theilen vorhanden sind, vielleicht manchem un-
+von groben materiellen Teilen vorhanden sind, vielleicht manchem un-
 glaublich genug scheinen, um deshalb die ganze vorgetragene Theorie zu
 verwerfen. Diese Unglaublichkeit des Satzes ist aber nur scheinbar, und
 beruhet nicht auf Gründen, sondern vielmehr nr darauf, daß er unge-
@@ -2087,7 +2060,7 @@ l
 ### 0065
 
 37
-schen Flüsigkeiten keine weitere materielle Theile im allgemeinen Weltrau-
+schen Flüsigkeiten keine weitere materielle Teile im allgemeinen Weltrau-
 me vorhanden, eben so willkührlich angenommen ist, als der: es sind der-
 gleichen vorhanden. Aus Gründen a priori möchte sich wohl keiner von
 beiden beweisen lassen, es müssen vielmehr blos Beobachtungen hierüber ent-
@@ -2113,7 +2086,7 @@ Meinung einigermafen wahrscheinlich machen, z. B. das Erscheinen und
 gänzliche Verschwinden einiger Sterne; wenn es nicht etwa auf periodi-
 schen Veränderungen beruht. Nimmt man nun an, daß Weltlö per entstan-
 den sind, so läsit sich ein solches Cntsiehen wohl nicht anders denken, als
-dadurch: daß entweder materielle Theile, die vorher in einem mehr lockern
+dadurch: daß entweder materielle Teile, die vorher in einem mehr lockern
 und chaotischen Zustande in einem größern Raume zerstreut gewesen sind,
 sich
 sm
@@ -2129,13 +2102,13 @@ k1I7Tof:
 s
 3
 sich durch die Anziehungskraft in grofe Massen angehüust haben; oder, daß
-eltiörper aus den Theilen einer zerstückten weit gröfern Messe, snd
+eltiörper aus den Teilen einer zerstückten weit gröfern Messe, snd
 3.
 gebildet worden, welche Zertheilung vielleicht durch irgend einen Stoß von
 aussen, oder durch eine Explosion von innen könnte bewürkt sein. Nun
 mag von diesen Hypothesen die richtigere sein, welche da wolle, so ist es
 nicht unwahrscheinlich, oder wenigstens der Natur nicht widersprechend,
-wenn man annimmt, daß sehr viele dergleichen materielle Theile entweder
+wenn man annimmt, daß sehr viele dergleichen materielle Teile entweder
 wegen zu großer Entfernung, oder weil es eine ihnen mitgetheilte siärkere
 Bewegung nach einer andern Richtung verhindert hat, sich mit keiner zu
 ei iem Weltkörper sich anhäufenden größern Masse vereinigt haben; son-
