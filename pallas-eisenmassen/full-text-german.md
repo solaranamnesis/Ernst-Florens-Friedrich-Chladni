@@ -44,265 +44,72 @@ h) Die Geschwindigkeit ihrer Bewegung ist so groß, daß sie bisweilen der Gesch
 
 Nachrichten von einigen Beobachtungen.
 
-Als Belege zu dem vorigen §. werde ich aus den vielen ältern und
-neuern Beobachtungen nur einige der vorzüglichsten erwähnen. n
-solche Nachrichten ganz davon abzusondern sind, die keine eigentliche Feuer-
-kugeln, sondern andere damit verwechselte Lichtmeteore betreffen, habe ich
-schon erwähnt. Auch in Beobachtungen über würkliche Feuerkugeln haben
-sich manche optische Täuschungen eingeschlichen; so hat z. B. mancher die
-Entsernung nach dem Augenmaße weit geringer geschitzt, als man sie
-nachher durch Berechnungen gefunden hat, welches bei einer so schnell
-vorübergehenden Erscheinung, die nicht immer von Naturkundigen beob-
-achtet worden, nicht anders zu erwarten ist. Die zu erwähnenden Beob-
-achtungen werde ich, um jede leichter zu finden, in ehronologischer Ordnung
-zusammenstellen.
-Am 21. Mai 1676 kam eine Feuerkugel von der Seite Dalmatiens
-her über das Adriatische Meer, ging quer über Italien, wobei man ein
-zischen-
+Als Belege zu dem vorigen §. werde ich aus den vielen ältern und neuern Beobachtungen nur einige der vorzüglichsten erwähnen. Daß solche Nachrichten ganz davon abzusondern sind, die keine eigentliche Feuerkugeln, sondern andere damit verwechselte Lichtmeteore betreffen, habe ich schon erwähnt. Auch in Beobachtungen über würkliche Feuerkugeln haben sich manche optische Täuschungen eingeschlichen; so hat z. B. mancher die Entfernung nach dem Augenmaße weit geringer geschätzt, als man sie nachher durch Berechnungen gefunden hat, welches bei einer so schnell vorübergehenden Erscheinung, die nicht immer von Naturkundigen beobachtet worden, nicht anders zu erwarten ist. Die zu erwähnenden Beobachtungen werde ich, um jede leichter zu finden, in chronologischer Ordnung zusammenstellen.
 
+Am 21. Mai 1676 kam eine Feuerkugel von der Seite Dalmatiens her über das Adriatische Meer, ging quer über Italien, wobei man ein zischendes Geräusch hörte; sie zersprang Südsüdwestwärts von Livorno mit einem entsetzlichen Krachen, die Stücke fielen ins Meer mit einem Geräusche, wie wenn glühendes Eisen im Wasser gelöscht wird. Ihre Höhe war wenigstens 38 italiänische Meilen, ihre Geschwindigkeit nicht weniniger als 160 Meilen in einer Minute. Ihre Gestalt war länglich; der längere Durchmesser, welcher den Mond an scheinbarer Größe übertraf, mochte eine italiänische Meile, der andere halb so viel betragen. Montanari, Professor der Mathematik zu Bologna hat einen eigenen Tractat darüber geschrieben, es werden diese Nachrichten auch von Halley (_Phil. transact. n. 341_) und von verschiedenen andern Schriftstellern erwähnt.
 
-zischendes Geräusch hörte; sie zersprang Südsüdwestwärts von Livorno mit
-einem entsetzlichen Krachen, die Stücke fielen ins Meer mit einem Geräu-
-sche, wie wenn glühendes Eisen im Wasser gelöscht wird. Ihre Höhe
-war wenigstens ;8 italiänische Meilen, ihre Geschwindigkeit nicht weni-
-niger als 160 Meilen in einer Minute. Ihre Gestalt war länglich; der
-längere Durchmesser, welcher den Mond an scheinbarer Größe übertraf,
-mochte eine italiänische Meile, der andere halb so viel betragen. Mon-
-tanari, Professor der Mathematik zu Bologna hat 'einen eigenen Tractat
-darüber geschrieben, es werden diese Nachrichien auch ven Halley (Phil.
-transact. n. 341und von verschiedenen andern Schriftstellern erwähnt.
-Im Jahre 1686 ward eine von Kirch (Ephem. Nat. Cur.
-1686) zu Leipzig beobachtet, die still zu siehen schien; der Grund davon
-kann in nichts andern liegen, als weil der Ort der Beobachtung in der
-Richtung der Bewegung war.
-Am 31. Jul. 1708 erschien eine in England, die 40 bis 50 eng-
-lische Meilen hoch war; Halley giebt davon Nachricht in Phil. transact.
-n. 341.
-Am 22. Febr. 1719 sahe man eine, die Balbi in Comment. In-
-siit. Bonon. tom. I. S. 28; beschrieben, in Italien so groß, wie der
-Vollmond; das Licht wird mit brennendem Kampfer verglichen; der
-Schweif war 7 mal so lang als die Kugel; aus 4 Schlünden brachen
-Rauch und Flammen hervor. Sie zersprang mit einem entsetzlichen
-Knalle und verbreitete einen Schwefelgeruch. Ihre Höhe fand man
-zwischen 16000 und 20000 Schritten, ihren Durchmesser 3560 Schuh.
-Am 17. Mai 1719 erschien eine in England, ven welcher Halley
-in PIl. transact. n. 360. S. 978 Nachricht giebt; sie lief in einer
-Höhe von 64 geographischen Meilen 302 solcher Meilen in einer Minute
-B
-derch,
+Im Jahre 1686 ward eine von Kirch (_Ephem. Nat. Cur. 1686_) zu Leipzig beobachtet, die still zu stehen schien; der Grund davon kann in nichts andern liegen, als weil der Ort der Beobachtung in der Richtung der Bewegung war.
 
-,
-durch, und zersprang mit einem schrecklichen Getöse, wodurch Fenster,
-Thüren und ganze Häuser erschüttert wurden.
-Am 3. Jun. 1739 Abends um 10 Uhr bemerkte man eine in
-Nordamerika, sie ging von Süd nach Nord, ließ viele Funken und
-kleinere Kugeln nach sich, den Donner hörte man an Orten, die 80
-englische Meilen von einander entfernt waren. Winthrop hat sie beschrie-
-ben in Phil. transact. Vol. LIV. for. 1764. n. XXXIV.
-Am 9. Febr. 1750 ward eine in Schlesien gesehen, sie ging von
-S. W. nach N. O., man glaubte bemerkt zu haben, daß die Stücke in
-die Oder gefallen wären, andere gaben andere Orte an, wobei wohl
-viel optischer Betrug mag gewesen sein. Nachricht davon findet sich
-in Nov. Act. Erud. 1754. Septemb. p. 507. und in Nov. Act. Nat.
-Cur. tom. I. p. 348.
-Am 22. Jul. 1750 ward eine, die von Nord kam, in England
-bemerkt, und von Smith und Baker in Phil. transact. Vol. XLVII.
-p. 1. kurz beschrieben.
-Am 4. Novembr. 1753 bemerkte man eine in Frankreich, des-
-gleichen auch
-am 4. Dec. des nämlichen Jahres; sie werden erwähnt in der Hi-
-ftoire de l'Academie des fciences 1753. - --
-2 -
-Am 15. Aug. 1755 sahe man eine in den Niederlanden, die von
-Nord nach Süd ging, und
-am z. Mai 1756 eine in Frankreich, deren Richtung von S. W.
-nach N. O. war; ben dem Zerspringen der letztern war die Erscütterung
-so heftig, daß Schorsieine davon einstürzten. Beide sind beschrieben in
-der Hiltoire de l'Academie des fciences 1756. S. 23.
-ä
+Am 31. Jul. 1708 erschien eine in England, die 40 bis 50 englische Meilen hoch war; Halley giebt davon Nachricht in _Phil. transact. n. 341._
 
+Am 22. Febr. 1719 sahe man eine, die Balbi in _Comment. Instit. Bonon. tom. 1. S. 285_ beschrieben, in Italien so groß, wie der Vollmond; das Licht wird mit brennendem Kampfer verglichen; der Schweif war 7 mal so lang als die Kugel; aus 4 Schlünden brachen Rauch und Flammen hervor. Sie zersprang mit einem entsetzlichen Knalle und verbreitete einen Schwefelgeruch. Ihre Höhe fand man zwischen 16000 und 20000 Schritten, ihren Durchmesser 3560 Schuh.
 
-### 0019
+Am 17. Mai 1719 erschien eine in England, von welcher Halley in _Phil. transact. n. 360. S. 978_ Nachricht giebt; sie lief in einer Höhe von 64 geographischen Meilen 300 solcher Meilen in einer Minute durch, und zersprang mit einem schrecklichen Getöse, wodurch Fenster, Thüren und ganze Häuser erschüttert wurden.
 
-s
-It
-Am 26. Nov. 1758 ward eine (die Pringle in Phil. transact. Vol.
-F 7
-. p. 1. n. XXVI und XXVII beschrieben) in ganz Großbritta-
-nien gesehen; sie ging von S. O. nach N. W., ihr Licht wird mit geschmol-
-'a
-zenem Eisen verglichen, es war ungeachtet des hellen Sonnenscheines dech
-beträchtlich. Der Schweif zersprang in drei Stücke mit starkem Getöse.
-Ihre Höhe fand man über Cambridge 90 bis 100, und über Fort Wil-
-liam 26 bis 32 engl. Meilen, ihren Durchmesser zwischen bis 1,
-Meile, ihre Geschwindigkeit ;0 solcher Meilen in einer Sekunde; sie be-
-wegte sich also schneller als die Erde in ihrem Laufe und übertraf eine
-Kanonenkugel mehr als 100 mal an Schnelligkeit.
-Am 20. Oct. 1759 zeigte sich eine in England, die von Nord nach
-Süd ging; Nachrichten davon finden sich in Phil. transact. Vol. LI.
-P. 1. n. 31, 32 und 33.
-Am 10. Mai 1760 erschien eine in Nordamerika, die von Nord
-nach Süd giug, Vormittags zwischen 9 und 10 Uhr, ungeachtet des hel-
-len Sonnenscheines mit siarkem Lichte; man bemerkte drei heftige Explosio-
-nen mit darauf folgendem rasselnden Getöse, welches an 80 englische Mei-
-len von einander entfernten Orten gehört ward. Die Daucr der Erschei-
-nung und des Getöses wird auf vier Minuten geschätzt. Winthrop hat
-diese Nachrichten mitgeteilt in Phil. transact. Vol. LII. p. 1. S. 6.
-Am 11. Nov. 1761 sahe man eine, ven der in der Niftoire de
-lacad. des sciences 1761. S. 28. Nachricht gegeben wird, in verschiede-
-nen Gegenden von Frankreich; sie zersprang ungefähr über der Gegend
-von Dison mit heftigem Getöse in sehr viele Stücke; manche Personen
-glaubten Feuer um und neben sich gesehen zu haben, ein Stück ist, wie
-in den Memoires de l'academie de Dijon, tom. I. S. 42erzählt wird,
-in ein Haus gefallen, und dieses davon abgebrannt.
-zlaloIaloIIIIoII1I
+Am 3. Jun. 1739 Abends um 10 Uhr bemerkte man eine in Nordamerika, sie ging von Süd nach Nord, ließ viele Funken und kleinere Kugeln nach sich, den Donner hörte man an Orten, die 80 englische Meilen von einander entfernt waren. Winthrop hat sie beschrieben in _Phil. transact. Vol. 54. for. 1764. n. 34._
 
+Am 9. Febr. 1750 ward eine in Schlesien gesehen, sie ging von S. W. nach N. O., man glaubte bemerkt zu haben, daß die Stücke in die Oder gefallen wären, andere gaben andere Orte an, wobei wohl viel optischer Betrug mag gewesen sein. Nachricht davon findet sich in _Nov. Act. Erud. 1754. Septemb. p. 507._ und in _Nov. Act. Nat. Cur. tom. 1. p. 348._
 
-### 0020
+Am 22. Jul. 1750 ward eine, die von Nord kam, in England bemerkt, und von Smith und Baker in _Phil. transact. Vol. 47. p. 1._ kurz beschrieben.
 
+Am 4. Novembr. 1753 bemerkte man eine in Frankreich, desgleichen auch
 
-12
-Am 23. Jul. 1762 ward eine Feuerkugel, welche Silberschlag (in
-seiner Theorie der am 23. Jul. 1762 erschienenen Feuerkugel, Magdeburg,
-Stendal und Leipzig, 1764, 4.) weitläuftig beschrieben, zuerst ungefähr
-senkrecht über der Gegend zwischen Leipzig und Zeitz in Gestalt eines kleinen
-Sternes sichtbar, nahm an scheinbarer Größe zu, und erschien wie ein
-zackiger brennender Klumpen, nachher mehr kugelformig mit einem
-Schweife, in welchem sich einige kleinere Kugeln bildeten; ging von S
-S. W. nach N. N. O. über Wittenberg und Potsdam, und zersprang etli-
-che Meilen hinter Potsdam mit einem schrecklichen Knalle und darauf sol-
-genden Getöse, sie soll auch während des Laufes gezischt haben. Ihr icht
-ist sehr weiß und dem Blitze ähnlich gewesen, und hat einen Umfang von
-wenigstens 60 deutschen Meilen erleuchtet. Ueber Potsdam hat sie sich
-um ihre Axe gedreht, ehe sie zersprungen ist. Das Krachen hat man
-20 Meilen weit, undz. B. in Bernburg noch sehr stark gehört, an ent-
-fernten Orten wohl 10 Minuten nach dem Zerspringen. Die Bewegung
-findet Silberschlag in der letzten Sekunde auf 10000 Toisen, er sucht sie
-aber blos aus den Gesetzen des Falles aus einer Höhe von 19 Meilen
-zu erklären, und nimmt zu dieser Absicht die Dauer auf 2 Minuten 28
-Sekunden an, da sie doch von den Beobachtern höchstens auf eine Minute
-geschätzt wird. Da nun aber dieser Körper eben sowohl, wie andere, die
-in weit schieferer Richtung gegangen sind, allem Ansehen nach schon vor-
-her eine eigenthümliche Bewegung muß gehabt haben, und die Würkun-
-gen des Falles noch hinzu kommen, so möchte wohl ungeachtet des Wi-
-derstandes der Luft doch die Geschwindigkeit weit gröser gewesen sein, als
-sie Silberschlag angegeben. Die senkrechte Höhe war bei der ersten Beob-
-achtung etwas über 19, und bei denm Zerspringen über 4 Meilen, der
-Durchmesser wenigstens 506 Toisen oder 3036 Pariser Fuß.
-ee
+am 4. Dec. des nämlichen Jahres; sie werden erwähnt in der _Histoire de l'Academie des sciences 1753. S. 72._
 
+Am 15. Aug. 1755 sahe man eine in den Niederlanden, die von Nord nach Süd ging, und
 
+am 3. Mai 1756 eine in Frankreich, deren Richtung von S. W. nach N. O. war; bei dem Zerspringen der letztern war die Erschütterung so heftig, daß Schorsteine davon einstürzten. Beide sind beschrieben in der _Histoire de l'Academie des sciences 1756. S. 23._
 
-### 0021
+Am 26. Nov. 1758 ward eine (die Pringle in _Phil. transact. Vol. 51. p. 1. n. 26 und 27_ beschrieben) in ganz Großbrittanien gesehen; sie ging von S. O. nach N. W., ihr Licht wird mit geschmolzenem Eisen verglichen, es war ungeachtet des hellen Sonnenscheines doch beträchtlich. Der Schweif zersprang in drei Stücke mit starkem Getöse. Ihre Höhe fand man über Cambridge 90 bis 100, und über Fort William 26 bis 32 engl. Meilen, ihren Durchmesser zwischen 0,5 bis 1,17 Meile, ihre Geschwindigkeit 30 solcher Meilen in einer Sekunde; sie bewegte sich also schneller als die Erde in ihrem Laufe und übertraf eine Kanonenkugel mehr als 100 mal an Schnelligkeit.
 
-Am 17. Jul. 1771 ging eine von N. nach S. über England und
-einem großen Teil von Frankreich, sie ward von de la Lande und vielen
-andern beobachtet; eine Abhandlung darüber von le Roy findet sich in den
-Memoires de l'Academie des sciences, 1771. S. 668. Diese
-Feuerkugel erschien größer als der Mond, sie zersprang südsüdwestwärts
-von Paris mit einem Krachen, wodurch alles, wie bei einem Erdbeben erschüt-
-tert ward. Bei der ersten Wahrnehmung muß sie 41076 Toisen über
-der Erde gewesen sein, und bei dem Zerspringen über 20598 Toisen, sie
-ist 6 bis 8 Stunden Weges in einer Sekunde durchlaufen und hat mehr
-als ;00 Toisen im Durchmesser gehabt.
-Am 31. Oct. 1779 haben Page und Rittenhouse eine in Nord-
-amerika beobachtet und in den Philof. transact. of the American So-
-cicty,Vol. II. S. 173 c. beschrieben. Sie zog einen langen Schweif von
-schlänglicher Gestalt nach sich; ihre beobachtete senkrechte Höhe war 60
-englische Meilen, ihre Breite wenigstens 2 engl. Meilen, ihre Geschwin-
-digkeit, die sich nicht genau bestimmen ließ, weit größer als bei einem
-bloßen Falle möglich ist.
-Am 18. Aug. 1783 ging eine ungefähr in der nämlichen Richtung,
-wie die im Jahre 1771, über England und Frankreich, man will sie
-auch in Rom gesehen haben. In England ist sie beobachtet und beschrie-
-ben worden von Cavallo, Aubert, Cooper, Edgeword, Blagden und Pi-
-got in den Phil. transact. Vol. LXXIV. p. I. In Frankreich hat sie
-unter andern de la Lande beobachtet, und Baron von Bernstorf Berech-
-nungen darüber geliefert in dem Journal de phylique 1784, woraus
-einige Nachrichten in Lichtenbergs Magazin für das neueste aus der Phy-
-sik und Naturgeschichte III. B. 2 St. S. 92 eingerückt sind. In Eng-
-land fand man itzre Höhe ;5 bis 60 englische Meilen, und ihre Ge.
-schwin-
+Am 20. Oct. 1759 zeigte sich eine in England, die von Nord nach Süd ging; Nachrichten davon finden sich in _Phil. transact. Vol. 51. p. 1. n. 31, 32 und 33_.
 
-### 0022
+Am 10. Mai 1760 erschien eine in Nordamerika, die von Nord nach Süd ging, Vormittags zwischen 9 und 10 Uhr, ungeachtet des hellen Sonnenscheines mit starkem Lichte; man bemerkte drei heftige Explosionen mit darauf folgendem rasselnden Getöse, welches an 80 englische Meilen von einander entfernten Orten gehört ward. Die Dauer der Erscheinung und des Getöses wird auf vier Minuten geschätzt. Winthrop hat diese Nachrichten mitgeteilt in _Phil. transact. Vol. 52. p. 1. S. 6._
 
+Am 11. Nov. 1761 sahe man eine, ven der in der _Histoire de l'acad. des sciences 1761. S. 28._ Nachricht gegeben wird, in verschiedenen Gegenden von Frankreich; sie zersprang ungefähr über der Gegend von Dijon mit heftigem Getöse in sehr viele Stücke; manche Personen glaubten Feuer um und neben sich gesehen zu haben, ein Stück ist, wie in den _Memoires de l'academie de Dijon, tom. 1. S. 42_ erzählt wird, in ein Haus gefallen, und dieses davon abgebrannt.
 
-schwindigkeit 20 bis 40 solcher Meilen in einer Sekunde, sie würde also
-in einer halben Minute über ganz Großbrittanien gegangen und eine Mi-
-nute darauf über Rom gewesen sein; in 7 Minuten würde sie so weit ge-
-gangen sein, als der Durchmesser der Eide beträgt. Cavallo fand ihren
-a.. 7
-Dnrchmesser 1070 Yards, nach Blagden war der kleinere Durchmesser,
-..
-der größere 1 englische Meile. Die französischen Beobachter bestim-
-men ihre Geschwindigkeit anfangs auf 1052 Toisen in einer Sekunde, ihre
-Höhe anfangs 5725 Toisen oder ungesähr 2 französische Meilen über die
-Fläche der Wolke, hinter welcher sie über den Londner Horizont hervorge-
-kommen ist; ihre Höhe über den Pariser Horizont 1518 Toisen über die
-Fläche dieser Wolle, ihren Durchmesser vor der Zerteilung 216 Fuß;
-zugleich wird aber bemerkt, daß die Zahlen eher zu klein, als zu groß
-angenommen sind, welches außer dem, daß die zahlreichen englischen
-Beobachtungen und Berechnungen, welche nur wenig von einander ab-
-weichen, weit größere Resultate geben, auch dadurch wahrscheinlich wird,
-weil man bei allen andern genau beobachteten Feuerkugeln beträchtlichcre
-Größen gefunden hat. Es wird bemerkt, daß die Würkungen der Schwere
-zwar daran sichtbar gewesen sind, daß aber noch eine andere Krast in sie
-müsse gewürkt haben, welche sie längst der Erdoberfläche vor sich hin gesio-
-ßen hat; diese ist nach den Berechnungen des Herrn ven Bernstorf, wo
-die Zahlen allem Ansehn nach zu klein angenommen sind, wenigsiens so
-groß gewesen, wie die, welche ein schwerer Körper bei einem freien Falle
-aus einer Höhe von 1; französischen Meilen erhalten würde. Die schein-
-bare Größe dieser Feuerkugel war, als man sie zuerst beobachtete, etwa
-wie der Jupiter, nachher größer als der Vollmond, am gröften unmittel-
-bar vor der Zerteilung. Ihre Gestalt veränderte sich öfters, bald war
-sie rund, bald in die Länge gezogen. Das Licht war sehr ungleich, man
-konnte hellere und dunklere Stellen unterscheiden, im Innern war eine
-Bewegung oder Aufwallung der Materie zu bemerken. Sie zerteilte sich
-in
-15
+Am 23. Jul. 1762 ward eine Feuerkugel, welche Silberschlag (in seiner Theorie der am 23. Jul. 1762 erschienenen Feuerkugel, Magdeburg, Stendal und Leipzig, 1764, 4.) weitläuftig beschrieben, zuerst ungefähr senkrecht über der Gegend zwischen Leipzig und Zeitz in Gestalt eines kleinen Sternes sichtbar, nahm an scheinbarer Größe zu, und erschien wie ein zackiger brennender Klumpen, nachher mehr kugelförmig mit einem Schweife, in welchem sich einige kleinere Kugeln bildeten; ging von S. S. W. nach N. N. O. über Wittenberg und Potsdam, und zersprang etliche Meilen hinter Potsdam mit einem schrecklichen Knalle und darauf folgenden Getöse, sie soll auch während des Laufes gezischt haben. Ihr Licht ist sehr weiß und dem Blitze ähnlich gewesen, und hat einen Umfang von wenigstens 60 deutschen Meilen erleuchtet. Ueber Potsdam hat sie sich um ihre Axe gedreht, ehe sie zersprungen ist. Das Krachen hat man 20 Meilen weit, und z. B. in Bernburg noch sehr stark gehört, an entfernten Orten wohl 10 Minuten nach dem Zerspringen. Die Bewegung findet Silberschlag in der letzten Sekunde auf 10000 Toisen, er sucht sie aber blos aus den Gesetzen des Falles aus einer Höhe von 19 Meilen zu erklären, und nimmt zu dieser Absicht die Dauer auf 2 Minuten 28 Sekunden an, da sie doch von den Beobachtern höchstens auf eine Minute geschätzt wird. Da nun aber dieser Körper eben sowohl, wie andere, die in weit schieferer Richtung gegangen sind, allem Ansehen nach schon vorher eine eigenthümliche Bewegung muß gehabt haben, und die Würkungen des Falles noch hinzu kommen, so möchte wohl ungeachtet des Widerstandes der Luft doch die Geschwindigkeit weit gröser gewesen sein, als sie Silberschlag angegeben. Die senkrechte Höhe war bei der ersten Beobachtung etwas über 19, und bei denm Zerspringen über 4 Meilen, der Durchmesser wenigstens 506 Toisen oder 3036 Pariser Fuß.
 
-### 0023
+Am 17. Jul. 1771 ging eine von N. nach S. über England und einem großen Teil von Frankreich, sie ward von de la Lande und vielen andern beobachtet; eine Abhandlung darüber von le Roy findet sich in den _Memoires de l'Academie des sciences, 1771. S. 668_. Diese Feuerkugel erschien größer als der Mond, sie zersprang südsüdwestwärts von Paris mit einem Krachen, wodurch alles, wie bei einem Erdbeben erschüttert ward. Bei der ersten Wahrnehmung muß sie 41076 Toisen über der Erde gewesen sein, und bei dem Zerspringen über 20598 Toisen, sie ist 6 bis 8 Stunden Weges in einer Sekunde durchlaufen und hat mehr als 500 Toisen im Durchmesser gehabt.
 
+Am 31. Oct. 1779 haben Page und Rittenhouse eine in Nordamerika beobachtet und in den _Philos. transact. of the American Society, Vol. 2. S. 173 zc._ beschrieben. Sie zog einen langen Schweif von schlänglicher Gestalt nach sich; ihre beobachtete senkrechte Höhe war 60 englische Meilen, ihre Breite wenigstens 2 engl. Meilen, ihre Geschwindigkeit, die sich nicht genau bestimmen ließ, weit größer als bei einem bloßen Falle möglich ist.
 
+Am 18. Aug. 1783 ging eine ungefähr in der nämlichen Richtung, wie die im Jahre 1771, über England und Frankreich, man will sie auch in Rom gesehen haben. In England ist sie beobachtet und beschrieben worden von Cavallo, Aubert, Cooper, Edgeword, Blagden und Pigot in den _Phil. transact. Vol. 74. p. 1._ In Frankreich hat sie unter andern de la Lande beobachtet, und Baron von Bernstorf Berechnungen darüber geliefert in dem _Journal de physique 1784_, woraus einige Nachrichten in Lichtenbergs Magazin für das neueste aus der Physik und Naturgeschichte 3. B. 2 St. S. 92 eingerückt sind. In England fand man ihre Höhe 55 bis 60 englische Meilen, und ihre Geschwindigkeit 20 bis 40 solcher Meilen in einer Sekunde, sie würde also in einer halben Minute über ganz Großbrittanien gegangen und eine Minute darauf über Rom gewesen sein; in 7 Minuten würde sie so weit gegangen sein, als der Durchmesser der Eide beträgt. Cavallo fand ihren Durchmesser 1070 Yards, nach Blagden war der kleinere Durchmesser 0,5, der größere 1,17 englische Meile. Die französischen Beobachter bestimmen ihre Geschwindigkeit anfangs auf 1052 Toisen in einer Sekunde, ihre Höhe anfangs 5725 Toisen oder ungefähr 2,5 französische Meilen über die Fläche der Wolke, hinter welcher sie über den Londner Horizont hervorgekommen ist; ihre Höhe über den Pariser Horizont 1518 Toisen über die Fläche dieser Wolke, ihren Durchmesser vor der Zerteilung 216 Fuß; zugleich wird aber bemerkt, daß die Zahlen eher zu klein, als zu groß angenommen sind, welches außer dem, daß die zahlreichen englischen Beobachtungen und Berechnungen, welche nur wenig von einander abweichen, weit größere Resultate geben, auch dadurch wahrscheinlich wird, weil man bei allen andern genau beobachteten Feuerkugeln beträchtlichere Größen gefunden hat. Es wird bemerkt, daß die Würkungen der Schwere zwar daran sichtbar gewesen sind, daß aber noch eine andere Kraft in sie müsse gewürkt haben, welche sie längst der Erdoberfläche vor sich hin gestoßen hat; diese ist nach den Berechnungen des Herrn von Bernstorf, wo die Zahlen allem Ansehn nach zu klein angenommen sind, wenigstens so groß gewesen, wie die, welche ein schwerer Körper bei einem freien Falle aus einer Höhe von 15 französischen Meilen erhalten würde. Die scheinbare Größe dieser Feuerkugel war, als man sie zuerst beobachtete, etwa wie der Jupiter, nachher größer als der Vollmond, am größten unmittelbar vor der Zerteilung. Ihre Gestalt veränderte sich öfters, bald war sie rund, bald in die Länge gezogen. Das Licht war sehr ungleich, man konnte hellere und dunklere Stellen unterscheiden, im Innern war eine Bewegung oder Aufwallung der Materie zu bemerken. Sie zerteilte sich in mehrere kleinere Massen, die eine Strecke von ungefähr 15 Graden einnahmen, und neben einander ihren Weg fortsetzten. Cavallo und Pigot haben den Knall 9 bis 10 Minuten nach der Zerteilung gehört, Cooper hat 2 Explosionen bemerkt, die er mit dem Knalle einer 9pfündigen Kanone vergleicht.
 
-in mehrere kleinere Massen, die eine Strecke von ungesähr 15 Graden
-einnahmen, und neben einander ihren Weg fortsetzten. Cavallo und Pi-
-got haben den Knall 9 bis 10 Minuten nach der Zerteilung gehört, Coo-
-per hat 2 Explosionen bemerkt, die er mit dem Knalle einer 9pfündigen
-Kanone vergleicht.
-Am 4. Oct. 1783 ward eine ebenfalls in England beobachtet, und
-von Blagden in dem jetzt angeführten Bande der Phiil. transact. beschrie-
-ben; sie erschien ansangs wie eine Sternschnuppe, und vergrösserte sich im
-Fallen ansehnlich. Die Dauer betrug wenige Sekunden; die Höhe fand
-Blagden 40 bis 50 englische Meilen, und die Geschwindigkeit 12 Mei-
-len in einer Sekunde.
-§. 4.
+Am 4. Oct. 1783 ward eine ebenfalls in England beobachtet, und von Blagden in dem jetzt angeführten Bande der _Phil. transact._ beschrieben; sie erschien anfangs wie eine Sternschnuppe, und vergrösserte sich im Fallen ansehnlich. Die Dauer betrug wenige Sekunden; die Höhe fand Blagden 40 bis 50 englische Meilen, und die Geschwindigkeit 12 Meilen in einer Sekunde.
+
+§\. 4.
+
 Gründe gegen einige bisherige Erklärungsarten.
+
 Meines Wissens hat noch niemand diese Naturerscheinung auf eine
 befriedigende Art erklärt; alles, was man mit Gewißheit davon gewußt
 hat, schränkt sich bles auf historische Notizen ein. Die bisherigen Mei-
 nungen der Naturforscher, wovon auch verschiedene in Gehlers physikali-
 schem Wörterbuche bei dem Worte: Feuerkugel, angesührt werden, sind
 ungesähr folgende:
-I) Manche haben vermuthet, daß Feuerkugeln mit den Nordlich-
+
+1) Manche haben vermuthet, daß Feuerkugeln mit den Nordlich-
 tern, die sie aus der Zodiakallichtsmaterie erklären, eine gleiche Entstehung
 haben möchten, hauptsächlich deswegen, weil eine ziemliche Anzahl von
 Nord nach Süd gegangen sind. Diese Vermuthung wird aber schon da-
 durch widerlegt, weil man auch viele Beispiele hat, das Feuerkugel aus
 andern Welgegenden gekommen sind, deren ich verschiedene in dem vori-
 gen §. angeführt habe; sie erscheinen auch in Gegenden, die dem Pole nä-
-iee di, .
 her sind, nicht häufiger als in andern. Das viel stärkere Le,, "
-gränzt-
-IlaoleloIIoIIoaI1
-
-
 
 ### 0024
 
-
-2
-16
 gränztheit ihrer Gestalt, das Brennen, Rauchen und Funkenauswersen,
 das Zerspringen mit einem Getöse u. s. w. sind auch von den Erscheinun-
 gen bei Nordlichtern zu sehr verschieden, als daß man mit nur einiger
@@ -310,8 +117,7 @@ Wahrscheinlichkeit auf eine gleiche Entstehung beider Naturerscheinungen
 schließen könnte.
 -
 
-I
-II) Vassalli sieht sie an, als einen Uebergang der elektrischen Ma.
+2) Vassalli sieht sie an, als einen Uebergang der elektrischen Ma.
 tecie aus ciner damit überhäuften Gegend der Atmosphäre in eine an-
 dere, die deren weniger enthält. Er trägt diese Theorir vor in seiner 1787
 herausgegebenen memoria fopra il bolide (welche Schrift ich gern be-
@@ -335,15 +141,9 @@ tenden Körper gebundene Elektricität vorhanden sein, sondern nur freie
 Elektricität. Nun ist aber unbegreiflich, wie freie elektrische Materie
 sich solle in einer großen Masse von so bestimmten Umrisse und so blen-
 denden
-ü--
-21
-
 
 ### 0025
 
-e
-as
-z7
 dendem Lichte anhäufen, und ihre Begränztheit, ungeachtet der so schnellen
 Bewegung beibehalten können, da man doch erwarten sollte, daß sie
 sich vielmehr zerstreuen, und nordlichtähnliche Erscheinungen bilden
