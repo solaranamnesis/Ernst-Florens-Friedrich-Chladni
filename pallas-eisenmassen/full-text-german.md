@@ -92,320 +92,74 @@ Am 4. Oct. 1783 ward eine ebenfalls in England beobachtet, und von Blagden in de
 
 Gründe gegen einige bisherige Erklärungsarten.
 
-Meines Wissens hat noch niemand diese Naturerscheinung auf eine
-befriedigende Art erklärt; alles, was man mit Gewißheit davon gewußt
-hat, schränkt sich bles auf historische Notizen ein. Die bisherigen Mei-
-nungen der Naturforscher, wovon auch verschiedene in Gehlers physikali-
-schem Wörterbuche bei dem Worte: Feuerkugel, angesührt werden, sind
-ungesähr folgende:
+Meines Wissens hat noch niemand diese Naturerscheinung auf eine befriedigende Art erklärt; alles, was man mit Gewißheit davon gewußt hat, schränkt sich blos auf historische Notizen ein. Die bisherigen Meinungen der Naturforscher, wovon auch verschiedene in Gehlers physikalischem Wörterbuche bei dem Worte: Feuerkugel, angeführt werden, sind ungefähr folgende:
 
-1) Manche haben vermuthet, daß Feuerkugeln mit den Nordlich-
-tern, die sie aus der Zodiakallichtsmaterie erklären, eine gleiche Entstehung
-haben möchten, hauptsächlich deswegen, weil eine ziemliche Anzahl von
-Nord nach Süd gegangen sind. Diese Vermuthung wird aber schon da-
-durch widerlegt, weil man auch viele Beispiele hat, das Feuerkugel aus
-andern Welgegenden gekommen sind, deren ich verschiedene in dem vori-
-gen §. angeführt habe; sie erscheinen auch in Gegenden, die dem Pole nä-
-her sind, nicht häufiger als in andern. Das viel stärkere Le,, "
+1) Manche haben vermuthet, daß Feuerkugeln mit den Nordlichtern, die sie aus der Zodiakallichtsmaterie erklären, eine gleiche Entstehung haben möchten, hauptsächlich deswegen, weil eine ziemliche Anzahl von Nord nach Süd gegangen sind. Diese Vermuthung wird aber schon dadurch widerlegt, weil man auch viele Beispiele hat, das Feuerkugel aus andern Welgegenden gekommen sind, deren ich verschiedene in dem vorigen §. angeführt habe; sie erscheinen auch in Gegenden, die dem Pole näher sind, nicht häufiger als in andern. Das viel stärkere Licht, die Begränztheit ihrer Gestalt, das Brennen, Rauchen und Funkenauswerfen, das Zerspringen mit einem Getöse u. s. w. sind auch von den Erscheinungen bei Nordlichtern zu sehr verschieden, als daß man mit nur einiger Wahrscheinlichkeit auf eine gleiche Entstehung beider Naturerscheinungen schließen könnte.
 
-### 0024
+2) Vassalli sieht sie an, als einen Uebergang der elektrischen Materie aus einer damit überhäuften Gegend der Atmosphäre in eine andere, die deren weniger enthält. Er trägt diese Theorir vor in seiner 1787 herausgegebenen _memoria sopra il bolide_ (welche Schrift ich gern benutzt hätte, wenn ich deren hätte habhaft werden können) wie auch in den _lettere fisico-meteorologiche de' celeberrimi fisici, Senebier, Saussure e Toaldo, con risposte di A. M. Vassalli, Torino 1789. 8._ Gegen diese von Vassalli scharfsinnig genug vertheidigte Theorie ist meines Erachtens haupsächlich folgendes einzuwenden:
 
-gränztheit ihrer Gestalt, das Brennen, Rauchen und Funkenauswersen,
-das Zerspringen mit einem Getöse u. s. w. sind auch von den Erscheinun-
-gen bei Nordlichtern zu sehr verschieden, als daß man mit nur einiger
-Wahrscheinlichkeit auf eine gleiche Entstehung beider Naturerscheinungen
-schließen könnte.
--
+a) Ein Blitz oder elektischer Funke kann nur alsdann Statt finden, wenn die in einem leitenden Körper angehäufte elektrische Materie in einen andern übergeht, der weniger enthält; es sind aber in einer Höhe von 19 und mehreren deutschen Meilen, wo man Feuerkugeln beobachtet hat, wohl keine Dünste oder andere leitende Materien vorhanden, in welchen sich die elektrische Materie, so wie in Gewitterwolken anhäufen könnte. Auch lehren die Erfahrungen, daß im luftleeren Raume oder äußerst verdünnter Luft ein leitender Körper sich nicht gut laden läßt, indem die Elektricität sodann ihre Expansikraft ungehindert äußert, und sich zerstreut. Es kann also daselbst keine an einen leitenden Körper gebundene Elektricität vorhanden sein, sondern nur freie Elektricität. Nun ist aber unbegreiflich, wie freie elektrische Materie sich solle in einer großen Masse von so bestimmten Umrisse und so blendendem Lichte anhäufen, und ihre Begränztheit, ungeachtet der so schnellen Bewegung beibehalten können, da man doch erwarten sollte, daß sie sich vielmehr zerstreuen, und nordlichtähnliche Erscheinungen bilden müßte, so wie man dieses bei elektrischen Versuchen in sehr verdünnter Luft bemerkt. Vassalli behauptet übrigens S. 124. 125, daß diese freie Elektricität, wenn sie durch äußerst feine Dünste geleitet werde, sich als Feuerkugel, und bei einer Leitung durch gröbere Dünste, sich als ein Blitz bei hellem Himmel zeigen müsse, und führt an, daß bei den Alten dergleichen Blitze erwähnt werden, z. B. _Hom. Odyss. 20. 113. 114._ und _Virg. Georg. 1. 487._ Aber die Zeugnisse alter Schriftsteller sind hierinnen, so wie überhaupt in der Physik nicht als gültig anzusehen, weil sie so vieles fabelhafte ohne weitere Untersuchung für wahr anzunehmen pflegten; es ist auch überdieses nicht einmal zu vermuthen, daß die angeführten Dichter in diesen Stellen würkliche Tatsachen haben vortragen wollen. In der neuern Zeit hat man kein einziges würklich erwiesenes Beispiel von einem solchen Blitze bei heiterem Himmel, es ist auch wohl wegen Mangel einer Materie, worinnen sich eine hinlängliche Elektricität, so wie in Gewitterwolken anhäufen kann, schon _a priori_ für unmöglich zu halten. Bei einem angeblichen Blitze dieser Art würde gewiß allemal eine kleine Gewitterwolke am Himmel gestanden haben, wenn der Himmel auch sonst noch so rein gewesen, und die Sonne hell geschienen; wie denn der Prediger Herr Gronau im 9ten Bande der Schriften der Berliner Gesellschaft naturforschender Freunde S. 44 einige Fälle erzählt, wo von solchen einzelnen Schlägen Häuser sind angezündet worden. Es könnte auch der Fall möglich sein, daß die Erscheinung einer Feuerkugel für einen Blitz bei heiterem Himmel gehalten würde.
 
-2) Vassalli sieht sie an, als einen Uebergang der elektrischen Ma.
-tecie aus ciner damit überhäuften Gegend der Atmosphäre in eine an-
-dere, die deren weniger enthält. Er trägt diese Theorir vor in seiner 1787
-herausgegebenen memoria fopra il bolide (welche Schrift ich gern be-
-nutzt hätte, wenn ich deren hätte habhaft werden können) wie auch in
-den lettere fifico-meteorologiche de' celeberrimi lifici, Senebier,
-Sauflure e Toaldo, con rispolte di A. M. Valalli, Torino 1789. 8.
-Gegen diese von Vassalli scharfsinnig genug vertheidigte Theorie ist meines
-Erachtens haupsächlich folgendes einzuwenden:
-t
-a) Ein Blitz oder elektischer Funke kann nur alsdann Statt fin-
-den, wenn die in einem leitenden Körper angehäufte elektrische Materie
-in einen andern übergeht, der weniger enthält; es sind aber in einer
-Höhe von 19 und mehreren deutschen Meilen, wo man Feuerkugeln
-beobachtet hat, wohl keine Dünste oder andere leitende Materien vorhan-
-den, in welchen sich die elektrische Materie, so wie in Gewitterwolken
-anhäufen könnte. Auch lehren die Erfahrungen, daß im luftleeren
-Raume oderäußerst verdünnter Luft ein leitender Körper sich nicht gut
-laden läßt, indem die Elektricität sodann ihre Expansikraft ungehindert
-äußert, und sich zerstreut. Es kann also daselbst keine an einen lei-
-tenden Körper gebundene Elektricität vorhanden sein, sondern nur freie
-Elektricität. Nun ist aber unbegreiflich, wie freie elektrische Materie
-sich solle in einer großen Masse von so bestimmten Umrisse und so blen-
-denden
+b) Daß Feuerkugeln allemal, und Blitze zwar auch bisweilen, aber doch selten in einer ziemlich geraden Richtung fortgehen, daß auch diese allemal schief niederwärts gehende Bewegung noch mehr parabolisch, als geradlinig ist, und offenbare Würkungen der Schwere verräth, ist auch der Erklärungsart durch bloße Elektricität nicht günstig.
 
-### 0025
+c) Daß man öfters ein würkliches Brennen bemerkt, und Flammen, Rauch und Funken, bisweilen aus Oefnungen, hervorbrechen gesehen hat, stimmt gar nicht mit bloß elektrischen Erscheinungen überein.
 
-dendem Lichte anhäufen, und ihre Begränztheit, ungeachtet der so schnellen
-Bewegung beibehalten können, da man doch erwarten sollte, daß sie
-sich vielmehr zerstreuen, und nordlichtähnliche Erscheinungen bilden
-müste, so wie man dieses bei elektrischen Versuchen in sehr verdünntee
-lust bemerkt. Vassalli behauptet übrigens S. 124. 125, daß diese
-freie Elektricität, wenn sie durch äußerst feine Dünste geleitet werde,
-sich als Feuerkugel, und bei einer Leitung dch gröbere Dünste, sich als
-ein Blitz bei hellem Himmel zeigen müsse, und führt an, daß bei den Alten
-dergleichen Blitze erwähnt werden, z. B. Hom. Odyl1. -113.114.
-7
-und Virg. Georg. I. 487. Aber die Zeugnisse alter Schriftsteller
-sind hierinnen, so wie überhaupt in der Physik nicht als gültig anzuse-
-hen, weilsie so vieles sabelhafte ohne weitere Untersuchung für wahr anzu-
-nehmen pflegten; es ist auch überdieses nicht einmal zu vermuthen, daß
-die angeführten Dichter in diesen Stellen würkliche Thatsachen haben
-vortragen wollen. In der neuern Zeit hat man kein einziges würk-
-lich erwiesenes Beispiel von einem solchen Blitze bei heiterem Himmel,
-es ist auch wohl wegen Mangel einer Materie, worinnen sich eine hin-
-längliche Elektricität, so wie in Gewitterwolken anhäusen kann, schon
-a priori für unmöglich zu halten. Bei einem angeblichen Blitze die-
-ser Art würde gewiß allemal eine kleine Gewitterwolke am Himmel ge-
-standen haben, wenn der Himmel auch sonst noch so rein gewesen, und
-die Sonne hell geschienen; wie denn der Prediger Herr Gronau im 9ten
-Bande der Schristen der Berliner Gesellschaft naturforschender Freunde
-S. 44 einige Fälle erzählt, wo von solchen einzelnen Schlägen Häuser
-sind angezündet worden. Es könnte auch der Fall möglich sein, daß
-die Erscheinung einer Feuerkugel für einen Blitz bei heiterem Himmel
-gehalten würde.
-b) Daß Feuerkugeln allemal, und Blitze zwar auch bisweilen,
-.
-aber doch selten in einer ziemlich geraden Richtung fortgehen, daß
-1uch
-18 2
+d) Das Zerspringen mit heftigem Getöse möchte wohl auch bei einem bloßen Uebergange einer freien Elektricität aus einer Gegend der Atmosphäre in die andere nicht Statt finden können, da freie Elektricität sich ohne merkliches Geräusch fortzubewegen pflegt; und noch weniger möchten sich die bisweilen bemerkten mehrmaligen Explosionen, die Absonderung kleinerer Kugeln, die, so wie manchmal die einzelnen Stücke nach der Zerteilung in der nämlichen Richtung fortgehen, sich daraus auf eine befriedigende Art erklären lassen.
 
-### 0026
+Reimarus (vom Blitze, Hamb. 1778. 8. S. 568) sagt viel richtiges darüber, daß Feuerkugeln nicht wohl aus bloßer Elektricität zu erklären sind, gesteht aber übrigens, so wie _le Roy in den Memoires de l'acad. des sciences 1771. S. 688 und 689_, und verschiedene andere Naturforscher, daß sich keine bestimmte Erklärung davon geben lasse, welches allerdings besser, als eine der Natur nicht gemäße Erklärung ist.
 
-s,
+3) Silberschlag hat sie (in s. Theorie der 1762 erschienenen Feuerkugel) aus schleimigen oder öhligen Dünsten zu erklären gesucht, die von unten aufgestiegen sein, und sich in der obern Luft angehäuft haben sollen. Bergmann (in seiner physischen Erdbeschreibung) äußert auch eine ähnliche Muthmaßung von den niedrigsten Feuerkugeln. Gegen diese Hypothese, welche sich wohl noch weniger mit einigem Scheine von Wahrheit vertheidigen läßt, als die vorige, ist unter andern folgendes zu erinnern:
 
--
-auch diese allemal schief niederwärts gehende Bewegung noch mehr pa-
-rabolisch, als geradlinig ist, und offenbare Würkungen der Schwere
-verräth, ist auch der Erklärungsart durch bloße Elektricität nicht
-günstig.
-, aß man öfters ein würkliches Brennen bemerkt, und Flam-
-7
-men, Rauch und Funken, bisweilen aus Oesiungen, herrerbrechen ge-
-sehen hat, stimmt gar nicht nit bloß elektrischen Erscheinungen
-überein.
-d, Das Zerspringen mit heftigem Getöse möchte wohl auch bei
--d
-einem bloßen Uebergange einer freien Elektricität aus einer Gegend der
-Atmosphäre in die andere nicht Statt finden können, da freie Elektri-
-cität sich ohne merkliches Geräusch fortzubewegen pflegt; und noch we-
-niger möchten sich die bisweilen bemerkten mehrmaligen Explosenen,
-die Absonderung kleinerer Kugeln, die, so wie manchmal die einzelnen
-Stücke nach der Zerteilung in der nämlichen Richtung sortgehen, sich
-daraus auf eine befriedigende Art erklären lassen.
-Reimarus (vom Blitze, Hamb. 1778. 8. S. 568) sagt viel richti-
-ges darüber, daß Feuerkugeln nicht wohl aus bloßer Elektricität zu erklä-
-ren sind, gesteht aber übrigens, so wie le Roy in den Memoires de
-l'acad. des fciences 1771. S. 688 und 689, und verschiedene andere
-Naturforscher, daß sich keine bestimmte Erklärung davon geben lasse,
-welches allerdings besser, als eine der Natur nicht gemäße Erklä-
-rung ist.
-1) Silberschlag hat sie (ins. Theorie der 1762 erschienenen Feuer-
-kugel) aus schleimigen oder öhligen Dünsten zu erklären gesucht, die von
-unten aufgestiegen sein, und sich in der obern Luft angehäuft haben sollen.
-Bergmann (in seiner physischen Erdbeschreibung) äußert auch eine ähnliche
-Muth-
+a) Zu einer so beträchtlichen Höhe, wo man Feuerkugeln beobachtet hat, wo die Luft viele tausend mal dünner ist, als unten, können unmöglich so viele materielle Teile in Dunst- oder anderer Gestalt geführt werden, als zu einer solchen Zusammenhäufung erfordert würden. Es ist hierbei auch gar sehr in Anschlag zu bringen, daß man solche Erscheinungen gemeiniglich nicht eher bemerkt, als bis sie durch ihr stärkeres und bei der Annäherung immer wachsendes Licht Aufmerksamkeit erregen; es müssen also diese Körper vorher in noch weit höheren Regionen, als da, wo man sie zuerst wahrgenommen hat, gewesen sein, wo also eine solche Zusammenhäufung von dunstartigen Materien noch weit weniger Statt finden kann.
 
+b) Eine bloße Anhäufung von lockeren Dünsten würde nicht im Stande sein, eine so schnelle Bewegung, die den Lauf einer Kanonenkugel wohl 100 mal übertrifft, anzunehmen, und ungeachtet des Widerstandes der Luft durch einen so weiten Weg fortzusetzen, sie würde vielmehr gleich im ersten Augenblicke zerstreuet werden.
 
-### 0027
+c) Daß ihre Bahn ungeachtet der so großen Ausdehnung der Masse doch allemal Würkungen einer beträchtlichen Schwere verräth, widerspricht auch dieser Erklärungsart.
 
-;:
-9
-Muthmasung von den niedrigsten Feuerkugeln. Gegen diese Hypothese,
-welche sich wohl noch weniger mit einigem Scheine von Wahrheit verthei-
-digen läßt, als die vorige, ist unter andern folgendes zu erinnern:
-Zu einer so beträchtlichen Höhe, wo man Feuerkugeln beob-
-achtet hat, wo die Luft viele tausend mal dünner ist, als unten, können
-unmöglich so viele materielle Teile in Dunst- oder anderer Gestalt ge-
-führt werden, als zu einer solchen Zusammenhäufung erfordert würden.
-Es ist hierbei auch gar sehr in Anschlag zu bringen, daß man solche
-Erscheinungen gemeiniglich nicht eher bemerkt, als bis sie durch ihe
-stärkeres und bei der Annäherung immer wachsendes Licht Aufmerksam-
-leit erregen; es müssen also diese Körper vorher in uoch weit höheren
-Regionen, als da, wo man sie zuerst wahrgenommen hat, gewesen
-sein, wo also eine solche Zusammenhäufung von dunstartigen Materien
-noch weit weniger Statt finden kann.
-b) Eine bloße Anhäufung von lockeren Dünsten würde nicht im
-Stande sein, eine so schnelle Bewegung, die den Lauf einer Kanonen-
-kugel wohl 100mal übertrifft, anzunehmen, und ungeachtet des Wi-
-derstandes der uft durch einen so weiten Weg fortzusetzen, sie würde
-vielmehr gleich im ersten Augenblicke zeestreuet werden.
-c) Daß ihre Bahn ungeachtet der so großen Ausdehnung der
-Masse doch allemal Würkungen einer beträchtlichen Schwere verräth,
-widerspricht auch dieser Erklärungsart.
-d) Lockere dunstartige Materien würden eines so heftigen und
-anhaltenden brennenden Zustandes in einer so dünnen Luft nicht fä-
-hig sein.
-e) Das Zerspringen mit einem alles erschütternden Knalle, den
-man in sehr beträchtlichen Entfernungen bisweilen über 20 deutsche
-C 2
-Meilen
+d) Lockere dunstartige Materien würden eines so heftigen und anhaltenden brennenden Zustandes in einer so dünnen Luft nicht fähig sein.
 
+e) Das Zerspringen mit einem alles erschütternden Knalle, den man in sehr beträchtlichen Entfernungen bisweilen über 20 deutsche Meilen weit gehört hat, läßt sich auch nicht mit einer bloßen Anhäufung lockerer Materien in der obern Luft zusammenreimen. Da auch das Zerspringen öfters in einer Höhe von mehreren Meilen geschehen ist, wo die äußerst dünne Luft der Verbreitung des Schalles sehr ungünstig sein muß; so läßt sich beurteilen, daß die Kraft, welche einen so heftigen Schall hervorgebracht hat, weit größer, und die Hülle, in welcher die elastische Flüßigkeit eingeschlossen gewesen, viel zäher und dichter müsse gewesen sein, als man von bloßen lockeren Anhäufungen von Dünsten und dergleichen sich denken kann.
 
-### 0028
+4) Toaldo (in den angeführten _lettere fisico-meteorologiche_) und manche andere halten sie für Entzündungen einer langen Strecke von brennbarer Luft. Daß diese Erklärungsart auch nicht Statt finden könne, erhellet aus folgendem:
 
+a) Entzündbare Luft kann sich nicht in Massen von begränzter Gestalt zusammenballen, es könnten also durch eine solche Verbrennung höchstens nordlichtähnliche Erscheinungen von unbestimmtem Umrisse verursacht werden.
 
-20
-Meilen weit gehört hat, läßt sich auch nicht mit einer bloßen Anhäu-
-fung lockerer Materien in der obern Luft zusammenreimen. Da auch
-das Zerspringen öfters in einer Höhe von mehreren Meilen geschehen ist,
-wo die äußerst dünne Luft der Verbreitung des Schalles sehr ungünstig
-sein muß; so läßt sich beurteilen, daß die Kraft, welche einen so hef-
-tigen Schall hervorgebracht hat, weit größer, und die Hülle, in welcher
-die elastische Flüßigkeit eingeschlossen gewesen, viel zäher und dichter
-müsse gewesen sein, als man von bloßen lockeren Anhäufungen von
-Dünsten und dergleichen sich denken kann.
-IV) Toaldo (in den angeführten lettere fisico-meteorolo-
-giche) und manche andere halten sie für Entzündungen einer langen
-Strecke von brennbarer Luft. Daß diese Erklärungsart auch nicht Statt
-finden könne, erhellet aus folgendem:
-a) Entzündbare Luft kann sich nicht in Massen von begränzter
-Gestalt zusammenballen, esl könnten also durch eine solche Verbren-
-nung höchstens nordlichtähnliche Erscheinungen von unbestimmtem Um-
-risse verursacht werden.
-b) Noch weniger denkbar ist es, daß allemal eine so lange, über
-ganze beträchtliche Länder hinweggehende Strecke von brennbarer Luft
-solle vorhanden gewesen sein, daß die Flamme auf dem ganzen Wege
-die begränzte Gestalt hätte beibehalten können.
-c) In einer so grofen Höhe, wo die Luft so dünn ist, würde eine
-Verbrennung der entzündbaren Luft nicht mit der Heftigkeit und dem
-blendend weißen Lichte vor sich gehen können, wie man es an Feuerku-
-geln allezeit bemerkt.
-d) Die allezeit schiefniederwärts gehende gerade oder mehr paraboli-
-sche Bahn, welche Würkungen der Schwere zeigt, läßt sich auch nicht
-aus Entzündung einer langen Strecke von brennbarer uft erklären.
-e) Man
--
+b) Noch weniger denkbar ist es, daß allemal eine so lange, über ganze beträchtliche Länder hinweggehende Strecke von brennbarer Luft solle vorhanden gewesen sein, daß die Flamme auf dem ganzen Wege die begränzte Gestalt hätte beibehalten können.
 
+c) In einer so großen Höhe, wo die Luft so dünn ist, würde eine Verbrennung der entzündbaren Luft nicht mit der Heftigkeit und dem blendend weißen Lichte vor sich gehen können, wie man es an Feuerkugeln allezeit bemerkt.
 
-### 0029
+d) Die allezeit schief niederwärts gehende gerade oder mehr parabolische Bahn, welche Würkungen der Schwere zeigt, läßt sich auch nicht aus Entzündung einer langen Strecke von brennbarer Luft erklären.
 
---
-e) Man bemerke keine Explosion bei ihrer ersien Erscheinung, wie
-bei Entzündung der brennbaren uft, sondern allemal erst, wenn sie
-einen weiten Weg fortgegangen sind.
-f) Im Sommer, wo aus faulenden animalischen und vegetabi-
-lischen Teilen so viele brennbare Luft entwickelt wird, erscheinen Feuer-
-kugeln nicht öfter, als in andern Jahreszeiten.
-V) Maskelyne vermuthet, daß es bleibende dichte Körper sind, die
-sich um die Sonne bewegen; so habenssie auch Hevel l(in s. Cometogra-
-phie), Wallis (Phil. transact. tom. 1I. n. 155. S. 568) und
-Hartsoeker (Conjectures de Phyfique, a la Haye, 1707 - 1710)
-als kometenartige Körper angesehen. Blagden erwähnt (in Phil. transact.
-Vol. LXXIV. p. 1.) daß einige Naturforscher sie für terrestrische Kome-
-ten gehalten.
-VI) Halley (Phil. transact. n. 341) hält sie für Materie, die
-im allgemeinen Weltraume zerstreuet gewesen, sich irgendwo gesetzt habe,
-und von der Erde in ihrem Laufe angetroffen werde, noch ehe sie eine an-
-sehnliche Geschwindigkeit gegen die Sonne erhalten.
-Diese letztern Meinungen möchten sich wohl der Wahrheit mehr
-nähern, als die erstern; nur ist gegen die Halleysche Hypothese dieses zu
-erinnern, daß die Bewegung, in so weit sie von den Würkungen des
-Falles verschieden ist, nicht blos von dem Laufe der Erde und der Anzie-
-hungskraft der Sonne herrühren kann, weil sich Feuerkugeln nicht etwa
-bleß nach einer dem Laufe der Erde entgegengesetzten Richtung, auch nicht
-nach der Gegend, wo sich zu der Zeit die Sonne befunden, sondern auch
-nach jeder andern entgegengesetzten oder seitwärts gehenden Richtung
-bewegt haben, so, daß man die Richtung ihrer Bewegung als ganz unbe-
-stimmt ansehen, und daraus vermuthen kann, daß sie eben so, wie Welt.
-körper,
-C 2
-.
+e) Man bemerke keine Explosion bei ihrer ersten Erscheinung, wie bei Entzündung der brennbaren Luft, sondern allemal erst, wenn sie einen weiten Weg fortgegangen sind.
 
+f) Im Sommer, wo aus faulenden animalischen und vegetabilischen Teilen so viele brennbare Luft entwickelt wird, erscheinen Feuerkugeln nicht öfter, als in andern Jahreszeiten.
 
-### 0030
+5) Maskelyne vermuthet, daß es bleibende dichte Körper sind, die sich um die Sonne bewegen; so haben sie auch Hevel (in s. Cometographie), Wallis (_Phil. transact. tom. 12. n. 155. S. 568_) und Hartsoeker (_Conjectures de Physique, a la Haye, 1707-1710_) als kometenartige Körper angesehen. Blagden erwähnt (in _Phil. transact. Vol. 74. p. 1._) daß einige Naturforscher sie für terrestrische Kometen gehalten.
 
-22
-körper, eine eigenthümliche Bewegung haben. Ob sie übrigens als ko-
-metenartige Körper sich um die Sonne oder Erde bewegen, oder ob
-sie vermöge irgend eines erhaltenen Stoßes sich in gerader Richtung durch
-den allgemeinen Weltraum bewegen, bis diese Bewegung bei einer zufäl-
-ligen Annäherung an einen Welekörper durch dessen Anziehung verändere
-wird, möchte sich wohl nicht so genau bestimmen lassen, da man nur einen
-so kleinen Teil des Weges zu beobachten im Stande ist.
-Bei dieser Verschiedenheit der Erklärungsarten ist merkwürdig,
-daß viele Naturforscher gern Naturerscheinungen aus dem erklären, womit
-sie sich sehr beschäfstiget haben; z. B. Bergmann, der sich bemühet hat,
-die Beschaffenheit der Nordlichter genauer zu erforschen, vermuthet, daß
-Feuerkugeln mit diesen einerlei Ursprung haben möchten; Vassalli und
-bessen Lehrer Beccaria als Untersucher der Elektricität, halten sie für
-bloß elektrische Erscheinungen; Lavoisier, dem man so viele Untersuchungen
-der Luftarten zu verdanken hat, und Toaldo, als Witterungsbeobachter,
-suchen sie aus Luftarten zu erklären; die Astronomen Halley, Hevel und
-Maskelyne halten sie für komische Körper; ungefähr eben so, wie man-
-che mineralogische Schristsieller, die viel in vulkanischen Gegenden gereiset
-sind, vieles als Produkt des Feuers ansehen, was andere, die sich mehr in
-nichtvulkanischen Gegenden aufgehalten haben, durch Wasser entstehen
-lassen.
-5
-e
-.
-I4
-§. .
-Feuerkugeln bestehen aus dichten und schweren Grundstoffen, und sind
-nicht tellurische, sondern kosmische Körper.
-Aus allen bisher angeführten ergiebt sich mit einer Wahrschein-
-lichkeit, die nahe an Gewißheit gränzt:
-l a ununstt
----
+6) Halley (_Phil. transact. n. 341_) hält sie für Materie, die im allgemeinen Weltraume zerstreuet gewesen, sich irgendwo gesetzt habe, und von der Erde in ihrem Laufe angetroffen werde, noch ehe sie eine ansehnliche Geschwindigkeit gegen die Sonne erhalten.
 
+Diese letztern Meinungen möchten sich wohl der Wahrheit mehr nähern, als die erstern; nur ist gegen die Halleysche Hypothese dieses zu erinnern, daß die Bewegung, in so weit sie von den Würkungen des Falles verschieden ist, nicht blos von dem Laufe der Erde und der Anziehungskraft der Sonne herrühren kann, weil sich Feuerkugeln nicht etwa bloß nach einer dem Laufe der Erde entgegengesetzten Richtung, auch nicht nach der Gegend, wo sich zu der Zeit die Sonne befunden, sondern auch nach jeder andern entgegengesetzten oder seitwärts gehenden Richtung bewegt haben, so, daß man die Richtung ihrer Bewegung als ganz unbestimmt ansehen, und daraus vermuthen kann, daß sie eben so, wie Weltkörper, eine eigenthümliche Bewegung haben. Ob sie übrigens als kometenartige Körper sich um die Sonne oder Erde bewegen, oder ob sie vermöge irgend eines erhaltenen Stoßes sich in gerader Richtung durch den allgemeinen Weltraum bewegen, bis diese Bewegung bei einer zufälligen Annäherung an einen Weltkörper durch dessen Anziehung verändert wird, möchte sich wohl nicht so genau bestimmen lassen, da man nur einen so kleinen Teil des Weges zu beobachten im Stande ist.
 
-### 0031
+Bei dieser Verschiedenheit der Erklärungsarten ist merkwürdig, daß viele Naturforscher gern Naturerscheinungen aus dem erklären, womit sie sich sehr beschäfftiget haben; z. B. Bergmann, der sich bemühet hat, die Beschaffenheit der Nordlichter genauer zu erforschen, vermuthet, daß Feuerkugeln mit diesen einerlei Ursprung haben möchten; Vassalli und dessen Lehrer Beccaria als Untersucher der Elektricität, halten sie für bloß elektrische Erscheinungen; Lavoisier, dem man so viele Untersuchungen der Luftarten zu verdanken hat, und Toaldo, als Witterungsbeobachter, suchen sie aus Luftarten zu erklären; die Astronomen Halley, Hevel und Maskelyne halten sie für komische Körper; ungefähr eben so, wie manche mineralogische Schriftsteller, die viel in vulkanischen Gegenden gereiset sind, vieles als Produkt des Feuers ansehen, was andere, die sich mehr in nichtvulkanischen Gegenden aufgehalten haben, durch Wasser entstehen lassen.
 
--
-a-
-2z
-"s das Wesen der Feuerkugeln' in Anhäufung der Nordlichts-
-e
-materie, in einem Uebergange der Elektricität aus einer Gegend der At.
-mosphäre in die andere, in einer Anhäufung lockerer brennbarer Mate-
-rien in der obern Luft, und in Entzündug einer langen Strecke von
-brennbarer Luft nicht bestehet; sondern
-daß der Grundsieff der Feuerkugeln ziemlich dicht und schwer sein
-muß, weil ihre Bahn so sichtbare Würkungen der Schwere zeigt, und
-weil die Masse ungeachtet der Ausdehnung zu einer ungeheueren Größe,
-dech noch Consistenz und Schwere genug übrig behält, um eine so äußerst
-schnelle Bewegung durch einen so weiten Raum, ungeachtet des Widerstan-
-des der uft, fortzusetzen, ohne dadurch zersireuet oder aufgelöset zu
-werden;
-daß dieser Stoff (allem Ansehen nach durch Würkungen des
-Feuers) sich in einem zähen und flüßigen Zustande befindet, weil die Ge-
-stalt bald rund, bald in die Länge gezogen erscheint, und das Anwachsen
-der Größe bis zum Zerspringen, und das Zerspringen selbst eine Austehn-
-barkeit durch elastische Flüßigkeiten voraussetzt;
-daß ein solcher dichter Stoff in einer so großen Höhe sch nicht aus
-den in der Atmosphäre befindlichen Teilen anhäufen, oder durch telluri-
-sche Kräfte, so weit wir sie kennen, als dichte Masse hinaufgeworfen sein
-kann;
-daß auch keine uns bekannte tellurische Kräfte im Stande sind,
-einem solchen Körper eine so schnelle, mit dem Horizonte fast parallel ge-
-hende Wurfbewegung zu geben;
-daß also der Stoff nicht von unten hinaufgekommen ist, sondern
-schon vorher im übrlgen Weltraume muß vorhanden gewesen, und von
-ni---u
-f
+§\. 5.
 
-### 0032
+Feuerkugeln bestehen aus dichten und schweren Grundstoffen, und sind nicht tellurische, sondern kosmische Körper.
 
-.b.,--
-5f
-24
-da auf unsern Planeten angelangt sein. Es ist also meines Erachtens
-die einzige, mit allen bisherigen Behauptungen übereinkommende, der Na-
-tur in keiner andern Rücksicht wiedersprechende, und noch überdieses durch
-verschiedne, an dem Orte des Niederfallens gefundene Massen, bestätigte
-Theorie dieser Naturerscheinungen folgende:
-s
-1
-c
+Aus allen bisher angeführten ergiebt sich mit einer Wahrscheinlichkeit, die nahe an Gewißheit gränzt:
+
+Daß das Wesen der Feuerkugeln in Anhäufung der Nordlichtsmaterie, in einem Uebergange der Elektricität aus einer Gegend der Atmosphäre in die andere, in einer Anhäufung lockerer brennbarer Materien in der obern Luft, und in Entzündug einer langen Strecke von brennbarer Luft nicht bestehet; sondern
+
+daß der Grundstoff der Feuerkugeln ziemlich dicht und schwer sein muß, weil ihre Bahn so sichtbare Würkungen der Schwere zeigt, und weil die Masse ungeachtet der Ausdehnung zu einer ungeheueren Größe, doch noch Consistenz und Schwere genug übrig behält, um eine so äußerst schnelle Bewegung durch einen so weiten Raum, ungeachtet des Widerstandes der Luft, fortzusetzen, ohne dadurch zerstreuet oder aufgelöset zu werden;
+
+daß dieser Stoff (allem Ansehen nach durch Würkungen des Feuers) sich in einem zähen und flüßigen Zustande befindet, weil die Gestalt bald rund, bald in die Länge gezogen erscheint, und das Anwachsen der Größe bis zum Zerspringen, und das Zerspringen selbst eine Austehnbarkeit durch elastische Flüßigkeiten voraussetzt;
+
+daß ein solcher dichter Stoff in einer so großen Höhe sich nicht aus den in der Atmosphäre befindlichen Teilen anhäufen, oder durch tellurische Kräfte, so weit wir sie kennen, als dichte Masse hinaufgeworfen sein kann;
+
+daß auch keine uns bekannte tellurische Kräfte im Stande sind, einem solchen Körper eine so schnelle, mit dem Horizonte fast parallel gehende Wurfbewegung zu geben;
+
+daß also der Stoff nicht von unten hinaufgekommen ist, sondern schon vorher im übrlgen Weltraume muß vorhanden gewesen, und von da auf unsern Planeten angelangt sein. Es ist also meines Erachtens die einzige, mit allen bisherigen Behauptungen übereinkommende, der Natur in keiner andern Rücksicht wiedersprechende, und noch überdieses durch verschiedne, an dem Orte des Niederfallens gefundene Massen, bestätigte Theorie dieser Naturerscheinungen folgende:
+
 So wie erdige, metallische und andere Teile den Grundstoff un-
 seres Planeten ausmachen, wovon das Eisen unter die Hauptbestandteile
 gehört, und so wie auch andere Weltkörper aus ähnlichem, oder vielleicht
