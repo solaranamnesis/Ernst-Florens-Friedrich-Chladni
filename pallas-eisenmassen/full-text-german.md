@@ -160,286 +160,42 @@ daß auch keine uns bekannte tellurische Kräfte im Stande sind, einem solchen K
 
 daß also der Stoff nicht von unten hinaufgekommen ist, sondern schon vorher im übrlgen Weltraume muß vorhanden gewesen, und von da auf unsern Planeten angelangt sein. Es ist also meines Erachtens die einzige, mit allen bisherigen Behauptungen übereinkommende, der Natur in keiner andern Rücksicht wiedersprechende, und noch überdieses durch verschiedne, an dem Orte des Niederfallens gefundene Massen, bestätigte Theorie dieser Naturerscheinungen folgende:
 
-So wie erdige, metallische und andere Teile den Grundstoff un-
-seres Planeten ausmachen, wovon das Eisen unter die Hauptbestandteile
-gehört, und so wie auch andere Weltkörper aus ähnlichem, oder vielleicht
-eben demselben, wiewohl auf sehr verschiedene Art gemischten und modifi-
-cirten Grundstoffe bestehen mögen: eben so sind auch viele, in kleinere Mas-
-sen angehäufte grobe Materien, ohne mit einem größeren Weltkörper in un-
-mittelbarer Verbindung zu stehen, in dem allgemeinen Weltraume zer-
-streuet, in welchem sie sich durch Wurfkräfte oder Anziehung getrieben, so
-lange fortbewegen, bis sie etwa einmal der Erde oder einem andern Welt-
-körper nahe kommen, und von dessen Anziehungskraft ergriffen, darauf
-niederfallen. Durch ihre äußerst schnelle und vermöge der Anziehungs-
-kraft der Erde noch mehr beschleunigte Bewegung, muß nothwendig wegen
-der hestigen Reibung in der Atmosphäre eine sehr starke Elektricität und
-Hitze erregt werdem, wodurch sie in einen brennenden und geschmolzenen
-Zustand gerathen, und eine Menge Dünste und Luftarten sich darinnen ent-
-wickeln, welche die geschmolzene Masse zu einer ungeheueren Größe aufblä-
-hen, bis sie endlich bei einer noch stärkern Entwickelung solcher elastischer
-Flüßigkeiten zerspringen muß.
-Gegen das würkliche Brennen dieser Körper ist von einigen einge-
-wendet worden, daß in einer so beteächtlichen Höhe die Luft so dinn und
-so unrein sein müsse, daß kein Brennen daselbst Statt finden könne. Aber
-außer dem, daß man noch gar nicht weiß, in welcher Höhe die Luft nicht
-mehr
-es
---.
+So wie erdige, metallische und andere Teile den Grundstoff unseres Planeten ausmachen, wovon das Eisen unter die Hauptbestandteile gehört, und so wie auch andere Weltkörper aus ähnlichem, oder vielleicht eben demselben, wiewohl auf sehr verschiedene Art gemischten und modificirten Grundstoffe bestehen mögen: eben so sind auch viele, in kleinere Massen angehäufte grobe Materien, ohne mit einem größeren Weltkörper in unmittelbarer Verbindung zu stehen, in dem allgemeinen Weltraume zerstreuet, in welchem sie sich durch Wurfkräfte oder Anziehung getrieben, so lange fortbewegen, bis sie etwa einmal der Erde oder einem andern Weltkörper nahe kommen, und von dessen Anziehungskraft ergriffen, darauf niederfallen. Durch ihre äußerst schnelle und vermöge der Anziehungskraft der Erde noch mehr beschleunigte Bewegung, muß nothwendig wegen der hestigen Reibung in der Atmosphäre eine sehr starke Elektricität und Hitze erregt werdem, wodurch sie in einen brennenden und geschmolzenen Zustand gerathen, und eine Menge Dünste und Luftarten sich darinnen entwickeln, welche die geschmolzene Masse zu einer ungeheueren Größe aufblähen, bis sie endlich bei einer noch stärkern Entwickelung solcher elastischer Flüßigkeiten zerspringen muß.
 
+Gegen das würkliche Brennen dieser Körper ist von einigen eingewendet worden, daß in einer so beträchtlichen Höhe die Luft so dünn und so unrein sein müsse, daß kein Brennen daselbst Statt finden könne. Aber außer dem, daß man noch gar nicht weiß, in welcher Höhe die Luft nicht mehr zu Unterhaltung des Feuers tauglich ist, so wird auch die etwas geringere Tauglichkeit der Luft durch die Schnelligkeit der Bewegung dieser Massen reichlich ersetzt; wodurch sowohl das Feuer stark angefacht, als auch wegen der heftigen Reibung in der Atmosphäre eine sehr beträchtliche Hitze hervorgebracht, und also das Brennen auch bei einer sonst ziemlich ungünstigen Beschaffenheit der Luft, befördert werden muß. Es kommt auch vieles auf die Beschaffenheit der brennenden Materie selbst an; so brennt z. B. Schwefel (der ein Bestandteil einiger gefundenen Massen gewesen ist) unter der Luftpumpe noch bei einer solchen Verdünnung der Luft, wo kein anderer Körper mehr brennen will.
 
+§\. 6.
 
-### 0033
-
-ce
-25
-mehr zu Unterhaltung des Feuers tauglich ist, so wird auch die etwas gerin-
-gere Tauglichkeit der Lust durch die Schnelligkeit der Bewegung dieser Mas-
-sen reichlich ersetzt: wodurch sowohl das Feuer stark angefacht, als auch
-wegen der heftigen Reibung in der Atmosphäre eine sehr beträchtliche Hitze
-hervorgebracht, und also das Brennen auch bei einer sonst ziemlich un-
-günstigen Beschaffenheit der Luft, befördert werden muß. Es kommt
-auch vieles auf die Beschaffenheit der brennenden Materie selbst an; so
-brennt z. B. Schwefel (der ein Bestandteil einiger gefundenen Massen
-gewesen ist) unter der Luftpunpe noch bei einer solchen Verdünnung der
-Lust, wo kein anderer Körper nehr brennen will.
-§. 6.
 Die meisten Sternschnuppen sind wahrscheinlich auch nichts anders.
-Es unterscheiden sich die Sternschnuppen allem Ansehen nach von
-den Feuerkugeln nur dadurch, daß die eigenthümliche schnelle Bewegung
-dieser Massen sie in einer größern Entfernung bei der Erde vorbeiführt,
-so, daß sie von derselben nicht bis zum Niederfallen angezogen werden, und
-also bei dem Durchgehen durch die höchsten Regionen der Atmosphäre, ent-
-weder nur eine schnell vorübergehende elektrische Erscheinung verursachen,
-oder würklich auf einige Augenblicke in Brand gerathen, welches Bren-
-nen sogleich wieder aushört, wenn sie sich wieder so weit von der Erde ent-
-fernen, daß die Lust zu Unterhaltung des Feuers zu dünn ist. Vielleiche
-gehört auch hieher die vom Herrn Oberamtmann Schröter in seinen sele-
-notopogrephischen Fragmenten S. 593 bemerkte Erscheinung, da zwei
-Häufgen von weißen ichtsunken nech einander im Felde seines Telescopes
-sichtbar wurden, und in paralieler Richtung sich hindurch bewegten. Man
-sieht die Sternschnuppen eigentlich nicht fallen, sondern nur von einer
-Stelle
-D
 
+Es unterscheiden sich die Sternschnuppen allem Ansehen nach von den Feuerkugeln nur dadurch, daß die eigenthümliche schnelle Bewegung dieser Massen sie in einer größern Entfernung bei der Erde vorbeiführt, so, daß sie von derselben nicht bis zum Niederfallen angezogen werden, und also bei dem Durchgehen durch die höchsten Regionen der Atmosphäre, entweder nur eine schnell vorübergehende elektrische Erscheinung verursachen, oder würklich auf einige Augenblicke in Brand gerathen, welches Brennen sogleich wieder aushört, wenn sie sich wieder so weit von der Erde entfernen, daß die Luft zu Unterhaltung des Feuers zu dünn ist. Vielleiche gehört auch hieher die vom Herrn Oberamtmann Schröter in seinen selenotopogrophischen Fragmenten S. 593 bemerkte Erscheinung, da zwei Häufgen von weißen Lichtfunken noch einander im Felde seines Telescopes sichtbar wurden, und in paralleler Richtung sich hindurch bewegten. Man sieht die Sternschnuppen eigentlich nicht fallen, sondern nur von einer Stelle des Himmels zur andern in gerader Richtung sich bewegen, und sodann verschwinden; bisweilen geht ihre sichtbare Bahn über den größten Teil des Himmels, bisweilen sieht man sie nur wenige Grade durchlaufen. Manchmal werfen sie Funken aus. Ueber ihre Höhe hat man meines Wissens noch keine Beobachtungen, außer, daß Brydone auf dem Aetna, und Sauffüre auf dem Montblanc sie in einer eben so großen scheinbaren Höhe über sich gesehen haben, als unten im Thale. Man sollte sich bemühen, durch mehrere an etwas von einander entfernten Orten zu gleicher Zeit anzustellende Beobachtungen, ihre Höhe und ihren Weg genauer zu erforschen.
 
-### 0034
+Wahrscheinlich giebt es aber auch leuchtende Meteore, die den jetzterwähnten Sternschnuppen ähnlich, aber ganz andere Wesen, und von ganz andern Ursprunge sind. Außerdem, daß manche vielleicht blos elektrischer Natur sein können, welches eine Beobachtung von Beccaria glaublich macht, die in Gehlers physikalischem Wörterbuche (unter dem Worte: Sternschnuppen) angeführt wird, finden sich auch einige Beispiele von herabgefallen sein sollenden Sternschnuppen, wo man nachher eine gummiartige schleimige Masse gefunden haben will, in Silberschlags Theorie der 1762 erschienenen Feuerkugel S. 46. Ein anderes, wo man zu Coblenz nachher eine graue schwammige Masse gefunden zu haben versichert, die flüchtiges Alkali entielt, und einer Schwefelleber ähnlich war, ist in _Comment. de rebus in scientia naturali et medicina gestis Vol 26. p. 1. p. 179_ anzutreffen. Noch mehrere dergleichen Nachrichten finden sich in _Gassendi Phys. sect. 3. l. 2. c. 7._ und in den _Ephem. Natur. Curios. Cent. 2. ann. 9. obs. 71._ Nun könnte es wohl sein, (wenn keine Täuschung vorgefallen, und das Gefundene nicht etwa Koth von Vögeln, oder Schaum von Cicaden oder andern Insekten, sondern würklich die Substanz der Sternschnuppe gewesen ist,) daß solche lockere Massen in der Atmosphäre, obgleich in keiner solchen Höhe, wo man Feuerkugeln beobachtet hat, sich anhäufen, und sodann niederfallen, oder noch wahrscheinlicher, daß sie mit den Irrlichtern* gleiche Entstehung haben, und ganz unten aus schleimigen, durch die Fäulniß aufgelöseten vegetabilischen, oder animalischen Teilen entstehen, und durch Ausdehnung vermittelst der specifisch leichten, brennbaren Sumpfluft, gewissermaßen als natürliche Aerostaten, sich zu einer geringen Höhe erheben, bis sie entweder nach einer Zerstreuung der brennbaren Luft durch Zerplatzung der Bläsgen, woraus sie bestehen, oder, welches aus der kurzen Dauer ihres Lichtes, und aus dem bemerkten brandigen Geruche der gefundenen Substanz sich vermuthen läßt, nach einer, durch Electricität, oder auf irgend eine andere Art erregten Verbrennung dieser Luft, niederfallen. Solche lockere Stoffe möchten aber wohl nie zu jener Höhe von so vielen Meilen gelangen und noch weniger so schnell, wie man gewöhnlich an Sternschnuppen bemerkt, durch einen so beträchtlichen Raum sich bewegen können.
 
-ii ss-
-"IIl,
-W u
-Al
-1TöIIoIIo1diIll1I7Xol:
-2
-Stelle des Himmels zur andern in gerader Richtung sich bewegen, und
-sodann verschwinden; bisweilen geht ihre sichtbare Bahn über den größ-
-ten Teil des Himmels, bisweilen sieht man sie nur wenige Grade durch-
-laufen. Manchmal werfen sie Funken aus. Ueber ihre Höhe hat man
-meines Wissens noch keine Beobachtungen, außer, daß Brydone auf dem
-Aetna, und Sauffüre auf dem Montblanc sie in einer eben so großen
-scheinbaren Höhe über sich gesehen haben, als unten im Thale. Man
-sollte sich bemühen, durch mehrere an etwas von einander entfernten Orten
-zu gleicher Zeit anzustellende Beobachtungen, ihre Höhe und ihren Weg
-genauer zu erforschen.
-2
-.-
-. ,
-- 9
-v
-I
-eSe2
-Wahrscheinlich giebt es aber auch leuchtende Meteore, die den
-jetzterwähnten Sternschnuppen ähnlich, aber ganz andere Wesen, und von
-ganz andern Ursprunge sind. Außerdem, daß manche vielleicht blos clek-
-trischer Natur sein können, welches eine Beobachtung von Beccaria
-glaublich macht, die in Gehlers physikalischem Wörterbuche (unter dem
-Worte: Sternschnuppen) angeführt wird, finden sich auch einige
-Beispiele von herabgefallen sein sollenden Sternschnuppen, wo man nach'
-her eine gummiartige schleimige Masse gefunden haben will, in Silber-
-schlags Theorie der 1762 erschienenen Feuerkugel S. 46. Ein anderes,
-wo man zu Coblenz nachher eine graue schwammige Masse gefunden zu
-haben versichert, die flüchtiges Alkali enthielt, und einer Schwefelleber
-ähnlich war, ist in Comment. de rebus in lcientia naturali et medi-
-cina geftis Vol XXVI. p. I. p. 179 anzutrefsen. Noch mehrere der-
-gleichen Nachrichten finden sich in Galiendi Pls. fect. III. I. II. c. 7.
-und in den Ephem. Natur. Curiof. Cent. II. ann. 9. obf. 71. Nun
-könnte es wohl sein, (wenn keine Täuschung vorgefallen, und das Gesun-
-dene nicht etwa Koth von Vögeln, oder Schaum von Cicaden oder andern
-Insekten, sondern würklich die Substanz der Sternschnuppe gewesen ist,)
-daß
-le so--
+*) Eine, den Irrlichtern ähnliche, aus gallertartigen Stoffen bestehende Erscheinung, hatte ich selbst einmal im kleinen zu beobachten Gelegenheit. An einem warmen Herbstabende im Jahre 1781, fuhr ich in der Dämmerung, kurz nachdem ed geregnet hatte, bei Dreßden durch den großen Garten; da sahe ich viele leuchtende Punkte in dem nassen Grase nach der Richtung des Windes hüpfen, einige setzten sich auch an die Räder des Wagens; ich stieg aus, um sie zu beobachten, da es denn wegen ihres Fliehens bei der Annäherung schwer ward, ihrer sogleich habhaft zu werden, die ich aber faßte, waren kleine gallertartige Massen, ungefähr wie Froschlaich, oder wie Sagokörner, die durch Kochen aufge, löset worden; sie zeigten weder merklichen Geruch noch Geschmack, und mögen wohl nichts weiter, als verfaulte Pflanzenteile gewesen sein.
 
+§\. 7.
 
-### 0035
+Beobachtete Würkungen an dem Orte, wo Feuerkugeln niedergefallen.
 
--
-a
-o.
-daß solche lockere Massen in der Armosphäre, obgleich in keiner solchen
-Höhe, wo man Feuerkugeln beobachtet hat, sich anhäufen, und sodann
-niedersallen, eder noch wahrscheinlicher, daß sie mit den Irrlichtern *)
-gleiche Entsiehung haben, und ganz unten aus schleimigen, durch die Fäul-
-niß aufgelöstten vegetabilischen, oder animalischen Teilen entste-
-hen, und durch Ausdehnung vermittelst der specifisch leichten, brennbaren
-Sumpfluft, gewissermaßen als natürliche Aecostaten, sich zu einer gerin-
-gen Höhe erheben, bis sie entweder nach einer Zerstreuung der brennbaren
-zust durch Zerplatzung der Bläsgen, woraus sie bestehen, oder, welches
-aus der kirzen Dauer ihres Lichtes, und aus dem bemerkten brandigen Ge-
-ruche der gefundenen Substanz sich vermuthen läßt, nach einer, durch Elec-
-tricität, oder auf irgend eine andere Art erregten Verbrennung dieser Luft,
-niederfallen. Solche lockere Stofse möchten aber wohl nie zu jener Höhe
-von so vielen Meilen gelangen und noch weniger so schnell, wie man ge-
-wöhnlich an Sternschnuppen bemerkt, durch einen so beträchtlichen Raum
-sich bewegen können.
-D 2
-§. 7.
-) Eine, den Irrlichtern ähnliche, ausgallertartigen Stoffen bestehende Er-
-scheinung, hatte ich selbst einmal im kleinen zu beobachten Gelegenheit.
-An einem warmen Herbstabende im Jahre 1781, fuhr ich in der Dämme-
-rung, kurz nachdem ed geregnet hatte, bei Dreßden durch den großen
-Garten; da sahe ich viele leuchtende Punkte in dem nassen Grase nach
-der Richtung des Windes hüpfen, einige setzten sich auch an die Räder
-des Wagens; ich siieg aus, um sie zu beobachten, da es denn wegen
-ihres Fliehens bei der Annäherung schwer ward, ihrer sogleich habhaft
-zu werden, die ich aber faßte, waren kleine gallertartige Massen, un-
-gefähr wie Froschlaich, oder wie Sagokörner, die durch Kochen aufge,
-löset worden; sie zeigten weder merklichen Geruch noch Geschmack, und
-mögen wohl nichts weiter, als verfaulte Pflanzeniheile gewesen sein.
-lll
+Von der am 21. Mai 1676 in Italien beobachteten Feuerkugel, welche Montanari beschrieben, sollen, wie schon erwähnt, die Stücke nach dem Zerspringen südsüdwestwärts von Livorno in das Meer gefallen sein, mit einem Geräusche, wie wenn glühendes Eisen im Wasser gelöscht wird; welche Nachricht aber, so sehr sie meiner Theorie günstig sein möchte, ich doch nicht sehr in Anschlag bringen mag, weil sich manche optische und akustische Täuschung mit eingemengt haben kann.
 
+Daß nach dem Zerspringen der Feuerkugel vom 11. Nov. 1761 ein Stück davon in ein Haus gefallen sei, und dieses angezündet habe, wird in den _Memoires de l'Academie de Dijon Vol. 1. S. 42_ erzählt, und zugleich erwähnt, daß einige Jahre früher, ein Haus durch eine herabgefallene Sternschnuppe in Brand gerathen sei. Ob weitere Umstände davon angegeben sind, weiß ich nicht, weil ich dieses Werk nicht habe erhalten können, und also gegenwärtige Nachricht nur aus einer Recension desselben entlehnt habe.
 
-### 0036
+Barham sahe 1700 in Jamaica (_Phil. transact. n. 357. S. 148_) eine Feuerkugel, von der scheinbaren Größe einer Bombe, mit einem heftigen Knalle niederfallen; es fand sich an dem Orte des Niederfallens eine Vertiefung in der Erde, ungefähr von der Größe eines Menschenkopfes, und umher einige kleinere, ungefähr von der Größe einer Mannssaust, und so tief, besonders die größte, daß sie mit den Stangen, die bei der Hand waren, nicht ergründet werden konnten. Man verspürte einen Schwefelgeruch, das Gras war um die Vertiefungen verbrannt. Vielleicht ist es ein Blitz gewesen, indem es auch die Nacht vorher heftig gedonnert hatte; wenn es aber würklich eine Feuerkugel gewesen, so ist sehr zu bedauern, daß man nicht nachgegraben hat, da man denn höchstwahrscheinlich solche Massen, wie im künftigen §. erwähnt werden sollen, würde gefunden haben.
 
-1 Isl c
-:la ioIloIolo1dal
-el
-1TöIIIIIo1diIll1I2Xol:
--
+§\. 8.
 
-§. 7.
-Beobachtete Würkungen an dem Orte, wo Feuerkugeln
-niedergefallen.
-Von der am 21. Mai 1676 in Italien beobachteten Feuerkugel,
-welche Montanari beschrieben, sollen, wie schon erwähnt, die Stücke nach
-dem Zerspringen südsüdwestwärts von Livorno in das Meer gefallen sein,
-mit einem Geräusche, wie wenn glühendes Eisen im Wasser gelöscht wird;
-welche Nachricht aber, so sehr sie meiner Theorie günstig sein möchte,
-ich doch nicht sehr in Anschlag bringen mag, weil sich manche optische und
-akustische Täuschung mit eingemengt haben kann.
-Daß nach dem Zerspringen der Feuerkugel vom 11. Nov. 1761
-ein Stück davon in ein Haus gefallen sei, und dieses angezündet habe,
-wird in den Memoires de l'Academie de Dijon Vol. I. S. 42
-erzählt, und zugleich erwähnt, daß einige Jahre früher, ein Haus durch eine
-herabgefallene Sternschnuppe in Brand gerathen sei. Ob weitere Um-
-stände davon angegeben sind, weiß ich nicht, weil ich dieses Werk nicht
-habe erhalten können, und also gegenwärtige Nachricht nur aus einer
-Recension desselben entlehnt habe.
-Barham sahe 1700 in Jamaica (Phil. transact. n. 357. S.
-148) eine Feuerkugel, von der scheinbaren Größe einer Bombe, mit einem
-heftigen Knalle niederfallen; es fand sich an dem Orte des Niedersallens
-eine Vertiesung in der Erde, ungefähr von der Größe eines Menschenkop-
-fes, und umher einige kleinere, ungefähr von der Größe einer Manns-
-saust, und so tief, besonders die größte, daß sie mit den Stangen, die bei
-der Hand waren, nicht ergründet werden konnten. Man verspürte einen
-Schwefelgeruch, das Gras war um die Vertiefungen verbrannt. Viel-
-leicht ist es ein Blitz gewesen, indem es auch die Nacht vorher heftig
-gedon-
---
-
-
-### 0037
-
-d.
-,2
--
-29
-gedonnert hatte; wenn es aber würklich eine Feuerkugel gewesen, so ist
-sehr zu bedauern, daß man nicht nachgegraben hat, da man denn höchst-
-wahrscheinlich solche Massen, wie im künftigen §. erwähnt werden sollen,,
-würde gefunden haben.
-§. 8.
 Beispiele von gefundenen Massen an dem Orte des Niederfallens.
-Bergmann äußert in seiner physischen Erdbeschreibung den Wunsch,
-daß man einmal Gelegenheit finden möchte, die Substanz einer niederge-
-fallenen Feuerkugel zu untersuchen. Dieser Wunsch, ist allem Ansehen
-nach schon mehreremal erfüllt worden, nur hat man immer die Naturer-
-scheinung nicht für das gehalten, was sie würklich gewesen ist. Die drei
-ersten anzuführenden Beispiele von Eisenmassen, wo man Nachricht hat,
-daß sie unter donnerähnlichen Getöse von oben herabgefallen sind, von
-denen das dritte bei weitem das merkwürdigste ist, weil man selten Gele-
-genheit finden möchte, die Natur so über der That zu beobachten, entlehne
-ich aus einem Aussatze des Herrn Abbe Stütz, (Adjunkt am Kaiserlichen
-Naturalienkabinet in Wien) über einige vorgeblich vom Himmel gefallene
-Steine, im 2ten Bande der Bergbaukunde S. 398. Bei den bisherigen
-physischen Begriffen schienen freilich diese Nachrichten zu sabelhaft, als
-daß man ihnen Glauben beimessen könnte, wenn sie auch noch so sehr do-
-cumentirt sind; aber bei der jetzt vorgetragenen Erklärungsart verlieren sie
-allen sabelhaften Anstrich.
-a) Herr Stüt besitzt ein vom Herrn Baron von Hompesch
-(Domherrn zu Eichstädt und Bruchsal) erhaltenes Stück aus dem Eich-
-städtischen, welches aus aschgrauem Sandsteine besteht, und mit fei-
-nen Könerchent, teils von würklichem gediegenen Eisen, das sich geglüht
-volllommen hämmern läßt, teils von gelbbraunem Eisenocker, durchaus
-ine
-3
 
+Bergmann äußert in seiner physischen Erdbeschreibung den Wunsch, daß man einmal Gelegenheit finden möchte, die Substanz einer niedergefallenen Feuerkugel zu untersuchen. Dieser Wunsch, ist allem Ansehen nach schon mehreremal erfüllt worden, nur hat man immer die Naturerscheinung nicht für das gehalten, was sie würklich gewesen ist. Die drei ersten anzuführenden Beispiele von Eisenmassen, wo man Nachricht hat, daß sie unter donnerähnlichen Getöse von oben herabgefallen sind, von denen das dritte bei weitem das merkwürdigste ist, weil man selten Gelegenheit finden möchte, die Natur so über der Tat zu beobachten, entlehne ich aus einem Aussatze des Herrn Abbé Stütz, (Adjunkt am Kaiserlichen Naturalienkabinet in Wien) über einige vorgeblich vom Himmel gefallene Steine, im 2ten Bande der Bergbaukunde S. 398. Bei den bisherigen physischen Begriffen schienen freilich diese Nachrichten zu fabelhaft, als daß man ihnen Glauben beimessen könnte, wenn sie auch noch so sehr documentirt sind; aber bei der jetzt vorgetragenen Erklärungsart verlieren sie allen fabelhaften Anstrich.
 
+a) Herr Stütz besitzt ein vom Herrn Baron von Hompesch (Domherrn zu Eichstädt und Bruchsal) erhaltenes Stück aus dem Eichstädtischen, welches aus aschgrauem Sandsteine besteht, und mit feinen Könerchen, teils von würklichem gediegenen Eisen, das sich geglüht vollkommen hämmern läßt, teils von gelbbraunem Eisenocker, durchaus eingesprengt ist; der Sandstein hat die Härte eines Quadersteins, und besteht aus Kiesel und Eisenteilen. Eine gegen zwei Linien dicke, hammerbare, ganz schwefellose Rinde von gediegenem Eisen bedeckt dessen Oberfläche. Die ganze Masse trägt Spuren ausgestandenen Feuers. Vom Stücke selbst ward dem Hrn. Baron v. Hompesch folgende Nachricht gegeben: "daß es ein Arbeiter an einer Ziegelhütte, bei Winterszeit, da die Erde über einen Schuh hoch mit Schnee bedeckt war, unmittelbar auf einem heftigen Donnerschlag habe wollen aus der Luft herabfallen sehen, daß er sogleich hinlief, es aus dem Schnee aufzuheben, welches er aber seiner Hitze wegen nicht konnte, sondern es erst im Schnee abkühlen mußte. Der Stein möge ungefähr einen halben Schuh im Durchmesser gehabt haben, und sei ganz mit der schwarzen Eisenrinde umgeben gewesen. Das Gebürge, wo dieß geschah, bestehe aus derben Marmor, hornsteinigen feuergebenden Kalkfelsen, und einer Sandsteinart." Die Erzählung erhält, durch Vergleichung mit allen folgenden, allerdings Glaubwürdigkeit, läßt sich aber nach meiner Theorie viel natürlicher, als durch einen Blitz erklären. Hr. Stütz vermuthet, daß der daran befindliche Sandstein der nämliche sein möchte, wie an dem Gebürge, wo die Masse gefunden worden. Sollte dieses auch gegründet sein, welches genauere Untersuchung verdiente, und wegen der eingesprengten gediegenen Eisenteile nicht recht glaublich ist, so würde es doch meiner Erklärungsart nicht widersprechen, indem ein schon vorher da gelegenes Stück Sandstein von der herabfallenden geschmolzenen Eisenmasse könnte umflossen, und vielleicht auch einigermaßen geschmolzen, und davon durchdrungen sein. Es ist Schade, daß dieses nebst noch andern Umständen, z. B. ob der Himmel zu der Zeit heiter oder mit Wolken bedeckt, ob ein würkliches Gewitter vorhanden gewesen, und es mehrmal geblitzt habe, ob die Gegend eisenhaltig sei u. s. w. nicht genauer ist angegeben worden.
 
-### 0038
+b) von Born beschreibt in s. _Indice fossilium tom. 1. S. 125_ ein glänzendes (wie er sagt) retracterisches Eisenerz, das in grünliches "Gestein eingemischt ist, und eine schlackige Oberfläche hat, und bei Plann, unweit Tabor im Bechiner Kreise in Böhmen gefunden worden, und von dem die Leichtgläubigen versichern, es sei 1753 den 3. Jul. unter Donnerschlägen vom Himmel gefallen."
 
-30
-eingesprengt ist; der Sandstein hat die Härte -eines Quadersieins, und
-besteht aus Kiesel und Eisenteilen. Eine gegen zwei Linien dicke, ham-
-merbare, ganz schwefellose Rinde von gediegenem Eisen bedeckt dessen
-Oberfläche. Die ganze Masse trägt Spuren ausgestandenen Feuers.
-Vom Stücke selbst ward dem Hrn. Baron v. Hompesch folgende Nachricht
-gegeben: "daß es ein Arbeiter an einer Ziegelhütte, bei Winterszeit, da
-"die Erde über einen Schuh hoch mit Schnee bedeckt war, unmittelbar
-"auf einem heftigen Donnerschlag habe wollen aus der Luft herabsallen
-"sehen, daß er sogleich hinlief, es aus dem Schnee aufzuheben, welches
-"er aber seiner Hitze wegen nicht konnte, sondern es erst im Schnee ab-
-kühlen mußte. Der Stein möge ungefähr einen halben Schuh im
-"Ourchmesser gehabt haben, und sei ganz mit der schwarzen Eisenrinde
-"umgeben gewesen. Das Gebürge, wo dieß geschah, bestehe aus derben
-"Marmor, hornsteinigen feuergebenden Kalkfelsen, und einer Sandstein-
-"art." Die Erzählung erhält, durch Vergleichung mit allen folgenden,
-ollerdings Glaubwürdigkeit, läßt sich aber nach meiner Theorie viel na-
-trlicher, als durch einen Blitz erklären. Hr. Stütz vermuthet, daß der
-daran befindliche Sandstein der nämliche sein möchte, wie an dem
-Gebürge, wo die Masse gefunden worden. Sollte dieses auch gegründet
-sein, welches genauere Untersuchung verdiente, und wegen der eingespreng-
-ten gediegenen Eisenteile nicht recht glaublich ist, so würde es doch mei-
-ner Erklärungsart nicht widersprechen, indem ein schon vorher da gelege-
-nes Seück Sandstein von der herabfallenden geschmolzenen Eisenmasse
-könnte umflossen, und vielleicht auch einigermaßen geschmolzen, und davon
-durchdrungen sein. Es ist Schade, daß dieses nebst noch andern Um-
-ständen, z. B. ob der Himmel zu der Zeit heiter oder mit Wolken be-
-deckt, ob ein würkliches Gewitter vorhanden gewesen, und es mehrmal
-geblitzt habe, ob die Gegend eisenhaltig sei u. s. w. nicht genauer ist an-
-gageben worden.
-3I
-T. ".
+Die schlackige Oberfläche scheint eben so einen Ueberzug von gediegenem Eisen, wie bei dem vorigen und noch verschiedenen andern Stükken zu verrathen. Da es glänzendes retractorisches Eisenerz genennt, und also vom Magnete gezogen wird, da auch ein grünliches Gestein eingemischt ist, so verdiente genauer untersucht zu werden, ob es würkliches Eisenerz, oder gediegen Eisen sei, und ob die grünliche Steinart mit der an der Pallasischen Masse, wo sie auch bisweilen in das Grünliche fällt, Aehnlichkeit habe. Es wäre sehr zu wünschen, daß man die Aussagen derer, die es haben wollen herabfallen sehen, eben so gesammelt und angemerkt hätte, wie bei dem folgenden Stücke.
 
-
-### 0039
-
-d-
-3
-h) von Born beschreibt in s. Indice folllium tom. I. S. 125
-ein glänzendes (wie er sagt) retracterisches Eisenerz, das in grünliches
-"Gestein eingemischt ist, und eine schlackige Oberfläche hat, und bei Planz.
-"unweit Tabor im Bechiner Kreise in Böhmen gefunden worden,
-"und von dem die Leichtgläubigen versichern, es sei 1753 den 3. Jul. uns
-"ter Donnerschlägen vom Himmel gesallen."
-Die schlackige Oberfläche scheint eben so einen Ueberzug von geb-
-diegenem Eisen, wie bei dem vorigen und noch verschiedenen andern Stük-
-ken zu verrathen. Da es glänzendes retractorisches Eisenerz genennt,
-und also vom Magnete gezogen wird, da auch ein grünliches Gestein ein-
-gemischt ist, so verdiente genauer untersucht zu werden, ob es würkliches
-Eisenerz, oder gediegen Eisen sei, und ob die grünliche Steinart mit der an
-der Pallasischen Masse, wo sie auch bisweilen in das Grünliche fällt, Aehn-
-lichkeit habe. Es wäre sehr zu wünschen, daß man die Aussagen derer,
-die es haben wollen herabfallen sehen, eben so gesammelt und angemerkt
-hätte, wie bei dem solgenden Stücke.
 c) Durch die Aussagen von sieben Zeugen, worüber von dem
 Bischöflichen Consistorium zu Agram, welches die Sache durch Bevoll
 mächtigte an Ort und Stelle untersuchen lassen, eine, in jetzterwähntem
@@ -451,13 +207,6 @@ Stücke zersprungen, und so in zwei Teilen, in Gestalt feuriger verwickel-
 ter Ketten, wobei man einen, erst schwarzen, nachher vielfarbigen Rauch
 bemerkt habe, mit schrecklichem Getöse und mit solcher Gewalt herabgefal-
 len, daß die Erde wie bei einem Erdbeben davon erschüttert worden-
-D0s
-nr
-
-### 0040
-
-""2 I ) ) II ---r-s
-l
 
 Das eine Stück, 71 Pfund schwer, sei auf einem, 8 Tage vorher gepflüg-
 ten Acker gefallen, wo es drei Klaftern tief eingedrungen sei, und eine
