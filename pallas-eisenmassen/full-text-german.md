@@ -196,207 +196,59 @@ b) von Born beschreibt in s. _Indice fossilium tom. 1. S. 125_ ein glänzendes (
 
 Die schlackige Oberfläche scheint eben so einen Ueberzug von gediegenem Eisen, wie bei dem vorigen und noch verschiedenen andern Stükken zu verrathen. Da es glänzendes retractorisches Eisenerz genennt, und also vom Magnete gezogen wird, da auch ein grünliches Gestein eingemischt ist, so verdiente genauer untersucht zu werden, ob es würkliches Eisenerz, oder gediegen Eisen sei, und ob die grünliche Steinart mit der an der Pallasischen Masse, wo sie auch bisweilen in das Grünliche fällt, Aehnlichkeit habe. Es wäre sehr zu wünschen, daß man die Aussagen derer, die es haben wollen herabfallen sehen, eben so gesammelt und angemerkt hätte, wie bei dem folgenden Stücke.
 
-c) Durch die Aussagen von sieben Zeugen, worüber von dem
-Bischöflichen Consistorium zu Agram, welches die Sache durch Bevoll
-mächtigte an Ort und Stelle untersuchen lassen, eine, in jetzterwähntem
-Aufsatze des Hrn, Stütz wörtlich abgedruckte gerichtliche Urkunde abgefaße
-worden Twird bestätigt: daß am 26. Mai 1751 um 6 Uhr Nachmittags-
-sich am Himmel eine feurige Kugel gezeigt habe, die bei Hraschina in
-der Agramer Gespannschaft im obern Teile von Slavonien in zwei
-Stücke zersprungen, und so in zwei Teilen, in Gestalt feuriger verwickel-
-ter Ketten, wobei man einen, erst schwarzen, nachher vielfarbigen Rauch
-bemerkt habe, mit schrecklichem Getöse und mit solcher Gewalt herabgefal-
-len, daß die Erde wie bei einem Erdbeben davon erschüttert worden-
+c) Durch die Aussagen von sieben Zeugen, worüber von dem Bischöflichen Consistorium zu Agram, welches die Sache durch Bevollmächtigte an Ort und Stelle untersuchen lassen, eine, in jetzterwähntem Aufsatze des Hrn, Stütz wörtlich abgedruckte gerichtliche Urkunde abgefaßt worden, wird bestätigt: daß am 26. Mai 1751 um 6 Uhr Nachmittags sich am Himmel eine feurige Kugel gezeigt habe, die bei Hraschina in der Agramer Gespannschaft im obern Teile von Slavonien in zwei Stücke zersprungen, und so in zwei Teilen, in Gestalt feuriger verwickelter Ketten, wobei man einen, erst schwarzen, nachher vielfarbigen Rauch bemerkt habe, mit schrecklichem Getöse und mit solcher Gewalt herabgefallen, daß die Erde wie bei einem Erdbeben davon erschüttert worden. Das eine Stück, 71 Pfund schwer, sei auf einem, 8 Tage vorher gepflügten Acker gefallen, wo es drei Klaftern tief eingedrungen sei, und eine Spalte, eine Elle weit, verursacht habe; an der Spalte habe die Erde gleichsam ausgebrannt und grünlich geschienen: das andere Stück, 16 Pfund schwer, sei auf eine Wiese, 2000 Schritt davon, gefallen, wo man ebenfalls eine Spalte, fast zwei Ellen weit, gefunden habe. Auch haben viele Leute in verschiedenen Gegenden des Königreichs, die Zerteilung der Feuerkugel, das Knallen und Krachen in der Luft, wie auch, daß etwas feuriges vom Himmel gefallen sei, gesehen und bemerkt, nur daß ihnen der Ort, wo solche Stücke niedergefallen, wegen zu großer Entfernung unbekannt war. Beide Stücke schienen aus einerlei Materie zu bestehen. Das größere, 71 Pfund schwer, ist nebst der Urkunde an das Kaiserliche Naturalienkabinet in Wien geschickt worden, wo sich beides noch befindet. An diesem, ganz aus gediegenem Eisen bestehenden Stücke sind die Würkungen des Feuers unverkennbar. Die Oberfläche ist voll kuglicher Eindrücke, ungefähr, wie an der von Pallas gefundenen Masse, ausgenommen, daß die Eindrücke größer und weniger tief sind, und sowohl das gelbliche Mineral, das die Höhlungen der sibirischen Masse ausfüllt, als auch der Sandstein, der an der eichstädtischen vorkommt, fehlen; indem das ganze Stück derb, dicht und schwarz ist, wie gehämmertes Eisen. Hr. Stütz setzt hinzu: "die ungeschmückte Art, mit der das Ganze geschrieben ist, die Uebereinstimmung der Zeugen, die gar keine Ursache hatten, über eine Lüge so ganz einig zu werden, und die Aehnlichkeit der Geschichte mit der zu Eichstädt, machten es mir wenigstens wahrscheinlich, daß würklich etwas an der Sache sein möge. Freilich, daß in beiden Fällen das Eisen vom Himmel gefallen sein soll, mögen der Naturgeschichte Unkundige glauben, mögen wohl im Jahre 1751 selbst Deutschlands aufgeklärtere Köpfe, bei der, damals unter uns herrschenden Ungewißheit in der Naturgeschichte und der praktischen Physik geglaubt haben; aber in unsern Zeiten wäre es unverzeihlich, solche Mährchen auch nur wahrscheinlich zu finden." Hr. Stütz sucht also diese Erscheinungen aus Blitzen zu erklären, hauptsächlich deshalb, weil aus den Versuchen von Comus (in Crells chemischen Annalen 1784.) erhellet, daß Metallkalke sich durch Elektricität reduciren lassen. Nun verdanke ich zwar diesem einsichtsvollen Naturforscher weder die Erklärung durch einen Blitz, noch den jetzt angeführten Ausspruch, indem solche Nachrichten freilich mit allen bisher anerkannten physischen Begriffen nicht übereinzukommen schienen, und also unmöglich geglaubt werden konnten: da aber durchaneine Erklärungsart die Sache zu einer ganz natürlichen Erscheinung wird, so glaube ich doch keine dem jetzigen Zeitalter unangemessene Begriffe in der Naturkunde zu verrathen, wenn ich aus Gründen, die teils angeführt sind, teils in der Folge angeführt werden sollen, bebaupte, daß diese Massen würklich als der Stoff einer Feuerkugel herabgefallen sind, und nicht durch die Würkungen eines Blitzes entstanden sein können; daß man auch der Natur nicht widerspreche, wenn man gegenwärtige Erzählung, so wie sie in der Urkunde vorgetragen ist, wörtlich für wahr annimmt.
 
-Das eine Stück, 71 Pfund schwer, sei auf einem, 8 Tage vorher gepflüg-
-ten Acker gefallen, wo es drei Klaftern tief eingedrungen sei, und eine
-Spalte, eine Elle weit, verursacht habe; an der Spalte habe die Erde
-gleichsam ausgebrannt und grünlich geschienen: das andere Stück, 16
-Pfund schwer, sei auf eine Wiese, 2000 Schritt davon, gefallen, wo man
-ebenfalls eine Spalte, fast zwei Ellen weit, gefunden habe. Auch haben
-viele Leute in verschiedenen Gegenden des Königreichs, die Zerteilung der
-Feuerkugel, das Knallen und Krachen in der Luft, wie auch, daß etwas
-feuriges vom Himmel gefallen sei, gesehen und bemerkt, nur daß ihnen
-der Ort, wo solche Stücke niedergefallen, wegen zu großer Entfernung
-unbekannt war. Beide Stücke schienen aus einerlei Materie zu be-
-stehen. Das größere, 71 Pfund schwer, ist nebst der Urkunde an das
-Kaiserliche Naturalienkabinet in Wien geschickt worden, wo sich beides
-noch befindet. An diesem, ganz aus gediegenem Eisen bestehenden Stücke
-sind die Würkungen des Feuers unverkennbar. Die Oberfläche ist voll kugli-
-cher Eindrücke, ungefähr, wie an der von Pallas gefundenen Masse, aus-
-genommen, daß die Eindrücke größer und weniger tief sind, und sowohl
-das gelbliche Mineral, das die Höhlungen der sibirischen Masse ausfüll,
-als auch der Sandstein, der an der eichstädtischen vorkommt, sehlen; in-
-dem das ganze Stück derb, dicht und schwarz ist, wie gehämmertes
-Eisen. Hr. Stütz setzt hinzu: "die ungeschmückte Art, mit der das Ganze
-"geschrieben ist, die Uebereinstimmung der Zeugen, die gar keine Ursache
-"hatten, über eine Lüge so ganz einig zu werden, und die Aehnlichkeit
-"der Geschichte mit der zu Eichstädt, machten es mir wenigstens wahr-
-"scheinlich, daß würklich etwas an der Sache sein möge. Freilich, daß
-"in beiden Fällen das Eisen vom Himmel gefallen sein soll, mögen der
-"Naturgeschichte Unkundige glauben, mögen wohl im Jahre 1751 selbst
-"Deutschlands aufgeklärtere Köpfe, bei der, damals unter uns herr-
-"schenden Ungewißheit in der Naturgeschichte und der praktischen Physik
-"geglaubt
-2
-lso--
+Herr Ober-Bergrat Ferber hat (wie Hr. Prediger Gronau in dem 9ten Bande der Schriften der Berliner Gesellschaft naturforschender Freunde S. 47 berichtet) ebenfalls diese Masse nebst der beiliegenden Urkunde gesehen, und geglaubt, daß sie durch einen Blitz geschmolzen sei, hat aber die Tatsachen nicht ganz so erzählt, wie sie in der Urkunde enthalten sind, denn es findet sich darinnen kein Wort von "einem der schrecklichsten Donnerwetter, das mit den fürchterlichsten Blitzen in den an sich eisenhaltigen Erdboden eingeschlagen habe u. s. w." Man sieht hieraus, welche Genauigkeit in Erzählung oder Wiedererzählung von Naturbegebenheiten nöthig ist, um nichts von seiner eigenen Erklärungsart in die Tatsachen hinüber zu tragen.
 
+Es sind außer diesen vom Herrn Stütz erwähnten Nachrichten von herabgefallenen Massen, noch viele andere vorhanden, von denen freilich einige der älteren, wegen der damals herrschenden Unwissenheit und Leichtgläubigkeit nicht sehr in Anschlag zu bringen sind, aber doch auch angeführt zu werden verdienen, da wegen Uebereinstimmung mit den vorigen, welche unmöglich ein Werk des Zufalles sein kann, zu vermuthen ist, daß dabei etwas wahres zum Grunde liegen müsse.
 
-### 0041
+d) Plinius (_hist. nat. 2. 56._) erzählt, daß in Lucanien Eisen von schwammiger Gestalt vom Himmel gefallen sei: das Eisen würde also, wenn die Erzählung wahr ist, mit den im folgenden §. zu erwähnenden Massen Aehnlichkeit gehabt haben, wo es ebenfalls von schwammiger Textur ist.
 
-U
-"geglaubt haben; aber in unsern Zeiten wäre es unverzeihlich, solche
-"Mährchen auch nur wahrscheinlich zu finden. " Hr. Stütz sucht also
-diese Erscheinungen aus Blitzen zu erklären, hauptsächlich deshalb, weil
-aus den Versuchen von Comus (in Crells chemischen Annalen 1784.) er-
-hellet, daß Metallkalke sich durch Elektricität reduciren lassen. Nun ver-
-danke ich zwar diesem cinsichtsvollen Naturforscher weder die Erklärung
-durch einen Blitz, noch den jetzt angeführten Ausspruch, indem solche
-Nach ichten sreilich mit allen bisher anerkannten physischen Begrifsen nicht
-übereinzukemmen schienen, und also unmöglich geglaubt werden konnten:
-da aber durch neine Erklärungsart die Sache zu einer ganz natürlichen
-Erscheinung wird, so glaube ich doch keine dem jetzigen Zeitalter unange-
-messene Begrisfe in der Naturkunde zu verrathen, wenn ich aus Gründen,
-die teils angeführt sind, teils in der Folge angeführt werden sollen, be-
-baupte, daß diese Massen würklich als der Stoff einer Feuerkugel herab-
-gefallen sind, und nicht durch die Würkungen eines Blitzes entstanden sein
-können; daß man auch der Natur nicht widerspreche, wenn man gegen-
-wärtige Erzählung, so wie sie in der Urkunde vorgetragen ist, wörtlich für
-wahr annimmt.
-Herr Ober-Bergrath Ferber hat (wie Hr. Prediger Gronau in
-dem 9ten Bande der Schriften der Berliner Gesellschaft naturforschender
-Freunde S. 47 berichtet) ebensalls diese Masse nebst der beiliegenden
-Urkunde gesehen, und geglaubt, daß sie durch einen Blitz geschmolzen
-sei, hat aber die Thatsachen nicht ganz so erzählt, wie sie in der Urkunde
-enthalten sind, deun es findet sich darinnen kein Wort von ,einem der
-"schrecklichsten Donnerwetter, das mit den fürchterlichsten Blitzen in den
-"an sich eisenhaltigen Erdboden eingeschlagen habe u. s. w. Man sieht
-hieraus, welche Genauigicit in Erzählung oder Wiedererzählung von
-Naturbegebenheiten nöthig ist, um nichts von seiner eigenen Erklärungs-
-art in die Thatsachen hinüber zu tragen.
--ti
+e) Avicenna erwähnt (beim Averrhoes _l. 2. Meteor. cap. 2._) daß er einen zu Cordova in Spanien vom Himmel gefallenen schwefelhaltigen Stein gesehen habe.
 
-### 0042
+f) In Spangenbergs _Chron. Saxon._ findet sich die Nachricht, daß zu Magdeburg im Jahre 998 zwei große Steine im Donnerwetter herabgefallen sind, einer in die Stadt, der andere nach der Elbe zu ins freie Feld.
 
-1 lls c
+g) Hieron. Cardanus, der aber freilich auch unter die leichtgläubigsten Schriftsteller gehört, erzählt (_de variet. rer. l. 14. c. 72_) daß er selbst im Jahre 1510 habe 120 Steine vom Himmel fallen gesehen, unter denen einer 120 und ein anderer 60 Pfund gewogen, sie sollen meist eisenfarbig und sehr hart gewesen sein, und nach Schwefel gerochen haben. Er bemerkt dabei, daß um 3 Uhr ein großes Feuer am Himmel zu sehen gewesen, und die Steine um 5 Uhr mit Geräusch herabgefallen sind, und wundert sich, wie eine solche Last von Steinen habe können zwei Stunden lang in der Luft erhalten werden, welches auch wohl niemand glaublich finden wird.
 
-4
-e-
-Es sind außer diesen vom Herrn Stütz erwähnten Nachrichten von
-herabgefallenen Massen, noch viele andere vorhanden, von denen freilich
-einige der älteren, wegen der damals herrschenden Unwissenheit und Leicht-
-gläubigkeit nicht sehr in Anschlag zu bringen sind, aber doch auch ange-
-führt zu werden verdienen, da wegen Uebereinstimmung mit den vorigen,
-welche unmöglich ein Werk des Zufalles sein kann, zu vermuthen ist,
-daß dabei etwas wahres zum Grunde liegen müsse.
-d) Plinius (hilt. nat. II. 56.) erzählt, daß in Lucanien Eisen von
-schwammiger Gestalt vom Himmel gefallen sei: das Eisen würde also,
-wenn die Erzählung wahr ist, mit den im folgenden §. zu erwähnenden
-Massen Aehnlichkeit gehabt haben, wo es ebenfalls von schwammiger Tex-
-tur ist.
-e) Avicenna erwähnt (beim Averrhoes l. II. Meteor. cap. 2.)
-daß er einen zu Cordova in Spanien vom Himmel gesallenen schweselhal-
-tigen Stein gesehen habe.
-f) In Spangenbergs Chron. Saxon. findet sich die Nachricht,
-daß zu Magdeburg im Jahre 998 zwei große Steine im Donnerwetter
-herabgefallen sind, einer in die Stadt, der andere nach der Elbe zu ins
-freie Feld.
-g) Hieron. Cardanus, der aber freilich auch unter die leichtgläu-
-bigsten Schriftsteller gehört, erzählt (de variet. rer. I. XIV. c. 72)
-daß er selbst im Jahre 1510 habe 120 Steine vom Himmel fallen ge-
-sehen, unter denen einer 120 und ein anderer 60 Psund gewogen, sie sol-
-len meist eisenfarbig und sehr hart gewesen sein, und nach Schwefel ge-
-rochen haben. Er bemerkt dabei, daß um 3 Uhr ein großes Feuer am
-Himmel zu sehen gewesen, und die Steine um 5 Uhr mit Geräusch her-
-abgefallen sind, und wundert sich, wie eine solche Last von Steinen habe
-kön-
-t
-l
+h) Jul. Scaliger versichert, (_de subtil. exerc. 323_) daß er selbst ein in Savoyen vom Himmel gefallenes Stück Eisen besessen habe.
 
+i) Wolf erwähnt (_in lection. memorab. tom. 2. S. 911_) einen von Sebastian Brandt (vermutlich im _Chron. Germ. praesertim Alsatiae_, dessen ich aber nicht habe können habhaft werden) beschriebenen großen dreieckigen Stein, der im Jahre 1493 zu Ensisheim in Ober-Elsaß soll vom Himmel gefallen und in der Kirche daselbst an einer Kette aufbewahrt worden sein. Muschenbroek (_essai de Physique tom. 2. §. 1557_) sagt, es sei 1630 geschehen, der Stein sei schwärzlich, ungefähr 300 Pfund schwer, und man sehe daran Spuren des Feuers. Im Jahre 1630 kann es nicht geschehen sein, weil Sebastian Brandt, der dessen gedenkt, damals längst nicht mehr lebte, und das angeführte Werk von Wolf auch schon srüher erschienen war. Daß die hierbei zum Grunde liegende Naturbegebenheit sich auch nicht 1493, sondern 1492 zugetragen habe, ist daraus zu vermuten, weil nach andern Nachrichten folgendes Chronodistichon soll als Inschrift beigefügt sein:
 
-### 0043
+_Centenas bIs habens rVpes en saXea LIbras  
+Enshe MII eX CoeLI VertICe Lapsa rVIt.
 
-c
-(
-a-
-35
-können zwei Stunden lang in der Luft erhalten werden, welches auch
-wohl niemand glaublich finden wird.
-h) Jul. Scaliger versichert, (de subtil. exerc. 323) daß er
-selbst ein in Savoyen vom Himmel gefallenes Stück Eisen besessen habe.
-i) Wolf erwähnt (in lection. memorab. tom. II. S. 911) einen
-von Sebastian Brandt (vermuthlich im Chron. Germ. praefertim
-Alfatiae, dessen ich aber nicht habe können habhaft werden) beschriebenen
-großen dreieckigen Stein, der im Jahre 1493 zu Ensisheim in Ober-
-Elsaß soll vom Himmel gefallen und in der Kirche daselbst an einer
-Kette ausbewahrt worden sein. Muschenbroek (effai de l'lyfique tom.
-II. §. 1557) sagt, es sei 1630 geschehen, der Stein sei schwärzlich, un-
-gefähr 300 Psund schwer, und man sehe daran Spuren des Feuers. Im
-Jahre 16; kann es nicht geschehen sein, weil Sebastian Brandt, der
-dessen gedenkt, damals längst nicht mehr lebte, und das angeführte Werk
-von Wolf auch schon srüher erschienen war. Daß die hierben zum Grunde
-liegende Naturbegebenheit sich auch nicht 1493, sondern 1492 zugetra-
-gen habe, ist daraus zu vermuthen, weil nach andern Nachrichten folgen-
-des Chronodistichon soll als Inschrift beigefügt sein:
-Centenas bls habens rVpes en faea LIbras
-Enshe MII eX CoelI VertlCe Lapf rVIt.
-In dem 16ten Versiche der Breßlauischen Sammlungen S. 512
-513 werden folgende vier Beispiele weitläuftiger angeführt:
-l) Bei Miscoz in Siebenbürgen sollen 1559 fünf Steine, so groß
-wie ein Menschenkepf, sehr schwer, und von bleichgelber und Eisen- oder
-rostiger Eisenfarbe und starkem Schwefelgeruch in einem erschrecklichen
-Donnerwetter und einer Luftbewegung vom Himmelgefallen, und vier davon in
-E-
-der
-ffn
+In dem 16ten Versiche der Breßlauischen Sammlungen S. 512 513 werden folgende vier Beispiele weitläuftiger angeführt:
 
+k) Bei Miscoz in Siebenbürgen sollen 1559 fünf Steine, so groß wie ein Menschenkopf, sehr schwer, und von bleichgelber und Eisen- oder rostiger Eisenfarbe und starkem Schwefelgeruch in einem erschrecklichen Donnerwetter und einer Luftbewegung vom Himmelgefallen, und vier davon in der Schatzkammer zu Wien aufbewahrt worden sein. Aus _NicIstuhuansii hist. Hungar. l. 20. sol. 394._
 
-### 0044
+l) Am 26. Jul. 1581 Nachmittags zwischen 1 und 2 Uhr ist ein Stein in Thüringen mit einem Donnerschlage, davon die Erde bebte, wobei eine kleine lichte Wolke bei sonst heiterm Himmel zu sehen gewesen, herabgefallen, 39 Psund schwer, von blau und bräunlicher Farbe; er hat mit einem Steine Funken, wie Stahl, gegeben (muß also würklich Stahl oder sehr hartes Eisen gewesen sein), hat 1,25 Ellen tief in die Erde geschlagen, daß die Erde zwei Mann hoch in die Höhe gesprungen, und ist so heiß gewesen, daß ihn niemand anrühren können. Er soll sein nach Dreßden gebracht worden. Aus Joh. Binhards Thüring. Chronik, S. 193.
 
-
-2s
-der Schatzkammer zu Wien aufbewahrt worden sein. Aus N1c-
-Iiuhuanfii hist. Hungar. I. XX. sol. 394.
-l) Am 26. Jul. 1581 Nachmittags zwischen 1 und 2 Uhr ist
-ein Stein in Thüringen nit einem Donnerschlage, davon die Erde bebte,
-wobei eine kleine lichte Wolke bei sonst heiterm Himmel zu sehen gewe-
-sen, herabgefallen, 39 Psund schwer, von blau und bräunlicher Farbe;
-er hat mit einem Steine Funken, wie Stahl, gegeben (muß also würklich
-Stahl oder sehr hartes Eisen gewesen sein), hat llen tief in die Erde
-e /
-geschlagen, daß die Erde zwei Mann hoch in die Höhe gesprungen, und ist
-so heiß gewesen, daß ihn niemand anrühren können. Er soll sein nach
-Dreßden gebracht worden. Aus Ioh. Binhards Thüring. Chronik,
-S. 193.
 m) Zwischen Sagan und dem Dorfe Oubrov in'Schlesien fiel am
 6. März 1636 früh um 6 Uhr ein großer Stein bei hellem Himmel aus
 der Lufe mit großem Krachen; er war, inwendig wie Erz anzusehen, ließ
 sich leicht zerreiben, war auswendig mit einer Schaale überzogen, und schien
 vom Feuer etwas angebrannt. Aus Lucas Schlesischer Chronik S. ---
-O
+
 n) Am 16. März 1698 soll in der Gemeine Walcring im Berne,
 Gebiete ein schwarzer Stein mit vielem Getöse herab gefallen, und auf
 die Bibliothek zu Bern mit bengefügter Nachricht geschickt worden sein.
 Aus Scheuchzers Naturgeschichte des Schweizerlandes I. 1. ad ann.
-17
 1706, p. 75.
+
 Aus den angegebenen Umständen ist aber nicht mit Gewißheit zu
 schließen, daß der gefundene und überschickte Stein würklich der nämliche
 gewesen, mit welchem sich die Naturbegebenheit zugetragen.
+
 o) Im 21. Versiche der Breßlauer Sammlungen S. 44 findet
 sich eine Nachricht von D. Rost, daß am 22. Jun. 172, Nachmittags
-um
-t
 
-### 0045
-
-7
 um 2 Uhr, in der Gegend von Pleskowicz, etliche Meilen vn Reich-
 stadt in Böhmen, bei sonst hellem Himmel eine kleine Wolke gesehen
 werden sei, wobei mit starkem Krachen ohne bemerktem Blitz an einem
 Orte 25, an einem andern auf 8 große und kleine Steine herab-
 gefallen wären, die auswendig schwarz, inwendig wie Erz ausgesehen, und
 stark nach Schwefel gerochen hätten.
+
 p) Einen zu Aldoreto im Sommer 1766 herabgefallenen Stein
 erwähnt Vassalli ganz kurz in den angeführten lettere fifico-meteo-
 rologiche S.120. Ueber die Art, wie Beccaria, der die beobachte-
@@ -404,6 +256,7 @@ ten Umstände von Fogliani, Bischofe zu Modena mitgeteilt erhalten,
 diese Naturbegehenheit in der Nachschrift zu einem Briefe an Franklin
 de electricitate vindice zu erklären gesucht hat, werde ich zu Ende des
 15ten§. noch einiges sagen.
+
 q) Die neueste sehr merkwürdige Nachricht von drei mit einem
 Donner herabgefallenen Massen, welche der Pariser Academie der Wis-
 senschaften im Jahre 1769 aus sehr von einander entfernten Gegenden in
@@ -418,12 +271,7 @@ wendig waren sie mit einer harten eisenartigen Rinde überzogen. Bei
 chemischer Untersuchung, die aber, so wie die ganzen gegebenen Nachrich-
 ten hätte genauer sein können, fand man, daß sie Eisen und Schwefel
 enthielten. ie Academie der Wissenschaften hat hierbei geäußert, sie sei
-e
 
-
-### 0046
-
-38
 zwar sehr davon entfernt, aus der Beschafsenheit der Massen zu schließen,
 daß sie durch einen Blitz sollten dahin geworsen sein, halte aber doch die
 Uebereinstimmung der an drei so entsernten Orten beobachteten Thatsachen,
