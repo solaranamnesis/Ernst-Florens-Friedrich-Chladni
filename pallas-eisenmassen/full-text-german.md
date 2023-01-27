@@ -223,39 +223,15 @@ k) Bei Miscoz in Siebenbürgen sollen 1559 fünf Steine, so groß wie ein Mensch
 
 l) Am 26. Jul. 1581 Nachmittags zwischen 1 und 2 Uhr ist ein Stein in Thüringen mit einem Donnerschlage, davon die Erde bebte, wobei eine kleine lichte Wolke bei sonst heiterm Himmel zu sehen gewesen, herabgefallen, 39 Psund schwer, von blau und bräunlicher Farbe; er hat mit einem Steine Funken, wie Stahl, gegeben (muß also würklich Stahl oder sehr hartes Eisen gewesen sein), hat 1,25 Ellen tief in die Erde geschlagen, daß die Erde zwei Mann hoch in die Höhe gesprungen, und ist so heiß gewesen, daß ihn niemand anrühren können. Er soll sein nach Dreßden gebracht worden. Aus Joh. Binhards Thüring. Chronik, S. 193.
 
-m) Zwischen Sagan und dem Dorfe Oubrov in'Schlesien fiel am
-6. März 1636 früh um 6 Uhr ein großer Stein bei hellem Himmel aus
-der Lufe mit großem Krachen; er war, inwendig wie Erz anzusehen, ließ
-sich leicht zerreiben, war auswendig mit einer Schaale überzogen, und schien
-vom Feuer etwas angebrannt. Aus Lucas Schlesischer Chronik S. ---
+m) Zwischen Sagan und dem Dorfe Dubrov in Schlesien fiel am 6. März 1636 früh um 6 Uhr ein großer Stein bei hellem Himmel aus der Luft mit großem Krachen; er war inwendig wie Erz anzusehen, ließ sich leicht zerreiben, war auswendig mit einer Schaale überzogen, und schien vom Feuer etwas angebrannt. Aus Lucas Schlesischer Chronik S. 2228.
 
-n) Am 16. März 1698 soll in der Gemeine Walcring im Berne,
-Gebiete ein schwarzer Stein mit vielem Getöse herab gefallen, und auf
-die Bibliothek zu Bern mit bengefügter Nachricht geschickt worden sein.
-Aus Scheuchzers Naturgeschichte des Schweizerlandes I. 1. ad ann.
-1706, p. 75.
+n) Am 16. März 1698 soll in der Gemeine Waltring im Berner Gebiete ein schwarzer Stein mit vielem Getöse herab gefallen, und auf die Bibliothek zu Bern mit beigefügter Nachricht geschickt worden sein. Aus Scheuchzers Naturgeschichte des Schweizerlandes P. 2. _ad ann. 1706, p. 75._
 
-Aus den angegebenen Umständen ist aber nicht mit Gewißheit zu
-schließen, daß der gefundene und überschickte Stein würklich der nämliche
-gewesen, mit welchem sich die Naturbegebenheit zugetragen.
+Aus den angegebenen Umständen ist aber nicht mit Gewißheit zu schließen, daß der gefundene und überschickte Stein würklich der nämliche gewesen, mit welchem sich die Naturbegebenheit zugetragen.
 
-o) Im 21. Versiche der Breßlauer Sammlungen S. 44 findet
-sich eine Nachricht von D. Rost, daß am 22. Jun. 172, Nachmittags
+o) Im 31. Versuche der Breßlauer Sammlungen S. 44 findet sich eine Nachricht von D. Rost, daß am 22. Jun. 1723, Nachmittags um 2 Uhr, in der Gegend von Pleskowicz, etliche Meilen von Reichstadt in Böhmen, bei sonst hellem Himmel eine kleine Wolke gesehen werden sei, wobei mit starkem Krachen ohne bemerktem Blitz an einem Orte 25, an einem andern auf 8 große und kleine Steine herabgefallen wären, die auswendig schwarz, inwendig wie Erz ausgesehen, und stark nach Schwefel gerochen hätten.
 
-um 2 Uhr, in der Gegend von Pleskowicz, etliche Meilen vn Reich-
-stadt in Böhmen, bei sonst hellem Himmel eine kleine Wolke gesehen
-werden sei, wobei mit starkem Krachen ohne bemerktem Blitz an einem
-Orte 25, an einem andern auf 8 große und kleine Steine herab-
-gefallen wären, die auswendig schwarz, inwendig wie Erz ausgesehen, und
-stark nach Schwefel gerochen hätten.
-
-p) Einen zu Aldoreto im Sommer 1766 herabgefallenen Stein
-erwähnt Vassalli ganz kurz in den angeführten lettere fifico-meteo-
-rologiche S.120. Ueber die Art, wie Beccaria, der die beobachte-
-ten Umstände von Fogliani, Bischofe zu Modena mitgeteilt erhalten,
-diese Naturbegehenheit in der Nachschrift zu einem Briefe an Franklin
-de electricitate vindice zu erklären gesucht hat, werde ich zu Ende des
-15ten§. noch einiges sagen.
+p) Einen zu Aldoreto im Sommer 1766 herabgefallenen Stein erwähnt Vassalli ganz kurz in den angeführten _lettere fisico-meteorologiche S. 120._ Ueber die Art, wie Beccaria, der die beobachteten Umstände von Fogliani, Bischofe zu Modena mitgeteilt erhalten, diese Naturbegehenheit in der Nachschrift zu einem Briefe an Franklin _de electricitate vindice_ zu erklären gesucht hat, werde ich zu Ende des 15ten §. noch einiges sagen.
 
 q) Die neueste sehr merkwürdige Nachricht von drei mit einem
 Donner herabgefallenen Massen, welche der Pariser Academie der Wis-
