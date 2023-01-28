@@ -214,8 +214,8 @@ h) Jul. Scaliger versichert, (_de subtil. exerc. 323_) daß er selbst ein in Sav
 
 i) Wolf erwähnt (_in lection. memorab. tom. 2. S. 911_) einen von Sebastian Brandt (vermutlich im _Chron. Germ. praesertim Alsatiae_, dessen ich aber nicht habe können habhaft werden) beschriebenen großen dreieckigen Stein, der im Jahre 1493 zu Ensisheim in Ober-Elsaß soll vom Himmel gefallen und in der Kirche daselbst an einer Kette aufbewahrt worden sein. Muschenbroek (_essai de Physique tom. 2. §. 1557_) sagt, es sei 1630 geschehen, der Stein sei schwärzlich, ungefähr 300 Pfund schwer, und man sehe daran Spuren des Feuers. Im Jahre 1630 kann es nicht geschehen sein, weil Sebastian Brandt, der dessen gedenkt, damals längst nicht mehr lebte, und das angeführte Werk von Wolf auch schon srüher erschienen war. Daß die hierbei zum Grunde liegende Naturbegebenheit sich auch nicht 1493, sondern 1492 zugetragen habe, ist daraus zu vermuten, weil nach andern Nachrichten folgendes Chronodistichon soll als Inschrift beigefügt sein:
 
-_Centenas bIs habens rVpes en saXea LIbras  
-Enshe MII eX CoeLI VertICe Lapsa rVIt.
+_Centenas bIs habens rVpes en saXea LIbras_  
+_Enshe MII eX CoeLI VertICe Lapsa rVIt._
 
 In dem 16ten Versiche der Breßlauischen Sammlungen S. 512 513 werden folgende vier Beispiele weitläuftiger angeführt:
 
