@@ -233,246 +233,42 @@ o) Im 31. Versuche der Breßlauer Sammlungen S. 44 findet sich eine Nachricht vo
 
 p) Einen zu Aldoreto im Sommer 1766 herabgefallenen Stein erwähnt Vassalli ganz kurz in den angeführten _lettere fisico-meteorologiche S. 120._ Ueber die Art, wie Beccaria, der die beobachteten Umstände von Fogliani, Bischofe zu Modena mitgeteilt erhalten, diese Naturbegehenheit in der Nachschrift zu einem Briefe an Franklin _de electricitate vindice_ zu erklären gesucht hat, werde ich zu Ende des 15ten §. noch einiges sagen.
 
-q) Die neueste sehr merkwürdige Nachricht von drei mit einem
-Donner herabgefallenen Massen, welche der Pariser Academie der Wis-
-senschaften im Jahre 1769 aus sehr von einander entfernten Gegenden in
-Maine, Artois und Cotentin überschickt wurden, findet sich in der Hisoi-
-re de l'Academie des fciences 1769. S. 20. Die beobachteten
-Umstände sind bei allen dreien die nämlichen gewesen, es wird aber wei-
-ter nichts davon erwähnt, als daß man dabei auch ein Zischen gehört,
-und die Massen heiß angetroffen habe. Alle drei waren einander ganz
-ähnlich, von der nämlichen Farbe und ziemlich ven dem nämlichen
-Korn, man konnte kleine metallische und kiesige Teile unterscheiden, aus-
-wendig waren sie mit einer harten eisenartigen Rinde überzogen. Bei
-chemischer Untersuchung, die aber, so wie die ganzen gegebenen Nachrich-
-ten hätte genauer sein können, fand man, daß sie Eisen und Schwefel
-enthielten. ie Academie der Wissenschaften hat hierbei geäußert, sie sei
+q) Die neueste sehr merkwürdige Nachricht von drei mit einem Donner herabgefallenen Massen, welche der Pariser Academie der Wissenschaften im Jahre 1769 aus sehr von einander entfernten Gegenden in Maine, Artois und Cotentin überschickt wurden, findet sich in der _Histoire de l'Academie des sciences 1769. S. 20._ Die beobachteten Umstände sind bei allen dreien die nämlichen gewesen, es wird aber weiter nichts davon erwähnt, als daß man dabei auch ein Zischen gehört, und die Massen heiß angetroffen habe. Alle drei waren einander ganz ähnlich, von der nämlichen Farbe und ziemlich ven dem nämlichen Korn, man konnte kleine metallische und kiesige Teile unterscheiden, auswendig waren sie mit einer harten eisenartigen Rinde überzogen. Bei chemischer Untersuchung, die aber, so wie die ganzen gegebenen Nachrichten hätte genauer sein können, fand man, daß sie Eisen und Schwefel enteilten. Die Academie der Wissenschaften hat hierbei geäußert, sie sei zwar sehr davon entfernt, aus der Beschaffenheit der Massen zu schließen, daß sie durch einen Blitz sollten dahin geworfen sein, halte aber doch die Uebereinstimmung der an drei so entfernten Orten beobachteten Tatsachen, und die völlige Aehnlichkeit der Massen und der Kennzeichen, wodurch sie sich von andern Mineralien unterscheiden, für hinlängliche Bewegungsgründe, um die Beobachtung bekannt zu machen, und andere Naturforscher zu Mitteilung weiterer Bemerkungen über diesen Gegenstand einzuladen.
 
-zwar sehr davon entfernt, aus der Beschafsenheit der Massen zu schließen,
-daß sie durch einen Blitz sollten dahin geworsen sein, halte aber doch die
-Uebereinstimmung der an drei so entsernten Orten beobachteten Thatsachen,
-und die völlige Aehnlichkeit der Massen und der Kennzeichen, wodurch sie
-sich von andern Mineralien unterscheiden, für hinlängliche Bewegungs-
-gründe, um die Beobachtung bekannt zu machen, und andere Naturfor-
-scher zu Mitteilung weiterer Bemerkungen über diesen Gegenstand
-einzuladen.
-Sehr merkwürdig ist die Uebereinstimmung der bisher erwähnten
-Massen bei der Uebereinstimmung der Nachrichten. Alle diese Mas-
-sen, so weit sie untersucht sind, enthalten Eisen, entweder allein, oder
-mit Schwefel oder einigen Steinteilen vermischt; auch bei denen,
-die nicht weiter untersucht sind, lassen die angegebenen Umstände, z. --
-das Ansehen und die Schwere, das nämliche vermuthen. Die meisten
-sind mit einer Eisenrinde überzogen. Bei keiner einzigen Nachricht wird
-eines vorhanden gewesenen Gewitters gedacht, oder sonst etwas erwähnt,
-was nicht besser aus einer Feuerkugel, als aus einem Blitze sich erklären
-ließe.
-Noch zwei Beobachtungen muß ich anführen, die vielleicht hieher
-gehören könnten, ob ich gleich solches uicht so bestimmt behaupten mag.
-Herr Bergrath D. Buchholz in Weimar beschreibt im 4ten Stücke des Na-
-turforschers S. 227 zc. eine schwarze löcheriche glänzende Schlacke, hin
-und wieder mit ockerartigen Stellen, welche er vom Hofrath Walch in
-Iena, und dieser vom Pastor Klein in Preßburg erhalten hatte, nebst der
-Nachricht, daß am 6. Sept. 1771 Abends um8 Uhr in der Neutraer Ge-
-spannschaft 11 Meilen von Preßburg, ein auf freiem Felde befindlicher
-großer Heuhaufen durch einen Blitz entzündet worden, und verbrannt sei;
-das Feuer habe 8 Tage gedauert, an der Brandstätte haben sich eine Men-
-ge solcher Schlacken gefunden. Die Schlacke scheint bei chemischer Un-
-ter-
-:
+Sehr merkwürdig ist die Uebereinstimmung der bisher erwähnten Massen bei der Uebereinstimmung der Nachrichten. Alle diese Massen, so weit sie untersucht sind, enthalten Eisen, entweder allein, oder mit Schwefel oder einigen Steinteilen vermischt; auch bei denen, die nicht weiter untersucht sind, lassen die angegebenen Umstände, z. B. das Ansehen und die Schwere, das nämliche vermuten. Die meisten sind mit einer Eisenrinde überzogen. Bei keiner einzigen Nachricht wird eines vorhanden gewesenen Gewitters gedacht, oder sonst etwas erwähnt, was nicht besser aus einer Feuerkugel, als aus einem Blitze sich erklären ließe.
 
-### 0047
+Noch zwei Beobachtungen muß ich anführen, die vielleicht hieher gehören könnten, ob ich gleich solches nicht so bestimmt behaupten mag. Herr Bergrat D. Buchholz in Weimar beschreibt im 4ten Stücke des Naturforschers S. 227 _zc._ eine schwarze löcheriche glänzende Schlacke, hin und wieder mit ockerartigen Stellen, welche er vom Hofrath Walch in Jena, und dieser vom Pastor Klein in Preßburg erhalten hatte, nebst der Nachricht, daß am 6. Sept. 1771 Abends um 8 Uhr in der Neutraer Gespannschaft 11 Meilen von Preßburg, ein auf freiem Felde befindlicher großer Heuhaufen durch einen Blitz entzündet worden, und verbrannt sei; das Feuer habe 8 Tage gedauert, an der Brandstätte haben sich eine Menge solcher Schlacken gefunden. Die Schlacke scheint bei chemischer Untersuchung eine durch Feuer geschmolzene eisenschüßige Tonerde zu sein, es zeigte sich keine Spur, daß aus dem Gewächsreiche etwas daran befindlich gewesen sei. Hr. Buchholz glaubt, es müsse etwa ein fremder Körper von ungefähr in das Heu gekommen, oder der Boden, worauf der Heuschober gestanden, durch die Hitze sein geschmolzen worden. Sollte aber der Brand nicht durch einen Blitz, sondern, wie am 11. Nov. 1761, durch Stücke einer zersprungenen Feuerkugel sein verursacht worden, so wäre das Dasein fremder schlackenartiger Massen auf der Brandstätte sehr natürlich. Es möchten auch wohl, wenn der Himmel mit Wolken bedeckt ist, die Erscheinungen bei einer Feuerkugel wegen des dem Blitze ziemlich ähnlichen Lichtes und des Donnerähnlichen Getöses bei dem Zerspringen nicht leicht von einem Blitze können unterschieden werden. Eine ähnliche Beobtung, wo man auch auf der Brandstätte eines durch den Blitz (oder vielleicht auch auf die vorhererwähnte Art) entzündeten Heuhausens eine große Menge harter, dunkelgrauer, kalkartiger Schlacken gefunden, aber solche nicht weiter untersucht hat, findet sich in _Nov. Act. Ac. Nat. Cur. tom. 3. obs. 51. p. 221._ Es könnten vielleicht bei dieser zweiten Beobachtung die Schlacken blos aus der Asche selbst entstanden sein, aber bei der erstern scheinen die Bestandteile einen andern Ursprung, und besonders die ockerartigen Stellen und der mehrere Eisengehalt, als man in der Pflanzenasche antrifft, einige Aehnlichkeit mit den vorigen zu verraten.
 
-p1-
-tersuchung eine durch Feuer geschmolzene eisenschüßige Thonerde zu sein,
-es zeigte sich keine Spur, daß aus dem Gewächsreiche etwas daran befind-
-lich gewesen sei. Hr. Buchholz glaubt, es müsse etwa ein fremder Körpes
-von ungefähr in das Heu gekommen, oder der Boden, worauf der Heuschober
-gestanden, durch die Hitze sein geschmolzen worden. Sollte aber der Brand
-nicht durch einen Blitz, sondern, wie am 11. Nov. 1761, durch Stücke
-einer zersprungenen Feuerkugel sein verursacht worden, so wäre das Dg
-sein fremder schlackenartiger Massen auf der Brandstätte sehr natürlich.
-Es möchten auch wohl, wenn der Himmel mit Wolken bedeckt ist, die
-Erscheinungen bei einer Feuerkugel wegen des dem Blitze ziemlich ähn-
-lichen Lichtes und des Donnerähnlichen Getöses bei dem Zerspringen nicht
-leicht von einem Blitze können unterschieden werden. Eine ähnliche Beob-
-tung, wo man auch auf der Brandstätte eines durch den Blitz (oder viel-
-leicht auch auf die vorhererwähnte Art) entzündeten Heuhausens eine große
-Menge harter, dunkelgrauer, kalkartiger Schlacken gefunden, aber solche
-nicht weiter untersucht hat, findet sich in Nov. Act.. Ac. Nat. Cur.
-tom. III. obf. 51. p. 221. Es könnten vielleicht bei dieser zweiten
-Beobachtung die Schlacken blos aus der Asche selbst entstanden sein, aber
-bei der erstern scheinen die Bestandteile einen andern Ursprung, und be-
-sonders die ockerartigen Stellen und der mehrere Eisengehalt, als man in
-der Pflanzenasche antrifft, einige Aehnlichkeit mit den vorigen zu ver-
-rathen.
-§. 9.
-Nachrichten von der Pallasischen und einigen ähnlichen wahrschein-
-lich auf gleiche Art entstandenen Massen.
-a) Die vom Herrn Collegienrath und Ritter Pallas in Sibirien ge-
-fundene und im dritten Bande seiner Reisen S. 311 zc. beschriebene Ei-
-senmasse ist eben so, wie die beiden folgenden den im vorigen §. erwähn-
-ten
+§\. 9.
 
+Nachrichten von der Pallasischen und einigen ähnlichen wahrscheinlich auf gleiche Art entstandenen Massen.
 
-### 0048
+a) Die vom Herrn Collegienrat und Ritter Pallas in Sibirien gefundene und im dritten Bande seiner Reisen S. 311 _zc._ beschriebene Eisenmasse ist eben so, wie die beiden folgenden den im vorigen §. erwähnten Massen in vieler Rücksicht so ähnlich, daß sich wohl schon daraus mit allem Rechte auf eine gleiche Entstehung schließen läßt. Es wird solches auch durch den von Pallas angegebenen Umstand, daß die Tataren diese Masse als ein vom Himmel gefallenes Heiligtum angesehen haben, sehr begünstigt. Man würde der Natur weit mehr Gewalt anthun, wenn man die Uebereinstimmung der Nachrichten bei der Aehnlichke üder Massen als etwas zufälliges ansehen wollte, als wenn man annimmt, daß diese Tradition durch eine den vorigen Beispielen ähnliche Erscheinung sei veranlaßt worden; besonders da noch so manche andere Gründe einen solchen Ursprung vermuten lassen. Die Masse ward gefunden zwischen Krasnojarsk und Abakansk im hohen Schiefergebürge ganz oben auf dem Rücken am Tage liegend. Sie wog 1600 Pfund, hatte eine ganz unregelmäßige etwas niedergedrückte Gestalt, wie ein rauher Pflasterstein, war äußerlich mit einer eisensteinartigen Rinde umgeben, das Innere war ein geschmeidiges, rothbrüchiges, wie ein grober Seeschwamm löcheriches Eisen, dessen Zwischenräume mit einem sproden, harten, bernsteingelben Glase (Olivin) ausgefüllt waren. Die Textur und das Glas zeigte sich durch die ganze Masse einförmig, und ohne Spur von Schlacken oder künstlichem Feuer.
 
-4-
-een Massen in vieler Rücksicht so ähnlich, daß sich wohl schon daraus mir
-allem Rechte auf eine gleiche Entstehung schließen läßt. Es wird solches
-auch durch den von Pallas angegebenen Umstand, daß die Tataren diese
-Masse als ein vom Himmel gefallenes Heiligthum angesehen ha-
-ben, sehr begünstigt. Man würde der Natur weit mehr Gewalt anthun,
-wenn man die Uebereinstimmung der Nachrichten bei der Aehnlichke itder
-Massen als etwas zufälliges ansehen wollte, als wenn man annimmt, daß
-diese Tradition durch eine den vorigen Beispielen ähnliche Erscheinung sei
-veranlaßt worden; besonders da noch so manche andere Gründe einen sol-
-chen Ursprung vermuthen lassen. Die Masse ward gefunden zwischen
-Krasnojarsk und Abakansk im hohen Schiefergebürge ganz oben auf dem
-Rücken am Tage liegend. Sie wog 1600 Pfund, hatte eine ganz unre-
-gelmäßige etwas niedergedrückte Gestalt, wie ein rauher Pflasterstein, war
-äußerlich mit einer eisensteinartigen Rinde umgeben, das Innere war ein ge-
-schmeidiges, rothbrüchiges, wie ein grober Seeschwamm löcheriches Ei-
-sen, dessen Zwischenräume mit einem sproden, harten, bernsteingelben
-Glase (Olivin) ausgefüllt waren. Die Tertur und das Glas zeigte sich
-durch die ganze Masse einförmig, und ohne Spur von Schlacken oder
-künstlichem Feuer.
-I4
-l) Don Rubin de Colis faud im sidlichen Amerika in der Pro-
-vinz Chaco in der Jurisdiction von St. Iago del Estero bei Otumpa,
-in einer Gegend, wo 100 Meilen uimher keine Eisenbrüche, keine Berge,
-ja nicht einmal Steine anzutreffen sind, eine aus dem kreideartigen Boden
-mit der Oberfläche hervorragende Masse, ungefähr 30 Quintale oder
-Centner schwer, von dem geschmeidigsten und reinsten Eisen. Die äußere
-e
-i,e.
-Oberfläche war ., und hatte oben viele Eindrücke, das Innere war voll
-Höhlungen, unterwärts war eine 4 bis 6 Zoll dicke Rinde von Eisenocker,
-aber weiter in der Erde keine Spur von Eisen anzutressen. Die ganze
-Gegend
+b) Don Rubin de Colis fand im südlichen Amerika in der Provinz Chaco in der Jurisdiction von St. Iago del Estero bei Otumpa, in einer Gegend, wo 100 Meilen umher keine Eisenbrüche, keine Berge, ja nicht einmal Steine anzutreffen sind, eine aus dem freideartigen Boden mit der Oberfläche hervorragende Masse, ungefähr 300 Quintale oder Centner schwer, von dem geschmeidigsten und reinsten Eisen. Die äußere Oberfläche war dicht, und hatte oben viele Eindrücke, das Innere war voll Höhlungen, unterwärts war eine 4 bis 6 Zoll dicke Rinde von Eisenocker, aber weiter in der Erde keine Spur von Eisen anzutreffen. Die ganze Gegend ist unbewohnbar, aus Mangel an Wasser. In den dasigen unermeßlichen Wäldern soll sich noch ein dergleichen Stück von baumförmiger Gestalt befinden. Ein Aufsatz darüber von Rubin de Celis befindet sich ganz oder im Auszuge in _Phil. transact. Vol. 78. P. 1. p. 57; in Voigts Magazin für das Neueste aus der Physik und Naturgeschichte 6. B. 1. St. S. 60. n. 6; in Grens Journal der Physik 1. B. 1. St. S. 68; in den _Annales de Chimie T. 5. p. 149_, und im 11ten Stucke von Crells chemischen Annalen 1792.
 
+c) In dem 7ten Bande der Berliner Sammlungen S. 523, wie auch im 36sten Stücke des Wittenbergischen Wochenblattes 1773 wird eine Eisen- oder Stahlmasse erwähnt, die der Sächsische Hofrat und Leibmedicus Löber zu Aken (im Magdeburgischen) unter dem Pflaster der Stadt entdeckte und ausgraben ließ. Einige Stücke davon ließ er abschlagen und schmieden, da sie sich denn wie der beste englische Stahl härten und poliren ließen. Die ganze Masse war 15000 bis 17000 Pfund schwer, und mit einer Rinde einen halben bis einen ganzen Zoll dick umgeben. Zwei kleine Stücke davon nebst einem geschmiedeten und polirten gab er dem Hofmedicus D. Kretschmar in Dreßden, dessen Mineraliensammlung die Universität zu Wittenberg erhalten hat, wo ich sie nebst beigeschriebener Nachricht angetroffen habe. Die zwei Stücke haben so wie die Sibirische Masse eine schwammige oder ästige Textur, aber ohne Beimischung eines andern Minerals, ihre Geschmeidigkeit ist an den Stellen, wo der Meissel eingedrungen, sehr sichtbar. Das geschmiedete Stück zeigt eine sehr gute Politur an den Stellen, wo es nicht gerostet ist. Es wäre zu wünschen, daß man erfahren könnte, wo die ganze große Masse mag hingekommen sein, um, wenn sie noch vorhanden ist, sie noch genauer untersuchen zu können.
 
-### 0049
+d) Einige von den Stücken geschmolzenen Eisens mit allerlei Schlacken und Steinarten, welche Herr Factor Nauwerk (s. Crells Beiträge zu den chemischen Annalen 1. B. 2. St. S. 86.) in Frankreich und Deutschland an verschiedenen Orten, besonders auf einzelnen Bergen gefunden hat, die auch offenbare Kennzeichen einer Veränderung durch Feuer verraten, möchten wohl auch können hieher gerechnet werden. Selbst wenn er an ihnen Ueberbleibsel von Holzkohlen gefunden hat, würde dieses, wenn andere Umstände einen solchen Ursprung verraten, nicht das Gegenteil darthun, indem benachbarte Holzstücke durch die herabgefallene geschmolzene Masse können verkohlt sein. Der Umstand, daß dergleichen Massen meist auf einzelnen Bergen sind gefunden worden, ist übrigens meiner Theorie sehr günstig, denn ein einzelner Berg stellt einer in sehr schiefer und bisweilen beinahe horizontaler Richtung herabfallenden Masse mehr Fläche entgegen, als eine eben so große horizontale Ebene; es ist also daselbst mehrere Wahrscheinlichkeit des Niederfallens vorhanden. Auch kann dasselbe auf einem solchen Berge eher Statt finden, als auf einem, der durch andere benachbarte gedeckt ist. Es kann auch in einen felsigen Boden eine solche Masse entweder gar nicht, oder weniger tief eindringen, als in den mehrenteils weniger festen Boden in einer Ebene; sie muß also daselbst auch leichter zu finden sein.
 
-,
-h
-"i
-s
-1
-41
-Gegend ist unbewohnbar, aus Mangel an Wasser. In den dasigen un-
-ermeßlichen Wäldern soll sich noch ein dergleichen Stück von baumförmi-
-ger Gesialt befinden. Ein Aufsatz darüber von Rubin de Celis befindet
-sich ganz oder im Auszuge in Phil. transact. Vol. a".
-P. I. p. 57; in Volgts Magazin für das Neueste aus der Physik und
-Naturgeschichte VI. B. 1. St. S. 60. n. VI; in Grens Iournal der
-Physik I. B. 1. St. S. 68; in den Annales de Chimie T. V. p. 149,
-und im 11ten Scacke von Crells chemischen Annalen 1792.
-c) In dem 7ten Bande der Berliner Sammlungen S. 52z, wie
-auch im ;6sten Stücke des Wittenbergischen Wochenblattes 1773 wird
-eine Eisen- oder Stahlmasse erwähnt, die der Sächsische Hofrath und
-Leibmedicus Löber zu Aken (im Magdeburgischen) unter dem Pflaster der
-Stadt entdeckte und ausgraben ließ. Einige Stücke davon ließ er ab-
-schlagen und schmieden, da sie sich denn wie der beste englische Stahl här-
-ten und poliren ließen. Die ganze Masse war 15000 bis 17000 Pfund
-schwer, und mit einer Rinde einen halben bis einen ganzen Zoll dick um-
-geben. Zwei kleine Stücke davon nebst einem geschmiedeten und polirten
-gab er dem Hofmedicus D. Kretschmar in Dreßden, dessen Mineralien-
-sammlung die Universität zu Wittenberg erhalten hat, wo ich sie nebst bei-
-geschriebener Nachricht angetroffen habe. Die zwei Stücke haben so
-wie die Sibirische Masse eine schwammige oder ästige Textur, aber ohne
-Beimischung eines andern Minerals, ihre Geschmeidigkeit istan den Stel-
-len, wo der Meissel eingedrungen, sehr sichtbar. Das geschmiedete Stück
-zeigt eine sehr gute Politur an den Stellen, wo es nicht gerostet ist. Es
-wäre zu wünschen, daß man erfahren könnte, wo die ganze große Masse
-mag hingekommen sein, um, wenn sie noch vorhanden ist, sie noch ge
-nauer untersuchen zu können.
-oan 18 I A - -n-- e
-l
+§\. 10.
 
-2e
-d) Einige von den Stücken geschmolzenen Eisens mit allerlei
-Schlacken und Steinarten, welche Herr Factor Nauwerk (s. Crells Bei-
-träge zu den chemischen Annalen 1. B. 2. St. S. 86.) in Frankreich
-und Deutschland an verschiedenen Orten, besonders auf einzelnen Bergen
-gefunden hat, die auch offenbare Kennzeichen einer Veränderung durch
-Feuer verrathen, möchten wohl auch können hieher gerechnet werden.
-Selbst wenn er an ihnen Ueberbleibsel von Holzkohlen gefunden hat, würde
-dieses, wenn andere Umstände einen solchen Ursprung verrathen, nicht
-das Gegenteil darthun, indem benachbarte Holzstücke durch die herab-
-gefallene geschmolzene Masse können verkohlt sein. Der Umstand, daß
-dergleichen Massen meist auf einzelnen Bergen sind gefunden worden, ist
-übrigens meiner Theorie sehr günstig, denn ein einzelner Berg stellt einer
-in sehr schiefer und bisweilen beinahe horizontaler Richtung herabfallenden
-Masse mehr Fläche entgegen, als eine eben so große horizontale Ebene; es ist
-also daselbst mehrere Wahrscheinlichkeit des Niederfallens vorhanden. Auch
-kann dasselbe auf einem solchen Berge eher Statt finden, als auf einem,
-der durch andere benachbarte gedeckt ist. Es kann auch in einen felsigen
-Boden eine solche Masse entweder gar nicht, oder weniger tief eindringen,
-als in den mehrenteils weniger festen Boden in einer Ebene; sie muß
-also daselbst auch leichter zu finden sein.
-. 10.
-Die Sibirlsche und ähnliche Eisenmassen sind nicht auf nassem
-Wege entstanden.
-Daß es auf nassem Wege entstandenes gediegen Eisen gebe, oder
-wenigstens geben könne, ist wohl nicht zu leugnen; die bei Großkams-
-dorf und bei Steinbach gefundenen Stufen können vielleicht einen solchen
-Ursprung haben, und der Grund, warum man es so selten findet, liegt
-unstrei-
-lso---
+Die Sibirische und ähnliche Eisenmassen sind nicht auf nassem Wegt entstanden.
 
+Daß es auf nassem Wege entstandenes gediegen Eisen gebe, oder wenigstens geben könne, ist wohl nicht zu leugnen; die bei Großkamsdorf und bei Steinbach gefundenen Stufen können vielleicht einen solchen Ursprung haben, und der Grund, warum man es so selten findet, liegt unstreitig in der leichten Auflösbarkeit des Eisens in der überall so häufig anzutreffenden Vitriol- und Luftsäure. Von der Sibirischen Masse und den ihr ähnlichen läßt sich aber eine solche Entstehung nicht behaupten,
 
-### 0051
+a) weil aus der unten mehr convexen und oben mehr flachen oder niedergedrückten Oberfläche, der äußern harten und mit kuglichen Eindrükken überall versehenen Rinde, nebst der innern schwammigen und ästigen Textur und überhaupt aus dem ganzen Ansehen zu schließen ist, daß die Masse geschmolzen und die Oberfläche eher erkaltet und verhärtet sei, als die innern Teile. Bei der Sibirischen Masse sieht man auch die Würkungen des Feuers an der allem Ansehen nach verglaseten Steinart, womit die Höhlungen des Eisens ausgefüllt sind. Diese Beschaffenheit der Masse würde allein schon hinlänglich sein, um eine Entstehung durch Feuer anzunehmen, wie solches auch vom Hrn. Geh. Oberfinanzrat Gerhard (in den Anmerkungen zu Jars metallurgischen Reisen 2. B. S. 618) von Torbern Bergmann (_opusc. tom. 2. p. 432_) und von verschiedenen andern Naturforschern anerkannt wird.
 
-P1
-,1
-s
-.?1
-4
-unstreitig in der leichten Auflösbarkeit des Eisens in der überall so häu-
-fig anzutrefsenden Vitriol- und luftsäure. Von der Sibirischen Masse und
-den ihr ähnlichen läßt sich aber eine solche Entstehung nicht behaupten,
-a) weil aus der unten mehr convexen und oben mehr flachen oder
-medergedrückten Oberfläche, der äußern harten und mit kuglichen Eindrük.
-ken überall versehenen Rinde, nebst der innern schwammigen und ästigen
-Textur und überhaupt aus dem ganzen Ansehen zu schließen ist, daß die
-Masse geschmolzen und die Oberfläche eher erkaltet und verhärtet sei, als
-die innern Teile. Bei der Sibirischen Masse sieht man auch die Wür-
-kungen des Feuers an der allem Ansehen nach verglaseten Steinart, womit
-die Höhlungen des Eisens ausgefüllt sind. Diese Beschassenheit der Masse
-würde allein schon hinlänglich sein, um eine Entstehung durch Feuer anzu-
-nehmen, wie solches auch vom Hrn. Geh. Oberfinanzrath Gerhard (in den
-Anmerkungen zu Iars metallurgischen Reisen 2. B. S. 618) von Tor-
-bern Bergmann (opufc. tom. II. p. 432) und von verschiedenen andern
-Naturforschern anerkannt wird.
-b) Weil diese Massen mit den übrigen §. 3. erwähnten Massen,
-wo man doch wohl eine Einwürkung des Feuers oder der Electricität
-(wenn man es auch für einen Blitz halten will) zugeben wird, so in An-
-sehung ihrer äußern und innern Beschaffenheit übereinkommen, daß sie
-wohl einerlei Ursprung haben müssen.
-c) Weil die Sibirische, die Südamerikanische und die Akensche
-Masse, eben so, wie die im 8ten §. erwähnten, nur einzeln als Geschiebe,
-und nicht tief in der Erde, sondern nur auf oder nahe an deren Ober-
-fläche und ohne Verbindung mit dem Saalbande cines Flötz- oder Gang-
-gesteins sind angetroffen worden, auch sich in den Gegenden, wo die zwei
-F 2
-lehtern
+b) Weil diese Massen mit den übrigen §. 8. erwähnten Massen, wo man doch wohl eine Einwürkung des Feuers oder der Electricität (wenn man es auch für einen Blitz halten will) zugeben wird, so in Ansehung ihrer äußern und innern Beschaffenheit übereinkommen, daß sie wohl einerlei Ursprung haben müssen.
 
+c) Weil die Sibirische, die Südamerikanische und die Akensche Masse, eben so, wie die im 8ten §. erwähnten, nur einzeln als Geschiebe, und nicht tief in der Erde, sondern nur auf oder nahe an deren Oberfläche und ohne Verbindung mit dem Saalbande eines Flötz- oder Ganggesteins sind angetroffen worden, auch sich in den Gegenden, wo die zwei letztern gefunden worden, sonst keine Eisenanbrüche zeigen. Bei dem Orte, wo Pallas die Eisenmasse fand, ist zwar 100 Schritte davon ein Anbruch eines magnetischen Eisenerzes, die Masse selbst aber lag höher, ganz oben auf einem Schiefergebürge. Wenn diese Localumstände gleich für sich nichts erweisen, so tragen sie doch in Verbindung mit den vorigen Gründen einiges dazu bei, um eine Entstehung auf nassem Wege höchst unwahrscheinlich zu machen.
 
-### 0052
+§\. 11.
 
-
-44
-letztern gefunden worden, sonst keine Eisenanbrüche zeigen. Bei dem Orte,
-wo Pallas die Eisenmasse fand, ist zwar 100 Schritte davon ein Anbruch
-eines magnetischen Eisenerzes, die Masse selbst aber lag höher, ganz oben
-auf einem Schiefergebürge. Wenn diese Localumstände gleich für sich
-nichts erweisen, so tragen sie doch in Verbindung mit den vorigen Grün-
-den einiges dazu bei, um eine Entstehung auf nassem Wege höchst un-
-wahrscheinlich zu machen.
-§. 11.
 Sie sind nicht durch Kunst geschmolzen.
-a) Die auffallende Aehnlichkeit mit den im 8ten§. erwähnten Mas-
-sen lehrt das Gegenteil.
+
+a) Die auffallende Aehnlichkeit mit den im 8ten §. erwähnten Massen lehrt das Gegenteil.
+
 b) Bei der Sibirischen Masse sieht man es aus den von Pallas
 angegebenen Localumständen. Die alten Bergleute in Sibirien, von de-
 ren Arbeiten man Spuren findet, scheinen gar nicht auf Eisen gearbeitet
@@ -489,20 +285,15 @@ worden, wo keine Spuren von Arbeiten oder Schmelzungen in der Nähe
 sind. Bei der Südamerikanischen und der Akenschen Masse, welche die
 Sibirische an Gewicht mehreremal übertreffen, ist eine Schmelzung durch
 Kunst noch weniger denkbar. Auch läßt sich nicht begreisen, warum man
-die
-te
 
-
-### 0053
-
-d
-45
 die Südamerikanische Masse in eine unbewohnbare Gegend sollte fortge-
 schasst, und die Akensche unbenutzt haben liegen lassen.
+
 c) Wäre die Sibirische Masse durch Kunst geschmolzen, so würde
 die bengemischte Steinart nicht so gleichförmig verteilt und nicht so
 durchsichtig sein, da die Schlacken aus metallurgischem Feuer meist
 schwarz und undurchsichtig sind.
+
 d) Das Eisen an der Sibirischen Masse, wie auch die Steinart
 widerstehen ohne andern Zusatz der Schmelzung so sehr, daß nach den
 Meierschen Versuchen (im dritten Bande der Beschäftigungen der Ber-
@@ -510,6 +301,7 @@ liner Gesellschaft naturforschender Freunde S. 38;) bei dem stärksten
 Feuer nur der den Tiegel unmittelbar berührende Teil verglasete, und
 mit ihm zusammenhing, aber schlechterdings keine gänzliche Schmelzung
 zu bewürken war.
+
 e) Ein Hauptgrund liegt in der Geschmeidigkeit des Eisens. Alles
 Guß- oder Roheisen ist bekanntermaßen spröde, und erhält seine Geschmei-
 digkeit erst durch Bearbeitung unter dem Hammer, wodurch es aber eben
@@ -524,13 +316,7 @@ wie auch an der Eichstädtischen und Agramschen (§. 8. a. c.)
 Diese bt d etern Umstände scheinen zwar überhaupt dem Ur-
 en durch eine Schmelzung zu widersprechen: da aber
 sprunge sol.
-lle
-F 3
 
-### 0054
-
-:
-46
 alle Umstände eine Einwürkung des Feuers zu erkennen geben, so läßt
 sich vermuthen, daß die Natur eine solche durch gewöhnliches Feuer
 unmögliche Schmelzung, mit Beibehaltung der Geschmeidigkeit durch ein
@@ -539,9 +325,9 @@ wahrscheinlich durch Beihülfe der Electricität müsse bewürkt haben. Die
 Möglichkeit einer solchen Schmelzung sieht man offenbar an der Eichstädti-
 schen Masse (§. 8. a.), welche mit einer geschmeidigen und hammerbaren
 Eisenrinde umflossen ist.
-i.
-Jd
-§. 12.
+
+§\. 12.
+
 Sie sind nicht durch den Brand eines Waldes oder Steinkohlen-
 flözes geschmolzen.
 Außer den im vorigen §. a, c, d, e angeführten Gründen, nämlich
@@ -622,7 +408,7 @@ Feuer nicht für sich schmelzbare Dinge zu schmelzen im Stande ist, wie
 z. B. ein solches von Withering beobachtetes Beispiel von Quarz, der
 durch einen Blitz geschmolzen, in den Phil. transact. Vol. -
 p. II. und in Voigts Magazin VII. B. 4. St. S. 32, wie auch
-im 12ten Hefte von Grens Iournal der Physik zu finden ist. Bei
+im 12ten Hefte von Grens Journal der Physik zu finden ist. Bei
 alle dem aber ist diese Entstehungsart eben so unwahrscheinlich, als die
 vorigen, aus Gründen, die man, weil ich nicht gern das nämliche wieder-
 holen mag, im künstigen §. antreffen wird.
