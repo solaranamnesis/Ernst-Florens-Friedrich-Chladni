@@ -269,209 +269,55 @@ Sie sind nicht durch Kunst geschmolzen.
 
 a) Die auffallende Aehnlichkeit mit den im 8ten §. erwähnten Massen lehrt das Gegenteil.
 
-b) Bei der Sibirischen Masse sieht man es aus den von Pallas
-angegebenen Localumständen. Die alten Bergleute in Sibirien, von de-
-ren Arbeiten man Spuren findet, scheinen gar nicht auf Eisen gearbeitet
-zu haben, da auch ihre schneidenden Werkzeuge aus Kupfer und Glocken-
-metall bestanden. Die Schlacken sind Rohsteinschlacken von Kupferkießen.
-Sollten ja Eisenschlacken gefunden werden, so waren ihre Heerde so un-
-vollkommen, daß sie keine Masse von etlichen Pud, geschweige denn von
-mehr als 40 Pud, wozu schon ein beträchtlicher hoher Osen erfordere
-würde, haben schmelzen können. Auch, wenn es möglich wäre, läßt sich
-kein Grund angeben, warum eine wegen beigemischter Steinart zu
-Schmiedearbeiten so untangliche Masse von so vielem Gewicht aus einem
-Gebürge, wo man sie geschmolzen, auf einen steilen Berg wäre gebracht
-worden, wo keine Spuren von Arbeiten oder Schmelzungen in der Nähe
-sind. Bei der Südamerikanischen und der Akenschen Masse, welche die
-Sibirische an Gewicht mehreremal übertreffen, ist eine Schmelzung durch
-Kunst noch weniger denkbar. Auch läßt sich nicht begreisen, warum man
+b) Bei der Sibirischen Masse sieht man es aus den von Pallas angegebenen Localumständen. Die alten Bergleute in Sibirien, von deren Arbeiten man Spuren findet, scheinen gar nicht auf Eisen gearbeitet zu haben, da auch ihre schneidenden Werkzeuge aus Kupfer und Glockenmetall bestanden. Die Schlacken sind Rohsteinschlacken von Kupferkießen. Sollten ja Eisenschlacken gefunden werden, so waren ihre Heerde so unvollkommen, daß sie keine Masse von etlichen Pud, geschweige denn von mehr als 40 Pud, wozu schon ein beträchtlicher hoher Ofen erfordert würde, haben schmelzen können. Auch, wenn es möglich wäre, läßt sich kein Grund angeben, warum eine wegen beigemischter Steinart zu Schmiedearbeiten so untangliche Masse von so vielem Gewicht aus einem Gebürge, wo man sie geschmolzen, auf einen steilen Berg wäre gebracht worden, wo keine Spuren von Arbeiten oder Schmelzungen in der Nähe sind. Bei der Südamerikanischen und der Akenschen Masse, welche die Sibirische an Gewicht mehreremal übertreffen, ist eine Schmelzung durch Kunst noch weniger denkbar. Auch läßt sich nicht begreifen, warum man die Südamerikanische Masse in eine unbewohnbare Gegend sollte fortgeschafft, und die Akensche unbenutzt haben liegen lassen.
 
-die Südamerikanische Masse in eine unbewohnbare Gegend sollte fortge-
-schasst, und die Akensche unbenutzt haben liegen lassen.
+c) Wäre die Sibirische Masse durch Kunst geschmolzen, so würde die beigemischte Steinart nicht so gleichförmig verteilt und nicht so durchsichtig sein, da die Schlacken aus metallurgischem Feuer meist schwarz und undurchsichtig sind.
 
-c) Wäre die Sibirische Masse durch Kunst geschmolzen, so würde
-die bengemischte Steinart nicht so gleichförmig verteilt und nicht so
-durchsichtig sein, da die Schlacken aus metallurgischem Feuer meist
-schwarz und undurchsichtig sind.
+d) Das Eisen an der Sibirischen Masse, wie auch die Steinart widerstehen ohne andern Zusatz der Schmelzung so sehr, daß nach den Meierschen Versuchen (im dritten Bande der Beschäftigungen der Berliner Gesellschaft naturforschender Freunde S. 385) bei dem stärksten Feuer nur der den Tiegel unmittelbar berührende Teil verglasete, und mit ihm zusammenhing, aber schlechterdings keine gänzliche Schmelzung zu bewürken war.
 
-d) Das Eisen an der Sibirischen Masse, wie auch die Steinart
-widerstehen ohne andern Zusatz der Schmelzung so sehr, daß nach den
-Meierschen Versuchen (im dritten Bande der Beschäftigungen der Ber-
-liner Gesellschaft naturforschender Freunde S. 38;) bei dem stärksten
-Feuer nur der den Tiegel unmittelbar berührende Teil verglasete, und
-mit ihm zusammenhing, aber schlechterdings keine gänzliche Schmelzung
-zu bewürken war.
+e) Ein Hauptgrund liegt in der Geschmeidigkeit des Eisens. Alles Guß- oder Roheisen ist bekanntermaßen spröde, und erhält seine Geschmeidigkeit erst durch Bearbeitung unter dem Hammer, wodurch es aber eben so unschmelzbar wird, wie das Pallasische Eisen. Dieses ist aber ein sehr geschmeidiges rotbrüchiges Eisen, das sich kalt und bei mäßiger Wärme sehr gut schmieden läßt, und so, wie jedes andere geschmeidige Eisen, nicht anders, als durch mehrere Versetzung mit Brennbaren geschmolzen werden kann, wodurch es aber zu sprödem Gußeisen wird, das weder kalt noch rothglühend sich hämmern läßt. Die nämliche Geschmeidigkeit findet sich auch an der Südamerikanischen und Akenschen Masse, (§. 9. _b. c._) wie auch an der Eichstädtischen und Agramschen (§. 8. _a. c._)
 
-e) Ein Hauptgrund liegt in der Geschmeidigkeit des Eisens. Alles
-Guß- oder Roheisen ist bekanntermaßen spröde, und erhält seine Geschmei-
-digkeit erst durch Bearbeitung unter dem Hammer, wodurch es aber eben
-so unschmelzbar wird, wie das Pallasische Eisen. Dieses ist aber ein sehr
-geschmeidiges rothbrüchiges Eisen, das sich kalt und bei mäßiger Wärme
-sehr gut schmieden läßt, und so, wie jedes andere geschmeidige Eisen, nicht
-anders, als durch mehrere Versetzung mit Brennbaren geschmolzen wer-
-den kann, wodurch es aber zu sprödem Gußeisen wird, das weder kalt
-noch rothglühend sich hämmern läßt. Die nämliche Geschmeidigkeit fin-
-det sich auch an der Südamerikanischen und Akenschen Masse, (§. 9. b. c.)
-wie auch an der Eichstädtischen und Agramschen (§. 8. a. c.)
-Diese bt d etern Umstände scheinen zwar überhaupt dem Ur-
-en durch eine Schmelzung zu widersprechen: da aber
-sprunge sol.
-
-alle Umstände eine Einwürkung des Feuers zu erkennen geben, so läßt
-sich vermuthen, daß die Natur eine solche durch gewöhnliches Feuer
-unmögliche Schmelzung, mit Beibehaltung der Geschmeidigkeit durch ein
-noch weit stärkeres Feuer, als die Kunst hervorzubringen vermag, und
-wahrscheinlich durch Beihülfe der Electricität müsse bewürkt haben. Die
-Möglichkeit einer solchen Schmelzung sieht man offenbar an der Eichstädti-
-schen Masse (§. 8. a.), welche mit einer geschmeidigen und hammerbaren
-Eisenrinde umflossen ist.
+Diese beiden letztern Umstände scheinen zwar überhaupt dem Ursprunge solcher Massen durch eine Schmelzung zu widersprechen: da aber alle Umstände eine Einwürkung des Feuers zu erkennen geben, so läßt sich vermuten, daß die Natur eine solche durch gewöhnliches Feuer unmögliche Schmelzung, mit Beibehaltung der Geschmeidigkeit durch ein noch weit stärkeres Feuer, als die Kunst hervorzubringen vermag, und wahrscheinlich durch Beihülfe der Electricität müsse bewürkt haben. Die Möglichkeit einer solchen Schmelzung sieht man offenbar an der Eichstädtischen Masse (§. 8. _a._), welche mit einer geschmeidigen und hammerbaren Eisenrinde umflossen ist.
 
 §\. 12.
 
-Sie sind nicht durch den Brand eines Waldes oder Steinkohlen-
-flözes geschmolzen.
-Außer den im vorigen §. a, c, d, e angeführten Gründen, nämlich
-der Uebereinkunft mit den im 8ten §. angeführten Massen, der gleichför-
-migen Mischung und Duchsichtigkeit der Steinart, der Unschmelzbarkei,
-des Eisens und der Steinart, und der Geschmeidigkeit des Eisens, welche
-der Entstehung durch einen Wald-oder Steinkohlenbrand eben so sehr, als
-der künstlichen Schmelzung widersprechen, wird diese Meinung schon da-
-durch sehr unwahrscheinlich, weil diese Massen an Orten sind gefunden
-worden, wo unmöglich in einem engen Raume so viele Eisenteile haben
-beisammen sein können, als zu so großen Massen erfordert würden. So
-fand sich die Sibirische Masse nicht da, wo in einiger Entfernung die
-Eisenanbrüche sind, sondern oben auf dem Schiefergebürge; die Südame-
-rikanische in einem Kreideboden, wo weit umher keine Eisenanbrüche, ja
-nicht einmal Berge oder Steine anzutreffen sind, und zu Aken möchten
-sich auch wohl nirgends so viele Eisenteile beisammen antreffen lassen.
-Hätte ein Wald-oder Steinkohlenbrand das Eisen aus seinen Erzen ge-
-schmolzen, so müßte man auch aller Wahrscheinlichkeit nach nicht nur
-eine so große Masse, sondern auch in der Nähe mehrere kleinere ge-
-schmolzene
+Sie sind nicht durch den Brand eines Waldes oder Steinkohlenflözes geschmolzen.
 
+Außer den im vorigen §. _a, c, d, e_ angeführten Gründen, nämlich der Uebereinkunft mit den im 8ten §. angeführten Massen, der gleichförmigen Mischung und Duchsichtigkeit der Steinart, der Unschmelzbarkeit des Eisens und der Steinart, und der Geschmeidigkeit des Eisens, welche der Entstehung durch einen Wald- oder Steinkohlenbrand eben so sehr, als der künstlichen Schmelzung widersprechen, wird diese Meinung schon dadurch sehr unwahrscheinlich, weil diese Massen an Orten sind gefunden worden, wo unmöglich in einem engen Raume so viele Eisenteile haben beisammen sein können, als zu so großen Massen erfordert würden. So fand sich die Sibirische Masse nicht da, wo in einiger Entfernung die Eisenanbrüche sind, sondern oben auf dem Schiefergebürge; die Südamerikanische in einem Kreideboden, wo weit umher keine Eisenanbrüche, ja nicht einmal Berge oder Steine anzutreffen sind, und zu Aken möchten sich auch wohl nirgends so viele Eisenteile beisammen antreffen lassen. Hätte ein Wald- oder Steinkohlenbrand das Eisen aus seinen Erzen geschmolzen, so müßte man auch aller Wahrscheinlichkeit nach nicht nur eine so große Masse, sondern auch in der Nähe mehrere kleinere gegeschmolzene oder verschlackte Stücke gefunden haben, wovon aber nichts bemerkt worden ist.
 
-### 0055
+§\. 13.
 
-7
-"
-geschmolzene oder verschlackte Stücke gefunden haben, wovon aber nichts
-bemerkt worden ist.
-.
-,-
-.
-§. 13.
 Sie sind nicht vulkanischen Ursprungs.
-a) Wegen ihrer Aehnlichkeit mit den übrigen §. 8. erwähnten
-Massen.
-b) An der Sibirischen Masse ist die Steinart mit dem Eisen nicht
-verschlackt, welches von einer vulkanischen Schmelzung noch mehr, als von
-einer jeden andern zu erwarten wäre, sondern ziemlich durchsichtig, und mit
-dem Eisen sehr gleichförmig gemischt.
-c) Die Unschmelzbarkeit des Eisens und der Steinart möchte wohl
-durch vulkanisches Feuer eben so wenig können überwunden werden, als
-durch das stärkste künstliche Feuer.
-d) Die außerordentliche Geschmeidigkeit des Eisens würde bei einer
-vulkanischen Schmelzung noch weniger Statt finden können, als bei einer
-jeden andern, weil das Eisen wohl nicht ohne Verunreinigung mit vielen
-fremden Teilen bleiben könnte.
-e) Man tift an den Orten, wo sie gefunden worden, keine Vulka-
-ne an, am wenigsten in einer solchen Nähe, daß eine so große und
-schwere Masse an den Ort, wo man sie gesunden, könnte hingeworfen
-sein.
+
+a) Wegen ihrer Aehnlichkeit mit den übrigen §. 8. erwähnten Massen.
+
+b) An der Sibirischen Masse ist die Steinart mit dem Eisen nicht verschlackt, welches von einer vulkanischen Schmelzung noch mehr, als von einer jeden andern zu erwarten wäre, sondern ziemlich durchsichtig, und mit dem Eisen sehr gleichförmig gemischt.
+
+c) Die Unschmelzbarkeit des Eisens und der Steinart möchte wohl durch vulkanisches Feuer eben so wenig können überwunden werden, als durch das stärkste künstliche Feuer.
+
+d) Die außerordentliche Geschmeidigkeit des Eisens würde bei einer vulkanischen Schmelzung noch weniger Statt finden können, als bei einer jeden andern, weil das Eisen wohl nicht ohne Verunreinigung mit vielen fremden Teilen bleiben könnte.
+
+e) Man trift an den Orten, wo sie gefunden worden, keine Vulkane an, am wenigsten in einer solchen Nähe, daß eine so große und schwere Masse an den Ort, wo man sie gefunden, könnte hingeworfen sein.
+
 f) Man findet bei Vulkanen keine ähnlichen Produkte.
-g) Wo eine so große Masse durch einen Vulkan wäre hingeworfen
-worden, müßten sich doch auch viele kleinere ihr ähnliche in der Nähe be-
-finden, man hat aber keine angetroffen.
-7f1
 
+g) Wo eine so große Masse durch einen Vulkan wäre hingeworfen worden, müßten sich doch auch viele kleinere ihr ähnliche in der Nähe befinden, man hat aber keine angetroffen.
 
-### 0056
+§\. 14.
 
-
-§. 14.
 Sie sind nicht durch einen Blitz geschmolzen.
-Die Erklärungsart durch die Würkungen eines Blitzes war meines
-Erachtens unter den bisherigen die, welche der Natur am wenigsien zu
-widersprechen schien. Die im 8ten §. erwähnten Erzählungen, deren
-Richtigkeit sich wegen ihrer Uebereinstimmung wohl nicht ableugnen läßt
-schienen sich ebenfalls schlechterdings nicht anders erklären zu lassen. Auch
-wird diese Meinung sowohl dadurch, daß Metalle sich nach den Versu-
-chen von Comus (in Crells Beiträgen zu den chemischen Annalen 1784)
-durch den elektrischen Funken reduciren lassen, als auch durch den meines
-Wissens noch von niemanden aus diesem Gesichtspunkte betrachteten
-Umstand begünstigt, daß zwar alles eine Schmelzung verräth, aber keine
-durch gewöhnliches natürliches oder künstliches Feuer, weil dieses weder
-das geschmeidige Eisen, noch den in der Sibirischen Masse enthaltenen Oli-
-vin ohne Zusatz zu schmelzen vermag, sondern höchstwahrscheinlich durch
-Beihülfe der Elektricität, die allenfalls auch manche durch gewöhnliches
-Feuer nicht für sich schmelzbare Dinge zu schmelzen im Stande ist, wie
-z. B. ein solches von Withering beobachtetes Beispiel von Quarz, der
-durch einen Blitz geschmolzen, in den Phil. transact. Vol. -
-p. II. und in Voigts Magazin VII. B. 4. St. S. 32, wie auch
-im 12ten Hefte von Grens Journal der Physik zu finden ist. Bei
-alle dem aber ist diese Entstehungsart eben so unwahrscheinlich, als die
-vorigen, aus Gründen, die man, weil ich nicht gern das nämliche wieder-
-holen mag, im künstigen §. antreffen wird.
-§. 15.
-Gründe für den angegebenen gleichen Ursprung der §. 8 und 9 ern
-wähnten Massen.
-, Aus der Uebereinstimmung der gefundenen Mas-
-sen mit den Erscheinungen an Feuerkugeln.
-a) Da
 
+Die Erklärungsart durch die Würkungen eines Blitzes war meines Erachtens unter den bisherigen die, welche der Natur am wenigsten zu widersprechen schien. Die im 8ten §. erwähnten Erzählungen, deren Richtigkeit sich wegen ihrer Uebereinstimmung wohl nicht ableugnen läßt schienen sich ebenfalls schlechterdings nicht anders erklären zu lassen. Auch wird diese Meinung sowohl dadurch, daß Metalle sich nach den Versuchen von Comus (in Crells Beiträgen zu den chemischen Annalen 1784) durch den elektrischen Funken reduciren lassen, als auch durch den meines Wissens noch von niemanden aus diesem Gesichtspunkte betrachteten Umstand begünstigt, daß zwar alles eine Schmelzung verrät, aber keine durch gewöhnliches natürliches oder künstliches Feuer, weil dieses weder das geschmeidige Eisen, noch den in der Sibirischen Masse enthaltenen Olivin ohne Zusatz zu schmelzen vermag, sondern höchstwahrscheinlich durch Beihülfe der Elektricität, die allenfalls auch manche durch gewöhnliches Feuer nicht für sich schmelzbare Dinge zu schmelzen im Stande ist, wie z. B. ein solches von Withering beobachtetes Beispiel von Quarz, der durch einen Blitz geschmolzen, in den _Phil. transact. Vol. 80. p. 2. und in Voigts Magazin 7. B. 4. St. S. 32, wie auch im 12ten Hefte von Grens Journal der Physik zu finden ist. Bei alle dem aber ist diese Entstehungsart eben so unwahrscheinlich, als die vorigen, aus Gründen, die man, weil ich nicht gern das nämliche wiederholen mag, im künstigen §. antreffen wird.
 
-### 0057
+§\. 15.
 
-e
-d
-4
-a) Da Feuerkugeln, wie ich §. 25 glaube gezeigt zu haben, aus
-dichten und schweren Grundstoffen besiehen, die bei der äußerst schnellen
-Bewegung durch Reibung in der Atmosphäre elektrisch worden und in
-Gluth gerathen, dadurch geschmolzen, und von elastischen durch die Hitze
-entwickelten Flüßigkeiten zu einem sehr großen Umfange bis zum Zersprin-
-gen ausgedehnt worden, so folgt daraus: daß da, wo Stücke einer zer-
-sprungenen Feuerkugel niedergefallen sind, auch Materien müssen gefunden
-werden, die mit allen diesen Eigenschaften übereinkommen. Das Eisen,
-als der Hauptbestandteil der bisher gefimdenen Massen hat alle diese Ei-
-genschasten in vorzüglich hohem Grade. Die Schwere und Zähigkeit des
-Grundstoffes der Feuerkugeln, welche sehr beträchtlich sein muß, da sie
-bei der größten möglichen Ausdehnung doch Consistenz genug übrig be-
-halten, um eine so äußerst schnelle Bewegung durch einen so weiten
-Raum ohne Zerstreuung ihrer Masse und ohne Hinderung durch den Wi-
-derstand der Luft fortzusetzen, kommt mit geschmolzenem Eisen sehr wohl
-überein; das blendend weiße Licht wird von manchen Beobachtern mit dem
-Lichte des schmelzenden Eisens verglichen; das Brennen, Rauchen und
-Funkenauswerfen bemerkt man auch bei dem Eisen (am leichtesten bei der
-Verbrennung in der Lebensluft); von der Ausdehnung durch elastische
-Flüßigkeiten, welche durch die Hitze entwickelt worden, und von der nach-
-herigen Zusammenziehung bei dem Erkalten zeigen sich noch Spuren in
-der innern schwammigen Beschafsenheit der gesundenen Eisenmassen, und
-in den kuglichen Eindrücken der äußern harten Rinde, welche letztere ver-
-muthen lassen, daß an diesen Stellen Blasen vorhanden gewesen, die bei
-dem Erkalten eingesinken sind. Daß man an verschiedenen Massen eine
-Beimischung von Schwefel angetroffen hat, siimmt auch sehr wohl mit
-allen Erscheinungen an Feucrkugeln überein, besonders mit der Leichtig-
-keit des Brennens einer sehr dünnen und unreinen Lust; indem, wie be-
-kannt, Schwefel unter der zustpumpe in einer so verdünnten Luft brent,
-wo
-sr
+Gründe für den angegebenen gleichen Ursprung der §. 8 und 9 erwähnten Massen.
 
-### 0058
+1\) Aus der Uebereinstimmung der gefundenen Massen mit den Erscheinungen an Feuerkugeln.
 
+a) Da Feuerkugeln, wie ich §. 2-5 glaube gezeigt zu haben, aus dichten und schweren Grundstoffen bestehen, die bei der äußerst schnellen Bewegung durch Reibung in der Atmosphäre elektrisch worden und in Gluth geraten, dadurch geschmolzen, und von elastischen durch die Hitze entwickelten Flüßigkeiten zu einem sehr großen Umfange bis zum Zerspringen ausgedehnt worden, so folgt daraus: daß da, wo Stücke einer zersprungenen Feuerkugel niedergefallen sind, auch Materien müssen gefunden werden, die mit allen diesen Eigenschaften übereinkommen. Das Eisen, als der Hauptbestandteil der bisher gefundenen Massen hat alle diese Eigenschaften in vorzüglich hohem Grade. Die Schwere und Zähigkeit des Grundstoffes der Feuerkugeln, welche sehr beträchtlich sein muß, da sie bei der größten möglichen Ausdehnung doch Consistenz genug übrig behalten, um eine so äußerst schnelle Bewegung durch einen so weiten Raum ohne Zerstreuung ihrer Masse und ohne Hinderung durch den Widerstand der Luft fortzusetzen, kommt mit geschmolzenem Eisen sehr wohl überein; das blendend weiße Licht wird von manchen Beobachtern mit dem Lichte des schmelzenden Eisens verglichen; das Brennen, Rauchen und Funkenauswerfen bemerkt man auch bei dem Eisen (am leichtesten bei der Verbrennung in der Lebensluft); von der Ausdehnung durch elastische Flüßigkeiten, welche durch die Hitze entwickelt worden, und von der nachherigen Zusammenziehung bei dem Erkalten zeigen sich noch Spuren in der innern schwammigen Beschaffenheit der gefundenen Eisenmassen, und in den kuglichen Eindrücken der äußern harten Rinde, welche letztere vermuten lassen, daß an diesen Stellen Blasen vorhanden gewesen, die bei dem Erkalten eingefunken sind. Daß man an verschiedenen Massen eine Beimischung von Schwefel angetroffen hat, stimmt auch sehr wohl mit allen Erscheinungen an Feuerkugeln überein, besonders mit der Leichtigkeit des Brennens einer sehr dünnen und unreinen Luft; indem, wie bekannt, Schwefel unter der Luftpumpe in einer so verdünnten Luft brennt, wo kein anderer Körper mehr brennen kenn. Bei denen Massen, wo man keinen Schwefel gefunden hat, könnte er wohl durch das Brennen in Dämpfen davon gegangen sein, wie man denn auch bisweilen einige Zeit nach der Erscheinung einer Feuerkugel einen starken Schwefelgeruch verspürt haben will. Es möchte wohl auch die Rotbrüchigkeit des Eisens an der Sibirischen Masse von einem beigemischten kleinen Ueberreste des Schwefels herrühren, welches auch wohl die Ursache der Leichtigkeit des Rostens an dieser und an der Akenschen Masse sein mag.
 
-c5
-wo kein anderer Körper mehr brennen kenn. Bei denen Massen, wo
-man keinen Schwefel gefunden hat, könnte er wohl durch da: Brennen
-in Dämpfen davon gegangen sein, wie man denn auch bisweilen cini-
-ge Zeit nach der Crscheinung einer Feuerkugel einen siarken Schwefel-
-geruch verspürt haben will. Es möchte wohl auch die Rothbrüchigkeit
-des Eisens an der Sibirischen Masse von einem beigemischten kleinen ie-
-berreste des Schwefels herrühren, welches auch wohl die Ursache der Leich-
-tigkeit des Rostens an dieser und an der Akenschen Masse sein mag.
-b, Die ganze Beschaffenheit der Massen verräth eine Schiune.
-e
-e
+b) Die ganze Beschaffenheit der Massen verräth eine Schiune.
 Diese kann aber nicht durch gewöhnliches natürliches oder künstliches Feuer
 für sich gegangen sein, aus allen den vom 11ten bis 13ten §. angesührten
 Gründen, und besonders deßwegen, weil ein so geschmeidiges Eisen sir
@@ -491,15 +337,7 @@ hat man meines Wissens kein Beispiel, daß ein Blitz eine nur einiger-
 maßen beträchtliche Metallmasse anders, als nur ein wenig an den Kan-
 ten angeschmolzen habe, so daß die Möglichkeit einer vollkommenen
 Schmelzung einer so schwerflüßigen Masse von 1600 Pfund, von 300
-Cent-
-t
-sl o--
 
-### 0059
-
-än
--
-e
 Centnern und von 15000 bis 17000 Psund durch einen Bliß noch we-
 niger zu vermuthen ist. Es bleibt also nichts anders übrig, als der durch
 noch so manche andere Gründe bestätigte Ursprung durch Niedersallen der
