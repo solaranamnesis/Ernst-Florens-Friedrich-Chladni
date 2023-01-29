@@ -7,7 +7,7 @@
 English - Plain Text  
 English - PDF  
 [German - Plain Text](pallas-eisenmassen/full-text-german.md)  
-German - PDF  
+[German - PDF](https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german.pdf) | [Biolinum](https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_biolinum.pdf) | [Atkinson](https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_atkinson.pdf) | [Fraktur](https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_frak.pdf) | [Schwabacher](https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_swab.pdf)  
 
 ## Über Feuer-Meteore, und über die mit denselben herabgefallenen Massen.
 
