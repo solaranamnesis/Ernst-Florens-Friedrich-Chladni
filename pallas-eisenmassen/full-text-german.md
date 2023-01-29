@@ -317,506 +317,76 @@ Gründe für den angegebenen gleichen Ursprung der §. 8 und 9 erwähnten Massen
 
 a) Da Feuerkugeln, wie ich §. 2-5 glaube gezeigt zu haben, aus dichten und schweren Grundstoffen bestehen, die bei der äußerst schnellen Bewegung durch Reibung in der Atmosphäre elektrisch worden und in Gluth geraten, dadurch geschmolzen, und von elastischen durch die Hitze entwickelten Flüßigkeiten zu einem sehr großen Umfange bis zum Zerspringen ausgedehnt worden, so folgt daraus: daß da, wo Stücke einer zersprungenen Feuerkugel niedergefallen sind, auch Materien müssen gefunden werden, die mit allen diesen Eigenschaften übereinkommen. Das Eisen, als der Hauptbestandteil der bisher gefundenen Massen hat alle diese Eigenschaften in vorzüglich hohem Grade. Die Schwere und Zähigkeit des Grundstoffes der Feuerkugeln, welche sehr beträchtlich sein muß, da sie bei der größten möglichen Ausdehnung doch Consistenz genug übrig behalten, um eine so äußerst schnelle Bewegung durch einen so weiten Raum ohne Zerstreuung ihrer Masse und ohne Hinderung durch den Widerstand der Luft fortzusetzen, kommt mit geschmolzenem Eisen sehr wohl überein; das blendend weiße Licht wird von manchen Beobachtern mit dem Lichte des schmelzenden Eisens verglichen; das Brennen, Rauchen und Funkenauswerfen bemerkt man auch bei dem Eisen (am leichtesten bei der Verbrennung in der Lebensluft); von der Ausdehnung durch elastische Flüßigkeiten, welche durch die Hitze entwickelt worden, und von der nachherigen Zusammenziehung bei dem Erkalten zeigen sich noch Spuren in der innern schwammigen Beschaffenheit der gefundenen Eisenmassen, und in den kuglichen Eindrücken der äußern harten Rinde, welche letztere vermuten lassen, daß an diesen Stellen Blasen vorhanden gewesen, die bei dem Erkalten eingefunken sind. Daß man an verschiedenen Massen eine Beimischung von Schwefel angetroffen hat, stimmt auch sehr wohl mit allen Erscheinungen an Feuerkugeln überein, besonders mit der Leichtigkeit des Brennens einer sehr dünnen und unreinen Luft; indem, wie bekannt, Schwefel unter der Luftpumpe in einer so verdünnten Luft brennt, wo kein anderer Körper mehr brennen kenn. Bei denen Massen, wo man keinen Schwefel gefunden hat, könnte er wohl durch das Brennen in Dämpfen davon gegangen sein, wie man denn auch bisweilen einige Zeit nach der Erscheinung einer Feuerkugel einen starken Schwefelgeruch verspürt haben will. Es möchte wohl auch die Rotbrüchigkeit des Eisens an der Sibirischen Masse von einem beigemischten kleinen Ueberreste des Schwefels herrühren, welches auch wohl die Ursache der Leichtigkeit des Rostens an dieser und an der Akenschen Masse sein mag.
 
-b) Die ganze Beschaffenheit der Massen verräth eine Schiune.
-Diese kann aber nicht durch gewöhnliches natürliches oder künstliches Feuer
-für sich gegangen sein, aus allen den vom 11ten bis 13ten §. angesührten
-Gründen, und besonders deßwegen, weil ein so geschmeidiges Eisen sir
-sich durch ein solches Feuer nicht schmelzbar ist, und wenn es mit Zusah
-von Brennbarem geschmolzen wird, seine Geschmeidigkeit verliert, und
-gewöhnlichem Roheisen ähnlich wird. Der Olivin in der Sibirischen
-Masse ist für sich in gewöhnlichem Feuer eben so wenig schmelzbar. Es
-muß also das Feuer weit siärker gewesen sein, als es durch die gewöhnii-
-chen natürlichen und künstlichen Mittel hervorgebracht werden kann, oder
-es muß die Schmelzung durch eine äußerst starke Elektricität sein be-
-würkt worden, oder wahrscheinlich haben beide Umstände zugleich Statt
-gefunden. Es lassen sich also keine weitere mögliche Entstehungsarten
-angeben, als durch einen Blitz oder durch eine Feuerkugel. Ein Blitz
-kann aber auch wohl nicht eine solche Schmelzung bewürkt haben, denn
-außer den übrigen Gründen, welche dieser Entstehungsart widersprechen,
-hat man meines Wissens kein Beispiel, daß ein Blitz eine nur einiger-
-maßen beträchtliche Metallmasse anders, als nur ein wenig an den Kan-
-ten angeschmolzen habe, so daß die Möglichkeit einer vollkommenen
-Schmelzung einer so schwerflüßigen Masse von 1600 Pfund, von 300
+b) Die ganze Beschaffenheit der Massen verräth eine Schmelzung. Diese kann aber nicht durch gewöhnliches natürliches oder künstliches Feuer für sich gegangen sein, aus allen den vom 11ten bis 13ten §. angeführten Gründen, und besonders deßwegen, weil ein so geschmeidiges Eisen für sich durch ein solches Feuer nicht schmelzbar ist, und wenn es mit Zusatz von Brennbarem geschmolzen wird, seine Geschmeidigkeit verliert, und gewöhnlichem Roheisen ähnlich wird. Der Olivin in der Sibirischen Masse ist für sich in gewöhnlichem Feuer eben so wenig schmelzbar. Es muß also das Feuer weit stärker gewesen sein, als es durch die gewöhnlichen natürlichen und künstlichen Mittel hervorgebracht werden kann, oder es muß die Schmelzung durch eine äußerst starke Elektricität sein bewürkt worden, oder wahrscheinlich haben beide Umstände zugleich Statt gefunden. Es lassen sich also keine weitere mögliche Entstehungsarten angeben, als durch einen Blitz oder durch eine Feuerkugel. Ein Blitz kann aber auch wohl nicht eine solche Schmelzung bewürkt haben, denn außer den übrigen Gründen, welche dieser Entstehungsart widersprechen, hat man meines Wissens kein Beispiel, daß ein Blitz eine nur einigermaßen beträchtliche Metallmasse anders, als nur ein wenig an den Kanten angeschmolzen habe, so daß die Möglichkeit einer vollkommenen Schmelzung einer so schwerflüßigen Masse von 1600 Pfund, von 300 Centnern und von 15000 bis 17000 Pfund durch einen Blitz noch weniger zu vermuten ist. Es bleibt also nichts anders übrig, als der durch noch so manche andere Gründe bestätigte Ursprung durch Niederfallen der Masse einer Feuerkugel, bei welcher sich eine solche Schmelzung weit eher, als auf irgend eine andere Art denken läßt. Denn aus den Beobachtungen an Feuerkugeln ist zu ersehen, daß ihre Bewegung meist so schnell ist, daß sie der Geschwindigkeit des Laufes der Erde oder anderer Weltkörper völlig gleich kommt, und eine Kanonenkugel wohl 100 mal an Geschwindigkeit übertrifft; durch diese so schnelle Bewegung muß die Masse wegen der Reibung in der Atmosphäre notwendig so erhitzt werden, und einen so hohen Grad von Elektricität annehmen, daß die Wirkungen eines andern natürlichen und künstlichen Feuers, so wie auch die Würkungen eines Blitzes dagegen ziemlich unbeträchtlich sein möchten.
 
-Centnern und von 15000 bis 17000 Psund durch einen Bliß noch we-
-niger zu vermuthen ist. Es bleibt also nichts anders übrig, als der durch
-noch so manche andere Gründe bestätigte Ursprung durch Niedersallen der
-Masse einer Feuerkugel, bei welcher sich eine solche Schmelzung weit eher,
-als auf irgend eine andere Art denken läßt. Denn aus den Beobach-
-tungen an Feuerkugeln ist zu ersehen, daß ihre Bewegung meist so schnell
-ist, daß sie der Geschwindigkeit des Laufes der Erde oder anderer Welt-
-körper völlig gleich kommt, und eine Kanonenkugel wohl 100 mal an Ge-
-schwindigkeit übertrifft; durch diese so schnelle Bewegung muß die Masse
-wegen der Reibung in der Atmosphäre nothwendig so erhitzt werden, und
-einen so hohen Grad von Elektricität annehmen, daß die Wirkungen eines
-andern natürlichen und künstlichen Feuers, so wie auch die Würkungen
-eines Blitzes dagegen ziemlich unbeträchtlich sein möchten.
-II) Aus den vorhandenen Nachrichten von herab-
-gefallenen Massen.
-Daß bei der Aehnlichkeit der obn erwähnten Massen auch die
-Nachrichten in Ansehung des Herabfallens einander so ähnlich sind, dieses
-kann unmöglich als ein bloßer Zufall angesehen werden, und giebt den
-Erählungen Glaubwürdigkeit. Es sind ach besonders in der §. 8. c er-
-wähnten Agramer Urkunde die Thatsachen auf eine so ungekünstelte fAre
-dargesiellt, und die Aussagen der Zeugen, bei denen man eben so wenig,
-wie bei dem Bischöflichen Consisiorium zu Agram, eine absichtliche Täu-
-schung zu vermuthen Ursache hat, siimmen sowohl unter sich, als auch
-mit den übrigen im 8ten§. angeführten Nachrichten so überein, daß man
-sie allerdings glaubwürdig sinden muß, sobald sie sich auf eine der Ver-
-nunst nicht widersprechende Art erklären lassen. Am auffallendsten ist
-diese Uebereinstimmung bei den aus drei von einander entfernten Ge-
-aenden der Pariser Akademie der Wissenschaften durch ihre Correspondenten
-über-
-i 2
-s sss
+2\) Aus den vorhandenen Nachrichten von herabgefallenen Massen.
 
+Daß bei der Aehnlichkeit der oben erwähnten Massen auch die Nachrichten in Ansehung des Herabfallens einander so ähnlich sind, dieses kann unmöglich als ein bloßer Zufall angesehen werden, und giebt den Erählungen Glaubwürdigkeit. Es sind auch besonders in der §. 8. _c_ erwähnten Agramer Urkunde die Tatsachen auf eine so ungekünstelte Art dargestellt, und die Aussagen der Zeugen, bei denen man eben so wenig, wie bei dem Bischöflichen Consistorium zu Agram, eine absichtliche Täuschung zu vermuten Ursache hat, stimmen sowohl unter sich, als auch mit den übrigen im 8ten §. angeführten Nachrichten so überein, daß man sie allerdings glaubwürdig finden muß, sobald sie sich auf eine der Vernunst nicht widersprechende Art erklären lassen. Am auffallendsten ist diese Uebereinstimmung bei den aus drei von einander entfernten Gegenden der Pariser Akademie der Wissenschaften durch ihre Correspondenten überschickten Massen und Nachrichten, wo doch wohl eben so wenig eine vorsetzliche Täuschung zu vermuten ist. Bei dieser Voraussetzung kommt es also hauptsächlich auf die Frage an: ob bei den erzählten Wahrnehmungen ein Blitz, oder ob ein Herabfallen der Stücke einer zersprungenen Feuerkugel zum Grunde gelegen habe? Folgende Umstände widersprechen der Erklärungsart durch einen Blitz, stimmen aber alle mit dem, was man sonst an Feuerkugeln beobachtet hat, so überein, daß man, ohne etwas ungereimtes zu behaupten, die meisten dieser Erzählungen wörtlich für wahr annehmen kann.
 
-### 0060
+a) In der Agramer Urkunde (§. 8. _c_) wird erwähnt, daß viele Leute in verschiedenen Gegenden des Königreichs die Zerteilung der Feuerkugel, das Knallen und Krachen in der Luft, wie auch, daß etwas feuriges vom Himmel gefallen sei, gesehen und bemerkt haben, so daß die meisten darum, als um eine allbekannte Sache wußten, nur daß ihnen der Ort, in welchem diese Stücke niedergefallen, wegen zu großer Entfernung unbekannt war. Hieraus läßt sich vermuten, daß es schlechterdings kein Blitz, sondern eine Feuerkugel müsse gewesen sein. Ein Blitz würde zu einer Jahrszeit, da Gewitter nichts ungewöhnliches sind, und noch dazu am Tage, nicht in verschiedenen Gegenden des Königreichs sein beobachtet worden, und überall Aufsehn erregt haben, und noch weniger würde man ihn in einer großen Entfernung als ein Herabfallen einer feurigen Masse bemerkt, oder den Donner als ein Knallen und Krachen in der Luft gehört, und solches als eine landkundige Sache angesehen haben. Dieser einzige Umstand ist wohl schon hinlänglich, um daraus zu beurteilen, daß es kein Blitz, sondern eine ungewöhnliche Naturerscheinung gewesen sei, und daß sich solche in weit höhern Regionen, als da, wo Gewitter sich befinden können, zugetragen haben müsse.
 
-i lss
-1512
-5fl
-l
-ldl.k:
-52
-überschickten Massen und Nachrichten, wo doch wohl eben so wenig eine
-vorsetzliche Täuschung zu vermuthen ist. Bei dieser Voraussetzung komm,
-es also hauptsächlich auf die Frage an: ob bei den erzählten Wahrneh-
-mungen ein Blitz, oder ob ein Herabfallen der Stücke einer zersprunge-
-nen Feuerkugel zum Grunde gelegen habe? Folgende Umstände wider-
-sprechen der Erklärungsart durch einen Blitz, stimmen aber alle mit dem,
-was man sonst an Feuerkugeln beobachtet hat, so überein, daß man, ohne
-etwas ungereimtes zu behaupten, die meisten dieser Erzählungen wörtlich
-für wahr annehmen kann.
-a) In der Agramer Urkunde (§. 8. c) wird erwähnt, daß viele
-Leute in verschiedenen Gegenden des Königreichs die Zerteilung der Feuer-
-kugel, das Knallen und Krachen in der uft, wie auch, daß etwas feuriges
-vom Himmel gefallen sei, gesehen und bemerkt haben, so daß die meisten
-darum, als um eine allbekannte Sache wußten, nur daß ihnen der Ort,
-in welchem diese Stücke niedergefallen, wegen zu großer Entfernung un-
-bekannt war. Hieraus läßt sich vermuthen, daß es schlechterdings kein
-Blitz, sondern eine Feuerkugel müsse gewesen scyn. Ein Blitz würde zu
-einer Jahrszeit, da Gewitter nichts ungewöhnliches sind, und noch dazu
-am Tage, nicht in verschiedenen Gegenden des Königreichs sein beobachtet
-worden, und überall Aufsehn erregt haben, und noch weniger würde man
-ihn in einer großen Entfernung als ein Herabfallen einer feurigen Masse
-bemerkt, oder den Donner als ein Knallen und Krachen in der uft ge-
-hört, und solches als eine landkundige Sache angesehen haben. Dieser
-einzige Umstand ist wohl schon hinlänglich, um daraus zu beurteilen,
-daß es kein Blitz, sondern eine ungewöhnliche Naturerscheinung gewesen
-sei, und daß sich solche in weit höhern Regionen, als da, wo Gewitter
-sich befinden können, zugetragen haben müsse.
-b) Weder in der Agramer Urkunde, noch in irgend einer andern
-Nachricht wird das mindeste von einem Gewitter, oder von mehreren
-Blitzen
-2
+b) Weder in der Agramer Urkunde, noch in irgend einer andern Nachricht wird das mindeste von einem Gewitter, oder von mehreren Blitzen erwähnt. In einigen wird bemerkt, daß der Himmel ganz heiter, und nur ein kleines lichtes Wölkchen (unstreitig die Feuerkugel) zu sehen gewesen sei. Auch schon daraus, daß in andern Erzählungen gesagt wird, es sei vom Himmel oder aus der Luft gefallen, ist zu vermuten, daß der Himmel nicht mit Wolken bedeckt gewesen sei, denn in diesem Falle würden Leute, die der Naturlehre unkundig sind, wie die meisten waren, welche diese Erscheinungen sahen, eher gesagt haben, es sei aus den Wolken gefallen. Bei der Eichstädtischen Masse (§. 8. _a_) ist auch schon deswegen nicht wahrscheinlich, daß ein Gewitter vorhanden gewesen, weil es im Winter geschah, da die Erde über einen Fuß hoch mit Schnee bedeckt war, und al so die Atmosphäre von Dünsten sehr gereinigt sein mußte.
 
+c) Bei der Gleichförmigkeit der Massen ist es höchst unwahrscheinlich, daß an allen den Orten, wo man dergleichen gefunden, nur einerlei schmelzbare Teile sollten vorhanden gewesen, und vom Blitze auf einerlei Art verändert worden sein, da man überdieses noch nie an Orten, wo ein Blitz eingeschlagen, ähnliche Massen, sondern allenfalls nur verschlackte erdige Teile und dergl. gefunden hat.
 
-### 0061
+d) Die Erscheinungen, welche man zu Agram beobachtet hat, sind von denen, die man bei einem Blitze sieht, verschieden, aber ganz so beschaffen, daß sie mit den Erscheinungen bei einer Feuerkugel übereinkommen. Man hat bemerkt, daß die zwei Stücke der zersprungenen Feuerkugel in Gestalt feuriger in einander verschlungener Ketten niedergefallen sind, und ungefähr in der nämlichen Gestalt müßte auch eine aus der Höhe schnell herabfallende geschmolzene durch Dämpfe aufgeblähete Masse gesehen werden. Einen Rauch am Himmel, wie man zu gleicher Zeit sahe, bemerkt man auch sonst bisweilen bei Feuerkugeln, nie aber bei einem Blitze. Daß der Rauch erst schwärzlich, nachher vielfarbig erschien, läßt auch vermuten, daß heitre Witterung zu der Zeit dieser Naturerscheinung gewesen, und dieses Farbenspiel wahrscheinlich durch das Sonnenlicht verursacht worden sei, und bestätigt also das, was ich vorher bei _b._ behauptete. Daß man auch erst einen bestigen Knall bei dem Zerspringen der Feuerkugel, ein Getöse bei dem Herabfallen, und den stärksten Knall nebst einer Erderschütterung in dem Augenblicke, da die herab fallende Masse die Erde berührte, wahrgenommen hat, stimmt auch besser mit den Erscheinungen bei einer Feuerkugel, als mit einem Donner überein.
 
-2.
-e
-z
-.. d
-53
-Blitzen erwähnt. In einigen wird bemerkt, daß der Himmel ganz heiter,
-und nur ein kleines lichtes Wölkchen (unstreitig die Feuerkugel) zu sehen
-gewesen sei. Auch schon daraus, daß in andern Erzählungen gesagt wird,
-es sei vom Himmel oder aus der Luft gefallen, ist zu vermuthen, daß der
-Himmel nicht mit Wolken bedeckt gewesen sei, denn in diesem Falle wür-
-den Leute, die der Naturlehre unkundig sind, wie die meisten waren, wel-
-che diese Erscheinungen sahen, eher gesagt haben, es sei aus den Wolken
-gefallen. Bei der Eichstädtischen Masse (§. 8. a) ist auch schon deswegen
-nicht wahrscheinlich, daß ein Gewitter vorhanden gewesen, weil es im
-Winter geschah, da die Erde über einen Fuß hoch mit Schnee bedeckt war,
-und al so die Atmosphäre von Dünsten sehr gereinigt sein mußte.
-c) Bei der Gleichförmigkeit der Massen ist es höchst unwahr-
-scheinlich, daß an allen den Orten, wo man dergleichen gefunden, nur
-einerlei schmelzbare Teile sollten vorhanden gewesen, und vom Blitze auf
-einerlei Art verändert worden sein, da man überdieses noch nie an Or-
-ten, wo ein Blitz eingeschlagen, ähnliche Massen, sondern allenfalls nur
-verschlackte erdige Teile und dergl. gefunden hat.
-d, Die Erscheinungen, welche man zu Agram beobachtet hat, sind
-e
-von denen, die man bei einem Blitze sieht, verschieden, aber ganz so be-
-schaffen, daß sie mit den Erscheinungen bei einer Feuerkugel übereinkom-
-men. Man hat bemerkt, daß die zwei Stücke der zersprungenen Feuer-
-kugel in Gestalt seuriger in einander verschlungener Ketten niedergefallen
-sind, und ungefähr in der nämlichen Gestalt müßte auch eine aus der Höhe
-schnell herabfallende geschmolzene durch Dämpfe aufgeblähete Masse gese-
-hen werden. Einen Rauch am Himmel, wie man zu gleicher Zeit sahe,
-bemerft man auch sonst bisweilen bei Feuerkugeln, nie aber bei einem
-itze. Daß der Rauch erst schwärzlich, nachher vielsarbig erschien, läßt
-7
-t
+3\) Aus den Localumständen, unter welchen man dergleichen Massen gefunden.
 
-### 0062
+a) Es läßt sich nicht begreifen, wie auf dem hohen Schiefergebürge, wo die Sibirische Masse in ziemlicher Entferng von dem Eisenanbruche gefunden ward, in dem Kreideboden der weiten Südamerikanischen Ebene, wo 100 Meilen umher keine Eisenanbrüche, ja nicht einmal Steine anzutreffen sind, und zu Aken, wo meines Wissens auch keine Eisenanbrüche sind, in einem engen Raume so viele Eisenteile könnten beisammen gewesen sein, als zu Messen von 1600 Pfunden, von 300 Centnern und von 15000 bis 17000 Pfunden erfordert würden. Dieser Umstand giebt zu erkennen, daß diese Massen eben so wenig durch einen Blitz, als durch einen Wald oder Steinkohlenbrand an Ort und Stelle können geschmolzen sein.
 
-1 2
-äilll
-rrvf
-An
-2loIfI
-Cs
-54
-auch vermuthen, daß heitre Witterung zu der Zeit dieser Naturerschei-
-nung gewesen, und dieses Farbenspiel wahrscheinlich durch das Sonnen-
-licht verursacht worden sei, und bestätigt also das, was ich vorher bei b.
-behauptete. Daß man auch erst einen hestigen Knall bei dem Zersprin-
-gen der Feuerkugel, ein Getöse bei dem Herabfallen, und den stärksten
-Knall nebst einer Erderschütterung in dem Augenblicke, da die herab fallen-
-de Masse die Erde berührte, wahrgenommen hat, stimmt auch besser mit
-den Erscheinungen bei einer Feuerkugel, als mit einem Donner überein.
-p
-.
-. "
-Tt
--
-22
-1, us den Localumständen, unter welchen man
-r7 .
-dergleichen Massen gefunden.
-a) Es läßt sich nicht begreisen, wie auf dem hohen Schieserge-
-bürge, wo die Sibirische Masse in ziemlicher Entferng von dem Eisen-
-anbruche gefunden ward, in dem Kreideboden der weiten Südamerikani-
-schen Ebene, wo 100 Meilen umher keine Eisenanbrüche, ja nicht einmal
-Steine anzutressen sind, und zu Aken, wo meines Wissens auch keine
-Eisenanbrüche sind, in einem engen Raume so viele Eisenteile lönnten
-beisammen gewesen sein, als zu Messen von 16.0 Pfunden, ren 30
-Cennern und von 15000 bis 17000 Pfunden ersordert würden. Dieser
-Umstand giebt zu erkennen, daß diese Massen cben so wenig durch einen
-Blitz, als durch einen Wald oder Steinkohlenbrand an Ort und Stelle
-können geschmolzen sein.
-b) Man hat diese Massen zu Tage ausstehend gefunden, und nicht
-etwa in einiger Tiefe, wo allenfalls eher ein solches Zusammenfliesen von
-Eisenteilen, die durch einen Blitz geschmolzen worden, sich denken ließe.
-Beide jetzt erwähnte Umstände kommen mit dem Ursprunge durch
-das Herabfallen einer Feuerkugel sehr wohl überein, indem a) ein vor
-dem
+b) Man hat diese Massen zu Tage ausstehend gefunden, und nicht etwa in einiger Tiefe, wo allenfalls eher ein solches Zusammenfließen von Eisenteilen, die durch einen Blitz geschmolzen worden, sich denken ließe.
 
+Beide jetzt erwähnte Umstände kommen mit dem Ursprunge durch das Herabfallen einer Feuerkugel sehr wohl überein, indem _a)_ ein vor dem Zerspringen wohl auf mehr als 500 Klaftern im Durchmesser ausgedehnter Körper, bei dem sich ungeachtet dieser Ausdehnung so sichtbare Würkungen der Schwere zeigen, doch wohl Stoff genug zu solchen Massen enthalten muß, und _b)_ eine solche zähe Masse in einen etwas festen Boden nicht tief eindringen kann, und also meist an der Oberfläche der Erde muß gefunden werden.
 
-### 0063
+Gegen diese aus den Localumständen hergenommenen Gründe ließe sich allenfalls noch einwenden, daß diese Massen vielleicht durch den Blitz nicht an Ort und Stelle geschmolzen, sondern dahin, wo man sie gefunden, von einem entfernten Orte her könnten sein fortgeschleudert worden. Beccaria äußert diese Meinung bei Gelegenheit des §. 8. _p._ erwähnten Steins, und sucht sie durch einen elektrischen Versuch zu erläutern, wo dadurch, daß man einen eingeschlossenen Wassertropfen vermöge des elektrischen Funkens in Dünste auflöset, ein kleiner metallischer oder anderer Körper ziemlich weit geworfen werden kann. Aber außer den andern Gründen, die überhaupt der Entstehung durch einen Blitz widersprechen, ist diese Erklärungsart schon deswegen höchst unwahrscheinlich, weil man doch unmöglich annehmen kann, daß immer nur Massen von der nämlichen und von so sonderbarer Beschaffenheit einer solchen Fortschleuderung sollten unterworfen gewesen sein. Eben so wenig läßt es sich denken, daß ein Blitz so große Massen, wie z. B. die Südamerikanische und die Akensche sollte aus einer eisenhaltigen Gegend viele Meilen weit haben fortführen können. Ueberhaupt scheint der ganze angeführte elektrische Versuch auf die Würkungen eines Blitzes nicht anwendbar zu sein.
 
-dem Zerspringen wohl auf mehr als ;00 Klaftern im Durchmesser aus-
-gedehnter Körper, bei dem sich ungeachtet dieser Ausdehnung so sichtbare
-ürkungen der Schwere zeigen, doch wohl Stoff genug zu solchen Mas-
-O
-sen enthalten muß, und b) eine solche zähe Masse in einen etwas festen
-Boden nicht tief eindringen kann, und also meist an der Oberfläche der
-Erde muß gefunden werden.
-Gegen diese aus den Localumständen hergenommenen Gründe ließe
-sich allenfalls noch einwenden, daß diese Massen vielleicht durch den Blitz
-nicht an Ort und Stelle geschmolzen, sondern dahin, wo man sie gefunden,
-von einem entfernten Orte her könnten sein fortgeschleudert worden. Bec-
-caria äußert diese Meinung bei Gelegenheit des 5. 8. p. erwähnten
-Steins, und sucht sie durch einen elektrischen Versuch zu erläutern, wo da-
-durch, daß man einen eingeschlossenen Wassertropfen vermöge des elektri-
-schen Funkens in Dünsie auflöset, ein kleiner metallischer oder anderer Kör-
-per ziemlich weit geworsen werden kann. Aber außer den andern Grün-
-den, die überhaupt der Entsiehung durch einen Blitz widersprechen, ist
-diese Erklärungsart schon deswegen höchst unwahrscheinlich, weil man doch
-unmöglich annehmen kann, daß immer nur Massen von der nämlichen
-und von so sonderbarer Beschaffenheit einer solchen Fortschleuderung soll-
-ten unterworfen gewesen sein. Eben so wenig läßt es sich denken, daß
-ein Blitz so große Massen, wie z. . die Südamerikanische und die
-c
-Akensche sollte aus einer eisenhaltigen Gegend viele Meilen weit haben
-sortsühren können. Ueberhaupt scheint der ganze angeführte elektrische
-Versuch auf die Würkungen eines Blitzes nicht anwendbar zu sein.
-,1
-.
-2
-55
-§. 16.
+§\. 16.
+
 Einige fernere Erläuterungen.
-Aus dem, was bisher vorgetragen worden, ist zu ersehen, daß fol-
-gende vier Naturerscheinungen, von denen noch keine einzige auf eine
-befrie-
-nnnri
 
+Aus dem, was bisher vorgetragen worden, ist zu ersehen, daß folgende vier Naturerscheinungen, von denen noch keine einzige auf eine befriedigende Art erklärt worden, sich durch einander selbst erklären, sobald man ihre Identität annimmt:
 
-### 0064
+1\) Die sonderbare Beschaffenheit der Pallasischen und ähnlicher Eisenmassen, wo die Spuren der Schmelzung und die Geschmeidigkeit uud Unschmelzbarkeit des Eisens einander zu widersprechen schienen, und noch manche andere Umstände den Ursprung so problematisch machten, daß noch keine einzige vorhandene Hypothese allgemein als wahrscheinlich anerkannt werden konnte.
 
-cn-
-s
-1eaae o I111e
-l
-ldIXf:
-11 o1o11o111
-56
-befriedigende Art erklärt worden, sich durch einander selbst erklären, so-
-bald man ihre Identität annimmt:
-1) Die sonderbare Beschaffenheit der Pallasischen und
-ähnlicher Eisenmassen, wo die Spuren der Schmelzung und die
-Geschmeidigkeit uud Unschmelzbarkeit des Eisens einander zu widerspre-
-chen schienen, und noch manche andere Umstände den Ursprung so prob-
-lematisch machten, daß noch keine einzige vorhandene Hypothese allgemein
-als wahrscheinlich anerkannt werden konnte.
-) Die Feuerkugeln, worüber die Meinungen der Naturfor-
-scher so sehr von einander abweichen, und größtenteils der Natur wi-
-dersprechen.
-e7
-, Die Sternschnuppen, worüber auch wenig bestimmtes sich
-sagen ließ.
-4) Das Herabfallen eisenhaltiger Massen, welches
-durch so viele mit einander übereinstimmende Nachrichten bestätigt wird,
-und sich wohl schlechterdings auf keine andere Art erklären läßt.
-tt
-2
--
-So sehr nun bei der jetzt gegebenen Erklärungsart alles unter sich
-zusammen hängt, so wird dem ungeachtet der Satz, daß in dem allgemei-
-nen Weltraume außer den Weltkörpern auch viele kleinere Anhäufungen
-von groben materiellen Teilen vorhanden sind, vielleicht manchem un-
-glaublich genug scheinen, um deshalb die ganze vorgetragene Theorie zu
-verwerfen. Diese Unglaublichkeit des Satzes ist aber nur scheinbar, und
-beruhet nicht auf Gründen, sondern vielmehr nr darauf, daß er unge-
-wöhnlich, und also etwas befremdend ist, denn, wenn man von jeder vor-
-gefaßten Meinung abstrahiren will, so wird man finden, daß der Satz:
-es sind außer den Weltkörpern und dem Aether oder andern seinen elasii-
-schen
-gg-
-S
-llesoto1o1aso1to
-ie
-- - - -
-s eel 2I2
-l
+2\) Die Feuerkugeln, worüber die Meinungen der Naturforscher so sehr von einander abweichen, und größtenteils der Natur widersprechen.
 
+3\) Die Sternschnuppen, worüber auch wenig bestimmtes sich sagen ließ.
 
-### 0065
+4\) Das Herabfallen eisenhaltiger Massen, welches durch so viele mit einander übereinstimmende Nachrichten bestätigt wird, und sich wohl schlechterdings auf keine andere Art erklären läßt.
 
-37
-schen Flüsigkeiten keine weitere materielle Teile im allgemeinen Weltrau-
-me vorhanden, eben so willkührlich angenommen ist, als der: es sind der-
-gleichen vorhanden. Aus Gründen a priori möchte sich wohl keiner von
-beiden beweisen lassen, es müssen vielmehr blos Beobachtungen hierüber ent-
-scheiden. Daß dergleichen Beobachtungen vorhanden sind, wird man aus
-dem vorigen hinlänglich ersehen haben.
-Wenn man etwa fragen sollte, wie dergleichen Massen entstanden,
-oder in einen so isolirten Zustand gekommen sind, so ist es fast eben das,
-als ob man fragte, wie Weltkörper entstanden sind. Das beste möchte
-wohl sein, zu gestehen, daß sich niches bestimmtes darüber sagen läßt. Was
-man auch übrigens für Hypothesen sich bilden mag, so muß man doch entwe-
-der annehmen, daß Weltkörper, manche Revolutionen auf oder nche an ihrer
-Oberfläche abgerechnet, immer das gewesen sind, und sein werden, was sie
-jetzt sind, oder, daß in der Natur Kräfte vorhanden sind, um Weltkörper und
-ganze Weltsysteme zu bilden, sie zu zersbren, und aus dem Stofse wieder
-neue hervor zu bringen. Für die letztere Meinng snd wohl mehr Gründe
-vorhanden, als für die erstere; indem nicht nur an allen organischen und
-unorganischen Wesen auf unserer Erde sich Abwechselungen von Zersiörung
-und Bildung zeigen, welche vermuthen lassen, daß die Natur, bei welcher
-überhaupt Größe und Kleinheit nur relativ sind, dergleichen wohl auch
-mehr im Großen bewürken könne: sondern man auch manche Veränderun-
-gen an entfeenten Weltkörpern wahrgenommen hat, welche diese letztere
-Meinung einigermafen wahrscheinlich machen, z. B. das Erscheinen und
-gänzliche Verschwinden einiger Sterne; wenn es nicht etwa auf periodi-
-schen Veränderungen beruht. Nimmt man nun an, daß Weltlö per entstan-
-den sind, so läsit sich ein solches Cntsiehen wohl nicht anders denken, als
-dadurch: daß entweder materielle Teile, die vorher in einem mehr lockern
-und chaotischen Zustande in einem größern Raume zerstreut gewesen sind,
-sich
-sm
+So sehr nun bei der jetzt gegebenen Erklärungsart alles unter sich zusammen hängt, so wird dem ungeachtet der Satz, daß in dem allgemeinen Weltraume außer den Weltkörpern auch viele kleinere Anhäufungen von groben materiellen Teilen vorhanden sind, vielleicht manchem unglaublich genug scheinen, um deshalb die ganze vorgetragene Theorie zu verwerfen. Diese Unglaublichkeit des Satzes ist aber nur scheinbar, und beruhet nicht auf Gründen, sondern vielmehr nur darauf, daß er ungewöhnlich, und also etwas befremdend ist, denn, wenn man von jeder vorgefaßten Meinung abstrahiren will, so wird man finden, daß der Satz: es sind außer den Weltkörpern und dem Aether oder andern seinen elastischen Flüßigkeiten keine weitere materielle Teile im allgemeinen Weltraume vorhanden, eben so willkührlich angenommen ist, als der: es sind dergleichen vorhanden. Aus Gründen _a priori_ möchte sich wohl keiner von beiden beweisen lassen, es müssen vielmehr blos Beobachtungen hierüber entscheiden. Daß dergleichen Beobachtungen vorhanden sind, wird man aus dem vorigen hinlänglich ersehen haben.
 
+Wenn man etwa fragen sollte, wie dergleichen Massen entstanden, oder in einen so isolirten Zustand gekommen sind, so ist es fast eben das, als ob man fragte, wie Weltkörper entstanden sind. Das beste möchte wohl sein, zu gestehen, daß sich niches bestimmtes darüber sagen läßt. Was man auch übrigens für Hypothesen sich bilden mag, so muß man doch entweder annehmen, daß Weltkörper, manche Revolutionen auf oder nahe an ihrer Oberfläche abgerechnet, immer das gewesen sind, und sein werden, was sie jetzt sind, oder, daß in der Natur Kräfte vorhanden sind, um Weltkörper und ganze Weltsysteme zu bilden, sie zu zerstören, und aus dem Stoffe wieder neue hervor zu bringen. Für die letztere Meinung sind wohl mehr Gründe vorhanden, als für die erstere; indem nicht nur an allen organischen und unorganischen Wesen auf unserer Erde sich Abwechselungen von Zerstörung und Bildung zeigen, welche vermuten lassen, daß die Natur, bei welcher überhaupt Größe und Kleinheit nur relativ sind, dergleichen wohl auch mehr im Großen bewürken könne: sondern man auch manche Veränderungen an entfernten Weltkörpern wahrgenommen hat, welche diese letztere Meinung einigermaßen wahrscheinlich machen, z. B. das Erscheinen und gänzliche Verschwinden einiger Sterne; wenn es nicht etwa auf periodischen Veränderungen beruht. Nimmt man nun an, daß Weltkörper entstanden sind, so läßt sich ein solches Entstehen wohl nicht anders denken, als dadurch: daß entweder materielle Teile, die vorher in einem mehr lockern und chaotischen Zustande in einem größern Raume zerstreut gewesen sind, sich durch die Anziehungskraft in große Massen angehäuft haben; oder, daß Weltkörper aus den Teilen einer zerstückten weit größern Masse* sind gebildet worden, welche Zerteilung vielleicht durch irgend einen Stoß von aussen, oder durch eine Explosion von innen könnte bewürkt sein. Nun mag von diesen Hypothesen die richtigere sein, welche da wolle, so ist es nicht unwahrscheinlich, oder wenigstens der Natur nicht widersprechend, wenn man annimmt, daß sehr viele dergleichen materielle Teile entweder wegen zu großer Entfernung, oder weil es eine ihnen mitgeteilte stärkere Bewegung nach einer andern Richtung verhindert hat, sich mit keiner zu einem Weltkörper sich anhäufenden größern Masse vereinigt haben; sondern einzeln übrig geblieben sind, und durch Anziehung, oder durch irgend einen erhaltenen Stoß getrieben, ihre Bewegung durch den unendlichen Weltraum fortsetzen, bis sie etwa einmal einem Weltkörper so nahe kommen, daß sie, von dessen Anziehung ergriffen, darauf niederfallen, und Erscheinungen, wie in gegenwärtiger Abhandlung erwähnt worden sind, verursachen.
 
-### 0066
+*) Sollte dieses wahr sein, so sind vielleicht die sogenannten planetarischen Nebelsterne, die bei starken Vergrößerungen sich nicht wie andere Fixsterne als ein leuchtender Punkt, sondern, ungeachtet ihres weit schwächern Lichtes, als eine würklich meßbare Scheibe zeigen, solche zu künftigen Bildungen von Weltkörpern bestimmte ungeheure Magazine von Materie.
 
-1
-ccslll
-rrvf
-l22l
-k1I7Tof:
-s
-3
-sich durch die Anziehungskraft in grofe Massen angehüust haben; oder, daß
-eltiörper aus den Teilen einer zerstückten weit gröfern Messe, snd
-3.
-gebildet worden, welche Zerteilung vielleicht durch irgend einen Stoß von
-aussen, oder durch eine Explosion von innen könnte bewürkt sein. Nun
-mag von diesen Hypothesen die richtigere sein, welche da wolle, so ist es
-nicht unwahrscheinlich, oder wenigstens der Natur nicht widersprechend,
-wenn man annimmt, daß sehr viele dergleichen materielle Teile entweder
-wegen zu großer Entfernung, oder weil es eine ihnen mitgeteilte siärkere
-Bewegung nach einer andern Richtung verhindert hat, sich mit keiner zu
-ei iem Weltkörper sich anhäufenden größern Masse vereinigt haben; son-
-dern einzeln übrig geblieben sind, und durch Anziehung, oder durch irgend
-einen erhaltenen Stoß getrieben, ihre Bewegung durch den unendlichen
-Weltraum fortsetzen, bis sie etwa einmal einem Weltkörper so nahe kommen,
-daß sie, von dessen Anziehung ergriffen, darauf niederfallen, und Erschei-
-nungen, wie in gegenwärtiger Abhandlung erwähnt worden sind, verur-
-sachen.
--
-.
-2
-Es ist merkwürdig, daß Eisen der Hauptbestandteil der bisher
-gefundenen Massen ist, da man dasselbe nicht nur fast überall auf der
-Oberfläche unserer Erde, selbst als Bestandteil vieler Wesen aus dem
-Pflanzen-und Thierreiche antrifft, sondern auch die magnetischen Erschei-
-nungen
-t
-*) Sollte dieses wahr sein, so sind vielleicht die sogenannten planctari-
-schen Nebelsterne, die bei starken Vergrößerungen sich nicht wie
-andere Fixsterne als ein leuchtender Punkt, sondern, ungeichtet ihres
-weit schächern Lichtes, als eine würklich mesibare Scheibe zeigen,
-solche zu künftigen Bildungen von Welikörpern besiimmte ungeheure
-Magazine von Materie.
-fl o--
+Es ist merkwürdig, daß Eisen der Hauptbestandteil der bisher gefundenen Massen ist, da man dasselbe nicht nur fast überall auf der Oberfläche unserer Erde, selbst als Bestandteil vieler Wesen aus dem Pflanzen- und Tierreiche antrifft, sondern auch die magnetischen Erscheinungen auf einen beträchtlichen Vorrat davon in dem Innern der Erde* schließen lassen. Man kann daher vermuten, daß das Eisen überhaupt zu Bildung von Weltkörpern ein Hauptmaterial sein möge, welches auch dadurch wahrscheinlich wird, weil es ausschließend mit der magnetischen Kraft in Beziehung steht, und also vielleicht wegen deren Polarität auch bei andern Weltkörpern notwendig sein mag. Es ist auch, wenn die vorgetragene Theorie ihre Richtigkeit hat, wahrscheinlich, daß auch andere in manchen herabgefallenen Massen enthaltene Stoffe, z. B. Schwefel, Kieselerde, Bittererde _zc._ nicht unserer Erde allein eigen sein, sondern mit unter die allgemeinen Materialien zu Bildung von Weltkörpern gehören möchten.
 
+*) Daß wenigstens 0,25 bis 0,33 von dem Innern unserer Erde aus Metallen bestehen müsse sieht man auch aus den Beobachtungen von Maskelyne (_in Phil. transact. Vol. 65. n. 48. 49._) über die Anziehungskraft des Granitberges Shehallien in Schottland gegen ein Bleyloth, verglichen mit der Anziehungskraft der Erde und aus den von Hurter derüber angestellten Berechnungen (_in Phil. transact. Vol. 68. n. 33._) Man findet diese Bemerkungen auch erwähnt in Gehlers physikalischem Wörterbuche unter dem Worte: Gravitation.
 
-### 0067
+§\. 17.
 
-ez-
-59
-nungen auf einen beträchtlichen Vorrath davon in dem Innern der
-Erde *) schließen lassen. Man kann daher vermuthen, daß das Eisen
-überhaupt zu Bildung von Weltkörpern ein Hauptmaterial sein möge, wel-
-ches auch dadurch wahrscheinlich wird, weil es ausschließend mit der mag-
-netischen Kraft in Beziehung steht, und also vielleicht wegen deren Polarität
-auch bei andern Welrkörpern nothwendig sein mag. Es ist auch, wenn
-die vorgetragene Theorie ihre Richtigkeit hat, wahrscheinlich, daß auch
-andere in manchen herabgefallenen Massen enthaltene Stoffe, z. B. Schwe-
-fel, Kieselerde, Bittererde zc. nicht unserer Erde allein eigen sein, sondern
-mit unter die allgemeinen Materialien zu Bildung von Welikörpern gehö-
-ren möchten.
-§. 17.
 Vorschläge zu weitern Untersuchungen.
-Von den im 8ten §. erwähnten Massen müssen noch verschiedene
-vorhanden sein, die eine genauere Untersuchung ihrer äußern und innern
-Beschaffenheit verdienten. So möchten vermuthlich die vier Siebenbürgi-
-schen Massen, (§. 8. l) welche nach Wien in die kayserliche Schatzkam-
-mer sollen sein gebracht worden, sich noch daselbst, oder vielleicht im kay-
-serlichen Naturalienkabinette befinden; da denn Herr Stütz, welcher die Nach-
-richten
-H 2
-) Daß wenigstens bis von dem Innern unserer Erde aus Metallen
-bestehen müsse. sieht mn auch aus den Beobachtungen von Masfelyne
-(in Phil. transact. Vol. LXV n. 48. 49.) über die Anziehungsiraft
-des Granitberges Shehallien in Schottland gegen ein Bleyloth, ver-
-zz
-Man findet diese Bemerfungen auch erwähnt in Gehlers physikalischem
-Wörterbuche unter dem Wotte: Gravttation.
-ßil
 
-### 0068
+Von den im 8ten §. erwähnten Massen müssen noch verschiedene vorhanden sein, die eine genauere Untersuchung ihrer äußern und innern Beschaffenheit verdienten. So möchten vermutlich die vier Siebenbürgischen Massen, (§. 8. _k_) welche nach Wien in die kaiserliche Schatzkammer sollen sein gebracht worden, sich noch daselbst, oder vielleicht im kaiserlichen Naturalienkabinette befinden; da denn Herr Stütz, welcher die Nachrichten §. 8. _a_ und _c_ zuerst bekannt gemacht hat, auch wohl die beste Gelegenheit haben würde, hierüber weitere Auskunft zu geben. So wäre es auch zu wünschen, daß die Thüringische Masse (§. 8. _l_), welche nach Dresden ist gebracht worden, und sich daselbst vielleicht noch im churfürstlichen Naturalienkabinette, oder in irgend einer andern Sammlung befinden mag, die §. 8. _n_, welche auf die Stadtbibliothek zu Bern geschickt worden, die §. 8. _i_, welche vielleicht noch in der Kirche zu Ensisheim an einer Kette liegen mag, wenn sie nicht etwa bei der jetzt in Frankreich gewöhnlichen Aufhebung der Kirchen auch frei gemacht worden ist, und andere, die vielleicht in mancher Sammlung befindlich sein mögen, von Naturforschern, die Gelegenheit dazu haben, möchten genauer untersicht und beschrieben werden. Dieses möchten auch wohl manche von den Eisenmassen verdienen, welche Hr. Faktor Nauwerk gefunden (§. 9. _d_), besonders, wenn sie durch eine Eisenrinde oder andere Eigenschaften viele Aehnlichkeit mit andern dergleichen Massen verraten sollten.
 
-60
-richten §. 8. a und c zuerst bekannt gemacht hat, auch wohl die besie Gele-
-genheit haben würde, hierüber weitere Auskunft zu geben. So wäre es
-auch zu wünschen, daß die Thüringische Masse (§. 8. I), welche nach Dres-
-den ist gebracht worden, und sich daselbst vielleicht noch im churfürstlichen
-Naturalienkabinette, oder in irgend einer andern Sammlung befinden
-mag, die §. 8. n, welche auf die Stadtbibliothek zu Bern geschickt worden,
-die §. 8. i, welche vielleicht noch in der Kirche zu Ensisheim an einer Kette
-liegen mag, wenn sie nicht etwa bei der jetzt in Frankreich gewöhnlichen
-Aufhebung der Kirchen auch frei gemacht worden ist, und andere, die
-vielleicht in mancher Sammlung befindlich sein mögen, von Naturfor-
-schern, die Gelegenheit dazu haben, möchten genauer untersicht und be-
-schrieben werden. Dieses möchten auch wohl manche von den Eisenmassen
-verdienen, welche Hr. Faktor Nauwerk gefunden (§. . d), besonders,
-wenn sie durch eine Eisenrinde oder andere Eigenschasten viele Aehnlichkeit
-mit andern dergleichen Massen verrathen sollten.
--
-.
+Die sonderbaren Eigenschaften des Eisens an der von Pallas gefundenen Masse, da es, ungeachtet der so sichtbaren Spuren einer Schmelzung, doch ohne Zusatz sich in gewöhnlichem Feuer nicht schmelzen läßt, und nicht spröde wie Roheisen, sondern äußerst geschmeidig ist, verdienten ebenfalls noch weitere Nachforschungen:
 
-a
-Die sonderbaren Eigenschaften des Eisens an der von Pallas ge-
-fundenen Masse, daes, ungeachtet der so sichtbaren Spuren einer Schmel-
-zung, doch ohne Zusatz sich in gewöhnlichem Feuer nicht schmelzen läßt, und
-nicht spröde wie Roheisen, sondern äußerst geschmeidig ist, verdienten eben-
-falls noch weitere Nachforschungen:
-ob ein dünnes Stückgen von solchem Eisen durch sehr hestige
-Elettricitat, ourch Brennen in Lebenslie, durch die Hitze eines Brenn-
-soiegels .. ür sich schmelzbar ist;
-e s
-ob es nach einer solchen olne Zusatz von Brennbarem geschehenen
-Schmelzung noch geschmeidig bleibt, oder an Sprödigkeit gewöhnlichem
--
-Roheisen ähnlich wird. Bei ganz kleinen Küchelchen müßte mit dem Mi-
-keoscope
-fl o--
+ob ein dünnes Stückgen von solchem Eisen durch sehr heftige Elektricität, durch Brennen in Lebensluft, durch die Hitze eines Brennspiegels _zc._ für sich schmelzbar ist;
 
+ob es nach einer solchen ohne Zusatz von Brennbarem geschehenen Schmelzung noch geschmeidig bleibt, oder an Sprödigkeit gewöhnlichem Roheisen ähnlich wird. Bei ganz kleinen Küchelchen müßte mit dem Mikroskope untersucht werden, ob sie kalt oder rotglühend bei dem Hämmern nachgegeben haben;
 
-### 0069
+ob andere dergleichen Massen, wo das Eisen auch viele Geschmeidigkeit zeigt, bei gleicher Behandlung sich wie das Pallasische Eisen verhalten;
 
--
-51
-kroskope untersucht werden, ob sie kalt oder rothglühend bei dem
-Hämmern nachgegeben haben;
-ob andere dergleichen Massen, wo das Eisen auch viele Geschmei-
-digkeit zeigt, bei gleicher Behandlung sich wie das Pallasische Eisen
-verhalten;
-ob gewöhnliches rothbrüchiges oder geschmeidiges Stabeisen bei
-einer solchen Schmelzung ohne Zusatz ähnliche Eigenschaften zeigt;
-ob das Eisen an der Pallasischen und andern dergleichen Massen
-sich etwa in mancher Rücksicht mehr dem Stahle, als dem Stabeisen
-nähert, wie aus der Beschaffenheit der §. 9. c erwähnten Akenschen
-Masse einigermaßen zu vermuthen ist.
-Da Feuerkugeln eine so seltene Naturerscheinung sind, und
-man nech weit seltner Gelegenheit haben möchte, das Niederfallen ihrer
-Masse so in der Nähe zu beobachten, wie es zu Agram geschah, so sollte
-man, so oft eine bemerkt worden ist, ihrem Wege nach Möglichkeit nach-
-spüren, und in der Gegend, wo man etwa ein Niederfallen der Stücke
-beobachtet haben will, untersuchen, ob sich solche Massen finden, und wo
-sich etwa eine vorher nicht bemerkte Vertiefung in der Erde zeigt, nachgra-
-ben lassen. Es ist auch genau anzumerken, ob zu der Zeit ein Gewitter,
-oder vielleicht nur eine kleine dunkle Wolke, von der man einen Blitz vermu-
-then könnte, vorhanden, oder, ob heitre Witterung gewesen sei; ob man
-auch etwa in entferntern Gegenden eine Feuerkugel oder sonst etwas unge-
-wöhnliches bemerkt habe. Ueberhaupt verdient das Verfahren des Bi-
-schöflichen Consistorium zu Agram bei einer ähnlichen Gelegenheit
-Nach-
-S 7
+ob gewöhnliches rotbrüchiges oder geschmeidiges Stabeisen bei einer solchen Schmelzung ohne Zusatz ähnliche Eigenschaften zeigt;
 
+ob das Eisen an der Pallasischen und andern dergleichen Massen sich etwa in mancher Rücksicht mehr dem Stahle, als dem Stabeisen nähert, wie aus der Beschaffenheit der §. 9. _c_ erwähnten Akenschen Masse einigermaßen zu vermuten ist.
 
-### 0070
+Da Feuerkugeln eine so seltene Naturerscheinung sind, und man noch weit seltner Gelegenheit haben möchte, das Niederfallen ihrer Masse so in der Nähe zu beobachten, wie es zu Agram geschah, so sollte man, so oft eine bemerkt worden ist, ihrem Wege nach Möglichkeit nachspüren, und in der Gegend, wo man etwa ein Niederfallen der Stücke beobachtet haben will, untersuchen, ob sich solche Massen finden, und wo sich etwa eine vorher nicht bemerkte Vertiefung in der Erde zeigt, nachgraben lassen. Es ist auch genau anzumerken, ob zu der Zeit ein Gewitter, oder vielleicht nur eine kleine dunkle Wolke, von der man einen Blitz vermuten könnte, vorhanden, oder, ob heitre Witterung gewesen sei; ob man auch etwa in entferntern Gegenden eine Feuerkugel oder sonst etwas ungewöhnliches bemerkt habe. Ueberhaupt verdient das Verfahren des Bischöflichen Consistorium zu Agram bei einer ähnlichen Gelegenheit Nachahmung. Daß man bei dem Gerüchte von einer sonderbaren Naturbegebenheit unverzüglich Bevollmächtigte abschickte, um die Sache an Ort und Stelle zu untersuchen, daß man viele Zeugen darüber einzeln abhörte, und alles in einer einfachen Schreibart, die das Gepräge der Glaubwürdigkeit hat, ohne sein Urteil mit einzumischen, niederschrieb, eine Urkunde darüber abfaßte, und diese nebst der einen gefundenen Masse an das kaiserliche Naturalienkabinet einschickte; das war doch wohl unter allen, was man tun konnte, das vernünftigste. Mancher, der nur in seinem Bezirke Aufklärung zu finden glaubt, würde es im Jahre 1751 in den dortigen Gegenden vielleicht nicht so erwartet haben. Es wäre auch anzuraten, daß, so oft eine dergleichen ungewöhnliche Naturerscheinung beobachtet wird, irgend ein bekannter Naturforscher vermittelst Anzeigen in den Zeitungen bekannt machte, aus welchen Gegenden er mehrere Nachrichten zu erhalten wünschte; nach dem Beispiele Silberschlags bei Gelegenheit der 1762 erschienenen und von ihm beschriebenen Feuerkugel.
 
+Wo ein Blitz in die Erde eingeschlagen hat, sollte man ebenfalls nachgraben, um zu sehen, ob sich etwa erdige oder metallische geschmolzene Massen finden.
 
-62
-Nachahmung. Daß man bei dem Gerüchte von einer sonderbaren
-Naturbegebenheit unverzüglich Bevollmächtigte abschickte, um die
-Sache an Ort und Stelle zu untersuchen, daß man viele Zeugen
-darüber einzeln abhörte, und alles in einer einfachen Schreibart,
-die das Gepräge! der Glaubwürdigkeit hat, ohne sein Urteil mit
-einzumischen, niederschrieb, eine Urkunde darüber abfaßte, und diese
-nebst der einen gesundenen Masse an das kayserliche Naturalienkabinet
-einschickte; das war doch wohl unter allen, was man thun konnte,
-das vernünftigste. Mancher, der nur in seinem Bezirke Ausklärung
-zu finden glaubt, würde es im Jahre 1751 in den dortigen Gegen-
-den vielleicht nicht so erwartet haben. Es wäre auch anzurathen, daß,
-so oft eine dergleichen ungewöhnliche Naturerscheinung beobachtet wird,
-irgend ein bekannter Naturforscher vermittelst Anzeigen in den Zeitungen
-bekannt machte, aus welchen Gegenden er mehrere Nachrichten zu erhalten
-wünschte; nach dem Beispiele Silberschlags bei Gelegenheit der 1762
-erschienenen und von ihm beschriebenen Feuerkugel.
-Wo ein Blitz in die Erde eingeschlagen hat, sollte man ebenfalls
-nachgraben, um zu sehen, ob sich etwa erdige oder metallische geschmolzene
-Massen finden.
-Es sollten auch mehrere in einiger Entfernung von einander woh-
-nende Naturforscher verabreden, einigemal zu den nämlichen Zeiten und
-und ungefähr in einerlei Gegend des Himmels die Sternschnuppen zu
-bcobachten, und ihre Bahn genau anzumerken, um ihre Höhe und ihren
-wahren Weg durch Berechnung der Parallaxe zu bestimmen. Um keine
-Zeit bei der Beobachtung zu versäumen, wäre es am besten, sogleich auf
-einer
-se so--
-lännonoszn1ssuosozessoetansfuio
-Ietds)
+Es sollten auch mehrere in einiger Entfernung von einander wohnende Naturforscher verabreden, einigemal zu den nämlichen Zeiten und und ungefähr in einerlei Gegend des Himmels die Sternschnuppen zu beobachten, und ihre Bahn genau anzumerken, um ihre Höhe und ihren wahren Weg durch Berechnung der Parallaxe zu bestimmen. Um keine Zeit bei der Beobachtung zu versäumen, wäre es am besten, sogleich auf einer Himmelscharte oder Himmelskugel, die man bei der Hand haben müßte, die Bahn in der Geschwindigkeit zu verzeichnen.
 
-
-
-### 0071
-
-ll
-2
-einer Himmelscharte oder Himmelskugel, die man bei der Hand haben
-müßte, die Bahn in der Geschwindigkeit zu verzeichnen.
-Durch dergleichen mit aller Genauigkeit anzustellende Untersuchun-
-gen würde sich in der Folge mit mehrerer Gewißheit, als jetzt möglich ist,
-bestimmen lassen, ob gegenwärtige Theorie, die durch so viele Gründe we-
-nigstens einen höhern Grad von Wahrscheinlichkeit, als die bisherigen,
-erhält, würklich der Natur gemäß sei, oder nicht.
-
-
-
-### 0072
-
+Durch dergleichen mit aller Genauigkeit anzustellende Untersuchungen würde sich in der Folge mit mehrerer Gewißheit, als jetzt möglich ist, bestimmen lassen, ob gegenwärtige Theorie, die durch so viele Gründe wenigstens einen höhern Grad von Wahrscheinlichkeit, als die bisherigen, erhält, würklich der Natur gemäß sei, oder nicht.
